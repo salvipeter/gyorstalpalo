@@ -1,0 +1,9306 @@
+#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\language magyar
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Szuahéli gyorstalpaló
+\end_layout
+
+\begin_layout Author
+Salvi Péter
+\end_layout
+
+\begin_layout Section
+Bevezetés
+\end_layout
+
+\begin_layout Standard
+A szuahélit Kelet-Afrikában beszélik, elsősorban Kenyában és Tanzániában,
+ ahol hivatalos nyelv.
+ Besorolása szerint a Niger-Kongó nyelvcsalád Bantu csoportjába tartozik,
+ de a több, mint ezer éves arab kapcsolat miatt a szókincs nagy százaléka
+ arab eredetű, a XX.
+\begin_inset space \space{}
+\end_inset
+
+század szavait (tévé stb.) pedig az angolból vette át.
+ A szuahéli hosszú időn keresztül a kereskedelem nyelve is volt a térségben,
+ s talán ennek köszönhetően lényegesen egyszerűbb, mint más bantu nyelvek,
+ így például nem használ tónusokat sem.
+ Az első írásos emlékek a XVIII.
+\begin_inset space \space{}
+\end_inset
+
+századból származnak, ezeket eredetileg arab írással írták, a misszionáriusok
+ hatására azonban később áttértek a latin ábécére.
+\end_layout
+
+\begin_layout Standard
+Ennek az összefoglalónak az a célja, hogy egy egyszerre átolvasható, de
+ többé-kevésbé teljes áttekintést adjon a szuahéli nyelvtanról, és az itt
+ összegyűjtött információk és egy szótár segítségével az olvasó le tudjon
+ fordítani egyszerűbb szövegeket.
+ A nyelv mélyebb elsajátításához vannak nagyon jó tankönyvek, ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "teach-yourself,colloquial,living-language"
+
+\end_inset
+
+ vagy a kicsit régi, de ingyen hozzáférhető 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "handbook,exercises"
+
+\end_inset
+
+.
+ A nyelvtan részletesebb tárgyalása megtalálható a 
+\emph on
+Swahili Learners' Reference Grammar
+\emph default
+-ban 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "reference-grammar"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Szótárakból magyar nyelven csak Füssi Nagy Géza kéziszótára 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "magyar-szotar"
+
+\end_inset
+
+ jelent meg, de angolul széles a választék, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "krapf-szotar,madan-szotar,steere-szotar"
+
+\end_inset
+
+.
+ Ezek közül többnek új, bővített kiadásai mostanában is megjelentek, de
+ a régi verziók letölthetőek az internetről.
+ Vannak ún.
+ phrasebookok
+\emph on
+ 
+\emph default
+is, amik közül 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "rough-guide"
+
+\end_inset
+
+ meglepően jó.
+ Megemlítendő még a Kamusi Project szótára 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "kamusi"
+
+\end_inset
+
+, amit egy internetes közösség hozott létre, és ,,nagyszótárnak'' nevezhető.
+\end_layout
+
+\begin_layout Standard
+A hivatkozásokban található ezenkívül egy felsorolás egyszerű olvasmányokról
+ a lelkes olvasóknak 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "masomo,swahili-mesek,arab-mesek,vitendo,prosa-und-poesie,marchen,safari,alice"
+
+\end_inset
+
+.
+ Az itt felsorolt régi könyvek letölthetőek a http://www.archive.org/ honlapról.
+\end_layout
+
+\begin_layout Section
+Írás és kiejtés
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="12">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Írva:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ch
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+d
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dh*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+f
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+g
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+gh*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+i
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ejtve:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a/á
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+cs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+d
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $th^{1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+e/é
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+f
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+g
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $r^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+i
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Írva:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+k
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kh*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ng
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ng'
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ny
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+o
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ejtve:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+gy/dzs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+k
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $h^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $ng^{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $ng^{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ny
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+o
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Írva:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+r
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+s
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sh
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+t
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+th*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+v
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+w
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+z
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ejtve:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+r
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+s
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $t^{4}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $th^{1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+v
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $w^{5}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+z
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Szuahéli ábécé 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:abece"
+
+\end_inset
+
+(csillaggal jelöltek csak arab jövevényszavakban)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Az 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:abece"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat mutatja a szuahéli ábécét és az egyes betűk kiejtését a magyar
+ ábécé írásmódja szerint.
+ A ferde vonallal elválasztott párok köztes hangot jelölnek.
+ Néhány megjegyzés a nehezebb hangokhoz:
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+th 
+\emph default
+és 
+\emph on
+dh
+\emph default
+ rendre mint az angol 
+\emph on
+think
+\emph default
+ és 
+\emph on
+this
+\emph default
+ szavakban (a 
+\emph on
+th
+\emph default
+-t néha 
+\emph on
+sz
+\emph default
+-nek,
+\emph on
+ 
+\emph default
+a 
+\emph on
+dh
+\emph default
+-t pedig 
+\emph on
+z
+\emph default
+-nek ejtik)
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+kh
+\emph default
+ és 
+\emph on
+gh
+\emph default
+ hörgő hangok, a francia 
+\emph on
+r 
+\emph default
+zöngétlen és zöngés változatai (a 
+\emph on
+kh
+\emph default
+-t gyakran 
+\emph on
+h
+\emph default
+-nak vagy 
+\emph on
+k
+\emph default
+-nak, a 
+\emph on
+gh
+\emph default
+-t pedig 
+\emph on
+g
+\emph default
+-nek ejtik)
+\end_layout
+
+\begin_layout Enumerate
+mint a 
+\emph on
+mangalica
+\emph default
+ szóban, de a 
+\emph on
+ng'
+\emph default
+ hangnál a 
+\emph on
+g
+\emph default
+-t nem ejtik, csak a hátul képzett 
+\emph on
+n
+\emph default
+-et
+\end_layout
+
+\begin_layout Enumerate
+a nyelv hegyét a magyar 
+\emph on
+t
+\emph default
+-nél kicsit hátrább a szájpadhoz érintő erős 
+\emph on
+t
+\end_layout
+
+\begin_layout Enumerate
+mint az angol 
+\emph on
+want
+\emph default
+ szóban
+\end_layout
+
+\begin_layout Standard
+Ezek közül az arab nyelvből kölcsönzött 
+\emph on
+th, dh, kh
+\emph default
+ és 
+\emph on
+gh
+\emph default
+ hangokat beszélőtől ill.
+\begin_inset space \space{}
+\end_inset
+
+helytől függően van, amikor máshogy ejtik, ld.
+\begin_inset space \space{}
+\end_inset
+
+fent.
+ Érdemes megjegyezni, hogy nazálisokkal képzett mássalhangzó-torlódás kerülhet
+ szó elejére, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mtu
+\emph default
+, 
+\emph on
+njema
+\emph default
+ stb.
+\end_layout
+
+\begin_layout Standard
+A szóhangsúlyozás nagyon egyszerű: mindig az utolsóelőtti szótag hangsúlyos
+ (kettőshangzók nincsenek), pl.
+\emph on
+
+\begin_inset space \space{}
+\end_inset
+
+Kiswa'hili
+\emph default
+ (szuahéli), 
+\emph on
+ta'ifa
+\emph default
+ (nemzet).
+\end_layout
+
+\begin_layout Section
+Főnevek
+\end_layout
+
+\begin_layout Standard
+A szuahéli nyolc csoportra osztja a főneveket, és ez a csoportosítás legtöbbször
+ a szó elején meg is jelenik.
+ Ez a prefix többesszámban megváltozik, így a csoportokat az egyesszám és
+ többesszám prefixével szokás jellemezni, vagy az ezekhez tartozó egyezményes
+ számokkal.
+ Lássunk egy felsorolást, szögletes zárójelben a leggyakoribb kapcsolódó
+ témával:
+\end_layout
+
+\begin_layout Itemize
+M-WA (1/2): [állatok és (főleg) emberek] pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mtu/watu
+\emph default
+ (ember), Mhungaria/Wahungaria (magyar ember) --- magánhangzó előtt a prefix
+ 
+\emph on
+mw-/w-
+\emph default
+ (de van, hogy többesszámban megtartja a 
+\emph on
+wa-
+\emph default
+ alakot), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mwana/wana
+\emph default
+ (gyerek), 
+\emph on
+mwalimu/walimu
+\emph default
+ (tanár)
+\end_layout
+
+\begin_layout Itemize
+M-MI (3/4): [fák és más természeti dolgok] pl.
+\emph on
+
+\begin_inset space \space{}
+\end_inset
+
+mti/miti
+\emph default
+ (fa), 
+\emph on
+mchungwa/ michungwa
+\emph default
+ (narancsfa) --- magánhangzó előtt a prefix 
+\emph on
+mw-/mi-
+\emph default
+, pl.
+ 
+\emph on
+mwezi/ miezi
+\emph default
+ (Hold, hónap)
+\end_layout
+
+\begin_layout Itemize
+JI-MA (5/6): [nagy dolgok] pl.
+\emph on
+
+\begin_inset space \space{}
+\end_inset
+
+
+\emph default
+ 
+\emph on
+jicho/macho
+\emph default
+ (szem), 
+\emph on
+jiwe/mawe
+\emph default
+ (kő, szik\SpecialChar \-
+la) --- a 
+\emph on
+ji-
+\emph default
+ prefix sok szóból kiesett, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+gari/magari
+\emph default
+ (autó), és gyakran ha meg is maradt, akkor is úgy kezelik, mint a tő részét,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+jitu/majitu
+\emph default
+ (óriás), vagy rendhagyó a többesszáma, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+jiko/meko
+\emph default
+ (konyha)
+\end_layout
+
+\begin_layout Itemize
+KI-VI (7/8): [kicsi vagy lenézett dolgok, használati tárgyak] pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kiatu/viatu
+\emph default
+ (cipő) --- 
+\emph on
+i
+\emph default
+-től különböző magánhangzó előtt a prefix 
+\emph on
+ch-/vy-
+\emph default
+, pl.
+ 
+\emph on
+choo/vyoo
+\emph default
+ (vécé)
+\end_layout
+
+\begin_layout Itemize
+N (9/10): [jövevényszavak és sok más] pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ng'ombe/ng'ombe
+\emph default
+ (tehén), 
+\emph on
+mvua/ mvua
+\emph default
+ (eső) --- a prefix meghatározása elég bonyolult (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:N-csoportbeli-melléknevek"
+
+\end_inset
+
+), és legtöbbször nem is szerepel, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+zawadi/zawadi
+\emph default
+ (ajándék)
+\end_layout
+
+\begin_layout Itemize
+U (14, 11/10, 11/6): [absztrakt fogalmak] pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ukubwa
+\emph default
+ (nagyság) --- a legtöbb absztrakt fogalomnak nincs többesszáma (14-es csoport),
+ más esetekben N- vagy MA-típusú többesszámot vesz fel, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+uso
+\emph default
+/
+\emph on
+nyuso
+\emph default
+ (arc), 
+\emph on
+ugomvi
+\emph default
+/
+\emph on
+magomvi
+\emph default
+ (veszekedés)
+\end_layout
+
+\begin_layout Itemize
+KU (15): [főnévi igenevek] pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kula 
+\emph default
+(enni) --- magánhangzó előtt a prefix 
+\emph on
+kw-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kwenda
+\emph default
+ (menni), ill.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kuto-
+\emph default
+, ha tagadott értelmű, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kutola
+\emph default
+ (nem enni)
+\end_layout
+
+\begin_layout Itemize
+PA/KU/MU (16,17,18): [hely] az egyetlen szó ebben a csoportban a 
+\emph on
+mahali
+\emph default
+ (hely), de minden helyhatározós főnév úgy viselkedik, mintha ide tartozna
+ (a három verzió három különböző hely-fogalmat jelöl, ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Helyhatározók"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+Sok olyan tő van, amiből több csoportban is képződött főnév, gyakori példa
+ erre a JI-MA és KI-VI csoportok, amik rendre felnagyítanak illetve lekicsinyíte
+nek, így pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nyumba
+\emph default
+ (ház, N típusú), 
+\emph on
+jumba
+\emph default
+ (villa, palota), 
+\emph on
+chumba
+\emph default
+ (szoba).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways true
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="23" columns="6">
+<features>
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Csoport
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+P
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MP
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-WA (1/2)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m(w)-, w(a)-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m(w)-, wa-/we-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a-, wa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-m(w)-, -wa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ha-, hawa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-MI (3/4)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m(w)-, mi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m(w)-, mi-/mye-/mi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u-, i-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-u-, -i-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hau-, hai-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+JI-MA (5/6)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ji-/-, ma-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-/j-/ji-, ma-/me-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+li-, ya-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-li-, -ya-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hali-, haya-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KI-VI (7/8)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ki-/ch-, vi-/vy-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+k(i)-/ch-, v(i)-/vy-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ki-, vi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ki-, -vi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+haki-, havi-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N (9/10)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(ld.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:N-csoportbeli-melléknevek"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(ld.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:N-csoportbeli-melléknevek"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+i-, zi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-i-, -zi-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hai-, hazi-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+U (14, 11)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u-/w-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m(w)-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-u-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hau-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU (15)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-/kw-/kuto-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+haku-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PA (16)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pa-/pe-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-pa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hapa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU (17)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+haku-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MU (18)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-m-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ham-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Csoport
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+UI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+E
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MN
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-WA (1/2)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ye-, -o-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+w-, w-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(yu) huyu/yule/huyo, (wa) hawa/wale/hao
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-MI (3/4)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-o-, -yo-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+w-, y-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(u) huu/ule/huo, (i) hii/ile/hiyo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+JI-MA (5/6)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-lo-, -yo-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l-, y-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(li) hili/lile/hilo, (ya) haya/yale/hayo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KI-VI (7/8)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-cho-, -vyo-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ch-, vy-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(ki) hiki/kile/hicho, (vi) hivi/vile/hivyo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N (9/10)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-yo-, -zo-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+y-, z-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(i) hii/ile/hiyo, (zi) hizi/zile/hizo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+U (14, 11)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-o-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+w-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(u) huu/ule/huo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU (15)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ko-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kw-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(ku) huku/kule/huko
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PA (16)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-po-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(pa) hapa/pale/hapo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU (17)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ko-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kw-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(ku) huku/kule/huko
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MU (18)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-mo-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mw-
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(mu) humu/mle/humo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A főnévcsoportok jellemzői (P: főnév-prefix, MP: melléknév-prefix, AP: alany-pre
+fix, TI: tárgy-infix, TP: tagadó prefix, UI: utaló infix, E: egyeztetés,
+ MN: mutató névmások)
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+A 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat összefoglalja, hogy mit kell tudni az egyes csoportokról.
+ A P (prefix) oszlopról már volt szó; a többi oszlop tartalmát az alábbiakban
+ különböző pontok tárgyalják.
+\end_layout
+
+\begin_layout Subsection
+Birtokos szerkezet
+\end_layout
+
+\begin_layout Standard
+A birtokviszonyt a táblázat E (egyeztetés) oszlopában látható prefixek és
+ az -
+\emph on
+a
+\emph default
+ összekapcsolásával kapott szócska fejezi ki.
+ A birtokolt dolog ez elé, a birtokló mögé kerül, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kitabu cha mwalimu
+\emph default
+ (a tanár könyve; 
+\emph on
+kitabu
+\emph default
+: könyv, 
+\emph on
+mwalimu
+\emph default
+: tanár), vagy ugyanez több könyv esetén: 
+\emph on
+vitabu vya mwalimu
+\emph default
+.
+ A szerkezet kifejezhet jellemzést is, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+chumba cha kufaa
+\emph default
+ (megfelelő szoba; 
+\emph on
+chumba
+\emph default
+: szoba, 
+\emph on
+kufaa
+\emph default
+: megfelelőnek lenni), 
+\emph on
+mpira wa kikapu
+\emph default
+ (kosárlabda; 
+\emph on
+mpira
+\emph default
+: labda, 
+\emph on
+kikapu
+\emph default
+: kosár).
+\end_layout
+
+\begin_layout Standard
+Az N csoportba tartozó főnevek közt sok olyan van, ami állatot jelöl, ezek
+ egyesszámban az M-WA csoportúakhoz hasonlóan 
+\emph on
+w-
+\emph default
+ prefixet kapnak.
+\end_layout
+
+\begin_layout Section
+Névmások
+\end_layout
+
+\begin_layout Subsection
+Személyes névmások
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="7">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Te
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ti
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ők
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SzN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mimi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wewe
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+yeye
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sisi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n[y]inyi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wao
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-angu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ako
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ake
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-etu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-enu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ao
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ni-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tu-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ni-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ku-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-m(w)-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-tu-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ku-...-ni / -wa-[...-ni]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-wa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+si-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hu-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ha-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hatu-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ham-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hawa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A személyes névmások jellemzői 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:A-személyes-névmások"
+
+\end_inset
+
+(SzN: személyes névmás, BN: birtokos névmás, AP: alany-prefix, TI: tárgy-infix,
+ TP: tagadó prefix)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+A 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-személyes-névmások"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázatban láthatóak a személyes névmásokhoz kapcsolódó legfontosabb tudnivalók.
+ A személyes névmások (megfelelő számú) M-WA típusú főnévnek számítanak,
+ de a birtokos szerkezetet a második sorban látható birtokos névmásokkal
+ fejezzük ki, tehát nem 
+\emph on
+*watoto wa mimi
+\emph default
+, hanem 
+\emph on
+watoto wangu
+\emph default
+ (az én gyerekeim; 
+\emph on
+mtoto
+\emph default
+: gyerek).
+\end_layout
+
+\begin_layout Subsection
+Mutató névmások
+\end_layout
+
+\begin_layout Standard
+Minden főnévcsoporthoz tartozik három mutató névmás (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat): ,,ez'', ,,az'' és ,,az, amiről már beszéltünk''.
+ Ezek rendre hVCV, CVle, hVCo alakúak, ahol C és V a táblázatban zárójelben
+ jelölt, az adott csoportra jellemző mássalhangzó ill.
+\begin_inset space \space{}
+\end_inset
+
+magánhangzó.
+ Az első kettő (a 
+\emph on
+mle 
+\emph default
+kivételével) minden csoportban szabályos, de a harmadik típusban az 
+\emph on
+o
+\emph default
+-val való kapcsolódás miatt kisebb változások lépnek fel.
+\end_layout
+
+\begin_layout Standard
+Ha a mutató névmás a jelzett főnévvel együtt szerepel, általában a főnév
+ után kerül, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kidole hiki
+\emph default
+ (ez az ujj; 
+\emph on
+kidole
+\emph default
+: ujj).
+ Duplázással kiemelést érünk el, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+huyu huyu
+\emph default
+ (éppen ő).
+ Az egyesszám harmadik személyű birtokos névmás után közvetlenül be lehet
+ rakni magát a jelzett főnevet is, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+baba yake Ali
+\emph default
+ (Ali apja; 
+\emph on
+baba
+\emph default
+: apa).
+\end_layout
+
+\begin_layout Section
+Melléknevek
+\end_layout
+
+\begin_layout Standard
+Két fajta melléknév van, attól függően, hogy lehet-e hozzá prefixet csatolni
+ (a jövevényszavakhoz általában nem).
+ Ha nem, akkor egyszerűen csak a jelzett főnév után kell tenni, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+simba hodari
+\emph default
+ (bátor oroszlán; 
+\emph on
+simba
+\emph default
+: oroszlán, 
+\emph on
+hodari
+\emph default
+: bátor).
+ Ha azonban lehet, akkor a csoportnak megfelelő melléknévprefixet elé kell
+ tenni (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mto mrefu
+\emph default
+ (hosszú folyó; 
+\emph on
+mto
+\emph default
+: folyó, 
+\emph on
+-refu
+\emph default
+: hosszú).
+\end_layout
+
+\begin_layout Standard
+Itt sajnos a kapcsolódások szabályai nem annyira letisztultak, különösen
+ az N csoport prefix-rendszere bonyolult:
+\end_layout
+
+\begin_layout Itemize
+M-WA: 
+\emph on
+m-/wa-
+\emph default
+, de magánhangzó előtt 
+\emph on
+mw-/we-
+\emph default
+ és ez utóbbi elnyeli a magánhangzót, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+watu wengi
+\emph default
+ (sok ember; 
+\emph on
+mtu
+\emph default
+: ember, 
+\emph on
+-ingi
+\emph default
+: sok)
+\end_layout
+
+\begin_layout Itemize
+M-MI: 
+\emph on
+m-/mi-
+\emph default
+, de 
+\emph on
+e
+\emph default
+ előtt 
+\emph on
+mw-/my-
+\emph default
+, 
+\emph on
+i
+\emph default
+ előtt 
+\emph on
+mw-/m-
+\emph default
+, más magánhangzó előtt 
+\emph on
+mw-/mi-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+miti myekundu
+\emph default
+ (piros fák; 
+\emph on
+mti
+\emph default
+: fa, 
+\emph on
+-ekundu
+\emph default
+: piros)
+\end_layout
+
+\begin_layout Itemize
+JI-MA: 
+\emph on
+-/ma-
+\emph default
+, de egyszótagú szó előtt 
+\emph on
+ji-/ma-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+somo jipya 
+\emph default
+(új lecke; 
+\emph on
+somo
+\emph default
+: lecke, 
+\emph on
+-pya
+\emph default
+: új)
+\emph on
+, 
+\emph default
+magánhangzó előtt pedig 
+\emph on
+j-/me-
+\emph default
+ és ez utóbbi elnyeli a magánhangzót, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mabasi mengine
+\emph default
+ (más buszok, 
+\emph on
+basi
+\emph default
+: busz, 
+\emph on
+\SpecialChar \nobreakdash-
+ingine
+\emph default
+: más)
+\end_layout
+
+\begin_layout Itemize
+KI-VI: 
+\emph on
+ki-/vi-
+\emph default
+, de 
+\emph on
+i
+\emph default
+ előtt 
+\emph on
+k-/v-
+\emph default
+, más magánhangzó előtt pedig 
+\emph on
+ch-/vy-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kitu cheupe
+\emph default
+ (fehér dolog; 
+\emph on
+kitu
+\emph default
+: dolog, 
+\emph on
+-eupe
+\emph default
+: fehér)
+\end_layout
+
+\begin_layout Itemize
+N: élőlényekre mint az M-WA esetben, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ng'ombe mkubwa
+\emph default
+ (nagy tehén; 
+\emph on
+ng'ombe
+\emph default
+: tehén); egyébként ld.
+\begin_inset space \space{}
+\end_inset
+
+lejjebb
+\end_layout
+
+\begin_layout Itemize
+U: mint az M-MI esetben egyesszámban, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+uwanja mdogo
+\emph default
+ (kis pálya; 
+\emph on
+uwanja
+\emph default
+: pálya
+\emph on
+, -dogo
+\emph default
+: kicsi)
+\end_layout
+
+\begin_layout Itemize
+KU, PA/KU/MU: szabályosak
+\end_layout
+
+\begin_layout Subsection
+Az N csoportbeli főnevek/melléknevek prefixei
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:N-csoportbeli-melléknevek"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Az idegen szavaknak, valamint a 
+\emph on
+p-
+\emph default
+, 
+\emph on
+f-
+\emph default
+, 
+\emph on
+s-
+\emph default
+, 
+\emph on
+ch-
+\emph default
+, 
+\emph on
+k-
+\emph default
+, 
+\emph on
+t-
+\emph default
+ kezdetű szavaknak nincsen, kivéve, ha egy szótagú, mert ilyenkor 
+\emph on
+n
+\emph default
+-et kap, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nchi
+\emph default
+ (föld), illetve 
+\emph on
+p-
+\emph default
+ előtt 
+\emph on
+m
+\emph default
+-et, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mpya
+\emph default
+ (
+\emph on
+-pya
+\emph default
+: új)
+\end_layout
+
+\begin_layout Itemize
+Az 
+\emph on
+n-
+\emph default
+, 
+\emph on
+m-
+\emph default
+, 
+\emph on
+ng-
+\emph default
+ kezdetű szavaknak nincsen
+\end_layout
+
+\begin_layout Itemize
+Magánhangzóval kezdődő szavaknál 
+\emph on
+ny-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+paka nyeusi
+\emph default
+ (fekete macska; 
+\emph on
+paka
+\emph default
+: macska, 
+\emph on
+-eusi
+\emph default
+: fekete)
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+b-
+\emph default
+, 
+\emph on
+v-
+\emph default
+, 
+\emph on
+w
+\emph default
+- kezdetű szavaknál 
+\emph on
+m-
+\emph default
+, és a 
+\emph on
+w-
+\emph default
+ átváltozik
+\emph on
+ b
+\emph default
+-vé, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nyoka mbili
+\emph default
+ (két kígyó; 
+\emph on
+nyoka
+\emph default
+: kígyó, 
+\emph on
+-wili
+\emph default
+: kettő)
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+d-
+\emph default
+, 
+\emph on
+j-
+\emph default
+, 
+\emph on
+z-
+\emph default
+, 
+\emph on
+g-
+\emph default
+ kezdetű szavaknál 
+\emph on
+n-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+siku nzuri
+\emph default
+ (jó nap; 
+\emph on
+siku
+\emph default
+: nap, 
+\emph on
+-zuri
+\emph default
+: jó)
+\end_layout
+
+\begin_layout Itemize
+Az 
+\emph on
+l-
+\emph default
+, 
+\emph on
+r-
+\emph default
+ kezdetű szavaknál szintén 
+\emph on
+n-
+\emph default
+, de az 
+\emph on
+l/r
+\emph default
+-ből 
+\emph on
+d
+\emph default
+ lesz, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+njia ndefu
+\emph default
+ (hosszú út; 
+\emph on
+njia
+\emph default
+: út, 
+\emph on
+-refu
+\emph default
+: hosszú)
+\end_layout
+
+\begin_layout Section
+Más egyeztetések
+\end_layout
+
+\begin_layout Standard
+Van néhány fontos szó, amelyeket úgy kell egyeztetni, mint a birtokos szerkezete
+t.
+ Ezek a következők:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+-ote
+\emph default
+: minden, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+vitabu vyote
+\emph default
+ (minden könyv; 
+\emph on
+kitabu
+\emph default
+: könyv)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+-o-ote
+\emph default
+: bármilyen (kétszeres egyeztetéssel!), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+chakula chochote
+\emph default
+ (bármilyen étel), de M-WA esetén 
+\emph on
+yeyote
+\emph default
+ (nem *
+\emph on
+wowote
+\emph default
+)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+-enye
+\emph default
+: (vmit) birtokló, (valamilyen jellemző)-jű, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mtu mwenye nywele nyeupe
+\emph default
+ (fehér hajú ember; 
+\emph on
+mtu
+\emph default
+: ember, 
+\emph on
+nywele
+\emph default
+: haj, 
+\emph on
+-eupe
+\emph default
+: fehér)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+-enyewe
+\emph default
+: saját maga, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+askari mwenyewe
+\emph default
+ (a katona saját maga; 
+\emph on
+askari
+\emph default
+: katona)
+\end_layout
+
+\begin_layout Section
+Igék
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="16" columns="3">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Állító
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tagadó
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+na
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-[TI]-...i
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jelen (utaló)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-na-UI-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-UI-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Előidejű jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+me
+\emph default
+[
+\emph on
+sha
+\emph default
+]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-ja-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jövő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+ta
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-
+\emph on
+ta
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jövő (utaló)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-taka-UI-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-taka-UI-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Múlt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+li
+\emph default
+-[UI]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-ku-[UI]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Szokás
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hu-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Felszólító mód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+...
+ / ...eni
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Óhajtó mód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[AP]-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Szekvencia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[AP]-ka-[TI]-...[e]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Utaló
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-[TI]-...-UI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-UI-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kötőmód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-ki-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-sipo-[TI]-...
+ / AP-si-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Valószínűtlen felt.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+nge
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+singe
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Lehetetlen felt.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+ngali
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+singali
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Formális jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP*-a-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-[TI]-...i
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Igeidők és módok
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Igeidők-és-módok"
+
+\end_inset
+
+ (AP: alany-prefix, TP: tagadó prefix, UI: utaló infix, TI: tárgy-infix;
+ a dőlt betűvel szedett infixek nem kaphatnak hangsúlyt)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A szuahéli igealakok több, általában egy vagy két szótagos darabból állnak
+ össze.
+ Ezek segítségével sok igeidő és mód képezhető, amelyeket a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Igeidők-és-módok"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat foglal össze.
+ Az igék szótári alakja vagy 
+\emph on
+töve
+\emph default
+ (a jövevényszavak kivételével) 
+\emph on
+-a
+\emph default
+ végű, a teljes képlet:
+\begin_inset Formula \[
+\textrm{alany-prefix}+\textrm{idő-infix}+\left[\textrm{utaló infix}\right]+\left[\textrm{tárgy-infix}\right]+\textrm{tő}+\left[\textrm{képző-szuffix}\right]*,\]
+
+\end_inset
+
+ahol a tagadásban az alany-prefixet a tagadó prefix váltja fel (ezek harmadik
+ személyben az alany csoportjától függnek, de élőlényeknél mindig M-WA csoportún
+ak számítanak).
+ A szögletes zárójelbe tett részek elhagyhatóak, úgyhogy egyelőre ne is
+ foglalkozzunk velük, hanem nézzünk meg az egyszerűbb alakokat.
+\end_layout
+
+\begin_layout Subsection
+Jelen
+\end_layout
+
+\begin_layout Standard
+A jelenidő infixe 
+\emph on
+-na-
+\emph default
+, tagadáskor az idő-infix kiesik, és a tő végén levő 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-i
+\emph default
+-re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem történik semmi).
+ Egyesszám első személyben az alany-prefix elmaradhat.
+ Példák az 
+\emph on
+-imba
+\emph default
+ (énekel) és 
+\emph on
+-safiri
+\emph default
+ (utazik) igékkel: [
+\emph on
+ni
+\emph default
+]
+\emph on
+naimba
+\emph default
+ (énekelek), 
+\emph on
+siimbi
+\emph default
+ (nem énekelek), 
+\emph on
+anaimba
+\emph default
+ (énekel), 
+\emph on
+haimbi
+\emph default
+ (nem énekel), 
+\emph on
+tunasafiri
+\emph default
+ (utazunk), 
+\emph on
+hamsafiri
+\emph default
+ (nem utaztok).
+ 
+\end_layout
+
+\begin_layout Subsection
+Előidejű jelen
+\end_layout
+
+\begin_layout Standard
+Az előidejű jelen infixe 
+\emph on
+-me-
+\emph default
+ (vagy 
+\emph on
+-mesha-
+\emph default
+ / 
+\emph on
+-mesha ku-
+\emph default
+ / 
+\emph on
+-mekwisha ku-
+\emph default
+, minél hosszabb annál erősebb benne a ,,már'' töltet).
+ Tagadáskor az idő-infix 
+\emph on
+-ja-
+\emph default
+ra változik.
+ Példa a 
+\emph on
+-leta
+\emph default
+ (hoz) igével: 
+\emph on
+tumeleta
+\emph default
+ (elhoztuk), 
+\emph on
+wamesha kuleta
+\emph default
+ (már elhozták), 
+\emph on
+hujaleta
+\emph default
+ (még nem hoztad el).
+ Az állapotváltozást kifejező igéknél ez az igeidő fejezi ki azt, hogy a
+ változás bekövetkezett és az eredmény továbbra is fennáll, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nimekaa
+\emph default
+ (ülök; 
+\emph on
+-kaa
+\emph default
+: leül).
+\end_layout
+
+\begin_layout Subsection
+Jövő
+\end_layout
+
+\begin_layout Standard
+A jövőidő infixe 
+\emph on
+-ta-
+\emph default
+.
+ Példák a 
+\emph on
+-fika
+\emph default
+ (megérkezik) igével: 
+\emph on
+atafika
+\emph default
+ (meg fog érkezni), 
+\emph on
+haitafika
+\emph default
+ (nem fog megérkezni [N]), 
+\emph on
+yatafika
+\emph default
+ (meg fognak érkezni [JI-MA]).
+\end_layout
+
+\begin_layout Subsection
+Múlt
+\end_layout
+
+\begin_layout Standard
+A múltidő infixe 
+\emph on
+-li-
+\emph default
+, tagadásban pedig 
+\emph on
+-ku-
+\emph default
+.
+ Példák a 
+\emph on
+-sema
+\emph default
+ (mond) igével: 
+\emph on
+alisoma
+\emph default
+ (mondta), 
+\emph on
+hatukusoma
+\emph default
+ (nem mondtuk).
+\end_layout
+
+\begin_layout Subsection
+Szokás
+\end_layout
+
+\begin_layout Standard
+Ez az igeidő időről-időre ismétlődő, szokásos cselekvést fejez ki.
+ Az idő-infix 
+\emph on
+-hu-
+\emph default
+, az alany-prefix pedig eltűnik, ezért általában főnévvel vagy személyes
+ névmással együtt használják.
+ Tagadó alakja nincs.
+ Példa: 
+\emph on
+sisi huzungumza
+\emph default
+ (szoktunk beszélgetni; 
+\emph on
+-zungumza
+\emph default
+: beszélget).
+\end_layout
+
+\begin_layout Subsection
+Felszólító mód
+\end_layout
+
+\begin_layout Standard
+Egyesszámban a tő maga.
+ Többesszámban a tővégi 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-e-
+\emph default
+re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem változik), és 
+\emph on
+-ni
+\emph default
+ szuffixumot kap.
+ Tagadó alakja nincsen, tiltásokat az óhajtó móddal fejezhetünk ki.
+ Példák a 
+\emph on
+-lala
+\emph default
+ (alszik) és 
+\emph on
+-jibu
+\emph default
+ (válaszol) igékkel: 
+\emph on
+lala
+\emph default
+ (aludj), 
+\emph on
+laleni
+\emph default
+ (aludjatok), 
+\emph on
+jibu
+\emph default
+ (válaszolj), 
+\emph on
+jibuni
+\emph default
+ (válaszoljatok).
+ Az 
+\emph on
+-enda
+\emph default
+ (megy) és 
+\emph on
+-ja
+\emph default
+ (jön) igék felszólító módja rendhagyó: 
+\emph on
+nenda
+\emph default
+ és 
+\emph on
+njoo
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Óhajtó mód
+\end_layout
+
+\begin_layout Standard
+Az óhajtó módban az idő-infix eltűnik, és a tővégi 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-e-
+\emph default
+re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem változik).
+ Tagadásban megmarad az alany-prefix, az idő-infix helyére pedig 
+\emph on
+-si-
+\emph default
+ kerül.
+ Jelentése magában udvarias kérés értelmű, de gyakran más igékkel vagy partikulá
+kkal együtt használják.
+ Néhány ezek közül a
+\emph on
+z -ambia
+\emph default
+/
+\emph on
+-sema
+\emph default
+ (mond), az 
+\emph on
+afadhali/heri
+\emph default
+ (jobb lenne, ha), és a 
+\emph on
+lazima/inabidi
+\emph default
+ (kell, muszáj).
+ A tagadó alak magában tiltás, de ez is kombinálható igékkel, mint a 
+\emph on
+-kataza
+\emph default
+ (megtilt), a -
+\emph on
+zuia
+\emph default
+ (megakadályoz) vagy az 
+\emph on
+-onya
+\emph default
+ (figyelmeztet).
+ Kérésnél az alany-prefixet néha elhagyják.
+ Példák a 
+\emph on
+-simama
+\emph default
+ (feláll) és 
+\emph on
+-rudi
+\emph default
+ (visszajön) igékkel: [
+\emph on
+u
+\emph default
+]
+\emph on
+simame
+\emph default
+ (állj fel), 
+\emph on
+msisimame
+\emph default
+ (ne álljatok fel), 
+\emph on
+lazima urudi
+\emph default
+ (vissza kell jönnöd), 
+\emph on
+amezuia nisirudi
+\emph default
+ (megakadályozta, hogy visszajöjjek).
+\end_layout
+
+\begin_layout Subsection
+Szekvencia
+\end_layout
+
+\begin_layout Standard
+Egymás utáni eseményeknél a második és azt követő történések igeideje (az
+ első általában múltidőben van).
+ Az idő-infix 
+\emph on
+-ka-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+alifikiri akajibu
+\emph default
+ (gondolkozott és aztán válaszolt; 
+\emph on
+-fikiri
+\emph default
+: gondolkozik, 
+\emph on
+-jibu
+\emph default
+: válaszol).
+ Használható összetett felszólításoknál is, ilyenkor a tővégi 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-e-
+\emph default
+re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem változik) és az alany-prefix elmaradhat, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nenda 
+\emph default
+[
+\emph on
+u
+\emph default
+]
+\emph on
+kasaidie
+\emph default
+ (menj és segíts; 
+\emph on
+-enda
+\emph default
+: megy, 
+\emph on
+-saidia
+\emph default
+: segít).
+\end_layout
+
+\begin_layout Subsection
+Tárgyak
+\end_layout
+
+\begin_layout Standard
+A szuahéliben a tárgy az ige után kerül, és az igébe kerül egy jelölő a
+ tárgy csoportjának megfelelően.
+ A kettő közül csak az egyik szükséges, de személyeknél az infixet mindig
+ ki kell rakni.
+ Ha a tárgy személyes névmás, akkor általában csak a tárgy-infix-szel jelöljük.
+ Példák: 
+\emph on
+anakupenda
+\emph default
+ (szeret téged; 
+\emph on
+-penda
+\emph default
+: szeret), 
+\emph on
+nilimwita Hasan
+\emph default
+ (hívtam Hasant, 
+\emph on
+-ita
+\emph default
+: hív), 
+\emph on
+tutazinunua
+\emph default
+ (meg fogjuk vásárolni [N/tsz.]; 
+\emph on
+-nunua
+\emph default
+: vásárol), 
+\emph on
+ana
+\emph default
+[
+\emph on
+i
+\emph default
+]
+\emph on
+andika barua
+\emph default
+ (levelet ír; 
+\emph on
+-andika
+\emph default
+: ír, 
+\emph on
+barua
+\emph default
+: levél).
+ Ha a tárgy-infixnek van 
+\emph on
+-ni 
+\emph default
+utótagja, akkor a tővégi 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-e-
+\emph default
+re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem változik), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nitakupigeni
+\emph default
+ (meg foglak verni titeket; 
+\emph on
+-piga
+\emph default
+: üt).
+
+\emph on
+ 
+\emph default
+Visszaható esetben a tárgy-infix mindig 
+\emph on
+-ji
+\emph default
+-, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+alijiua 
+\emph default
+(megölte magát; 
+\emph on
+-ua
+\emph default
+: megöl).
+\end_layout
+
+\begin_layout Subsection
+Egyszótagú igék
+\end_layout
+
+\begin_layout Standard
+A legtöbb idő-infixre (jelen: 
+\emph on
+-na-
+\emph default
+, előidejű jelen: 
+\emph on
+-me-
+\emph default
+, jövő: 
+\emph on
+-ta-
+\emph default
+, múlt: 
+\emph on
+-li
+\emph default
+\SpecialChar \nobreakdash-
+) és az utaló infixekre nem kerülhet hangsúly, így a tárgy-infix nélküli
+ egyszótagos igék esetében, ahol ezek hangsúlyos helyre (utolsóelőtti szótag)
+ kerülnének, a tő főnévi igenévi alakban szerepel (
+\emph on
+ku-/kw-
+\emph default
+ prefix).
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nimekula
+\emph default
+ (már ettem; 
+\emph on
+-la
+\emph default
+: eszik), de 
+\emph on
+sijala
+\emph default
+ (még nem ettem) és 
+\emph on
+nimekila
+\emph default
+ (megettem [KI-VI]); 
+\emph on
+ulikuja
+\emph default
+ (jöttél; 
+\emph on
+-ja
+\emph default
+: jön), de 
+\emph on
+hukuja
+\emph default
+ (nem jöttél).
+ Noha nem egyszótagúak, de ugyanígy viselkednek az 
+\emph on
+-enda
+\emph default
+ (megy) és 
+\emph on
+-isha
+\emph default
+ (befejez) igék is, pl.
+\begin_inset space \space{}
+\end_inset
+
+[
+\emph on
+ni
+\emph default
+]
+\emph on
+nakwenda 
+\emph default
+(megyek).
+\end_layout
+
+\begin_layout Subsection
+Azonosság, különbözőség, létezés és birtoklás
+\end_layout
+
+\begin_layout Standard
+A névszói állítmány kifejezésére a 
+\emph on
+-wa
+\emph default
+ ige szolgál, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nilikuwa mdogo
+\emph default
+ (kicsi voltam; 
+\emph on
+-dogo
+\emph default
+: kicsi), 
+\emph on
+jina lake lilikuwa Msa
+\emph default
+ (a neve Msa volt; 
+\emph on
+jina
+\emph default
+: név), 
+\emph on
+hukuwa mgonjwa
+\emph default
+ (nem voltál beteg; 
+\emph on
+-gonjwa
+\emph default
+: beteg).
+ Jelenidőben azonban ehelyett a 
+\emph on
+ni
+\emph default
+ (tagadásban 
+\emph on
+si
+\emph default
+) partikulát használják, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nyumba yako ni kubwa
+\emph default
+ (a házad nagy; 
+\emph on
+nyumba
+\emph default
+: ház, 
+\emph on
+-kubwa
+\emph default
+: nagy), 
+\emph on
+leo si Jumapili
+\emph default
+ (ma nem vasárnap van; 
+\emph on
+leo
+\emph default
+: ma, 
+\emph on
+Jumapili
+\emph default
+: vasárnap).
+ Múltidőben a
+\emph on
+ -wa
+\emph default
+ ige mellé ki lehet rakni a 
+\emph on
+ni
+\emph default
+ (
+\emph on
+si
+\emph default
+) partikulát is, tagadásnál ilyenkor az ige maga állító alakú lesz, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+Mohamed alikuwa ni rafiki yangu
+\emph default
+ (Mohamed a barátom volt; 
+\emph on
+rafiki
+\emph default
+: barát), 
+\emph on
+nywele yake alikuwa si nyeusi
+\emph default
+ (a haja nem volt fekete
+\emph on
+; nywele
+\emph default
+: haj
+\emph on
+, -eusi
+\emph default
+: fekete).
+\end_layout
+
+\begin_layout Standard
+Birtoklást a 
+\emph on
+-wa
+\emph default
+ ige után tett 
+\emph on
+na
+\emph default
+ partikulával fejezünk ki, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+tulikuwa na gari
+\emph default
+ (volt egy autónk; 
+\emph on
+gari
+\emph default
+: autó), 
+\emph on
+hamtakuwa na pesa
+\emph default
+ (nem lesz pénzetek; 
+\emph on
+pesa
+\emph default
+: pénz).
+ Jelenidőben az ige kiesik, és az alany-prefixet (tagadásnál tagadó prefixet)
+ egyenesen a 
+\emph on
+-na
+\emph default
+ szóhoz kapcsoljuk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nina paka
+\emph default
+ (van macskám
+\emph on
+; paka
+\emph default
+: macska), 
+\emph on
+hawana mbwa
+\emph default
+ (nincs kutyájuk; 
+\emph on
+mbwa
+\emph default
+: kutya).
+ Létezés kifejezésekor az alany-prefix (vagy tagadó prefix) csoportja a
+ PA/KU/MU valamelyike, általában a KU csoport, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+hakuna matata
+\emph default
+ (nincsenek problémák; 
+\emph on
+tata
+\emph default
+: nehézség [JI-MA]), 
+\emph on
+palikuwa na mwanamke
+\emph default
+ (volt [egyszer] egy nő; 
+\emph on
+mwanamke
+\emph default
+: nő).
+\end_layout
+
+\begin_layout Subsection
+Utalások
+\end_layout
+
+\begin_layout Standard
+Az ige több információt tartalmaz, mint a magyarban, így például az 
+\emph on
+ami
+\emph default
+/
+\emph on
+amit
+\emph default
+/
+\emph on
+ amikor
+\emph default
+/stb.
+\begin_inset space \space{}
+\end_inset
+
+szavak az ige részeként is kifejezésre kerülhetnek.
+ Erre szolgál az utaló infix, ami a jelölt főnév csoportjától függ (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat).
+ A pontos fordítás a szövegkörnyezettől függ.
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kalamu niliyonunua
+\emph default
+ (a toll.
+ amit vettem; 
+\emph on
+kalamu
+\emph default
+: toll; 
+\emph on
+-nunua
+\emph default
+: vásárol), 
+\emph on
+aliyesema
+\emph default
+ (aki beszél; 
+\emph on
+-sema
+\emph default
+: beszél).
+\end_layout
+
+\begin_layout Standard
+Jövőidejű utaló igéknél az idő-infix 
+\emph on
+-taka-
+\emph default
+ -ra változik, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+chakula tutakachotengeneza 
+\emph default
+(az étel, amit készíteni fogunk; 
+\emph on
+chakula
+\emph default
+: étel, 
+\emph on
+-tengeneza
+\emph default
+: készít).
+ Jelenidőben az ilyen igék tagadása rendhagyó alakú: AP-
+\emph on
+si
+\emph default
+-UI-[TI]-tő, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+tunda usilopenda
+\emph default
+ (a gyümölcs, amit nem szeretsz; 
+\emph on
+tunda
+\emph default
+: gyümölcs [JI-MA], 
+\emph on
+-penda
+\emph default
+: szeret).
+ Ez valójában időtlen, ezért általános állításokra használják.
+\end_layout
+
+\begin_layout Standard
+A fenti forma csak jelen-, jövő- és múltidejű igékkel használható együtt.
+ Más esetekben, mint pl.
+\begin_inset space \space{}
+\end_inset
+
+az előidejű jelennél, az 
+\emph on
+amba-
+\emph default
+ szócska és az utaló infix (itt szuffix) összekapcsolásával érhetjük el.
+ Ez minden esetben használható, de amikor lehet, az előző formát alkalmazzák.
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kalamu ambayo nimeshanunua
+\emph default
+ (a toll, amit már megvettem; 
+\emph on
+kalamu
+\emph default
+: toll, 
+\emph on
+-nunua
+\emph default
+: vásárol), 
+\emph on
+mtu ambaye husema
+\emph default
+ (az ember, aki beszélni szokott; 
+\emph on
+mtu
+\emph default
+: ember, 
+\emph on
+-sema
+\emph default
+: beszél).
+\end_layout
+
+\begin_layout Standard
+Egy harmadik módszer az utalás kifejezésére, amikor az eddig infixként használt
+ jel az ige végére kerül.
+ Ezt elsősorban írásban használják és ez a jelenidőnél említett időtlen
+ tagadó alak állító párja.
+ A formája AP-[TI]-tő-UI, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mwaka ujao
+\emph default
+ (jövő év; 
+\emph on
+mwaka
+\emph default
+: év [M-MI], 
+\emph on
+-ja
+\emph default
+: jön).
+ Az azonosságot (különbözőséget) ebben az esetben a 
+\emph on
+-li
+\emph default
+ igével (tagadásban 
+\emph on
+-si
+\emph default
+) fejezzük ki, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+wao walio watoto
+\emph default
+ (ők, akik gyerekek; 
+\emph on
+mtoto
+\emph default
+: gyerek), 
+\emph on
+chakula kisicho kitamu
+\emph default
+ (az étel, ami nem finom; 
+\emph on
+chakula
+\emph default
+: étel, 
+\emph on
+-tamu
+\emph default
+: finom).
+\end_layout
+
+\begin_layout Standard
+Az utalás egyik fontos használati módja, hogy a PA típusú 
+\emph on
+-po
+\emph default
+- infix segítségével nem csak helyre, hanem időre is tudunk utalni, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nilipozaliwa
+\emph default
+ (ahol/amikor születtem; 
+\emph on
+-zaliwa
+\emph default
+: születik).
+ Egy másik, hogy a VI típusú 
+\emph on
+-vyo-
+\emph default
+ infix jelölheti a cselekvés módját.
+ Ilyenkor gyakran a 
+\emph on
+jinsi
+\emph default
+ (mód) vagy 
+\emph on
+kama
+\emph default
+ (mint) szavak vezetik be, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+jinsi wanavyofanya
+\emph default
+ (ahogyan csinálják; 
+\emph on
+-fanya
+\emph default
+: csinál).
+\end_layout
+
+\begin_layout Subsection
+Kötőmód
+\end_layout
+
+\begin_layout Standard
+A kötőmódnak több használata van: feltételes mód, párhuzamos cselekvés és
+ összetett igék képzése (erről majd a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Összetett-igeidők"
+
+\end_inset
+
+ pontban lesz szó).
+\end_layout
+
+\begin_layout Standard
+A kötőmód infixe a 
+\emph on
+-ki-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ukija
+\emph default
+ (ha jössz; 
+\emph on
+-ja
+\emph default
+: jön), 
+\emph on
+nilimwona akitembea
+\emph default
+ (láttam, ahogy/amikor sétált; 
+\emph on
+-tembea
+\emph default
+: sétál).
+ Feltételes módnál az ige elé gyakran beteszik a 
+\emph on
+kama
+\emph default
+ vagy 
+\emph on
+ikiwa
+\emph default
+ szót --- mindkettő ,,ha''-nak fordítható, az utóbbi valójában a 
+\emph on
+-wa
+\emph default
+ ige kötőmódú alakjából kialakult állandósult forma.
+ A kötőmódnak nincs tagadó alakja, helyette időre utalást (
+\emph on
+-po-
+\emph default
+) vagy óhajtó módot használnak, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+asipofika
+\emph default
+ vagy 
+\emph on
+asifike
+\emph default
+ (ha nem érkezik meg; 
+\emph on
+-fika
+\emph default
+: megérkezik).
+\end_layout
+
+\begin_layout Subsection
+Valószínűtlen és lehetetlen feltételek
+\end_layout
+
+\begin_layout Standard
+Valószínűtlen és lehetetlen feltételezésnél mind a feltételben, mind az
+ eredményben ugyanazt az idő-infixet kell használni.
+ Ez valószínűtlen esetben 
+\emph on
+-nge-
+\emph default
+, lehetetlennél pedig ennek a múltidő infixével (
+\emph on
+-li
+\emph default
+-) való összevonása: 
+\emph on
+-ngali
+\emph default
+-.
+ Tagadásnál ezek még egy 
+\emph on
+-si-
+\emph default
+ előtagot kapnak, és tagadó prefix helyett marad az alany-prefix, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ningekuwa na pesa, ningenunua kitabu
+\emph default
+ (ha lenne pénzem, vennék könyvet; 
+\emph on
+pesa
+\emph default
+: pénz,
+\emph on
+ -nunua
+\emph default
+: vásárol
+\emph on
+, kitabu
+\emph default
+: könyv), 
+\emph on
+usingaliondoka ungalimkuta
+\emph default
+ (ha nem mentél volna el, találkoztál volna vele; 
+\emph on
+-ondoka
+\emph default
+: elmegy, 
+\emph on
+-kuta
+\emph default
+: találkozik).
+\end_layout
+
+\begin_layout Standard
+A fenti idő-infixek nem kaphatnak hangsúlyt, így az egyszótagos igék itt
+ is főnévi igenévként jelennek meg, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ningefurahi ungekunywa maji
+\emph default
+ (örülnék, ha innál vizet; 
+\emph on
+-furahi
+\emph default
+: örül, 
+\emph on
+-nywa
+\emph default
+: iszik
+\emph on
+; maji
+\emph default
+: víz
+\emph on
+).
+\end_layout
+
+\begin_layout Subsection
+Összetett igeidők
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Összetett-igeidők"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Összetett igeidőket a 
+\emph on
+-wa
+\emph default
+ igének és a főige kötőmódú alakjának kombinációjával kaphatunk.
+ Ez folyamatban levő, vagy gyakran ismétlődő cselekvést jelöl, a 
+\emph on
+-wa
+\emph default
+ ige alakjának megfelelő időben, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+alikuwa akisema
+\emph default
+ (szokta mondani / éppen mondta; 
+\emph on
+-sema
+\emph default
+: mond).
+ Tagadásnál csak a 
+\emph on
+-wa
+\emph default
+ igét tagadjuk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+hakuwa akisoma
+\emph default
+ (nem szokott tanulni / nem tanult épp; 
+\emph on
+-soma
+\emph default
+: tanul).
+ Egy másik fajta összetétel, amikor kötőmód helyett előidejű jelent használunk.
+ Ilyenkor egy, a 
+\emph on
+-wa
+\emph default
+ ige ideje előtti igeidőt kapunk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nitakuwa nimekufa
+\emph default
+ (én már halott leszek; -
+\emph on
+fa
+\emph default
+: meghal).
+\end_layout
+
+\begin_layout Subsection
+Formális jelen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="7">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-WA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M-MI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+JI-MA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KI-VI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+U
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a- / wa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wa- / ya-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+la- / ya-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+cha- / vya-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ya- / za-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kwa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PA
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KU
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MU
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Te
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ti
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kwa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mwa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+na-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+wa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+twa-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mwa-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A formális jelen jelének összevonásai
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:A-formális-jelen"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Ez is valójában egy időtlen igealak, így gyakran általános állításokra használjá
+k.
+ Elsősorban írott nyelvi forma.
+ Az idő-infix 
+\emph on
+-a-
+\emph default
+, ami a különböző alany-prefixekkel összevonódik (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-formális-jelen"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat).
+ Jól látható, hogy az M-WA kivételével minden főnévcsoportban az alany-prefixet
+ az egyeztető prefix helyettesíti (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat).
+\end_layout
+
+\begin_layout Subsection
+Képzők
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="3">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Típus
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Két mgh-s igék
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Passzív
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-w-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-lEw-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Alkalmazó
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-E-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-lE-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Társas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-an-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-an-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Műveltető
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-Esh- / -Ez-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-sh- / -z-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Állapotjelölő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-Ek-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-k-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A főbb igeképzők (E: e és o után e, egyébként i)
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Igeképzők"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A képzők segítségével egy alapigéből másik ige készíthető.
+ A képzők a szótári alak végső magánhangzója elé ékelődnek be, és ez a magánhang
+zó képzett alakokban mindig 
+\emph on
+-a
+\emph default
+-ra változik.
+ Ha az ige két magánhangzóra végződik, akkor a képzők általában máshogyan
+ viselkednek.
+ A képzőkben szereplő magánhangzó gyakran a magánhangzó-harmónia szabályai
+ alapján változik: 
+\emph on
+e
+\emph default
+ és 
+\emph on
+o
+\emph default
+ után 
+\emph on
+e
+\emph default
+, más magánhangzó után 
+\emph on
+i
+\emph default
+, ezt nagy E-vel jelöljük.
+ Az alábbiak a leggyakoribb képzők --- ezek (a passzív és talán az alkalmazó
+ kivételével) nem alkalmazhatóak minden szóra, és az sem ritka, hogy csak
+ a képzett alakokat használják, és maga az alapszó már nem létezik.
+ Ezeket tehát külön szavaknak kell felfogni, és az itt felsorolt szabályok
+ inkább csak segítségnek számítanak a szótanulásban.
+ Az alábbiak lényegét a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Igeképzők"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat foglalja össze.
+\end_layout
+
+\begin_layout Subsubsection
+Passzív
+\end_layout
+
+\begin_layout Standard
+Jele a 
+\emph on
+-w-
+\emph default
+, két magánhangzónál a 
+\emph on
+-lEw-
+\emph default
+ (de 
+\emph on
+-ia/-ea
+\emph default
+ végűekből 
+\emph on
+-iwa/-ewa
+\emph default
+ lesz).
+ Az egyszótagos és a nem 
+\emph on
+-a
+\emph default
+-ra végződő igéknél az utolsó magánhangzó leesik, és a jel 
+\emph on
+-Ew- 
+\emph default
+lesz, de két magánhangzónál a magánhangzó megmarad és a jel 
+\emph on
+-lEw-
+\emph default
+.
+ A cselekvőt a 
+\emph on
+na
+\emph default
+ partikulával bevezetve lehet jelezni.
+ Ha több képző is csatlakozik az igéhez, ez mindig az utolsó.
+ Példák: 
+\emph on
+-fanya
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-fanywa
+\emph default
+, 
+\emph on
+-ua
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ \SpecialChar \nobreakdash-
+uliwa
+\emph default
+, 
+\emph on
+-saidia
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+\SpecialChar \nobreakdash-
+saidiwa
+\emph default
+, 
+\emph on
+\SpecialChar \nobreakdash-
+la
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-liwa
+\emph default
+, 
+\emph on
+-hesabu
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-hesabiwa
+\emph default
+, 
+\emph on
+-sahau
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-sahauliwa
+\emph default
+; 
+\emph on
+chakula kimeliwa na mtoto
+\emph default
+ (az étel meg lett éve a gyerek által; 
+\emph on
+chakula
+\emph default
+: étel, 
+\emph on
+-la
+\emph default
+: eszik, 
+\emph on
+mtoto
+\emph default
+: gyerek).
+\end_layout
+
+\begin_layout Subsubsection
+Alkalmazó
+\end_layout
+
+\begin_layout Standard
+Jele az -
+\emph on
+E-
+\emph default
+, két magánhangzónál a 
+\emph on
+-lE-
+\emph default
+.
+ Azt fejezi ki, hogy a cselekvés valaki számára, vagy valamilyen irányban
+ történik, gyakori ezért ezek közt a két tárgyas ige, amiből az első a közvetett
+, a második a közvetlen tárgy, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nilimwandikia Ali barua
+\emph default
+ (írtam egy levelet Alinak; 
+\emph on
+-andika
+\emph default
+: ír, 
+\emph on
+barua
+\emph default
+: levél), 
+\emph on
+ananichekea
+\emph default
+ (rám nevet; 
+\emph on
+-cheka
+\emph default
+: nevet).
+\end_layout
+
+\begin_layout Subsubsection
+Társas
+\end_layout
+
+\begin_layout Standard
+Jele az 
+\emph on
+-an-
+\emph default
+, és gyakran az alkalmazó képzős alakhoz teszik hozzá.
+ A képzett szónak ,,egymással'' vagy ,,össze'' jelentéstöbbletet ad.
+ Legtöbbször vagy többesszámú alannyal fordul elő, vagy ha az alany egyesszámban
+ van, akkor a másik résztvevőt az ige után a 
+\emph on
+na
+\emph default
+ (-val) partikula vezeti be, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kuta
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+kutana
+\emph default
+, 
+\emph on
+andika
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+andikia
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+andikiana
+\emph default
+, 
+\emph on
+ngoja
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ngojea
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ngojeana
+\emph default
+; 
+\emph on
+nimefurahi kuonana na wewe
+\emph default
+ (örülök, hogy találkoztunk; 
+\emph on
+-furahi
+\emph default
+: örül, 
+\emph on
+-ona
+\emph default
+: lát, találkozik), 
+\emph on
+tutasaidiana
+\emph default
+ (segíteni fogunk egymásnak; 
+\emph on
+-saidia
+\emph default
+: segít).
+\end_layout
+
+\begin_layout Subsubsection
+Műveltető
+\end_layout
+
+\begin_layout Standard
+Jele az 
+\emph on
+-Esh-
+\emph default
+ vagy az 
+\emph on
+-Ez-
+\emph default
+ (a kettő közül a legtöbb szónál csak az egyik létezik), két magánhangzónál
+ a jel 
+\emph on
+-sh-
+\emph default
+ vagy 
+\emph on
+-z-
+\emph default
+.
+ Jelentése általában műveltető, de néha csak erősítést szolgál.
+ Ezzel a képzővel néhány főnévből ill.
+\begin_inset space \space{}
+\end_inset
+
+melléknévből is lehet igét képezni.
+ A jelben van némi variáció, a leggyakoribb, hogy a 
+\emph on
+-ka
+\emph default
+ végű igék 
+\emph on
+-sha
+\emph default
+-ra változnak, a 
+\emph on
+-na
+\emph default
+ végűek pedig 
+\emph on
+-nya
+\emph default
+-ra, de ezek nem általános érvényű szabályok.
+ Példák: 
+\emph on
+-funda
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-fundisha
+\emph default
+, 
+\emph on
+-pata
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-patiza
+\emph default
+, 
+\emph on
+-elekea
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ -elekeza, \SpecialChar \nobreakdash-
+haribika
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+\SpecialChar \nobreakdash-
+haribisha
+\emph default
+, 
+\emph on
+-pona
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-ponya; nitakuamsha
+\emph default
+ (fel foglak ébreszteni; 
+\emph on
+-amka
+\emph default
+: felébred).
+\end_layout
+
+\begin_layout Subsubsection
+Állapotjelölő
+\end_layout
+
+\begin_layout Standard
+Jele az -
+\emph on
+Ek-
+\emph default
+, két magánhangzónál a 
+\emph on
+-k-
+\emph default
+.
+ Értelmileg olyan, mint a passzív, de az ágens sosincs kifejezve.
+ Állapot leírásakor általában előidejű jelennel használják, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+gari limeharibika
+\emph default
+ (az autó elromlott; 
+\emph on
+gari
+\emph default
+: autó, 
+\emph on
+-haribika
+\emph default
+: elromlik, vö.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+\SpecialChar \nobreakdash-
+haribu
+\emph default
+/
+\emph on
+-haribisha
+\emph default
+: elront, tönkretesz)
+\emph on
+, mti umeanguka
+\emph default
+ (a fa kidőlt; 
+\emph on
+mti
+\emph default
+: fa, 
+\emph on
+-anguka
+\emph default
+: leesik, vö.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+-angua/-angusha
+\emph default
+: levisz, ledob).
+ Ha az ige jelen időben van, lehetségességet fejez ki, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kinywaji hiki hakinywiki
+\emph default
+ (ez az ital nem iható; 
+\emph on
+kinywaji
+\emph default
+: ital, 
+\emph on
+-nywa
+\emph default
+: iszik).
+ Néha a társas képző is kapcsolódik hozzá, a jelentés változása nélkül,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+tumbo lake linaonekana
+\emph default
+ (látszik a hasa; 
+\emph on
+tumbo
+\emph default
+: has, 
+\emph on
+-ona
+\emph default
+: lát).
+\end_layout
+
+\begin_layout Subsubsection
+További képzők
+\end_layout
+
+\begin_layout Standard
+Vannak még más képzők is, mint az ellentétességet jelölő 
+\emph on
+-u-
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+-funga
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-fungua
+\emph default
+ (becsuk
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+kinyit), 
+\emph on
+-vaa
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+-vua
+\emph default
+ (felöltözik
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+levetkőzik) stb., de ezek elég ritkák.
+\end_layout
+
+\begin_layout Subsection
+Egyéb
+\end_layout
+
+\begin_layout Itemize
+A tő duplázása a cselekvés ismétlését vagy alaposságát jelzi, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ukatekate
+\emph default
+ (jól vágd fel; 
+\emph on
+-kata
+\emph default
+: vág)
+\end_layout
+
+\begin_layout Itemize
+A szó végére helyezett 
+\emph on
+-je
+\emph default
+ kérdést csinál az igéből, általában ,,mit?'' vagy ,,hogyan?'' értelemben,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+amesemaje
+\emph default
+ (mit mondott? 
+\emph on
+sema
+\emph default
+: mond), 
+\emph on
+utasomaje
+\emph default
+ (hogy fogod megtanulni? 
+\emph on
+-soma
+\emph default
+: tanul)
+\end_layout
+
+\begin_layout Itemize
+ha két igét kötőszavakkal (pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+na
+\emph default
+: és, 
+\emph on
+au
+\emph default
+: vagy) egymás mellé akarunk rendelni, akkor a másodikat főnévi igenév alakba
+ rakjuk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+unachokula na kunywa
+\emph default
+ (amit megeszel és megiszol; 
+\emph on
+-la
+\emph default
+: eszik, 
+\emph on
+-nywa
+\emph default
+: iszik)
+\end_layout
+
+\begin_layout Section
+Határozók
+\end_layout
+
+\begin_layout Standard
+A határozók egy része valójában KI típusú főnév, amit más főnevekből és
+ melléknevekből lehet képezni a KI csoport prefixével, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kitoto
+\emph default
+ (gyerekesen; 
+\emph on
+mtoto
+\emph default
+: gyerek), 
+\emph on
+Kiswahili
+\emph default
+ (szuahéliesen, 
+\emph on
+Mswahili
+\emph default
+: szuahéli ember).
+ Birtokos szerkezettel melléknévi erejű, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+lugha ya Kiswahili
+\emph default
+ (szuahéli nyelv; 
+\emph on
+lugha
+\emph default
+: nyelv), 
+\emph on
+mchezo wa kitoto
+\emph default
+ (gyerekes játék; 
+\emph on
+mchezo
+\emph default
+: játék).
+\end_layout
+
+\begin_layout Subsection
+Helyhatározók
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Helyhatározók"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A földrajzi nevek magukban helyhatározók, más szavakból a 
+\emph on
+-ni
+\emph default
+ utótag hozzáadásával képezhetünk határozót, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+shuleni
+\emph default
+ (iskolában; 
+\emph on
+shule
+\emph default
+: iskola).
+ Ha a hely több szóból áll, akkor ez utóbbit nem lehet megtenni, és helyette
+ a szócsoport elé helyezett 
+\emph on
+katika
+\emph default
+ vagy 
+\emph on
+kwenye
+\emph default
+ szavakkal érjük el ugyanezt, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+katika nyumba mpya
+\emph default
+ (az új házban; 
+\emph on
+nyumba
+\emph default
+: ház, 
+\emph on
+-pya
+\emph default
+: új).
+\end_layout
+
+\begin_layout Standard
+Ha viszont azt akarjuk kifejezni, hogy valami valahol van, akkor a 
+\emph on
+-wa
+\emph default
+ igéhez kell hozzácsatolni a 
+\emph on
+-po
+\emph default
+/
+\emph on
+-ko
+\emph default
+/
+\emph on
+-mo
+\emph default
+ valamelyikét.
+ Ezek rendre a PA/KU/MU csoportoknak felelnek meg, ahol a PA pontos helyet,
+ a KU körülbelüli helyet, a MU pedig valaminek a belsejét jelöli.
+ Legtöbbször nagyobb értelmi változás nélkül felcserélhetőek.
+ Példák: 
+\emph on
+alikuwapo nyumbani
+\emph default
+ (otthon volt; 
+\emph on
+nyumba
+\emph default
+: ház), 
+\emph on
+nitakuwamo chumbani
+\emph default
+ (bent leszek a szobában; 
+\emph on
+chumba
+\emph default
+: szoba).
+\end_layout
+
+\begin_layout Standard
+Ezek az utótagok nem számítanak hozzá a hangsúlyhoz.
+ Tagadáskor el is válnak az igétől, és a tagadó prefixhez csatlakoznak,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nilikuwa sipo ofisini
+\emph default
+ (nem voltam az irodában; 
+\emph on
+ofisi
+\emph default
+: iroda).
+ Az M-WA csoport egyesszámában az alany-prefix és a tagadó prefix rendhagyóan
+ 
+\emph on
+yu-
+\emph default
+ ill.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+hayu-
+\emph default
+ alakú, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+alikuwa hayupo
+\emph default
+ (nem volt itt).
+\end_layout
+
+\begin_layout Standard
+Jelenidőben az ige kiesik, és helyette csak az alany-prefix (ill.
+\begin_inset space \space{}
+\end_inset
+
+tagadó prefix) marad, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+uko wapi
+\emph default
+ (hol vagy? 
+\emph on
+wapi
+\emph default
+: hol?), 
+\emph on
+yuko Marekani
+\emph default
+ (Amerikában van; 
+\emph on
+Marekani
+\emph default
+: Amerika).
+\end_layout
+
+\begin_layout Section
+Kérdőszavak
+\end_layout
+
+\begin_layout Standard
+A legfontosabb kérdőszavak: 
+\emph on
+nini
+\emph default
+ (mi?), 
+\emph on
+nani
+\emph default
+ (ki?), 
+\emph on
+gani
+\emph default
+ (milyen?), 
+\emph on
+wapi
+\emph default
+ (hol?), 
+\emph on
+lini
+\emph default
+ (mikor?), 
+\emph on
+-ngapi
+\emph default
+ (mennyi?), 
+\emph on
+kwa nini
+\emph default
+ ill.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mbona 
+\emph default
+(miért?), 
+\emph on
+vipi
+\emph default
+ (hogyan?), 
+\emph on
+-pi
+\emph default
+ (melyik?).
+ Ezek a mondatban a válasznak megfelelő helyre kerülnek.
+ A 
+\emph on
+\SpecialChar \nobreakdash-
+ngapi
+\emph default
+ melléknév, amit többesszámmal kell egyeztetni, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mabasi mangapi
+\emph default
+ (hány busz? 
+\emph on
+basi
+\emph default
+: busz).
+ A 
+\emph on
+-pi
+\emph default
+ az alany-prefixhez kapcsolódik (M-WA egyesszámban 
+\emph on
+yupi
+\emph default
+), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kiti kipi
+\emph default
+ (melyik szék? 
+\emph on
+kiti
+\emph default
+: szék).
+ A kérdéseket a 
+\emph on
+je
+\emph default
+ szócska vezetheti be, de használata nem kötelező, pl.
+\begin_inset space \space{}
+\end_inset
+
+[
+\emph on
+je,
+\emph default
+]
+\emph on
+ choo kiko wapi
+\emph default
+ (hol a vécé? 
+\emph on
+choo
+\emph default
+: vécé).
+\end_layout
+
+\begin_layout Section
+Összehasonlítás
+\end_layout
+
+\begin_layout Standard
+Összehasonlításokat az alábbi mondatszerkezetekkel lehet kifejezni:
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+ni 
+\emph default
+...
+ 
+\emph on
+sawa na 
+\emph default
+B / A 
+\emph on
+ni 
+\emph default
+...
+ 
+\emph on
+kama 
+\emph default
+B : A és B ugyanannyira ...k, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+Ali ni mrefu sawa na Hasan
+\emph default
+ (Ali olyan nagy, mint Hasan; 
+\emph on
+-refu
+\emph default
+: hosszú, magas).
+ Az összehasonlítás alapját a 
+\emph on
+kwa
+\emph default
+ szócska vezeti be, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+gari lake ni kama gari langu kwa uwendo
+\emph default
+ (ami a sebességet illeti, az ő kocsija olyan, mint az enyém; 
+\emph on
+gari
+\emph default
+: autó, 
+\emph on
+uwendo
+\emph default
+: sebesség)
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+ni ...
+ 
+\emph default
+[
+\emph on
+zaidi
+\emph default
+] 
+\emph on
+kuliko
+\emph default
+ B : A ...bb, mint B, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+wewe ni hodari kuliko mimi
+\emph default
+ (bátrabb vagy nálam; 
+\emph on
+hodari
+\emph default
+: bátor).
+ A 
+\emph on
+kuliko
+\emph default
+ helyett lehet más szavakat is alkalmazni, mint pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kupita
+\emph default
+ vagy 
+\emph on
+kuzidi
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+ni ...
+ kuliko -ote / 
+\emph default
+A 
+\emph on
+ni ...
+ zaidi ya -ote
+\emph default
+ : A a leg...bb (szó szerint: A ...bb mindennél), pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kitabu hiki ni kizuri kuliko vyote
+\emph default
+ (ez a könyv a legjobb; 
+\emph on
+kitabu
+\emph default
+: könyv)
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+-li- ...
+ sana
+\emph default
+ : a leg...bb A (szó szerint: A, ami nagyon ...).
+ Itt a 
+\emph on
+-li-
+\emph default
+ utaló szerkezetet jelöl, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kitabu kilicho kizuri sana
+\emph default
+ (a legjobb könyv; 
+\emph on
+kitabu
+\emph default
+: könyv)
+\end_layout
+
+\begin_layout Section
+Számok
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="7">
+<features booktabs="true">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sifuri
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-moja
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-wili
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-tatu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nne
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-tano
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sita
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+40
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+saba
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nane
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tisa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kumi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ishirini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+thelathini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+arobaini
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+60
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+70
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+80
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+90
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hamsini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sitini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sabini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+themanini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tisini
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+elfu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100,000
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000,000
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+laki
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+milioni
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Számok"
+
+\end_inset
+
+Számok
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+A 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Számok"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+ táblázat felsorolja az alapszámokat.
+ Ezek gyakorlatilag melléknevek, így itt is két típus van, a prefixelhetőek
+ és a változatlanok (jövevényszavak).
+ A számokat vagy magukban használjuk, és ilyenkor a prefixelhetőek N típusú
+ prefixet kapnak (ami nem változtat az alakjukon, kivéve a 
+\emph on
+-wili
+\emph default
+ esetében, amiből 
+\emph on
+mbili
+\emph default
+ lesz), vagy egy főnévvel együtt használjuk, ilyenkor a főnév csoportjával
+ (és számával) egyeztetődik, a melléknév-egyeztetés szabályainak megfelelően.
+ Néhány példa: 
+\emph on
+watu wawili
+\emph default
+ (két ember; 
+\emph on
+mtu
+\emph default
+: ember), 
+\emph on
+kikombe kimoja
+\emph default
+ (egy bögre; 
+\emph on
+kikombe
+\emph default
+: bögre), 
+\emph on
+nyumba nne
+\emph default
+ (négy ház; 
+\emph on
+nyumba
+\emph default
+: ház), 
+\emph on
+kitabu sita
+\emph default
+ (hat könyv; 
+\emph on
+kitabu
+\emph default
+: könyv), 
+\emph on
+tembo watatu
+\emph default
+ (három elefánt; 
+\emph on
+tembo
+\emph default
+: elefánt).
+\end_layout
+
+\begin_layout Standard
+Százasokat, ezreseket stb.
+\begin_inset space \space{}
+\end_inset
+
+az alapszám után helyezett számlálóval jelezzük, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mia 
+\emph default
+nane
+\emph on
+ 
+\emph default
+(800).
+ Összetett számoknál egyszerűen a részeket egymás után rakjuk (beszédben
+ kis elválasztással), és az egyesek előtt a 
+\emph on
+na
+\emph default
+ (és) szót is beletesszük, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+elfu moja mia tisa themanini na mbili
+\emph default
+ (1982).
+ Százezres magasságnál ez (írásban) félreérthető lenne, hiszen az 500,000
+ (
+\emph on
+elfu mia tano
+\emph default
+) úgy értelmeződne, mint ha 1500 lenne, ezért ilyenkor általában az ezrest
+ hátulra rakják, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mia tano elfu
+\emph default
+ (500,000), 
+\emph on
+mia saba thelathini elfu hamsini na moja
+\emph default
+ (730,051).
+\end_layout
+
+\begin_layout Standard
+Az egyeztetés összetett számnevekben csak az egyesnél jelenhet meg, és ha
+ ez 1, akkor egyesszámú prefixet kap.
+ Két példa: 
+\emph on
+wavulana ishirini na mmoja
+\emph default
+ (21 fiatalember; 
+\emph on
+mvulana
+\emph default
+: fiatalember), 
+\emph on
+vikapu arobaini na viwili
+\emph default
+ (42 kosár; 
+\emph on
+kikapu
+\emph default
+: kosár).
+\end_layout
+
+\begin_layout Standard
+Sorszámneveket birtokos szerkezettel kapunk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+msichana wa tatu
+\emph default
+ (a harmadik kislány; 
+\emph on
+msichana
+\emph default
+: kislány), 
+\emph on
+kitanda cha sita
+\emph default
+ (a hatodik ágy; 
+\emph on
+kitanda
+\emph default
+: ágy).
+ Kivétel az ,,első'' és ,,második'', ami rendre 
+\emph on
+-a kwanza
+\emph default
+ és 
+\emph on
+-a pili
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+upendo wa kwanza
+\emph default
+ (az első szerelem; 
+\emph on
+upendo
+\emph default
+: szerelem).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Példa
+\end_layout
+
+\begin_layout Standard
+Az alábbi szöveg az első történet a 
+\emph on
+Hadithi na Vitendo
+\emph default
+ c.
+\begin_inset space \space{}
+\end_inset
+
+haladó szintű olvasókönyvből 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "vitendo"
+
+\end_inset
+
+.
+ A zárójelbe tett számok a főnévcsoportokat jelölik; GP a birtokos szerkezet
+ partikulája, LOC pedig helyhatározó.
+ A főnevekhez, melléknevekhez és igékhez fel van tüntetve a szótári alak
+ is.
+ 
+\end_layout
+
+\begin_layout Subsection
+Szöveg
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+small
+\backslash
+begin{verbatim}
+\end_layout
+
+\begin_layout Plain Layout
+
+  Mtu    na  Korongo
+\end_layout
+
+\begin_layout Plain Layout
+
+(1)ember és  (5)daru
+\end_layout
+
+\begin_layout Plain Layout
+
+  mtu    na  korongo
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+Musa alikuwa    mkulima   stadi  sana.
+ Siku  moja  aliweka    wavu
+\end_layout
+
+\begin_layout Plain Layout
+
+Musa (1)volt (1)földműves ügyes nagyon  nap  egy  (1)letett (11)háló 
+\end_layout
+
+\begin_layout Plain Layout
+
+     -[ku]wa    mkulima   stadi        siku -moja   -weka     wavu
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+     uliotengenezwa        kwa     kamba      za    kitani    shambani
+\end_layout
+
+\begin_layout Plain Layout
+
+(11)ami.(11)készítve.volt  -ból (10)kötelek (10-GP) (7)len (5)termőföldre
+\end_layout
+
+\begin_layout Plain Layout
+
+      -tengeneza                   kamba            kitani     shamba
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ mwake   ili      anasie         ndege       wote       waliokuja
+\end_layout
+
+\begin_layout Plain Layout
+
+(18)övé hogy (1)csapdába.csal (10)madarak (2)minden (2)akik.(2)jöttek
+\end_layout
+
+\begin_layout Plain Layout
+
+                  -nasa          ndege                   -[ku]ja
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+  kula      mahindi    yake.
+  Asubuhi   moja,  kunguru    wengi
+\end_layout
+
+\begin_layout Plain Layout
+
+(15)enni (6)kukoricák (6)övé (9)reggel  egy   (10)varjak (2)sok
+\end_layout
+
+\begin_layout Plain Layout
+
+-[ku]la      hindi            asubuhi  -moja   kunguru    -ingi
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ walikuja na     kutua     juu ya    wavu    ule,  na korongo
+\end_layout
+
+\begin_layout Plain Layout
+
+(2)jöttek és (15)leszállni [ -ra ] (11)háló (11)az és (5)daru
+\end_layout
+
+\begin_layout Plain Layout
+
+ -[ku]ja          -tua               wavu             korongo
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ mmoja alikuja pia.
+    Ndege      hao     wote    walinaswa
+\end_layout
+
+\begin_layout Plain Layout
+
+(1)egy (1)jött  is  (10)madarak (2)ezek (2)mind (2)megfogódtak
+\end_layout
+
+\begin_layout Plain Layout
+
+ -moja -[ku]ja         ndege                        -nasa
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+katika   wavu     ule.
+ Baada ya     muda,    Musa  akaja  kutazama
+\end_layout
+
+\begin_layout Plain Layout
+
+ -ban  (11)háló (11)az [ után ] (3)időtartam Musa (1)jött (15)nézni
+\end_layout
+
+\begin_layout Plain Layout
+
+         wavu                       muda            -ja    -tazama
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+  wavu     ule,    akamwona       korongo     amenaswa   pamoja  na 
+\end_layout
+
+\begin_layout Plain Layout
+
+(11)háló (11)az és.(1)látta.(1)őt (5)daru (1)megfogódott együtt -val
+\end_layout
+
+\begin_layout Plain Layout
+
+  wavu               -ona         korongo      -nasa
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ kunguru,  kwa hiyo   akakusudia         kuwaua          wote.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+(10)varjak [ ezért ] és.(1)készült (15)megölni.(2)őket (2)mind
+\end_layout
+
+\begin_layout Plain Layout
+
+ kunguru               -kusudia           -ua
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+Korongo     akamwambia       Musa, "Tafadhali, bwana,       niachilie,
+\end_layout
+
+\begin_layout Plain Layout
+
+(5)daru és.(1)mondta.(1)neki Musa    kérlek    (5)úr  [te]bocsáss.meg.nekem
+\end_layout
+
+\begin_layout Plain Layout
+
+korongo       -amba                            bwana         -acha
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+      usiniue.
+       Mimi     sikuja        shambani     mwako   kwa
+\end_layout
+
+\begin_layout Plain Layout
+
+(te)ne.ölj.meg.engem  én  (én)nem.jöttem (5)termőföldre (18)tiéd -val
+\end_layout
+
+\begin_layout Plain Layout
+
+        -ua          mimi    -[ku]ja         shamba
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+  kusudi     la     kuiba      mahindi    yako.
+     Nimefuatana     na
+\end_layout
+
+\begin_layout Plain Layout
+
+(5)szándék (5-GP) (15)lopni (6)kukoricák (6)tiéd (én)együtt.mentem -val
+\end_layout
+
+\begin_layout Plain Layout
+
+  kusudi             -iba       hindi                 -fuata
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+ kunguru     hawa     ili        nizungumze       nao    tu.
+     Sina
+\end_layout
+
+\begin_layout Plain Layout
+
+(10)varjak (2)ezek azért.hogy (én)beszélgessek (2)velük csak (nekem)nincs
+\end_layout
+
+\begin_layout Plain Layout
+
+ kunguru                          -zungumza
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+  shirika     nao    katika   wivi      wao."  Musa     akamwambia,
+\end_layout
+
+\begin_layout Plain Layout
+
+(5)társulás (2)velük  -ban  (14)lopás (14)övék Musa és.(1)mondta.(1)neki
+\end_layout
+
+\begin_layout Plain Layout
+
+  shirika                     wivi                         -amba
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ "Maneno    yako     yaweza    kuwa     kweli      kabisa,  rafiki   yangu
+\end_layout
+
+\begin_layout Plain Layout
+
+(6)szavak (6)tieid (6)lehetnek hogy (10)igazságok teljesen (9)barát (9)enyém
+\end_layout
+
+\begin_layout Plain Layout
+
+   neno               -weza             kweli               rafiki
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+Lakini kwa sababu      nimekukuta        upo    pamoja  na     wevi,
+\end_layout
+
+\begin_layout Plain Layout
+
+  de   [ mivel  ] (én)találtalak.téged (te-LOC) együtt -val (2)tolvajok
+\end_layout
+
+\begin_layout Plain Layout
+
+                         -kuta                                 mwivi
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+na wewe     huna         budi      kushiriki     adhabu      yao.
+\end_layout
+
+\begin_layout Plain Layout
+
+is  te  (neked)nincs (9)választás (15)társulni (9)büntetés (9)övék
+\end_layout
+
+\begin_layout Plain Layout
+
+                         budi       -shiriki     adhabu
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ Nasikitika   sana, maana     sina      /  jambo   
+\backslash
+     lolote
+\end_layout
+
+\begin_layout Plain Layout
+
+[én]sajnálom nagyon  mert (nekem)nincs  | (5)dolog |  (5)bármilyen
+\end_layout
+
+\begin_layout Plain Layout
+
+  -sikitika                             
+\backslash
+  jambo   /
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+       niwezalo              kufanya      ili         kukusaidia
+\end_layout
+
+\begin_layout Plain Layout
+
+(én)képes.vagyok.(5)amire (15)csinálni azért.hogy (15)segíteni.téged
+\end_layout
+
+\begin_layout Plain Layout
+
+        -weza                 -fanya                   -saidia
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+      usife         sasa hivi.
+    Tena     jambo   hilo litakuwa
+\end_layout
+
+\begin_layout Plain Layout
+
+(te)ne.haljál.meg [most rögtön] ráadásul (5)dolog (5)ez (5)lesz
+\end_layout
+
+\begin_layout Plain Layout
+
+    -[ku]fa                                jambo         -[ku]wa
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+  fundisho  lililo    bora    kwa    wenzio."  /                     
+\backslash
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+(5)tanulság (5)ami  nagyszerű -nak (2)társaid  | wenzio = wenzi yako |
+\end_layout
+
+\begin_layout Plain Layout
+
+  fundisho  -[ku]wa   bora           mwenzi    
+\backslash
+                     /
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+  Basi     baada ya   kusema   maneno    hayo,  Musa       akamwua
+\end_layout
+
+\begin_layout Plain Layout
+
+így.tehát [ miután ] (15)mond (6)szavak (6)ezek Musa és.(1)megölte.(1)őt
+\end_layout
+
+\begin_layout Plain Layout
+
+                       -sema    neno                         -ua
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+ yule korongo pamoja  na   kunguru    wale,  maana   mtu       yeyote
+\end_layout
+
+\begin_layout Plain Layout
+
+(1)az (5)daru együtt -val (10)varjak (2)azok  mert (1)ember (1)bármilyen
+\end_layout
+
+\begin_layout Plain Layout
+
+      korongo              kunguru
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+    aliyezoea        kufuatana      na        waovu       na yeye mwenyewe
+\end_layout
+
+\begin_layout Plain Layout
+
+(1)aki.(1)szokott (15)együtt.menni -val (2)gonosz.emberek is  ő   (1)maga
+\end_layout
+
+\begin_layout Plain Layout
+
+      -zoea           -fuata                  mwovu
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+   atahesabiwa        mwovu      pia hata kama,   kwa kweli,   ni  mwema.
+\end_layout
+
+\begin_layout Plain Layout
+
+(1)lesz.számítva (1)gonosz.ember  is  még  ha   [ valójában ] (CP) (1)jó
+\end_layout
+
+\begin_layout Plain Layout
+
+     -hesabu          mwovu                                         -ema
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{verbatim}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Fordítás
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Az ember és a daru
+\end_layout
+
+\begin_layout Standard
+Musza nagyon talpraesett gazda volt.
+ Egy nap letett egy lenkötélből készített hálót a termőföldjére, hogy elfogjon
+ minden madarat, ami a kukoricáját jön megenni.
+ Egy reggel sok varjú jött és leszálltak a hálóra.
+ Jött velük egy daru is.
+ Ezek a madarak mind beleakadtak a hálóba.
+ Egy idő után jött Musza, hogy megnézze a hálót, és látta, hogy egy daru
+ beleakadt a varjakkal együtt, és így meg akarta őket mind ölni.
+\end_layout
+
+\begin_layout Standard
+Mondta a daru Muszának: ,,Kérlek, uram, bocsáss meg, ne ölj meg.
+ Én nem azért jöttem a földedre, hogy ellopjam a kukoricádat.
+ Csak azért mentem együtt a varjakkal, hogy beszélgessek velük.
+ Nincs részem a lopásban.'' Musza azt mondta: ,,A szavaid lehet, hogy teljesen
+ igazak, barátom.
+ De mivel én tolvajokkal együtt találtalak téged, ezért neked is muszáj
+ kivenned a részed a büntetésükből.
+ Nagyon sajnálom, de nem tehetek semmit, hogy segítsek rajtad és ne halj
+ meg most rögtön.
+ Jó tanulság lesz ez majd a társaidnak.''
+\end_layout
+
+\begin_layout Standard
+Ezért miután így szólt, Musza megölte a darvat a varjakkal együtt.
+ Mert az embert, ha gonoszakkal együtt szokott lenni, őt magát is gonosznak
+ nézik, még ha valójában jó is.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "teach-yourself"
+
+\end_inset
+
+Joan Russell, 
+\emph on
+Teach Yourself Swahili 2nd Ed.
+\emph default
+, McGraw-Hill, 2003.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "colloquial"
+
+\end_inset
+
+Lutz Marten, Donovan Lee McGrath, 
+\emph on
+Colloquial Swahili 2nd Ed
+\emph default
+, Routledge, 2011.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "living-language"
+
+\end_inset
+
+Living Language,
+\emph on
+ Swahili
+\emph default
+, Living Language, 2007.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "handbook"
+
+\end_inset
+
+Edgar C.
+ Polome, 
+\emph on
+Swahili Language Handbook
+\emph default
+, Center for Applied Linguistics, Washington, 1967.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "exercises"
+
+\end_inset
+
+Edward Steere, 
+\emph on
+Swahili Exercises
+\emph default
+, G.
+ Bell, London, 1882.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "reference-grammar"
+
+\end_inset
+
+Katrina Daly Thompson, Antonia Folarin Scheicher, 
+\emph on
+Swahili Learners' Reference Grammar 2nd Ed.
+\emph default
+, Nalrc Press, 2004.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "magyar-szotar"
+
+\end_inset
+
+Füssi Nagy Géza, 
+\emph on
+Szuahéli--Magyar / Magyar--Szuahéli kéziszótár
+\emph default
+, Nemzeti Tankönyvkiadó, 1998.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "krapf-szotar"
+
+\end_inset
+
+L.
+ Krapf, 
+\emph on
+A Dictionary of the Suahili Language
+\emph default
+, Trübner and Co., London, 1882.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "madan-szotar"
+
+\end_inset
+
+A.
+ C.
+ Madan, 
+\emph on
+Swahili--English / English--Swahili Dictionary
+\emph default
+, Clarendon Press, Oxford, 1902--1903.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "steere-szotar"
+
+\end_inset
+
+Edward Steere, A.
+ C.
+ Madan, 
+\emph on
+A Handbook of the Swahili Language as Spoken at Zanzibar
+\emph default
+, Society for Promoting Christian Knowledge, London, 1919.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "rough-guide"
+
+\end_inset
+
+Lexus, 
+\emph on
+The Rough Guide Swahili Phrasebook 3rd Ed.
+\emph default
+, Rough Guides, 2006.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "kamusi"
+
+\end_inset
+
+http://www.kamusi.org/
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "masomo"
+
+\end_inset
+
+Ann Biersteker, 
+\emph on
+Masomo ya Kisasa
+\emph default
+, Africa World Press, 2004.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "swahili-mesek"
+
+\end_inset
+
+Edward Steere, 
+\emph on
+Swahili Tales as Told by Natives of Zanzibar with an English Translation
+\emph default
+, Bell & Daldy, London, 1870.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "arab-mesek"
+
+\end_inset
+
+
+\emph on
+Swahili Stories from Arab Sources with an English Translation
+\emph default
+, Zanzibar, 1881.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "vitendo"
+
+\end_inset
+
+David E.
+ Diva, 
+\emph on
+Hadithi na Vitendo I-IV
+\emph default
+, University of London Press, 1965.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "prosa-und-poesie"
+
+\end_inset
+
+C.
+ Velten, 
+\emph on
+Prosa und Poesie der Suaheli
+\emph default
+, Berlin, 1907.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "marchen"
+
+\end_inset
+
+C.
+ Velten, 
+\emph on
+Märchen und Erzählungen der Suaheli
+\emph default
+, W.
+ Spemann, Stuttgart & Berlin, 1898.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "safari"
+
+\end_inset
+
+C.
+ Velten, 
+\emph on
+Safari za Wasuaheli
+\emph default
+, Vandenboed & Ruprecht, Göttingen, 1901.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "alice"
+
+\end_inset
+
+Lewis Carroll, St.
+ Lo.
+ de Malet, 
+\emph on
+Elisi katika Nchi ya Ajabu
+\emph default
+, Sheldon Press, London, 1967.
+\end_layout
+
+\end_body
+\end_document
