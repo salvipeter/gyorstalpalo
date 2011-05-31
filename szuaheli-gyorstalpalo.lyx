@@ -5203,6 +5203,13 @@ nakwenda
 
 \begin_layout Subsection
 Azonosság, különbözőség, létezés és birtoklás
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Azonosság,-különbözőség,-létezés"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5748,6 +5755,10 @@ Valószínűtlen és lehetetlen feltételezésnél mind a feltételben, mind az
 -li
 \emph default
 -) való összevonása: 
+\emph on
+-ngeli-
+\emph default
+ vagy 
 \emph on
 -ngali
 \emph default
@@ -6517,6 +6528,13 @@ táblázat foglalja össze.
 
 \begin_layout Subsubsection
 Passzív
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Passzív"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6695,6 +6713,13 @@ ananichekea
 
 \begin_layout Subsubsection
 Társas
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Társas"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -7460,6 +7485,170 @@ choo
 \end_layout
 
 \begin_layout Section
+Partikulák
+\end_layout
+
+\begin_layout Standard
+Egy fontos partikulát, a 
+\emph on
+na
+\emph default
+-t, már több funkcióban is láttunk: birtoklás/létezés- (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Azonosság,-különbözőség,-létezés"
+
+\end_inset
+
+), ágens- (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Passzív"
+
+\end_inset
+
+) és társjelölőként (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Társas"
+
+\end_inset
+
+).
+ Ezen kívül ,,és'' és ,,is'' értelme is van.
+ Ki lehet egészíteni a személyes névmások felével (
+\emph on
+mi
+\emph default
+, 
+\emph on
+we
+\emph default
+, 
+\emph on
+ye
+\emph default
+, 
+\emph on
+si
+\emph default
+, 
+\emph on
+nyi
+\emph default
+, 
+\emph on
+o
+\emph default
+) vagy az utaló infix-szel, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nawe
+\emph default
+ (általad / veled / és te / te is), 
+\emph on
+nina
+\emph default
+[
+\emph on
+cho
+\emph default
+]
+\emph on
+ kitabu
+\emph default
+ (van könyvem; 
+\emph on
+kitabu
+\emph default
+: könyv).
+\end_layout
+
+\begin_layout Standard
+Egy másik gyakran használt partikula a 
+\emph on
+kwa
+\emph default
+, ami magában legtöbbször eszközhatározó, de rengeteg kifejezésben is szerepel,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kula kwa uma na kisu
+\emph default
+ (késsel-villával enni; 
+\emph on
+-la
+\emph default
+: eszik, 
+\emph on
+uma
+\emph default
+: villa, 
+\emph on
+kisu
+\emph default
+: kés), 
+\emph on
+kwa kawaida
+\emph default
+ (általában; 
+\emph on
+kawaida
+\emph default
+: szokásos dolog).
+\end_layout
+
+\begin_layout Standard
+Végül megemlítendő még a 
+\emph on
+ndi-
+\emph default
+ partikula, ami mindig kap valamilyen utótagot (személyes névmás felét vagy
+ utaló infixet).
+ Ez kiemeli a jelzett szót, tehát ,,éppen az a 
+\begin_inset Formula $\dots$
+\end_inset
+
+''-nak fordítható.
+ Tagadó változata a 
+\emph on
+si-
+\emph default
+, ami hasonlóan használható.
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ndiye
+\emph default
+ (éppen ő), 
+\emph on
+ndiyo
+\emph default
+ (éppen az [N] / igen), 
+\emph on
+siyo
+\emph default
+ (nem az [N] / nem); 
+\emph on
+ndimi unayemtafuta 
+\emph default
+(én vagyok az, akit keresel; 
+\emph on
+-tafuta
+\emph default
+: keres).
+\end_layout
+
+\begin_layout Section
 Összehasonlítás
 \end_layout
 
@@ -7577,7 +7766,7 @@ A
 ni ...
  zaidi ya -ote
 \emph default
- : A a leg...bb (szó szerint: A ...bb mindennél), pl.
+ : A a leg...bb (lit: A ...bb minden A típusú dolognál), pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7598,7 +7787,8 @@ A
 -li- ...
  sana
 \emph default
- : a leg...bb A (szó szerint: A, ami nagyon ...).
+ : a leg...bb A (lit: nagyon ...
+ A).
  Itt a 
 \emph on
 -li-
@@ -8270,11 +8460,11 @@ az alapszám után helyezett számlálóval jelezzük, pl.
 
 
 \emph on
-mia 
+mia
 \emph default
-nane
-\emph on
  
+\emph on
+nane 
 \emph default
 (800).
  Összetett számoknál egyszerűen a részeket egymás után rakjuk (beszédben
@@ -8282,7 +8472,7 @@ nane
 \emph on
 na
 \emph default
- (és) szót is beletesszük, pl.
+ (és) partikulát is beletesszük, pl.
 \begin_inset space \space{}
 \end_inset
 
