@@ -103,14 +103,25 @@ key "handbook,exercises"
 \emph on
 Swahili Learners' Reference Grammar
 \emph default
--ban 
+ 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "reference-grammar"
 
 \end_inset
 
-.
+ és a 
+\emph on
+Modern Swahili Grammar
+\emph default
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "modern-grammar"
+
+\end_inset
+
+ könyvekben.
 \end_layout
 
 \begin_layout Standard
@@ -163,7 +174,7 @@ A hivatkozásokban található ezenkívül egy felsorolás egyszerű olvasmányo
  a lelkes olvasóknak 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "masomo,swahili-mesek,arab-mesek,vitendo,prosa-und-poesie,marchen,safari,alice"
+key "masomo,swahili-mesek,arab-mesek,vitendo,prosa-und-poesie,marchen,alice"
 
 \end_inset
 
@@ -9291,6 +9302,28 @@ Swahili Learners' Reference Grammar 2nd Ed.
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "modern-grammar"
+
+\end_inset
+
+M.
+\begin_inset space \space{}
+\end_inset
+
+A.
+\begin_inset space \space{}
+\end_inset
+
+Mohammed, 
+\emph on
+Modern Swahili Grammar
+\emph default
+, East African Educational Publishers, 2001.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "magyar-szotar"
 
 \end_inset
@@ -9459,21 +9492,6 @@ Märchen und Erzählungen der Suaheli
 \emph default
 , W.
  Spemann, Stuttgart & Berlin, 1898.
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "safari"
-
-\end_inset
-
-C.
- Velten, 
-\emph on
-Safari za Wasuaheli
-\emph default
-, Vandenboed & Ruprecht, Göttingen, 1901.
 \end_layout
 
 \begin_layout Bibliography
