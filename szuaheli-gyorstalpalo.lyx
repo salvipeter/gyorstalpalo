@@ -3842,7 +3842,7 @@ v-
 \emph on
 w
 \emph default
-- kezdetű szavaknála prefixum 
+- kezdetű szavaknál a prefixum 
 \emph on
 m-
 \emph default
@@ -4225,7 +4225,7 @@ nimekaa
 placement t
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
