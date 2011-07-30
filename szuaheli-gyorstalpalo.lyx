@@ -121,7 +121,7 @@ key "modern-grammar"
 
 \end_inset
 
- könyvekben.
+ című művekben.
 \end_layout
 
 \begin_layout Standard
@@ -616,10 +616,7 @@ n
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $ng^{3}$
-\end_inset
-
-
+ng
 \end_layout
 
 \end_inset
@@ -987,7 +984,7 @@ kh
 \emph on
 gh
 \emph default
- hörgő hangok, a francia 
+ hörgő hangok hátul a nyelvcsapnál, a francia 
 \emph on
 r 
 \emph default
@@ -1020,10 +1017,6 @@ mint a
 mangalica
 \emph default
  szóban, de a 
-\emph on
-ng'
-\emph default
- hangnál a 
 \emph on
 g
 \emph default
@@ -1061,11 +1054,11 @@ th, dh, kh
 \emph on
 gh
 \emph default
- hangokat beszélőtől ill.
+ hangoknál beszélőtől ill.
 \begin_inset space \space{}
 \end_inset
 
-helytől függően van, amikor máshogy ejtik, ld.
+helytől függően eltérő kiejtések is léteznek, ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -1084,6 +1077,23 @@ mtu
 njema
 \emph default
  stb.
+\end_layout
+
+\begin_layout Standard
+Bizonyos szavakban a 
+\emph on
+p
+\emph default
+, 
+\emph on
+t
+\emph default
+, 
+\emph on
+k
+\emph default
+ mássalhangzók hehezetes változatai is előfordulnak, de ez a különbség írásban
+ nem jelenik meg, és jelentés-megkülönböztető szerepe csak ritkán van.
 \end_layout
 
 \begin_layout Standard
@@ -1108,13 +1118,25 @@ Főnevek
 \end_layout
 
 \begin_layout Standard
-A szuahéli nyolc csoportra osztja a főneveket, és ez a csoportosítás legtöbbször
- a szó elején meg is jelenik.
- Ez a prefix többesszámban megváltozik, így a csoportokat az egyesszám és
- többesszám prefixével szokás jellemezni, vagy az ezekhez tartozó egyezményes
- számokkal.
- Lássunk egy felsorolást, szögletes zárójelben a leggyakoribb kapcsolódó
- témával:
+A szuahéli nyolc csoportra osztja a főneveket, és a csoporthoz való tartozás
+ egy prefixum formájában általában meg is jelenik.
+ Ez a prefixum többesszámban megváltozik, így a csoportokat az egyesszám
+ és többesszám prefixumával szokás jellemezni, vagy az ezekhez tartozó egyezmény
+es számokkal
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Ezek a számok osztályozzák a bantu nyelvcsalád nyelveiben megtalálható összes
+ főnévcsoportot --- ezek közül nem mindegyik jelenik meg a szuahéliben,
+ ez az oka, hogy az alábbiakban nincsen szó 12-es és 13-as csoportról.
+\end_layout
+
+\end_inset
+
+.
+ Lássunk egy felsorolást, szögletes zárójelben jelölve, hogy elsősorban
+ milyen jelentésű főnevek tartoznak az egyes csoportokhoz:
 \end_layout
 
 \begin_layout Itemize
@@ -1126,10 +1148,11 @@ M-WA (1/2): [állatok és (főleg) emberek] pl.
 \emph on
 mtu/watu
 \emph default
- (ember), Mhungaria/Wahungaria (magyar ember) --- magánhangzó előtt a prefix
+ (ember), Mhungaria/Wahungaria (magyar ember) --- magánhangzó előtt a prefixum
  
 \emph on
-mw-/w-
+mw\SpecialChar \-
+/w-
 \emph default
  (de van, hogy többesszámban megtartja a 
 \emph on
@@ -1163,14 +1186,14 @@ mti/miti
 \emph on
 mchungwa/ michungwa
 \emph default
- (narancsfa) --- magánhangzó előtt a prefix 
+ (narancsfa) --- magánhangzó előtt a prefixum 
 \emph on
 mw-/mi-
 \emph default
 , pl.
- 
+
 \emph on
-mwezi/ miezi
+ mwezi/miezi
 \emph default
  (Hold, hónap)
 \end_layout
@@ -1182,22 +1205,18 @@ JI-MA (5/6): [nagy dolgok] pl.
 \begin_inset space \space{}
 \end_inset
 
-
-\emph default
- 
-\emph on
-jicho/macho
-\emph default
- (szem), 
-\emph on
 jiwe/mawe
 \emph default
  (kő, szik\SpecialChar \-
-la) --- a 
+la), 
+\emph on
+jicho/macho
+\emph default
+ (szem) --- a 
 \emph on
 ji-
 \emph default
- prefix sok szóban nem szerepel, pl.
+ prefixum sok szóban nem szerepel, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -1238,14 +1257,14 @@ kiatu/viatu
 \emph on
 i
 \emph default
--től különböző magánhangzó előtt a prefix 
+-től különböző magánhangzó előtt a prefixum 
 \emph on
 ch-/vy-
 \emph default
 , pl.
  
 \emph on
-choo/vyoo
+choo/ vyoo
 \emph default
  (vécé)
 \end_layout
@@ -1263,7 +1282,7 @@ ng'ombe/ng'ombe
 \emph on
 mvua/ mvua
 \emph default
- (eső) --- a prefix meghatározása elég bonyolult (ld.
+ (eső) --- a prefixum meghatározása elég bonyolult (ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -1327,7 +1346,7 @@ KU (15): [főnévi igenevek] pl.
 \emph on
 kula 
 \emph default
-(enni) --- magánhangzó előtt a prefix 
+(enni) --- magánhangzó előtt a prefixum 
 \emph on
 kw-
 \emph default
@@ -2128,7 +2147,7 @@ UI
 \begin_inset Text
 
 \begin_layout Plain Layout
-E
+EP
 \end_layout
 
 \end_inset
@@ -2732,9 +2751,9 @@ mw-
 \begin_inset Caption
 
 \begin_layout Plain Layout
-A főnévcsoportok jellemzői (P: főnév-prefix, MP: melléknév-prefix, AP: alany-pre
-fix, TI: tárgy-infix, TP: tagadó prefix, UI: utaló infix, E: egyeztetés,
- MN: mutató névmások)
+A főnévcsoportok jellemzői (P: főnév-prefixum, MP: melléknév-prefixum, AP:
+ alany-prefixum, TI: tárgy-infixum, TP: tagadó prefixum, UI: utaló infixum,
+ EP: egyeztető prefixum, MN: mutató névmások)
 \begin_inset CommandInset label
 LatexCommand label
 name "tab:A-főnévcsoportok-jellemzői"
@@ -2767,7 +2786,7 @@ reference "tab:A-főnévcsoportok-jellemzői"
 \end_inset
 
 táblázat összefoglalja, hogy mit kell tudni az egyes csoportokról.
- A P (prefix) oszlopról már volt szó; a többi oszlop tartalmát az alábbiakban
+ A P (prefixum) oszlopról már volt szó; a többi oszlop tartalmát az alábbiakban
  különböző pontok tárgyalják.
 \end_layout
 
@@ -2776,8 +2795,8 @@ Birtokos szerkezet
 \end_layout
 
 \begin_layout Standard
-A birtokviszonyt a táblázat E (egyeztetés) oszlopában látható prefixek és
- az -
+A birtokviszonyt a táblázat EP (egyeztető prefixum) oszlopában látható prefixumo
+k és az -
 \emph on
 a
 \emph default
@@ -2836,11 +2855,11 @@ kikapu
 
 \begin_layout Standard
 Az N csoportba tartozó főnevek közt sok olyan van, ami állatot jelöl, ezek
- egyesszámban az M-WA csoportúakhoz hasonlóan 
+ egyesszámban az M-WA csoportúakhoz hasonlóan a birtokos szerkezetben 
 \emph on
 w-
 \emph default
- prefixet kapnak.
+ prefixumot használnak.
 \end_layout
 
 \begin_layout Section
@@ -2853,6 +2872,7 @@ Személyes névmások
 
 \begin_layout Standard
 \begin_inset Float table
+placement b
 wide false
 sideways false
 status collapsed
@@ -3277,8 +3297,8 @@ name "tab:A-személyes-névmások"
 
 \end_inset
 
-(SzN: személyes névmás, BN: birtokos névmás, AP: alany-prefix, TI: tárgy-infix,
- TP: tagadó prefix)
+(SzN: személyes névmás, BN: birtokos névmás, AP: alany-prefixum, TI: tárgy-infix
+um, TP: tagadó prefixum)
 \end_layout
 
 \end_inset
@@ -3319,6 +3339,41 @@ watoto wangu
 mtoto
 \emph default
 : gyerek).
+ Ezek a családtagokat kifejező főnevekkel gyakran összevonódnak, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+dadake
+\emph default
+ (a nővére; 
+\emph on
+dada
+\emph default
+: nővér), 
+\emph on
+mamangu
+\emph default
+ (az anyám; 
+\emph on
+mama
+\emph default
+: anya).
+ Személynevek előtt (elsősorban rokoni kapcsolatoknál) az egyesszám harmadik
+ személyű birtokos névmás gyakran átveszi a birtokos szócska szerepét, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+baba yake Ali
+\emph default
+ (Ali apja; 
+\emph on
+baba
+\emph default
+: apa).
 \end_layout
 
 \begin_layout Subsection
@@ -3348,11 +3403,15 @@ táblázat): ,,ez'', ,,az'' és ,,az, amiről már beszéltünk''.
 \end_inset
 
 magánhangzó.
- Az első kettő (a 
+ Az első két alak (a 18.
+\begin_inset space ~
+\end_inset
+
+csoportú 
 \emph on
 mle 
 \emph default
-kivételével) minden csoportban szabályos, de a harmadik típusban az 
+kivételével) minden csoportban szabályos, de a harmadik alaknál az 
 \emph on
 o
 \emph default
@@ -3383,20 +3442,6 @@ kidole
 huyu huyu
 \emph default
  (éppen ő).
- Az egyesszám harmadik személyű birtokos névmás után közvetlenül be lehet
- rakni magát a jelzett főnevet is, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-baba yake Ali
-\emph default
- (Ali apja; 
-\emph on
-baba
-\emph default
-: apa).
 \end_layout
 
 \begin_layout Section
@@ -3404,7 +3449,7 @@ Melléknevek
 \end_layout
 
 \begin_layout Standard
-Két fajta melléknév van, attól függően, hogy lehet-e hozzá prefixet csatolni
+Két fajta melléknév van, attól függően, hogy lehet-e hozzá prefixumot csatolni
  (a jövevényszavakhoz általában nem).
  Ha nem, akkor egyszerűen csak a jelzett főnév után kell tenni, pl.
 \begin_inset space \space{}
@@ -3423,8 +3468,8 @@ simba
 hodari
 \emph default
 : bátor).
- Ha azonban lehet, akkor a csoportnak megfelelő melléknévprefixet elé kell
- tenni (ld.
+ Ha azonban lehet, akkor a csoportnak megfelelő melléknévprefixumot elé
+ kell tenni (ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -3459,8 +3504,8 @@ mto
 \end_layout
 
 \begin_layout Standard
-Itt sajnos a kapcsolódások szabályai nem annyira letisztultak, különösen
- az N csoport prefix-rendszere bonyolult:
+Itt a kapcsolódások szabályai kicsit bonyolultabbak, különösen az N csoport
+ prefixum-rendszere elég összetett:
 \end_layout
 
 \begin_layout Itemize
@@ -3472,7 +3517,7 @@ m-/wa-
 \emph on
 mw-/we-
 \emph default
- és ez utóbbi elnyeli a magánhangzót, pl.
+ és ez utóbbi elnyeli a következő magánhangzót, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -3568,7 +3613,7 @@ magánhangzó előtt pedig
 \emph on
 j-/me-
 \emph default
- és ez utóbbi elnyeli a magánhangzót, pl.
+ és ez utóbbi elnyeli a következő magánhangzót, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -3637,7 +3682,11 @@ ng'ombe mkubwa
 \emph on
 ng'ombe
 \emph default
-: tehén); egyébként ld.
+: tehén, 
+\emph on
+-kubwa
+\emph default
+: nagy); egyébként ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -3669,7 +3718,7 @@ KU, PA/KU/MU: szabályosak
 \end_layout
 
 \begin_layout Subsection
-Az N csoportbeli főnevek/melléknevek prefixei
+Az N csoportbeli főnevek/melléknevek prefixumai
 \begin_inset CommandInset label
 LatexCommand label
 name "sub:N-csoportbeli-melléknevek"
@@ -3680,7 +3729,7 @@ name "sub:N-csoportbeli-melléknevek"
 \end_layout
 
 \begin_layout Itemize
-Az idegen szavaknak, valamint a 
+Az idegen szavak, valamint a 
 \emph on
 p-
 \emph default
@@ -3704,7 +3753,8 @@ k-
 \emph on
 t-
 \emph default
- kezdetű szavaknak nincsen, kivéve, ha egy szótagú, mert ilyenkor 
+ kezdetű szavak nem használnak prefixumot, kivéve, ha egy szótagú, mert
+ ilyenkor 
 \emph on
 n
 \emph default
@@ -3752,11 +3802,11 @@ m-
 \emph on
 ng-
 \emph default
- kezdetű szavaknak nincsen
+ kezdetű szavak nem használnak prefixumot
 \end_layout
 
 \begin_layout Itemize
-Magánhangzóval kezdődő szavaknál 
+Magánhangzóval kezdődő szavaknál a prefixum 
 \emph on
 ny-
 \emph default
@@ -3792,7 +3842,7 @@ v-
 \emph on
 w
 \emph default
-- kezdetű szavaknál 
+- kezdetű szavaknála prefixum 
 \emph on
 m-
 \emph default
@@ -3840,7 +3890,7 @@ z-
 \emph on
 g-
 \emph default
- kezdetű szavaknál 
+ kezdetű szavaknál a prefixum 
 \emph on
 n-
 \emph default
@@ -3872,7 +3922,7 @@ l-
 \emph on
 r-
 \emph default
- kezdetű szavaknál szintén 
+ kezdetű szavaknál a prefixum szintén 
 \emph on
 n-
 \emph default
@@ -3908,8 +3958,8 @@ Más egyeztetések
 \end_layout
 
 \begin_layout Standard
-Van néhány fontos szó, amelyeket úgy kell egyeztetni, mint a birtokos szerkezete
-t.
+Van néhány fontos szó, amelyeknél nem a melléknév-prefixumot, hanem az egyeztető
+ prefixumot kell használni.
  Ezek a következők:
 \end_layout
 
@@ -3946,7 +3996,11 @@ kitabu
 \emph on
 chakula chochote
 \emph default
- (bármilyen étel), de M-WA esetén 
+ (bármilyen étel; 
+\emph on
+chakula
+\emph default
+: étel), de M-WA esetén 
 \emph on
 yeyote
 \emph default
@@ -4010,10 +4064,168 @@ Igék
 \end_layout
 
 \begin_layout Standard
+A szuahéli igealakok több, általában egy vagy két szótagos darabból állnak
+ össze.
+ Ezek segítségével sok igeidő és mód képezhető, amelyeket a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Igeidők-és-módok"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat foglal össze.
+ Az igék szótári alakja vagy 
+\emph on
+töve
+\emph default
+ (a jövevényszavak kivételével) 
+\emph on
+-a
+\emph default
+ végű, a teljes képlet:
+\begin_inset Formula \[
+\textrm{alany-prefix}+\textrm{idő-infix}+\left[\textrm{utaló infix}\right]+\left[\textrm{tárgy-infix}\right]+\textrm{tő}+\left[\textrm{képző-szuffix}\right]*,\]
+
+\end_inset
+
+ahol a csillag azt jelöli, hogy a képzőkből lehet több is.
+ Tagadásban az alany-prefixumot a tagadó prefixum váltja fel (ezek harmadik
+ személyben az alany csoportjától függnek, de élőlényeknél mindig M-WA csoportún
+ak számítanak).
+ A szögletes zárójelbe tett részek elhagyhatóak, úgyhogy egyelőre ne is
+ foglalkozzunk velük, hanem nézzük meg az egyszerűbb alakokat.
+\end_layout
+
+\begin_layout Subsection
+Jelen
+\end_layout
+
+\begin_layout Standard
+A jelenidő infixuma 
+\emph on
+-na-
+\emph default
+, tagadáskor az idő-infixum kiesik, és a tő végén levő 
+\emph on
+-a
+\emph default
+ átváltozik 
+\emph on
+-i
+\emph default
+-re (ha nem 
+\emph on
+-a
+\emph default
+ volt, nem történik semmi).
+ Egyesszám első személyben az alany-prefixum elmaradhat.
+ Példák az 
+\emph on
+-imba
+\emph default
+ (énekel) és 
+\emph on
+-safiri
+\emph default
+ (utazik) igékkel: [
+\emph on
+ni
+\emph default
+]
+\emph on
+naimba
+\emph default
+ (énekelek), 
+\emph on
+siimbi
+\emph default
+ (nem énekelek), 
+\emph on
+anaimba
+\emph default
+ (énekel), 
+\emph on
+haimbi
+\emph default
+ (nem énekel), 
+\emph on
+tunasafiri
+\emph default
+ (utazunk), 
+\emph on
+hamsafiri
+\emph default
+ (nem utaztok).
+ 
+\end_layout
+
+\begin_layout Subsection
+Perfektum
+\end_layout
+
+\begin_layout Standard
+A perfektum előidejűséget fejez ki, infixuma a 
+\emph on
+-me-
+\emph default
+ (vagy 
+\emph on
+-mesha-
+\emph default
+ / 
+\emph on
+-mesha ku-
+\emph default
+ / 
+\emph on
+-mekwisha ku-
+\emph default
+, minél hosszabb annál erősebb benne a ,,már'' töltet).
+ Tagadáskor az idő-infixum 
+\emph on
+-ja-
+\emph default
+ra változik.
+ Példa a 
+\emph on
+-leta
+\emph default
+ (hoz) igével: 
+\emph on
+tumeleta
+\emph default
+ (elhoztuk), 
+\emph on
+wamesha kuleta
+\emph default
+ (már elhozták), 
+\emph on
+hujaleta
+\emph default
+ (még nem hoztad el).
+ Az állapotváltozást kifejező igéknél ez az igeidő fejezi ki azt, hogy a
+ változás bekövetkezett és az eredmény továbbra is fennáll, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nimekaa
+\emph default
+ (ülök; 
+\emph on
+-kaa
+\emph default
+: leül).
 \begin_inset Float table
+placement t
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -4119,7 +4331,7 @@ AP-si-UI-[TI]-...
 \begin_inset Text
 
 \begin_layout Plain Layout
-Előidejű jelen
+Perfektum
 \end_layout
 
 \end_inset
@@ -4255,7 +4467,7 @@ TP-ku-[UI]-[TI]-...
 \begin_inset Text
 
 \begin_layout Plain Layout
-Szokás
+Habituális
 \end_layout
 
 \end_inset
@@ -4343,7 +4555,7 @@ AP-si-[TI]-...e
 \begin_inset Text
 
 \begin_layout Plain Layout
-Szekvencia
+Szekvenciális
 \end_layout
 
 \end_inset
@@ -4431,7 +4643,7 @@ AP-sipo-[TI]-...
 \begin_inset Text
 
 \begin_layout Plain Layout
-Valószínűtlen felt.
+Valószínűtlen jelen
 \end_layout
 
 \end_inset
@@ -4468,7 +4680,7 @@ singe
 \begin_inset Text
 
 \begin_layout Plain Layout
-Lehetetlen felt.
+Valószínűtlen múlt
 \end_layout
 
 \end_inset
@@ -4547,8 +4759,12 @@ name "tab:Igeidők-és-módok"
 
 \end_inset
 
- (AP: alany-prefix, TP: tagadó prefix, UI: utaló infix, TI: tárgy-infix;
- a dőlt betűvel szedett infixek nem kaphatnak hangsúlyt)
+ --- a dőlt betűvel szedett infixumok nem kaphatnak hangsúlyt; a csillaggal
+ jelzett prefixumnál összevonások lépnek fel (AP:
+\begin_inset space ~
+\end_inset
+
+alany-prefixum, TP: tagadó prefixum, UI: utaló infixum, TI: tárgy-infixum)
 \end_layout
 
 \end_inset
@@ -4558,162 +4774,7 @@ name "tab:Igeidők-és-módok"
 
 \end_inset
 
-A szuahéli igealakok több, általában egy vagy két szótagos darabból állnak
- össze.
- Ezek segítségével sok igeidő és mód képezhető, amelyeket a 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Igeidők-és-módok"
 
-\end_inset
-
-.
-\begin_inset space \space{}
-\end_inset
-
-táblázat foglal össze.
- Az igék szótári alakja vagy 
-\emph on
-töve
-\emph default
- (a jövevényszavak kivételével) 
-\emph on
--a
-\emph default
- végű, a teljes képlet:
-\begin_inset Formula \[
-\textrm{alany-prefix}+\textrm{idő-infix}+\left[\textrm{utaló infix}\right]+\left[\textrm{tárgy-infix}\right]+\textrm{tő}+\left[\textrm{képző-szuffix}\right]*,\]
-
-\end_inset
-
-ahol a tagadásban az alany-prefixet a tagadó prefix váltja fel (ezek harmadik
- személyben az alany csoportjától függnek, de élőlényeknél mindig M-WA csoportún
-ak számítanak).
- A szögletes zárójelbe tett részek elhagyhatóak, úgyhogy egyelőre ne is
- foglalkozzunk velük, hanem nézzünk meg az egyszerűbb alakokat.
-\end_layout
-
-\begin_layout Subsection
-Jelen
-\end_layout
-
-\begin_layout Standard
-A jelenidő infixe 
-\emph on
--na-
-\emph default
-, tagadáskor az idő-infix kiesik, és a tő végén levő 
-\emph on
--a
-\emph default
- átváltozik 
-\emph on
--i
-\emph default
--re (ha nem 
-\emph on
--a
-\emph default
- volt, nem történik semmi).
- Egyesszám első személyben az alany-prefix elmaradhat.
- Példák az 
-\emph on
--imba
-\emph default
- (énekel) és 
-\emph on
--safiri
-\emph default
- (utazik) igékkel: [
-\emph on
-ni
-\emph default
-]
-\emph on
-naimba
-\emph default
- (énekelek), 
-\emph on
-siimbi
-\emph default
- (nem énekelek), 
-\emph on
-anaimba
-\emph default
- (énekel), 
-\emph on
-haimbi
-\emph default
- (nem énekel), 
-\emph on
-tunasafiri
-\emph default
- (utazunk), 
-\emph on
-hamsafiri
-\emph default
- (nem utaztok).
- 
-\end_layout
-
-\begin_layout Subsection
-Előidejű jelen
-\end_layout
-
-\begin_layout Standard
-Az előidejű jelen infixe 
-\emph on
--me-
-\emph default
- (vagy 
-\emph on
--mesha-
-\emph default
- / 
-\emph on
--mesha ku-
-\emph default
- / 
-\emph on
--mekwisha ku-
-\emph default
-, minél hosszabb annál erősebb benne a ,,már'' töltet).
- Tagadáskor az idő-infix 
-\emph on
--ja-
-\emph default
-ra változik.
- Példa a 
-\emph on
--leta
-\emph default
- (hoz) igével: 
-\emph on
-tumeleta
-\emph default
- (elhoztuk), 
-\emph on
-wamesha kuleta
-\emph default
- (már elhozták), 
-\emph on
-hujaleta
-\emph default
- (még nem hoztad el).
- Az állapotváltozást kifejező igéknél ez az igeidő fejezi ki azt, hogy a
- változás bekövetkezett és az eredmény továbbra is fennáll, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-nimekaa
-\emph default
- (ülök; 
-\emph on
--kaa
-\emph default
-: leül).
 \end_layout
 
 \begin_layout Subsection
@@ -4721,7 +4782,7 @@ Jövő
 \end_layout
 
 \begin_layout Standard
-A jövőidő infixe 
+A jövőidő infixuma 
 \emph on
 -ta-
 \emph default
@@ -4750,7 +4811,7 @@ Múlt
 \end_layout
 
 \begin_layout Standard
-A múltidő infixe 
+A múltidő infixuma 
 \emph on
 -li-
 \emph default
@@ -4775,16 +4836,16 @@ hatukusoma
 \end_layout
 
 \begin_layout Subsection
-Szokás
+Habituális
 \end_layout
 
 \begin_layout Standard
 Ez az igeidő időről-időre ismétlődő, szokásos cselekvést fejez ki.
- Az idő-infix 
+ Az idő-infixum 
 \emph on
 -hu-
 \emph default
-, az alany-prefix pedig eltűnik, ezért általában főnévvel vagy személyes
+, az alany-prefixum pedig eltűnik, ezért általában főnévvel vagy személyes
  névmással együtt használják.
  Tagadó alakja nincs.
  Példa: 
@@ -4871,7 +4932,7 @@ njoo
 \end_layout
 
 \begin_layout Standard
-Az óhajtó módban az idő-infix eltűnik, és a tővégi 
+Az óhajtó módban az idő-infixum eltűnik, és a tővégi 
 \emph on
 -a
 \emph default
@@ -4884,13 +4945,13 @@ re (ha nem
 -a
 \emph default
  volt, nem változik).
- Tagadásban megmarad az alany-prefix, az idő-infix helyére pedig 
+ Tagadásban megmarad az alany-prefixum, az idő-infixum helyére pedig 
 \emph on
 -si-
 \emph default
  kerül.
- Jelentése magában udvarias kérés értelmű, de gyakran más igékkel vagy partikulá
-kkal együtt használják.
+ Jelentése magában udvarias kérés, de gyakran más igékkel vagy partikulákkal
+ együtt használják.
  Néhány ezek közül a
 \emph on
 z -ambia
@@ -4921,7 +4982,7 @@ zuia
 -onya
 \emph default
  (figyelmeztet).
- Kérésnél az alany-prefixet néha elhagyják.
+ Kérésnél az alany-prefixumot néha elhagyják.
  Példák a 
 \emph on
 -simama
@@ -4954,13 +5015,13 @@ amezuia nisirudi
 \end_layout
 
 \begin_layout Subsection
-Szekvencia
+Szekvenciális
 \end_layout
 
 \begin_layout Standard
 Egymás utáni eseményeknél a második és azt követő történések igeideje (az
  első általában múltidőben van).
- Az idő-infix 
+ Az idő-infixum 
 \emph on
 -ka-
 \emph default
@@ -4993,7 +5054,7 @@ re (ha nem
 \emph on
 -a
 \emph default
- volt, nem változik) és az alany-prefix elmaradhat, pl.
+ volt, nem változik) és az alany-prefixum elmaradhat, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -5027,9 +5088,9 @@ Tárgyak
 \begin_layout Standard
 A szuahéliben a tárgy az ige után kerül, és az igébe kerül egy jelölő a
  tárgy csoportjának megfelelően.
- A kettő közül csak az egyik szükséges, de személyeknél az infixet mindig
+ A kettő közül csak az egyik szükséges, de személyeknél az infixumot mindig
  ki kell rakni.
- Ha a tárgy személyes névmás, akkor általában csak a tárgy-infix-szel jelöljük.
+ Ha a tárgy személyes névmás, akkor általában csak a tárgy-infixummal jelöljük.
  Példák: 
 \emph on
 anakupenda
@@ -5075,7 +5136,7 @@ andika barua
 barua
 \emph default
 : levél).
- Ha a tárgy-infixnek van 
+ Ha a tárgy-infixumnak van 
 \emph on
 -ni 
 \emph default
@@ -5108,7 +5169,7 @@ nitakupigeni
 \emph on
  
 \emph default
-Visszaható esetben a tárgy-infix mindig 
+Visszaható esetben a tárgy-infixum mindig 
 \emph on
 -ji
 \emph default
@@ -5132,11 +5193,11 @@ Egyszótagú igék
 \end_layout
 
 \begin_layout Standard
-A legtöbb idő-infixre (jelen: 
+A legtöbb idő-infixumra (jelen: 
 \emph on
 -na-
 \emph default
-, előidejű jelen: 
+, perfektum: 
 \emph on
 -me-
 \emph default
@@ -5149,13 +5210,13 @@ A legtöbb idő-infixre (jelen:
 -li
 \emph default
 \SpecialChar \nobreakdash-
-) és az utaló infixekre nem kerülhet hangsúly, így a tárgy-infix nélküli
+) és az utaló infixumokra nem kerülhet hangsúly, így a tárgy-infixum nélküli
  egyszótagos igék esetében, ahol ezek hangsúlyos helyre (utolsóelőtti szótag)
  kerülnének, a tő főnévi igenévi alakban szerepel (
 \emph on
 ku-/kw-
 \emph default
- prefix).
+ prefixum).
  Pl.
 \begin_inset space \space{}
 \end_inset
@@ -5213,7 +5274,7 @@ nakwenda
 \end_layout
 
 \begin_layout Subsection
-Azonosság, különbözőség, létezés és birtoklás
+Névszói állítmány, létezés és birtoklás
 \begin_inset CommandInset label
 LatexCommand label
 name "sub:Azonosság,-különbözőség,-létezés"
@@ -5283,17 +5344,13 @@ nyumba
 \emph default
 : nagy), 
 \emph on
-leo si Jumapili
+mimi si mtoto wako 
 \emph default
- (ma nem vasárnap van; 
+(nem vagyok a gyereked; 
 \emph on
-leo
+mtoto
 \emph default
-: ma, 
-\emph on
-Jumapili
-\emph default
-: vasárnap).
+: gyerek).
  Múltidőben a
 \emph on
  -wa
@@ -5363,8 +5420,8 @@ hamtakuwa na pesa
 pesa
 \emph default
 : pénz).
- Jelenidőben az ige kiesik, és az alany-prefixet (tagadásnál tagadó prefixet)
- egyenesen a 
+ Jelenidőben az ige kiesik, és az alany-prefixumot (tagadásnál tagadó prefixumot
+) egyenesen a 
 \emph on
 -na
 \emph default
@@ -5389,8 +5446,8 @@ hawana mbwa
 mbwa
 \emph default
 : kutya).
- Létezés kifejezésekor az alany-prefix (vagy tagadó prefix) csoportja a
- PA/KU/MU valamelyike, általában a KU csoport, pl.
+ Létezés kifejezésekor az alany-prefixum (vagy tagadó prefixum) csoportja
+ a PA/KU/MU valamelyike, általában a KU csoport, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -5435,7 +5492,7 @@ amit
 \end_inset
 
 szavak az ige részeként is kifejezésre kerülhetnek.
- Erre szolgál az utaló infix, ami a jelölt főnév csoportjától függ (ld.
+ Erre szolgál az utaló infixum, ami a jelölt főnév csoportjától függ (ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -5481,7 +5538,7 @@ aliyesema
 \end_layout
 
 \begin_layout Standard
-Jövőidejű utaló igéknél az idő-infix 
+Jövőidejű utaló igéknél az idő-infixum 
 \emph on
 -taka-
 \emph default
@@ -5532,11 +5589,12 @@ A fenti forma csak jelen-, jövő- és múltidejű igékkel használható együt
 \begin_inset space \space{}
 \end_inset
 
-az előidejű jelennél, az 
+a perfektumnál, az 
 \emph on
 amba-
 \emph default
- szócska és az utaló infix (itt szuffix) összekapcsolásával érhetjük el.
+ szócska és az utaló infixum (itt szuffixum) összekapcsolásával érhetjük
+ el.
  Ez minden esetben használható, de amikor lehet, az előző formát alkalmazzák.
  Pl.
 \begin_inset space \space{}
@@ -5570,8 +5628,8 @@ mtu
 \end_layout
 
 \begin_layout Standard
-Egy harmadik módszer az utalás kifejezésére, amikor az eddig infixként használt
- jel az ige végére kerül.
+Egy harmadik módszer az utalás kifejezésére, amikor az eddig infixumként
+ használt jel az ige végére kerül.
  Ezt elsősorban írásban használják és ez a jelenidőnél említett időtlen
  tagadó alak állító párja.
  A formája AP-[TI]-tő-UI, pl.
@@ -5591,7 +5649,7 @@ mwaka
 -ja
 \emph default
 : jön).
- Az azonosságot (különbözőséget) ebben az esetben a 
+ A névszói állítmányt ebben az esetben a 
 \emph on
 -li
 \emph default
@@ -5631,7 +5689,7 @@ Az utalás egyik fontos használati módja, hogy a PA típusú
 \emph on
 -po
 \emph default
-- infix segítségével nem csak helyre, hanem időre is tudunk utalni, pl.
+- infixum segítségével nem csak helyre, hanem időre is tudunk utalni, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -5648,7 +5706,7 @@ nilipozaliwa
 \emph on
 -vyo-
 \emph default
- infix jelölheti a cselekvés módját.
+ infixum jelölheti a cselekvés módját.
  Ilyenkor gyakran a 
 \emph on
 jinsi
@@ -5689,7 +5747,7 @@ reference "sub:Összetett-igeidők"
 \end_layout
 
 \begin_layout Standard
-A kötőmód infixe a 
+A kötőmód infixuma a 
 \emph on
 -ki-
 \emph default
@@ -5751,17 +5809,17 @@ asifike
 \end_layout
 
 \begin_layout Subsection
-Valószínűtlen és lehetetlen feltételek
+Valószínűtlen feltételek
 \end_layout
 
 \begin_layout Standard
-Valószínűtlen és lehetetlen feltételezésnél mind a feltételben, mind az
- eredményben ugyanazt az idő-infixet kell használni.
- Ez valószínűtlen esetben 
+Valószínűtlen feltételezésnél mind a feltételben, mind az eredményben ugyanazt
+ az idő-infixumot kell használni.
+ Ez jelenidőben 
 \emph on
 -nge-
 \emph default
-, lehetetlennél pedig ennek a múltidő infixével (
+, múltidőben pedig ennek a múltidő infixumával (
 \emph on
 -li
 \emph default
@@ -5778,7 +5836,7 @@ Valószínűtlen és lehetetlen feltételezésnél mind a feltételben, mind az
 \emph on
 -si-
 \emph default
- előtagot kapnak, és tagadó prefix helyett marad az alany-prefix, pl.
+ előtagot kapnak, és tagadó prefixum helyett marad az alany-prefixum, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -5814,7 +5872,7 @@ usingaliondoka ungalimkuta
 \end_layout
 
 \begin_layout Standard
-A fenti idő-infixek nem kaphatnak hangsúlyt, így az egyszótagos igék itt
+A fenti idő-infixumok nem kaphatnak hangsúlyt, így az egyszótagos igék itt
  is főnévi igenévként jelennek meg, pl.
 \begin_inset space \space{}
 \end_inset
@@ -5891,7 +5949,7 @@ hakuwa akisoma
 -soma
 \emph default
 : tanul).
- Egy másik fajta összetétel, amikor kötőmód helyett előidejű jelent használunk.
+ Egy másik fajta összetétel, amikor kötőmód helyett perfektumot használunk.
  Ilyenkor egy, a 
 \emph on
 -wa
@@ -5916,14 +5974,76 @@ Formális jelen
 \end_layout
 
 \begin_layout Standard
+Ez is valójában egy időtlen igealak, így gyakran általános állításokra használjá
+k.
+ Elsősorban írott nyelvi forma.
+ Az idő-infixum 
+\emph on
+-a-
+\emph default
+, ami a különböző alany-prefixumokkal összevonódik (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-formális-jelen"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat).
+ Jól látható, hogy az M-WA kivételével minden főnévcsoportban az alany-prefixumo
+t az egyeztető prefixum helyettesíti (ld.
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-főnévcsoportok-jellemzői"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat).
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+serikali yasema haitaki vita
+\emph default
+ (a kormány azt mondja, hogy nem akar háborút; 
+\emph on
+serikali
+\emph default
+: kormány, 
+\emph on
+-sema
+\emph default
+: mond, 
+\emph on
+-taka
+\emph default
+: akar, 
+\emph on
+vita
+\emph default
+: háború).
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \align center
@@ -6223,52 +6343,9 @@ name "tab:A-formális-jelen"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-Ez is valójában egy időtlen igealak, így gyakran általános állításokra használjá
-k.
- Elsősorban írott nyelvi forma.
- Az idő-infix 
-\emph on
--a-
-\emph default
-, ami a különböző alany-prefixekkel összevonódik (ld.
-\begin_inset space \space{}
 \end_inset
 
 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:A-formális-jelen"
-
-\end_inset
-
-.
-\begin_inset space \space{}
-\end_inset
-
-táblázat).
- Jól látható, hogy az M-WA kivételével minden főnévcsoportban az alany-prefixet
- az egyeztető prefix helyettesíti (ld.
-\begin_inset space \space{}
-\end_inset
-
-
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:A-főnévcsoportok-jellemzői"
-
-\end_inset
-
-.
-\begin_inset space \space{}
-\end_inset
-
-táblázat).
 \end_layout
 
 \begin_layout Subsection
@@ -6276,6 +6353,50 @@ Képzők
 \end_layout
 
 \begin_layout Standard
+A képzők segítségével egy alapigéből másik ige készíthető.
+ A képzők a szótári alak végső magánhangzója elé ékelődnek be, és ez a magánhang
+zó képzett alakokban mindig 
+\emph on
+-a
+\emph default
+-ra változik.
+ Ha az ige két magánhangzóra végződik, akkor a képzők általában máshogyan
+ viselkednek.
+ A képzőkben szereplő magánhangzó gyakran a magánhangzó-harmónia szabályai
+ alapján változik: 
+\emph on
+e
+\emph default
+ és 
+\emph on
+o
+\emph default
+ után 
+\emph on
+e
+\emph default
+, más magánhangzó után 
+\emph on
+i
+\emph default
+, ezt nagy E-vel jelöljük.
+ Az alábbiak a leggyakoribb képzők, de nem alkalmazhatóak minden szóra,
+ és az sem ritka, hogy csak a képzett alakokat használják, és maga az alapszó
+ már nem létezik.
+ Ezeket tehát külön szavaknak kell felfogni, és az itt felsorolt szabályok
+ inkább csak segítségnek számítanak a szótanulásban.
+ Az alábbiak lényegét a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Igeképzők"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat foglalja össze.
 \begin_inset Float table
 wide false
 sideways false
@@ -6491,50 +6612,7 @@ name "tab:Igeképzők"
 
 \end_inset
 
-A képzők segítségével egy alapigéből másik ige készíthető.
- A képzők a szótári alak végső magánhangzója elé ékelődnek be, és ez a magánhang
-zó képzett alakokban mindig 
-\emph on
--a
-\emph default
--ra változik.
- Ha az ige két magánhangzóra végződik, akkor a képzők általában máshogyan
- viselkednek.
- A képzőkben szereplő magánhangzó gyakran a magánhangzó-harmónia szabályai
- alapján változik: 
-\emph on
-e
-\emph default
- és 
-\emph on
-o
-\emph default
- után 
-\emph on
-e
-\emph default
-, más magánhangzó után 
-\emph on
-i
-\emph default
-, ezt nagy E-vel jelöljük.
- Az alábbiak a leggyakoribb képzők --- ezek (a passzív és talán az alkalmazó
- kivételével) nem alkalmazhatóak minden szóra, és az sem ritka, hogy csak
- a képzett alakokat használják, és maga az alapszó már nem létezik.
- Ezeket tehát külön szavaknak kell felfogni, és az itt felsorolt szabályok
- inkább csak segítségnek számítanak a szótanulásban.
- Az alábbiak lényegét a 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Igeképzők"
 
-\end_inset
-
-.
-\begin_inset space \space{}
-\end_inset
-
-táblázat foglalja össze.
 \end_layout
 
 \begin_layout Subsubsection
@@ -6570,11 +6648,11 @@ Jele a
 \emph on
 -a
 \emph default
--ra végződő igéknél az utolsó magánhangzó leesik, és a jel 
+-ra végződő igéknél az utolsó magánhangzó leesik, és a képző 
 \emph on
 -Ew- 
 \emph default
-lesz, de két magánhangzónál a magánhangzó megmarad és a jel 
+lesz, de két magánhangzónál a magánhangzó megmarad és a képző 
 \emph on
 -lEw-
 \emph default
@@ -6583,7 +6661,7 @@ lesz, de két magánhangzónál a magánhangzó megmarad és a jel
 \emph on
 na
 \emph default
- partikulával bevezetve lehet jelezni.
+ partikulával lehet jelezni.
  Ha több képző is csatlakozik az igéhez, ez mindig az utolsó.
  Példák: 
 \emph on
@@ -6680,7 +6758,7 @@ mtoto
 \end_layout
 
 \begin_layout Subsubsection
-Alkalmazó
+Applikatív
 \end_layout
 
 \begin_layout Standard
@@ -6695,7 +6773,8 @@ E-
 .
  Azt fejezi ki, hogy a cselekvés valaki számára, vagy valamilyen irányban
  történik, gyakori ezért ezek közt a két tárgyas ige, amiből az első a közvetett
-, a második a közvetlen tárgy, pl.
+, a második a közvetlen tárgy (egyeztetni mindig az első tárggyal kell),
+ pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -6853,7 +6932,7 @@ Jele az
 \end_inset
 
 melléknévből is lehet igét képezni.
- A jelben van némi variáció, a leggyakoribb, hogy a 
+ A képzőben van némi variáció, a leggyakoribb, hogy a 
 \emph on
 -ka
 \emph default
@@ -6933,6 +7012,24 @@ haribisha
 -amka
 \emph default
 : felébred).
+ Két tárgyas igéknél az első az ágens, a második pedig az eredeti ige tárgya,
+ pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nilimwonyesha Mohamed chumba chake
+\emph default
+ (megmutattam Mohamednek a szobáját; 
+\emph on
+-ona
+\emph default
+: néz, 
+\emph on
+chumba
+\emph default
+: szoba).
 \end_layout
 
 \begin_layout Subsubsection
@@ -6950,7 +7047,7 @@ Ek-
 \emph default
 .
  Értelmileg olyan, mint a passzív, de az ágens sosincs kifejezve.
- Állapot leírásakor általában előidejű jelennel használják, pl.
+ Állapot leírásakor általában perfektummal használják, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7173,7 +7270,7 @@ Határozók
 
 \begin_layout Standard
 A határozók egy része valójában KI típusú főnév, amit más főnevekből és
- melléknevekből lehet képezni a KI csoport prefixével, pl.
+ melléknevekből lehet képezni a KI csoport prefixumával, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7316,7 +7413,7 @@ chumba
 
 \begin_layout Standard
 Ezek az utótagok nem számítanak hozzá a hangsúlyhoz.
- Tagadáskor el is válnak az igétől, és a tagadó prefixhez csatlakoznak,
+ Tagadáskor el is válnak az igétől, és a tagadó prefixumhoz csatlakoznak,
  pl.
 \begin_inset space \space{}
 \end_inset
@@ -7330,8 +7427,8 @@ nilikuwa sipo ofisini
 ofisi
 \emph default
 : iroda).
- Az M-WA csoport egyesszámában az alany-prefix és a tagadó prefix rendhagyóan
- 
+ Az M-WA csoport egyesszámában az alany-prefixum és a tagadó prefixum rendhagyóa
+n 
 \emph on
 yu-
 \emph default
@@ -7349,17 +7446,25 @@ hayu-
 
 
 \emph on
-alikuwa hayupo
+Aliya yuko Ulaya
+\emph default
+ (Aliya Európában van; 
+\emph on
+Ulaya
+\emph default
+: Európa),
+\emph on
+ alikuwa hayupo
 \emph default
  (nem volt itt).
 \end_layout
 
 \begin_layout Standard
-Jelenidőben az ige kiesik, és helyette csak az alany-prefix (ill.
+Jelenidőben az ige kiesik, és helyette csak az alany-prefixum (ill.
 \begin_inset space \space{}
 \end_inset
 
-tagadó prefix) marad, pl.
+tagadó prefixum) marad, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7438,7 +7543,7 @@ vipi
 \SpecialChar \nobreakdash-
 ngapi
 \emph default
- melléknév, amit többesszámmal kell egyeztetni, pl.
+ melléknév, amelyet többesszámmal kell egyeztetni, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7455,7 +7560,7 @@ basi
 \emph on
 -pi
 \emph default
- az alany-prefixhez kapcsolódik (M-WA egyesszámban 
+ az alany-prefixumhoz kapcsolódik (M-WA egyesszámban 
 \emph on
 yupi
 \emph default
@@ -7488,7 +7593,7 @@ je,
 \emph on
  choo kiko wapi
 \emph default
- (hol a vécé? 
+ (hol van a vécé? 
 \emph on
 choo
 \emph default
@@ -7551,7 +7656,7 @@ nyi
 \emph on
 o
 \emph default
-) vagy az utaló infix-szel, pl.
+) vagy az utaló infixummal, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7621,7 +7726,7 @@ Végül megemlítendő még a
 ndi-
 \emph default
  partikula, ami mindig kap valamilyen utótagot (személyes névmás felét vagy
- utaló infixet).
+ utaló infixumot).
  Ez kiemeli a jelzett szót, tehát ,,éppen az a 
 \begin_inset Formula $\dots$
 \end_inset
@@ -7789,7 +7894,11 @@ kitabu hiki ni kizuri kuliko vyote
 \emph on
 kitabu
 \emph default
-: könyv)
+: könyv, 
+\emph on
+-zuri
+\emph default
+: jó)
 \end_layout
 
 \begin_layout Itemize
@@ -7824,6 +7933,192 @@ Számok
 \end_layout
 
 \begin_layout Standard
+A 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Számok"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+ táblázat felsorolja az alapszámokat.
+ Ezek gyakorlatilag melléknevek, így itt is két típus van, a prefixelhetőek
+ és a változatlanok (jövevényszavak).
+ A számokat vagy magukban használjuk, és ilyenkor a prefixelhetőek N típusú
+ prefixumot kapnak (ami nem változtat az alakjukon, kivéve a 
+\emph on
+-wili
+\emph default
+ esetében, amiből 
+\emph on
+mbili
+\emph default
+ lesz), vagy egy főnévvel együtt használjuk, ilyenkor a főnév csoportjával
+ (és számával) egyeztetődik, a melléknév-egyeztetés szabályainak megfelelően.
+ Néhány példa: 
+\emph on
+watu wawili
+\emph default
+ (két ember; 
+\emph on
+mtu
+\emph default
+: ember), 
+\emph on
+kikombe kimoja
+\emph default
+ (egy bögre; 
+\emph on
+kikombe
+\emph default
+: bögre), 
+\emph on
+nyumba nne
+\emph default
+ (négy ház; 
+\emph on
+nyumba
+\emph default
+: ház), 
+\emph on
+kitabu sita
+\emph default
+ (hat könyv; 
+\emph on
+kitabu
+\emph default
+: könyv), 
+\emph on
+tembo watatu
+\emph default
+ (három elefánt; 
+\emph on
+tembo
+\emph default
+: elefánt).
+\end_layout
+
+\begin_layout Standard
+Százasokat, ezreseket stb.
+\begin_inset space \space{}
+\end_inset
+
+az alapszám után helyezett számlálóval jelezzük, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mia
+\emph default
+ 
+\emph on
+nane 
+\emph default
+(800).
+ Összetett számoknál egyszerűen a részeket egymás után rakjuk (beszédben
+ kis elválasztással), és az egyesek előtt a 
+\emph on
+na
+\emph default
+ (és) partikulát is beletesszük, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+elfu moja mia tisa themanini na mbili
+\emph default
+ (1982).
+ Százezres magasságnál ez (írásban) félreérthető lenne, hiszen az 500,000
+ (
+\emph on
+elfu mia tano
+\emph default
+) úgy értelmeződne, mint ha 1500 lenne, ezért ilyenkor általában az ezrest
+ hátulra rakják, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+mia tano elfu
+\emph default
+ (500,000), 
+\emph on
+mia saba thelathini elfu hamsini na moja
+\emph default
+ (730,051).
+\end_layout
+
+\begin_layout Standard
+Az egyeztetés összetett számnevekben csak az egyesnél jelenhet meg, és ha
+ ez 1, akkor egyesszámú prefixumot kap.
+ Két példa: 
+\emph on
+wavulana ishirini na mmoja
+\emph default
+ (21 fiatalember; 
+\emph on
+mvulana
+\emph default
+: fiatalember), 
+\emph on
+vikapu arobaini na viwili
+\emph default
+ (42 kosár; 
+\emph on
+kikapu
+\emph default
+: kosár).
+\end_layout
+
+\begin_layout Standard
+Sorszámneveket birtokos szerkezettel kapunk, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+msichana wa tatu
+\emph default
+ (a harmadik kislány; 
+\emph on
+msichana
+\emph default
+: kislány), 
+\emph on
+kitanda cha sita
+\emph default
+ (a hatodik ágy; 
+\emph on
+kitanda
+\emph default
+: ágy).
+ Kivétel az ,,első'' és ,,második'', ami rendre 
+\emph on
+-a kwanza
+\emph default
+ és 
+\emph on
+-a pili
+\emph default
+, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+upendo wa kwanza
+\emph default
+ (az első szerelem; 
+\emph on
+upendo
+\emph default
+: szerelem).
 \begin_inset Float table
 wide false
 sideways false
@@ -8386,198 +8681,9 @@ Számok
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-A 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Számok"
-
-\end_inset
-
-.
-\begin_inset space \space{}
-\end_inset
-
- táblázat felsorolja az alapszámokat.
- Ezek gyakorlatilag melléknevek, így itt is két típus van, a prefixelhetőek
- és a változatlanok (jövevényszavak).
- A számokat vagy magukban használjuk, és ilyenkor a prefixelhetőek N típusú
- prefixet kapnak (ami nem változtat az alakjukon, kivéve a 
-\emph on
--wili
-\emph default
- esetében, amiből 
-\emph on
-mbili
-\emph default
- lesz), vagy egy főnévvel együtt használjuk, ilyenkor a főnév csoportjával
- (és számával) egyeztetődik, a melléknév-egyeztetés szabályainak megfelelően.
- Néhány példa: 
-\emph on
-watu wawili
-\emph default
- (két ember; 
-\emph on
-mtu
-\emph default
-: ember), 
-\emph on
-kikombe kimoja
-\emph default
- (egy bögre; 
-\emph on
-kikombe
-\emph default
-: bögre), 
-\emph on
-nyumba nne
-\emph default
- (négy ház; 
-\emph on
-nyumba
-\emph default
-: ház), 
-\emph on
-kitabu sita
-\emph default
- (hat könyv; 
-\emph on
-kitabu
-\emph default
-: könyv), 
-\emph on
-tembo watatu
-\emph default
- (három elefánt; 
-\emph on
-tembo
-\emph default
-: elefánt).
-\end_layout
-
-\begin_layout Standard
-Százasokat, ezreseket stb.
-\begin_inset space \space{}
-\end_inset
-
-az alapszám után helyezett számlálóval jelezzük, pl.
-\begin_inset space \space{}
 \end_inset
 
 
-\emph on
-mia
-\emph default
- 
-\emph on
-nane 
-\emph default
-(800).
- Összetett számoknál egyszerűen a részeket egymás után rakjuk (beszédben
- kis elválasztással), és az egyesek előtt a 
-\emph on
-na
-\emph default
- (és) partikulát is beletesszük, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-elfu moja mia tisa themanini na mbili
-\emph default
- (1982).
- Százezres magasságnál ez (írásban) félreérthető lenne, hiszen az 500,000
- (
-\emph on
-elfu mia tano
-\emph default
-) úgy értelmeződne, mint ha 1500 lenne, ezért ilyenkor általában az ezrest
- hátulra rakják, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-mia tano elfu
-\emph default
- (500,000), 
-\emph on
-mia saba thelathini elfu hamsini na moja
-\emph default
- (730,051).
-\end_layout
-
-\begin_layout Standard
-Az egyeztetés összetett számnevekben csak az egyesnél jelenhet meg, és ha
- ez 1, akkor egyesszámú prefixet kap.
- Két példa: 
-\emph on
-wavulana ishirini na mmoja
-\emph default
- (21 fiatalember; 
-\emph on
-mvulana
-\emph default
-: fiatalember), 
-\emph on
-vikapu arobaini na viwili
-\emph default
- (42 kosár; 
-\emph on
-kikapu
-\emph default
-: kosár).
-\end_layout
-
-\begin_layout Standard
-Sorszámneveket birtokos szerkezettel kapunk, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-msichana wa tatu
-\emph default
- (a harmadik kislány; 
-\emph on
-msichana
-\emph default
-: kislány), 
-\emph on
-kitanda cha sita
-\emph default
- (a hatodik ágy; 
-\emph on
-kitanda
-\emph default
-: ágy).
- Kivétel az ,,első'' és ,,második'', ami rendre 
-\emph on
--a kwanza
-\emph default
- és 
-\emph on
--a pili
-\emph default
-, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-upendo wa kwanza
-\emph default
- (az első szerelem; 
-\emph on
-upendo
-\emph default
-: szerelem).
 \end_layout
 
 \begin_layout Standard
@@ -8609,7 +8715,7 @@ key "vitendo"
 
 .
  A zárójelbe tett számok a főnévcsoportokat jelölik; GP a birtokos szerkezet
- partikulája, LOC pedig helyhatározó.
+ partikulája, LOC a helyhatározó, CP pedig a kopula.
  A főnevekhez, melléknevekhez és igékhez fel van tüntetve a szótári alak
  is.
  
@@ -8697,7 +8803,7 @@ Musa (1)volt (1)földműves ügyes nagyon  nap  egy  (1)letett (11)háló
 
 \begin_layout Plain Layout
 
-(18)övé hogy (1)csapdába.csal (10)madarak (2)minden (2)akik.(2)jöttek
+(1)övé  hogy (1)csapdába.csal (10)madarak (2)minden (2)akik.(2)jöttek
 \end_layout
 
 \begin_layout Plain Layout
