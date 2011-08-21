@@ -139,7 +139,7 @@ key "magyar-szotar"
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "krapf-szotar,madan-szotar,steere-szotar"
+key "krapf-szotar,madan-szotar,rechenbach-szotar"
 
 \end_inset
 
@@ -6473,7 +6473,7 @@ Passzív
 \begin_inset Text
 
 \begin_layout Plain Layout
-Alkalmazó
+Applikatív
 \end_layout
 
 \end_inset
@@ -6817,7 +6817,7 @@ Jele az
 \emph on
 -an-
 \emph default
-, és gyakran az alkalmazó képzős alakhoz teszik hozzá.
+, és gyakran az applikatív képzős alakhoz teszik hozzá.
  A képzett szónak ,,egymással'' vagy ,,össze'' jelentéstöbbletet ad.
  Legtöbbször vagy többesszámú alannyal fordul elő, vagy ha az alany egyesszámban
  van, akkor a másik résztvevőt az ige után a 
@@ -9475,17 +9475,16 @@ Swahili--English / English--Swahili Dictionary
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
-key "steere-szotar"
+key "rechenbach-szotar"
 
 \end_inset
 
-Edward Steere, A.
- C.
- Madan, 
+Charles W.
+ Rechenbach, 
 \emph on
-A Handbook of the Swahili Language as Spoken at Zanzibar
+Swahili--English Dictionary
 \emph default
-, Society for Promoting Christian Knowledge, London, 1919.
+, The Catholic University of America Press, Washington, D.C., 1967.
 \end_layout
 
 \begin_layout Bibliography
