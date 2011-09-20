@@ -87,7 +87,7 @@ Ennek az összefoglalónak az a célja, hogy egy egyszerre átolvasható, de
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "teach-yourself,colloquial,living-language"
+key "teach-yourself,teach-yourself-old,colloquial,living-language"
 
 \end_inset
 
@@ -8008,6 +8008,23 @@ tembo watatu
 tembo
 \emph default
 : elefánt).
+ A szám helye a névszói mondat végén van, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+wake wako hawa wazuri wawili
+\emph default
+ (ez a te két szép feleséged; 
+\emph on
+mke
+\emph default
+: feleség, 
+\emph on
+-zuri
+\emph default
+: szép).
 \end_layout
 
 \begin_layout Standard
@@ -9340,6 +9357,28 @@ Joan Russell,
 Teach Yourself Swahili 2nd Ed.
 \emph default
 , McGraw-Hill, 2003.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "teach-yourself-old"
+
+\end_inset
+
+D.
+\begin_inset space \space{}
+\end_inset
+
+V.
+\begin_inset space \space{}
+\end_inset
+
+Perrott, 
+\emph on
+Teach Yourself Swahili 2nd Ed.
+\emph default
+, McKay, 1971.
 \end_layout
 
 \begin_layout Bibliography
