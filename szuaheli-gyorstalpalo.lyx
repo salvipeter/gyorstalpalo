@@ -1372,9 +1372,9 @@ kuto-
 
 
 \emph on
-kutola
+kutosema
 \emph default
- (nem enni)
+ (nem beszélni)
 \end_layout
 
 \begin_layout Itemize
@@ -5316,6 +5316,27 @@ ulikuja
 hukuja
 \emph default
  (nem jöttél).
+ Szintén nem kaphat hangsúlyt a főnévi igenevet tagadó 
+\emph on
+-to-
+\emph default
+, így ilyenkor a 
+\emph on
+ku-
+\emph default
+ prefixum kétszer jelenik meg, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+kutokufa
+\emph default
+ (nem meghalni; 
+\emph on
+-fa
+\emph default
+: meghal).
  Noha nem egyszótagúak, de ugyanígy viselkednek az 
 \emph on
 -enda
