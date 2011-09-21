@@ -1,4 +1,4 @@
-#LyX 1.6.6 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.10 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -1427,7 +1427,14 @@ Az embereket és állatokat jelölő szavak (főnévcsoporttól függetlenül) m
 \begin_inset space \space{}
 \end_inset
 
-lejjebb).
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Birtokos-szerkezet"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Standard
@@ -2802,6 +2809,12 @@ táblázat összefoglalja, hogy mit kell tudni az egyes csoportokról.
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Birtokos-szerkezet"
+
+\end_inset
+
 Birtokos szerkezet
 \end_layout
 
@@ -4227,68 +4240,7 @@ hamsafiri
 \emph default
  (nem utaztok).
  
-\end_layout
-
-\begin_layout Subsection
-Perfektum
-\end_layout
-
-\begin_layout Standard
-A perfektum előidejűséget fejez ki, infixuma a 
-\emph on
--me-
-\emph default
- (vagy 
-\emph on
--mesha-
-\emph default
- / 
-\emph on
--mesha ku-
-\emph default
- / 
-\emph on
--mekwisha ku-
-\emph default
-, minél hosszabb annál erősebb benne a ,,már'' töltet).
- Tagadáskor az idő-infixum 
-\emph on
--ja-
-\emph default
-ra változik.
- Példa a 
-\emph on
--leta
-\emph default
- (hoz) igével: 
-\emph on
-tumeleta
-\emph default
- (elhoztuk), 
-\emph on
-wamesha kuleta
-\emph default
- (már elhozták), 
-\emph on
-hujaleta
-\emph default
- (még nem hoztad el).
- Az állapotváltozást kifejező igéknél ez az igeidő fejezi ki azt, hogy a
- változás bekövetkezett és az eredmény továbbra is fennáll, pl.
-\begin_inset space \space{}
-\end_inset
-
-
-\emph on
-nimekaa
-\emph default
- (ülök; 
-\emph on
--kaa
-\emph default
-: leül).
 \begin_inset Float table
-placement t
 wide false
 sideways false
 status collapsed
@@ -4874,6 +4826,66 @@ alany-prefixum, TP: tagadó prefixum, UI: utaló infixum, TI: tárgy-infixum)
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+Perfektum
+\end_layout
+
+\begin_layout Standard
+A perfektum előidejűséget fejez ki, infixuma a 
+\emph on
+-me-
+\emph default
+ (vagy 
+\emph on
+-mesha-
+\emph default
+ / 
+\emph on
+-mesha ku-
+\emph default
+ / 
+\emph on
+-mekwisha ku-
+\emph default
+, minél hosszabb annál erősebb benne a ,,már'' töltet).
+ Tagadáskor az idő-infixum 
+\emph on
+-ja-
+\emph default
+ra változik.
+ Példa a 
+\emph on
+-leta
+\emph default
+ (hoz) igével: 
+\emph on
+tumeleta
+\emph default
+ (elhoztuk), 
+\emph on
+wamesha kuleta
+\emph default
+ (már elhozták), 
+\emph on
+hujaleta
+\emph default
+ (még nem hoztad el).
+ Az állapotváltozást kifejező igéknél ez az igeidő fejezi ki azt, hogy a
+ változás bekövetkezett és az eredmény továbbra is fennáll, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+nimekaa
+\emph default
+ (ülök; 
+\emph on
+-kaa
+\emph default
+: leül).
 \end_layout
 
 \begin_layout Subsection
@@ -6515,6 +6527,7 @@ reference "tab:Igeképzők"
 
 táblázat foglalja össze.
 \begin_inset Float table
+placement b
 wide false
 sideways false
 status collapsed
