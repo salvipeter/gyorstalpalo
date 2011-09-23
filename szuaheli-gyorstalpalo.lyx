@@ -3895,13 +3895,13 @@ ny-
 
 
 \emph on
-paka nyeusi
+baiskeli nyeusi
 \emph default
- (fekete macska; 
+ (fekete bicikli; 
 \emph on
-paka
+baiskeli
 \emph default
-: macska, 
+: bicikli, 
 \emph on
 -eusi
 \emph default
@@ -3939,13 +3939,13 @@ w-
 
 
 \emph on
-nyoka mbili
+sanamu mbili
 \emph default
- (két kígyó; 
+ (két szobor; 
 \emph on
-nyoka
+sanamu
 \emph default
-: kígyó, 
+: szobor, 
 \emph on
 -wili
 \emph default
@@ -5711,6 +5711,23 @@ wanaokuja
 -ja
 \emph default
 : jön).
+ Ha a tárgyra hivatkozunk, akkor az alany az ige után kerül, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+ugali aliopika Juma
+\emph default
+ (a kása, amit Juma főzött; 
+\emph on
+ugali
+\emph default
+: kása, 
+\emph on
+-pika
+\emph default
+: főz).
 \end_layout
 
 \begin_layout Standard
