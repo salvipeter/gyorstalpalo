@@ -7534,8 +7534,37 @@ shuleni
 shule
 \emph default
 : iskola).
- Ha a hely több szóból áll, akkor ez utóbbit nem lehet megtenni, és helyette
- a szócsoport elé helyezett 
+ Az így módosított szó PA/KU/MU típusúnak számít, ahol a PA pontos helyet,
+ a KU körülbelüli helyet, a MU pedig valaminek a belsejét jelöli.
+ Ezek legtöbbször nagyobb értelmi változás nélkül felcserélhetőek, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+msituni tulikolala 
+\emph default
+(az erdőben, ahol aludtunk; 
+\emph on
+msitu
+\emph default
+: erdő,
+\emph on
+ -lala
+\emph default
+: alszik), 
+\emph on
+chumbani mwa Maria 
+\emph default
+(Maria szobájában; 
+\emph on
+chumba
+\emph default
+: szoba).
+\end_layout
+
+\begin_layout Standard
+Több szóból álló esetben a szócsoport elé helyezett 
 \emph on
 katika
 \emph default
@@ -7543,7 +7572,7 @@ katika
 \emph on
 kwenye
 \emph default
- szavakkal érjük el ugyanezt, pl.
+ szavakkal képzünk belőle határozót, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7560,10 +7589,7 @@ nyumba
 -pya
 \emph default
 : új).
-\end_layout
-
-\begin_layout Standard
-Ha viszont azt akarjuk kifejezni, hogy valami valahol van, akkor a 
+ Ha viszont azt akarjuk kifejezni, hogy valami valahol van, akkor a 
 \emph on
 -wa
 \emph default
@@ -7580,10 +7606,11 @@ Ha viszont azt akarjuk kifejezni, hogy valami valahol van, akkor a
 -mo
 \emph default
  valamelyikét.
- Ezek rendre a PA/KU/MU csoportoknak felelnek meg, ahol a PA pontos helyet,
- a KU körülbelüli helyet, a MU pedig valaminek a belsejét jelöli.
- Legtöbbször nagyobb értelmi változás nélkül felcserélhetőek.
- Példák: 
+ Ezek rendre a PA/KU/MU csoportoknak felelnek meg, pl.
+\begin_inset space \space{}
+\end_inset
+
+
 \emph on
 alikuwapo nyumbani
 \emph default
