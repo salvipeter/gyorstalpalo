@@ -4362,7 +4362,11 @@ Jelen (utaló)
 \begin_inset Text
 
 \begin_layout Plain Layout
-AP-na-UI-[TI]-...
+AP-na-
+\emph on
+UI
+\emph default
+-[TI]-...
 \end_layout
 
 \end_inset
@@ -4371,7 +4375,11 @@ AP-na-UI-[TI]-...
 \begin_inset Text
 
 \begin_layout Plain Layout
-AP-si-UI-[TI]-...
+AP-si-
+\emph on
+UI
+\emph default
+-[TI]-...
 \end_layout
 
 \end_inset
@@ -4465,7 +4473,11 @@ Jövő (utaló)
 \begin_inset Text
 
 \begin_layout Plain Layout
-AP-taka-UI-[TI]-...
+AP-taka-
+\emph on
+UI
+\emph default
+-[TI]-...
 \end_layout
 
 \end_inset
@@ -4474,7 +4486,11 @@ AP-taka-UI-[TI]-...
 \begin_inset Text
 
 \begin_layout Plain Layout
-TP-taka-UI-[TI]-...
+TP-taka-
+\emph on
+UI
+\emph default
+-[TI]-...
 \end_layout
 
 \end_inset
@@ -4498,7 +4514,11 @@ AP-
 \emph on
 li
 \emph default
--[UI]-[TI]-...
+-[
+\emph on
+UI
+\emph default
+]-[TI]-...
 \end_layout
 
 \end_inset
@@ -4507,7 +4527,11 @@ li
 \begin_inset Text
 
 \begin_layout Plain Layout
-TP-ku-[UI]-[TI]-...
+TP-ku-[
+\emph on
+UI
+\emph default
+]-[TI]-...
 \end_layout
 
 \end_inset
@@ -4653,7 +4677,11 @@ AP-[TI]-...-UI
 \begin_inset Text
 
 \begin_layout Plain Layout
-AP-si-UI-[TI]-...
+AP-si-
+\emph on
+UI
+\emph default
+-[TI]-...
 \end_layout
 
 \end_inset
@@ -5640,7 +5668,6 @@ reference "tab:A-főnévcsoportok-jellemzői"
 \end_inset
 
 táblázat).
- A pontos fordítás a szövegkörnyezettől függ.
  Pl.
 \begin_inset space \space{}
 \end_inset
@@ -5667,6 +5694,23 @@ aliyesema
 -sema
 \emph default
 : beszél).
+ Az utaló infixumra nem kerülhet hangsúly, így az egyszótagú igék 
+\emph on
+ku-
+\emph default
+ előtagot kapnak, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+wanaokuja 
+\emph default
+(akik jönnek; 
+\emph on
+-ja
+\emph default
+: jön).
 \end_layout
 
 \begin_layout Standard
