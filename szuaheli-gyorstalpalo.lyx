@@ -5511,7 +5511,61 @@ mimi si mtoto wako
 mtoto
 \emph default
 : gyerek).
- Múltidőben a
+ A 
+\emph on
+ni
+\emph default
+ partikulát felválthatja az alany-prefixum (de M csoportú harmadik személyben
+ 
+\emph on
+a 
+\emph default
+helyett 
+\emph on
+yu
+\emph default
+), és néha teljesen el is hagyják.
+ Pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+wewe ni tayari / u tayari
+\emph default
+ (készen vagy?; 
+\emph on
+tayari
+\emph default
+: kész), 
+\emph on
+yeye ni mgeni / yu mgeni
+\emph default
+ (ő külföldi; 
+\emph on
+mgeni
+\emph default
+: külföldi), 
+\emph on
+jina langu 
+\emph default
+[
+\emph on
+ni
+\emph default
+]
+\emph on
+ Fatima
+\emph default
+ (a nevem Fatima; 
+\emph on
+jina
+\emph default
+: név).
+\end_layout
+
+\begin_layout Standard
+Múltidőben a
 \emph on
  -wa
 \emph default
@@ -8268,13 +8322,24 @@ na
 elfu moja mia tisa themanini na mbili
 \emph default
  (1982).
- Százezres magasságnál ez (írásban) félreérthető lenne, hiszen az 500,000
- (
+ Százezres magasságban
 \emph on
-elfu mia tano
+ 
 \emph default
-) úgy értelmeződne, mint ha 1500 lenne, ezért ilyenkor általában az ezrest
- hátulra rakják, pl.
+a 
+\emph on
+laki
+\emph default
+ helyett az 
+\emph on
+elfu
+\emph default
+ és 
+\emph on
+mia
+\emph default
+ kombinációját is használják, de a félreértés elkerülése végett ilyenkor
+ általában az ezrest hátulra rakják, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -8291,16 +8356,19 @@ mia saba thelathini elfu hamsini na moja
 
 \begin_layout Standard
 Az egyeztetés összetett számnevekben csak az egyesnél jelenhet meg, és ha
- ez 1, akkor egyesszámú prefixumot kap.
- Két példa: 
+ ez 1, akkor egyesszámú prefixumot kap, pl.
+\begin_inset space \space{}
+\end_inset
+
+
 \emph on
 wavulana ishirini na mmoja
 \emph default
- (21 fiatalember; 
+ (21 fiú; 
 \emph on
 mvulana
 \emph default
-: fiatalember), 
+: fiú), 
 \emph on
 vikapu arobaini na viwili
 \emph default
@@ -8355,6 +8423,7 @@ upendo
 \emph default
 : szerelem).
 \begin_inset Float table
+placement b
 wide false
 sideways false
 status collapsed
