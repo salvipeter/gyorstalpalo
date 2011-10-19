@@ -87,7 +87,7 @@ Ennek az összefoglalónak az a célja, hogy egy egyszerre átolvasható, de
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "teach-yourself,teach-yourself-old,colloquial,living-language"
+key "teach-yourself,teach-yourself-old,colloquial,living-language,foundation,proficiency"
 
 \end_inset
 
@@ -139,15 +139,18 @@ key "magyar-szotar"
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "krapf-szotar,madan-szotar,rechenbach-szotar"
+key "krapf-szotar,madan-szotar,rechenbach-szotar,steere-szotar"
 
 \end_inset
 
 .
  Ezek közül többnek új, bővített kiadásai mostanában is megjelentek, de
  a régi verziók letölthetőek az internetről.
- Vannak ún.
- phrasebookok
+ Léteznek ún.
+\begin_inset space \space{}
+\end_inset
+
+phrasebookok
 \emph on
  
 \emph default
@@ -174,7 +177,7 @@ A hivatkozásokban található ezenkívül egy felsorolás egyszerű olvasmányo
  a lelkes olvasóknak 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "masomo,swahili-mesek,arab-mesek,vitendo,prosa-und-poesie,marchen,alice"
+key "masomo,swahili-mesek,arab-mesek,vitendo,prosa-und-poesie,marchen,safari,alice"
 
 \end_inset
 
@@ -9647,6 +9650,22 @@ Ezért miután így szólt, Musza megölte a darvat a varjakkal együtt.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+footnotesize{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
@@ -9694,7 +9713,7 @@ Lutz Marten, Donovan Lee McGrath,
 \emph on
 Colloquial Swahili 2nd Ed
 \emph default
-, Routledge, 2011.
+., Routledge, 2011.
 \end_layout
 
 \begin_layout Bibliography
@@ -9709,6 +9728,41 @@ Living Language,
  Swahili
 \emph default
 , Living Language, 2007.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "foundation"
+
+\end_inset
+
+T.
+ J.
+ Hinnebusch, S.
+ M.
+ Mirza, 
+\emph on
+Swahili --- A Foundation for Speaking, Reading and Writing 2nd Ed.
+\emph default
+, University Press of America, 1998.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "proficiency"
+
+\end_inset
+
+L.
+ J.
+ Moshi, 
+\emph on
+Building Proficiency in Kiswahili: A Manual for Second/Third Year Swahili
+ Students
+\emph default
+, University Press of America, 1988.
 \end_layout
 
 \begin_layout Bibliography
@@ -9840,6 +9894,22 @@ Swahili--English Dictionary
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "steere-szotar"
+
+\end_inset
+
+Edward Steere, A.
+ C.
+ Madan, 
+\emph on
+A Handbook of the Swahili Language as Spoken at Zanzibar
+\emph default
+, Society for Promoting Christian Knowledge, London, 1919.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "rough-guide"
 
 \end_inset
@@ -9952,6 +10022,21 @@ Märchen und Erzählungen der Suaheli
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "safari"
+
+\end_inset
+
+C.
+ Velten, 
+\emph on
+Safari za Wasuaheli
+\emph default
+, Vandenboed & Ruprecht, Göttingen, 1901.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "alice"
 
 \end_inset
@@ -9963,6 +10048,20 @@ Lewis Carroll, St.
 Elisi katika Nchi ya Ajabu
 \emph default
 , Sheldon Press, London, 1967.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
