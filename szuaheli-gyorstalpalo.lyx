@@ -1421,7 +1421,7 @@ chumba
 
 \begin_layout Standard
 Az embereket és állatokat jelölő szavak (főnévcsoporttól függetlenül) minden
- egyeztetésben úgy viselkednek, mint ha az M-WA csoporthoz tartoznának.
+ egyeztetésben úgy viselkednek, mintha a M-WA csoporthoz tartoznának.
  A tényleges használatban ezt nem mindig követik, de az egyetlen igazi kivétel
  a birtokos szerkezetnél van (ld.
 \begin_inset space \space{}
@@ -2879,7 +2879,7 @@ kikapu
 
 \begin_layout Standard
 Az N csoporthoz tartozó szavak közül csak az egyesszámú állatok veszik át
- az M-WA csoport 
+ a M-WA csoport 
 \emph on
 w-
 \emph default
@@ -3773,7 +3773,7 @@ lejjebb
 \end_layout
 
 \begin_layout Itemize
-U: mint az M-MI esetben egyesszámban, pl.
+U: mint a M-MI esetben egyesszámban, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -6241,8 +6241,8 @@ reference "tab:A-formális-jelen"
 \end_inset
 
 táblázat).
- Jól látható, hogy az M-WA kivételével minden főnévcsoportban az alany-prefixumo
-t az egyeztető prefixum helyettesíti (ld.
+ Jól látható, hogy a M-WA kivételével minden főnévcsoportban az alany-prefixumot
+ az egyeztető prefixum helyettesíti (ld.
 \begin_inset space \space{}
 \end_inset
 
@@ -7557,6 +7557,19 @@ mchezo wa kitoto
 mchezo
 \emph default
 : játék).
+ Melléknevekből gyakran a VI osztály prefixuma képez határozókat, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+vigumu
+\emph default
+ (nehezen; 
+\emph on
+-gumu
+\emph default
+: nehéz).
 \end_layout
 
 \begin_layout Subsection
@@ -7685,8 +7698,7 @@ chumba
 
 \begin_layout Standard
 Ezek az utótagok nem számítanak hozzá a hangsúlyhoz.
- Tagadáskor el is válnak az igétől, és a tagadó prefixumhoz csatlakoznak,
- pl.
+ Tagadáskor elválnak az igétől, és a tagadó prefixumhoz csatlakoznak, pl.
 \begin_inset space \space{}
 \end_inset
 
@@ -7699,8 +7711,8 @@ nilikuwa sipo ofisini
 ofisi
 \emph default
 : iroda).
- Az M-WA csoport egyesszámában az alany-prefixum és a tagadó prefixum rendhagyóa
-n 
+ A M-WA csoport egyesszámában az alany-prefixum és a tagadó prefixum rendhagyóan
+ 
 \emph on
 yu-
 \emph default
