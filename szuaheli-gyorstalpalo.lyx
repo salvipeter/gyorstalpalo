@@ -7597,13 +7597,13 @@ A földrajzi nevek magukban helyhatározók, más szavakból a
 
 
 \emph on
-shuleni
+msituni
 \emph default
- (iskolában; 
+ (erdőben; 
 \emph on
-shule
+msitu
 \emph default
-: iskola).
+: erdő).
  Az így módosított szó PA/KU/MU típusúnak számít, ahol a PA pontos helyet,
  a KU körülbelüli helyet, a MU pedig valaminek a belsejét jelöli.
  Ezek legtöbbször nagyobb értelmi változás nélkül felcserélhetőek, pl.
@@ -7987,9 +7987,10 @@ Egy másik gyakran használt partikula a
 \emph on
 kwa
 \emph default
-, ami magában legtöbbször eszközhatározó, de rengeteg kifejezésben is szerepel,
- pl.
-\begin_inset space \space{}
+, ami magában legtöbbször eszközhatározó vagy ,,vkinél'' jelentésű, de rengeteg
+ kifejezésben is szerepel.
+ Példák:
+\begin_inset space ~
 \end_inset
 
 
@@ -8009,6 +8010,14 @@ uma
 kisu
 \emph default
 : kés), 
+\emph on
+nitakwenda kwa Juma
+\emph default
+ (el fogok menni Jumához; 
+\emph on
+-enda
+\emph default
+: megy); 
 \emph on
 kwa kawaida
 \emph default
