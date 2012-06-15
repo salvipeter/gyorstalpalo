@@ -1151,10 +1151,13 @@ M-WA (1/2): [állatok és (főleg) emberek] pl.
 \emph on
 mtu/watu
 \emph default
- (ember), Mhungaria/Wahungaria (magyar ember) --- magánhangzó előtt a prefixum
- 
+ (ember), 
 \emph on
-mw\SpecialChar \-
+Mhungaria/Wahungaria
+\emph default
+ (magyar ember) --- magánhangzó előtt a prefixum 
+\emph on
+mw\SpecialChar \nobreakdash-
 /w-
 \emph default
  (de van, hogy többesszámban megtartja a 
