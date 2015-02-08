@@ -26,26 +26,27 @@
 ** Személyes/birtokos
 - a neveket/címeket lehet E/2 személyes/birtokos névmásként használni
 *** Udvarias
-|------+--------------+------------+----------------+--------------+--------|
-| Én   | Te           | Ő          | Mi             | Ti           | Ők     |
-|------+--------------+------------+----------------+--------------+--------|
-| saya | anda/saudara | dia / ia % | kami / kita %2 | anda/saudara | meréka |
-|------+--------------+------------+----------------+--------------+--------|
+|------+------------------+------------+----------------+--------------+--------|
+| Én   | Te               | Ő          | Mi             | Ti           | Ők     |
+|------+------------------+------------+----------------+--------------+--------|
+| saya | anda/saudara/cím | dia / ia % | kami / kita %2 | anda/saudara | meréka |
+|------+------------------+------------+----------------+--------------+--------|
 - %: ia csak az ige előtt használható
 - %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
 *** Tegező
-|--------+-----+---------------+------------+----------------+---------------+--------|
-|        | Én  | Te            | Ő          | Mi             | Ti            | Ők     |
-|--------+-----+---------------+------------+----------------+---------------+--------|
-| Teljes | aku | kamu / engkau | dia / ia % | kami / kita %2 | kamu / engkau | meréka |
-| Rövid  | -ku | -mu  / kau    | -nya       |                | -mu / kau     | -nya   |
-|--------+-----+---------------+------------+----------------+---------------+--------|
+|--------+-----+---------------------+------------+----------------+---------------+--------|
+|        | Én  | Te                  | Ő          | Mi             | Ti            | Ők     |
+|--------+-----+---------------------+------------+----------------+---------------+--------|
+| Teljes | aku | kamu / engkau / név | dia / ia % | kami / kita %2 | kamu / engkau | meréka |
+| Rövid  | -ku | -mu  / kau          | -nya       |                | -mu / kau     | -nya   |
+|--------+-----+---------------------+------------+----------------+---------------+--------|
 - %: ia csak az ige előtt használható
 - %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
 - a rövid alakok birtokos vagy tárgyesetben szoktak előfordulni
 - ha az alany dia vagy meréka, akkor a tárgy nem lehet dia, csak -nya
 - a -nya esetenként fordítható határozott névelővel ("a ... [amiről szó van]")
 ** Mutató
+- ez a ... / az a ... értelemben a jelzett főnév után
 - ez: ini
 - az: itu
 ** Vonatkozó
@@ -54,8 +55,6 @@
 - valami: sesuatu
 - valaki: seseorang
 * Kérdőszavak
-- eldöntendő kérdés elején: apa[kah]
-- eldöntendő kérdés máshogy: "ige+kah alany stb." (pl. Maukah anda ...?)
 - mi: apa
 - ki: siapa (élőlények nevét is ezzel kérdezzük)
 - kié: punya siapa
@@ -89,10 +88,10 @@
 - hasonlóan mutató névmások, melléknevek és igék is a főnevek után tehetők
 - birtokos kapcsolat: (birtok) (birtokos), pl. buku guru (a tanár könyve)
 - birtokos komment: punya (birtokos), pl. punya guru (a tanáré)
-- tagadás: bukan + főnév ("nemde?" értelemben rövidebb alak is: kan)
+- tagadás: bukan + főnév
 * Melléknevek
 - a jelzett szó után
-- tagadás: tidak + melléknév ("nemde?" értelemben kan/bukan)
+- tagadás: tidak + melléknév
 - középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)
 - felsőfok: paling + melléknév / ter- + melléknév,
   a ter- csak olyanok melléknévhez kapcsolódhat, aminek nincs prefixuma

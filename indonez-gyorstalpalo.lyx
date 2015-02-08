@@ -381,7 +381,11 @@ d
 \begin_inset Text
 
 \begin_layout Plain Layout
-ö, 
+
+\emph on
+ö
+\emph default
+, 
 \begin_inset Formula $é^{1}$
 \end_inset
 
@@ -1220,10 +1224,329 @@ ré
 ka
 \emph default
  (ők).
+ A mondatok intonációja lényegesen bonyolultabb, de ennek leírása túlmutat
+ ezen az összefoglalón.
+\end_layout
+
+\begin_layout Standard
+Ne felejtsük el, hogy a legtöbb indonéznek nem anyanyelve az indonéz, és
+ ezért a kiejtés, a hangsúlyozás, és az intonáció mind hordozhat a helyi
+ nyelvek jellegzetességeiből eredő akcentust.
+\end_layout
+
+\begin_layout Section
+Az indonéz mondat
+\end_layout
+
+\begin_layout Standard
+Az indonéz nyelv SVO szerkezetű, tehát az alany után jön az állítmány, és
+ a tárgy (ha van) a mondat végére kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Hartono membaca buku
+\emph default
+ (Hartono könyvet olvas; 
+\emph on
+membaca
+\emph default
+: olvas, 
+\emph on
+buku
+\emph default
+: könyv), 
+\emph on
+Susi duduk
+\emph default
+ (Susi ül; 
+\emph on
+duduk
+\emph default
+: ül), 
+\emph on
+Lestari cantik
+\emph default
+ (Lestari szép; 
+\emph on
+cantik
+\emph default
+: szép).
+ Ezeket a mondatokat úgy tagadjuk, hogy az állítmány elé helyezzük a 
+\emph on
+tidak
+\emph default
+ (vagy rövidebben 
+\emph on
+tak
+\emph default
+) szót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Hartono tidak membaca buku
+\emph default
+, 
+\emph on
+Susi tidak duduk
+\emph default
+, 
+\emph on
+Lestari tidak cantik
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Amennyiben a mondat két dolog egyenlőségét fejezi ki, az alany és állítmány
+ közé bekerülhet az 
+\emph on
+adalah
+\emph default
+ szó, de ez nem kötelező, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Dia [adalah] Jono
+\emph default
+ (Ő Jono; 
+\emph on
+dia
+\emph default
+: ő), 
+\emph on
+Dwi [adalah] guru
+\emph default
+ (Dwi tanár; 
+\emph on
+guru
+\emph default
+: tanár).
+ A tagadás ebben az esetben a 
+\emph on
+bukan
+\emph default
+ szóval történik, ami az 
+\emph on
+adalah
+\emph default
+ helyére kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Dia bukan Jono
+\emph default
+, 
+\emph on
+Dwi bukan guru
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Az eldöntendő kérdések ugyanúgy néznek ki, mint a kijelentő mondatok, de
+ a mondat elejére kerülhet az 
+\emph on
+apakah
+\emph default
+ (röviden 
+\emph on
+apa
+\emph default
+) partikula, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+[Apakah] Lestari cantik?
+\emph default
+, 
+\emph on
+[Apakah] dia Jono?
+\emph default
+ Írott nyelvben szokásos egy másik formula is, amikor az állítmány a mondat
+ elejére kerül 
+\emph on
+-kah
+\emph default
+ végződéssel, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Cantikkah Lestari?
+\emph default
+, 
+\emph on
+Jonokah dia?
+\emph default
+ Tagadott mondatnál ilyenkor a tagadószó kerül előre, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Tidakkah Hartono membaca buku?
+\emph default
+, 
+\emph on
+Bukankah Dwi guru?
+\end_layout
+
+\begin_layout Standard
+Kiegészítendő kérdésnél a kérdőszó a kiegészítendő rész helyére kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Budi menulis apa?
+\emph default
+ (Mit ír Budi?; 
+\emph on
+menulis
+\emph default
+: ír, 
+\emph on
+apa
+\emph default
+: mi?), 
+\emph on
+Siapa makan nasi?
+\emph default
+ (Ki eszik rizst?; 
+\emph on
+siapa
+\emph default
+: ki?, 
+\emph on
+makan
+\emph default
+: eszik, 
+\emph on
+nasi
+\emph default
+: rizs).
+ Egyéb esetekben a kérdőszó általában a mondat elejére kerül -- bővebben
+ ld.
+\begin_inset space ~
+\end_inset
+
+a kérdőszavakról szóló részt (
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Kérdőszavak"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Section
+Főnevek
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Személyes névmások
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Elöljárószók
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Melléknevek
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Kérdőszavak"
+
+\end_inset
+
+Kérdőszavak
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Partikulák
+\end_layout
+
+\begin_layout Standard
+Blabla
 \end_layout
 
 \begin_layout Section
 Hangváltozások
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Igék
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Számok
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Szóképzés
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+A kollokviális indonéz nyelv
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Példa
 \end_layout
 
 \begin_layout Standard

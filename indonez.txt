@@ -1,11 +1,9 @@
-- kiejtes, hangsulyozas, intonacio
-- alap mondatszerkezet, szofajok (melleknez ~ ige...)
-- tagadas - tidak/bukan
-- igeido egyertelmusites
+- fonevek
 - szemelyes nevmasok, udvariassagi szintek, birtoklas - utotagok, -nya egyeb hasznalata
-- eldontendo kerdesek [apa, apakah, -kah], kerdoszavak
+- igeido egyertelmusites
 - yang
 - eloljaroszok
+- kerdoszavak
 - tobbesszam duplazassal
 - melleknevek hasonlitasa (lebih/kurang/paling/daripada)
 - hatarozok kepzese
@@ -18,5 +16,5 @@
 - felszolitas (me- kieses), tiltas [jangan], -lah
 - szamok, szamlaloszavak, se-, sorszamnevek
 - beszelt nyelvi jelensegek [ld. beszelt.txt]
-- roviditesek (duplazas: 2, yg, ...)
+- roviditesek (duplazas: 2, yg, dg, ... + PD stb.)
 - kidolgozott pelda, szotovek feltuntetesevel
