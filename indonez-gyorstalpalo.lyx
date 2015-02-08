@@ -115,8 +115,9 @@ nak, azaz Indonézia nyelvének.
  5%-ának volt az anyanyelve: Indonézia lakosságának közel 50%-a jávai volt,
  és a jávai nyelv gazdag irodalmi hagyományokkal és írásos kultúrával rendelkeze
 tt.
- Azóta a nyelv jelentős mennyiségű angol jövevényszót is felszedett, ami
- a nyelvtanulóknak nagy könnyebséget jelent.
+ Nem csoda hát, hogy a nyelv azóta rengeteg jávai eredetű szóval is gazdagodott.
+ Ezen kívül az utóbbi évtizedekben jelentős mennyiségű angol jövevényszót
+ is felszedett, ami a nyelvtanulóknak nagy könnyebséget jelent.
 \end_layout
 
 \begin_layout Standard
@@ -164,7 +165,7 @@ könyvben és más művekben
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "students-guide-to-indo-grammar,malay-indonesian-grammar"
+key "descriptive-grammar,students-guide-to-indo-grammar,malay-indonesian-grammar"
 
 \end_inset
 
@@ -598,7 +599,10 @@ h
 \begin_inset Text
 
 \begin_layout Plain Layout
-l
+\begin_inset Formula $l^{4}$
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -634,7 +638,7 @@ ny
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $ng^{4}$
+\begin_inset Formula $ng^{5}$
 \end_inset
 
 
@@ -646,7 +650,7 @@ ny
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $o^{5}$
+\begin_inset Formula $o^{6}$
 \end_inset
 
 
@@ -788,7 +792,7 @@ k
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $r^{6}$
+\begin_inset Formula $r^{7}$
 \end_inset
 
 
@@ -853,7 +857,7 @@ f
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $w^{7}$
+\begin_inset Formula $w^{8}$
 \end_inset
 
 
@@ -1005,6 +1009,14 @@ maklum
 \end_layout
 
 \begin_layout Enumerate
+Az 
+\emph on
+l
+\emph default
+ mély hangrendű szótagok végén a beszélők egy részénél kemény (velarizált).
+\end_layout
+
+\begin_layout Enumerate
 A 
 \emph on
 ng
@@ -1038,7 +1050,7 @@ ngg
 \emph on
 mangga
 \emph default
- (mangó).
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -1062,7 +1074,7 @@ A
 \emph on
 w
 \emph default
- ejtése mint az angol 
+ ejtése olyan, mint az angol 
 \emph on
 want
 \emph default
@@ -1086,7 +1098,7 @@ v
 \emph on
 f
 \emph default
- betűt, tehát f-nek, esetleg p-nek.
+ betűt, tehát gyakran f-nek, esetleg p-nek.
  A 
 \emph on
 zaman
@@ -1120,11 +1132,23 @@ au
 \emph on
 oi
 \emph default
-, de ezek is csak nyílt szótagokban, tehát a helyes szótagolás 
+, de ezek is csak nyílt szótagokban, tehát pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+pakaian
+\emph default
+ (ruha) szó helyes szótagolása 
 \emph on
 pa-kai-an
 \emph default
-, de 
+, de az 
+\emph on
+air
+\emph default
+ (víz) szóé 
 \emph on
 a-ir
 \emph default
@@ -1317,6 +1341,24 @@ Sneddon et al,
 Indonesian: A Comprehensive Grammar, 2nd Ed.
 \emph default
 , Routledge, 2010.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "descriptive-grammar"
+
+\end_inset
+
+I.
+\begin_inset space ~
+\end_inset
+
+Dyen, 
+\emph on
+A Descriptive Indonesian Grammar
+\emph default
+, Yale University, 1967.
 \end_layout
 
 \begin_layout Bibliography
