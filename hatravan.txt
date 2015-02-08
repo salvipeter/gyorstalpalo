@@ -1,0 +1,356 @@
+#			  -*- mode: org -*-
+
+* ABC & Kiejtés
+- a b/d/g szó végén p/t/k lesz (csak jövevényszavaknál fordul elő)
+** Hangváltozások az "utcai" nyelvben
+- a ber-/me- prefixek gyakran leesnek
+- kettőshangzók: au -> o, ai -> é
+- az a-ból néhol e lesz
+* Hangváltozások
+** N (meN-, peN- típusú prefixek)
+- a következő hangtól függően változik (a csillagozott mássalhangzó eltűnik):
+- p*/b[/f/v]: m
+- t*/d/c/j[/sy/z]: n
+- s*: ny
+- k*/g/h[/kh] vagy magánhangzó: ng
+- m/n/ny/ng/w/y/l/r: -
+- az eltűnő mássalhangzók idegen szavakban megmaradhatnak (pl. mengkritik)
+- a per- prefix p-je általában megmarad (pl. meN- + per- + kecil -> memperkecil)
+- reduplikációnál a prefix kiesik, de a hangváltozás marad (pl. menunggu-nunggu)
+- egy szótagos tőnél a meN- prefix menge-re változhat (pl. pel -> mengepel)
+** R (beR-, peR-, teR- típusú prefixek)
+- ha a tő r-rel kezdődött, csak egy r lesz (pl. ber- + renang -> berenang)
+- ha a tő CerC alakú, akkor az R kiesik (pl. ber- + kerja -> bekerja)
+- kivétel: ber- + ajar -> belajar
+* Névmások
+** Személyes/birtokos
+- a neveket/címeket lehet E/2 személyes/birtokos névmásként használni
+*** Udvarias
+|------+--------------+------------+----------------+--------------+--------|
+| Én   | Te           | Ő          | Mi             | Ti           | Ők     |
+|------+--------------+------------+----------------+--------------+--------|
+| saya | anda/saudara | dia / ia % | kami / kita %2 | anda/saudara | meréka |
+|------+--------------+------------+----------------+--------------+--------|
+- %: ia csak az ige előtt használható
+- %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
+*** Tegező
+|--------+-----+---------------+------------+----------------+---------------+--------|
+|        | Én  | Te            | Ő          | Mi             | Ti            | Ők     |
+|--------+-----+---------------+------------+----------------+---------------+--------|
+| Teljes | aku | kamu / engkau | dia / ia % | kami / kita %2 | kamu / engkau | meréka |
+| Rövid  | -ku | -mu  / kau    | -nya       |                | -mu / kau     | -nya   |
+|--------+-----+---------------+------------+----------------+---------------+--------|
+- %: ia csak az ige előtt használható
+- %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
+- a rövid alakok birtokos vagy tárgyesetben szoktak előfordulni
+- ha az alany dia vagy meréka, akkor a tárgy nem lehet dia, csak -nya
+- a -nya esetenként fordítható határozott névelővel ("a ... [amiről szó van]")
+** Mutató
+- ez: ini
+- az: itu
+** Vonatkozó
+- ami, aki: yang (bővebben ld. Partikulák)
+** Határozatlan
+- valami: sesuatu
+- valaki: seseorang
+* Kérdőszavak
+- eldöntendő kérdés elején: apa[kah]
+- eldöntendő kérdés máshogy: "ige+kah alany stb." (pl. Maukah anda ...?)
+- mi: apa
+- ki: siapa (élőlények nevét is ezzel kérdezzük)
+- kié: punya siapa
+- melyik: yang mana
+- melyik ...: ... yang mana
+- mikor: kapan [csak mondat elej'en]
+- milyen: bagaimana [dengan]
+- milyen ...: ... apa
+- miért: kenapa / mengapa (írott) [ezek csak mondat elején lehetnek]
+- hol/hova/honnan: di/ke/dari mana
+- mennyi: berapa
+- hányszor: berapa kali
+- (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
+* Elöljárószók
+- -ban/-nál: di (állítmány is lehet)
+- -ba/-hoz: ke (állítmány is lehet)
+- -ból/-tól: dari
+- -ig: sampai
+- -val: dengan
+- -ban (belül): dalam
+- -hoz/-nak: kepada (személyekre)
+- -nak, -ért: untuk
+- -on át (időtartamot vezet be, még tarthat): selama
+- -kor/-nak: pada
+- óta: sejak / semenjak
+* Főnevek
+- nincsenek esetek
+- többesszám az első tag duplázásával (rak buku => rak-rak buku), nem kötelező
+  (csak megszámlálható dolgokra, ha nem szerepel szám(lálószó))
+- egy főnév egy másik után helyezése jelző értékű, pl. toko pakaian (ruhabolt)
+- hasonlóan mutató névmások, melléknevek és igék is a főnevek után tehetők
+- birtokos kapcsolat: (birtok) (birtokos), pl. buku guru (a tanár könyve)
+- birtokos komment: punya (birtokos), pl. punya guru (a tanáré)
+- tagadás: bukan + főnév ("nemde?" értelemben rövidebb alak is: kan)
+* Melléknevek
+- a jelzett szó után
+- tagadás: tidak + melléknév ("nemde?" értelemben kan/bukan)
+- középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)
+- felsőfok: paling + melléknév / ter- + melléknév,
+  a ter- csak olyanok melléknévhez kapcsolódhat, aminek nincs prefixuma
+- túlságosan: terlalu + melléknév
+- azonos mérték: se + melléknév ... / sama melléknév + nya dengan ...,
+  pl. dia sekaya anda / dia sama kayanya dengan anda
+* Határozószók
+- ige után (de időnként ige előtt, és kiemelhető a mondat elejére)
+- képzés melléknévből: dengan/secara + melléknév, vagy reduplikáció,
+  pl. mereka berlari [dengan/secara] cepat[-cepat] (gyorsan futnak)
+- időhatározóknál: pada + időpont (ilyenkor ki kell tenni a hari/bulan/stb-t)
+* Prefixumok és szuffixumok
+- -kah: kérdésjelző (a kérdéses szóhoz, főleg írott nyelvben)
+- -lah: kiemelő rag; felszólítás erejét enyhíti
+- se-: ugyanolyan ..., ugyanaz a ..., ugyanabban a ...ban stb.; az egész ...
+* Partikulák
+** kan
+- "nemde?" értelmű, a bukan rövid formája
+- mondat közben az állítmány előtt, pl. London kan jauh dari sini
+- mondat végén, pl. London jauh dari sini, (bu)kan?
+** pun
+- is, pl. saya pun sudah membeli mobil baru (én is vettem új autót)
+- akár ... is, pl. berdiri pun dia tak bisa, apalagi berlari (állni sem tud, nemhogy futni)
+- bármi (kérdőszó után), pl. ke mana pun dia pergi, saya mau ikut (bárhova is megy, én vele megyek)
+** saja
+- csak, pl. saya mau satu anak saja (csak egy gyereket akarok), tenang saja (csak nyugi)
+- bármi, pl. mana saja (bármelyik), apa saja yang kamu ingini beritahulah aku (mondd meg, mit szeretnél)
+- többesszám, pl. kamu membeli apa saja? (miket vettél?), sudah ke mana saja? (hol(tsz.) voltál?)
+- kifejezésekben, pl. tentu saja (természetesen)
+** yang
+- ami/aki (pl. orang yang duduk di sana, "az ember, aki ott ül")
+- az, ami/aki (pl. yang menolong saya Eva, "Eva volt az, aki segített nekem)
+- csak úgy, vagy kiemelő jelleggel főnév és melléknév között (opcionális)
+  (pl. kucing [yang] lucu, "aranyos macska")
+- számlálószó jelleggel, egy szövegkörnyezetből világos főnevet helyettesít
+  (pl. mau yang kecil?, "a kicsi [...t] akarod?";
+       saya mau yang ini, "ezt [a ...t] akarom")
+- hasonlóan, egy általánosabb halmazból specifikus elemet határoz meg
+  (pl. saya punya dua anak, yang perempuan ..., "két gyerekem van, a lány...")
+- jelzők halmozásánál: a nem mellénévi jelzők elé kerülnek, a melléknevek
+  utána, az utolsó két melléknév közt "dan"-nal
+  (pl. rumah makan Indonesia yang romantis, unik dan murah; rumahku yang baru)
+- "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
+  ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
+  (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
+  [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
+** Beszélt nyelvi
+- déh:
+- doang: mondat végén "csak, csupán" értelmű
+- dong: erősíti a kijelentést, felszólítást, kérést; "persze"
+- kok: mondat elején "hogyhogy?" értelmű, mondat végén erősíti valamilyen feltételezés tagadását
+- lho:
+- nih:
+- sih:
+- tuh:
+- ya:
+* Igék
+- alapigék és ber-/meN- prefixumokkal képzett igék vannak
+- nincs egyeztetés (idővel, számmal, személlyel, nemmel)
+- az időt lehet egyértelműsíteni
+- folyamatos jelen: sedang + ige ("éppen")
+- befejezettség: sudah/telah + ige ("már") [telah formálisabb, írott nyelvi]
+- múltbeli, már megszűnt szokás, helyzet: dulu/dahulu + ige ("régen")
+- éppen most befejezett cselekvés: baru [saja] + ige
+- jövőidő: akan + ige ("majd")
+- tagadás: tak/tidak + [sedang/sudah/stb.] + ige ("nemde?" értelemben kan/bukan)
+- buzdítás: ayo/mari [kita] + ige ("hadd ...-junk")
+- többesszám: a cselekvés sokszor ismétlődik, általában az alany többesszámú, de nem feltétlenül,
+  pl. duduk-duduk (üldögélnek), berteriak-teriak (kiáltoznak), melihat-lihat (nézelődnek);
+  a hangváltozás megmarad az ismételt részben, pl. menunggu-nunggu (várakoznak)
+- kölcsönös cselekvés: saling + ige, pl. saling memaafkan (megbocsátanak egymásnak);
+  vagy me- igéknél "igető-ige", pl. maaf-memaafkan, kunjung-mengunjungi (meglátogatják egymást);
+  vagy alapigéknél "ber[ige-]főnév", pl. ber[peluk-]pelukan (megölelik egymást), bercium-ciuman stb.
+- mellékmondatban ill. másodlagos igénél leesik a me- (pl. bahasa yang saya pelajari),
+  lényegében ez egy passzív, ld. lent
+** Felszólítás
+- alapigék: változatlanul, pl. minum -> minum (igyál)
+- ber- igék: ha a szótő is ige, akkor a prefixum leeshet, de nem muszáj; ha nem, akkor megmarad,
+  pl. bermain -> [ber]main (játssz), berkata -> berkata (beszélj)
+- me- igék: konkrét tárgyas igéknél a prefix leesik,
+  de tárgyatlannál és konkrét tárgy nélkülinél megmarad, pl. menari -> menari (táncolj),
+  membaca -> baca buku itu (olvasd a könyvet) / membaca (olvass) / membaca buku (olvass könyvet)
+- udvariasabbá tehetik a következők: silahkan ... / tolong ... / coba ... / harap ... / ...-lah
+- tiltás: jangan[lah] + ige (tárgyas igéknél a me- prefixum elhagyható)
+- gyakori a passzív felszólítás/tiltás, pl. téhnya diminum;
+  jendéla jangan dibuka, ez utóbbi lehet fordított szórenddel is: jangan dibuka jendéla
+- felszólító/tiltó igékhez nem kapcsolódhat utótag alakú személyes névmás (-ku/-mu/-nya)
+- ha a felszólítás a cselekvés módjára vonatkozik, a határozót képezheti a yang,
+  pl. berlarilah yang cepat (fuss gyorsan), sikatlah gigimu yang bersih (jól mosd meg a fogadat)
+** Passzív
+- két fajta: (i) 3. személyű személyes névmás, főnév, vagy kifejezetlen az ágens
+             (ii) személyes névmás az ágens
+- (i) di-... [[oléh] <ágens>], pl. membersihkan -> dibersihkan [[oléh] Pak Amir / dia / -nya]
+- az oléh kötelező, ha az ágens nem közvetlenül követi az igét,
+  pl. dia sudah diberi uang itu oléh meréka
+- kivétel: mengerti => dimengerti
+- időnként használják 1. és 2. személyű személyes névmással, de nem helyes
+- (ii) személyes névmás + meN- nélküli alak, pl. membersihkan -> kami bersihkan
+- ez valójában egy kiemelése a tárgynak a mondat elejére
+- nem kerülhet semmi közé, tehát pl. baju itu sudah saya seterika,
+  nem lehet felcserélni a sudah és saya pozícióját
+- az aku/kamu gyakran ku- ill. kau- prefixum alakjában jelenik meg,
+  pl. buku ini sudah kubaca
+- a megszólítások (Pak, Bu, <a saját nevem>, <partner neve> stb.) is személyes névmásnak számítanak
+** ter-
+- akaratlanság: ter- (tárgyatlan igékkel), pl. berbatuk (köhög) -> terbatuk (akaratlanul köhög)
+- passzív: gyakran akaratlan, pl. menginjak (rálép) -> terinjak (véletlenül eltapos)
+- állapot: passzív melléknév jellegű, pl. membuka (kinyit) -> terbuka (nyitott)
+- tagadva általában képtelenséget jelez, pl. tidak termakan (nem lehet megenni)
+* Számok
+- 0: nol / kosong
+- 1: satu (számlálószó előtt se-)
+- 2: dua
+- 3: tiga
+- 4: empat
+- 5: lima
+- 6: enam
+- 7: tujuh
+- 8: delapan
+- 9: sembilan
+- 10: sepuluh (tizesjelölőként puluh, pl. enam puluh (60))
+- 11: sebelas
+- 12-19: ... belas (pl. 15: lima belas)
+- 100: seratus (ezresjelölőként ratus)
+- 1000: seribu (ezresjelölőként ribu)
+- 1000,000: sejuta (milliósjelölőként juta)
+- 1000,000,000: satu milyar
+** Sorszámnevek
+- 1.: pertama
+- n.: ke- (kedua, ketiga, ...)
+** Számlálószavak
+- emberek: orang
+- állatok: ékor
+- általános dolgok: buah
+- (egy) absztrakt dolog: sesuatu
+** Emberszámlálás
+- ber- (pl. berdua, bertiga stb.)
+** Hányadosok
+- egy-valahányad: seper..., pl. sepertiga, seperempat
+** Idő
+*** Dátumok
+- sorrend: [pada] nap - hónap - év / [pada] [bulan] hónap / [pada] [tahun] év
+- az évet teljes számként kell felolvasni, de 2000 alatt szokás kettőben is (pl. 19 95)
+**** Hónapok nevei
+- január: Januari
+- február: Fébruari
+- március: Maret
+- április: April
+- május: Méi
+- június: Juni
+- július: Juli
+- augusztus: Agustus
+- szeptember: Séptémber
+- október: Oktober
+- november: Novémber
+- december: Désémber
+*** Óra
+- jam setengah ... = fél ... (pl. jam setengah tiga = 2:30)
+- jam ... kurang ... menit = ... lesz ... perc múlva (pl. jam lima kurang lima menit = 4:55)
+- jam ... kurang seperempat = haromnegyed ... (pl. jam enam kurang seperempat = 5:45)
+- jam ... léwat ... menit = ... múlt ... perccel (pl. jam satu léwat sepuluh menit = 1:10)
+- jam ... léwat seperempat = negyed ...+1 (pl. jam dua léwat seperempat = 2:15)
+- gyakran egyértelműsítik a napszakot (pagi / siang / soré / malam), pl. jam empat soré (16:00)
+* Szóképzés
+** Főnevek
+- nagyon sokféle képző van, és ezek nem mindig konzekvensek
+- az alábbiak a leggyakoribbak, de korántsem törvényszerűek
+*** peN-
+- meN- igékhez: a műveletet végző ember/dolog, pl. menulis (ír) -> penulis (író);
+- melléknevekhez: változatos, pl. sakit (beteg) -> penyakit (betegség); 
+                                  jahat (rossz) -> penjahat (bűnöző)
+*** pe-
+- ber- igékhez: a műveletet végző ember, pl. berdagang (kereskedik) -> pedagang (kereskedő)
+- néha más szóból is hasonlóan, pl. tenis (tenisz) -> petenis (teniszező)
+*** -an
+- tárgyas igéből: ami ...va lett, pl. melukis (fest) -> lukisan (festmény)
+- tárgyas igéből: ami ...-ódik, pl. makan (eszik) -> makanan (étel)
+- aktív igéből: absztrakt, pl. membantu (segít) -> bantuan (segítség)
+- aktív igéből: eszköz vagy hely, pl. menggantung (felakaszt) -> gantungan (vállfa);
+                                      memarkir (parkol) -> parkiran (parkoló)
+- főnévből: ugyanaz, vagy erősített jelentés, pl. laut (tenger) -> lautan (óceán)
+- reduplikált főnévből: változatosságot jelöl, pl. sayur (zöldség) -> sayur-sayuran (zöldségek)
+- reduplikált főnévből: kicsinyítő, pl. mobil (autó) -> mobil-mobilan (játékautó)
+- melléknévből: jellegzetesen olyan dolog, pl. kotor (koszos) -> kotoran (szemét, trágya)
+*** ke-...-an
+- melléknévből: absztrakt, pl. cantik (szép) -> kecantikan (szépség)
+- tagadott melléknévből: absztrakt, pl. adil (igazságos) -> ketidak-adilan (igazságtalanság)
+- tárgyatlan, prefixtelen igéből: főnévi igenév, pl. lahir (születik) -> kelahiran (születés)
+- ber-/ter- igéből (a prefix megmarad!): absztrakt, pl. berhasil (sikeres) -> keberhasilan (siker)
+- főnévből: absztrakt, pl. wanita (nő) -> kewanitaan (nőiesség)
+- rangot jelentő főnévből: a kezelt terület, pl. menteri (miniszter) -> kementerian (minisztérium)
+- kellemetlen melléknévből/főnévből: túlságos, pl. kehujanan (óriási esőzés), kedinginan (fagy)
+*** peN-...-an
+- meN- típusú igéből: absztrakt, pl. menjual (elad) -> penjualan (eladás)
+*** per-...-an
+- ber- típusú igéből: absztrakt, pl. bermain (játszik) -> permainan (játék)
+- főnévből: jelentéstágító, pl. rumah (ház) -> perumahan (elhelyezés, szállásolás)
+** Melléknevek
+*** ke-...-an
+- melléknévből: túlságosan vmilyen, pl. kecapékan (holtfáradt), kelaparan (farkaséhes)
+*** ter-
+- ld. Igék/ter-
+** Igék
+*** ber-
+- tárgyatlan igeképző
+- főnévből: (vmilyen) vmivel rendelkezik, pl. berpakaian cantik (szép ruhával rendelkezik)
+*** ber-...-an
+- egymással (gyakran duplázva), pl. berpandang-pandangan (bámulják egymást)
+- folyamatosságot vagy ismétlődést jelölhet, pl. berkilauan (folyamatosan csillog)
+- jelezheti, hogy sokan végzik, pl. berlarian (sokan futnak)
+*** ber-...-kan
+- helyettesíthet valamilyen elöljárószót, pl. bersenjata dengan golok -> bersenjatakan golok
+- helyettesítheti az "akan" szót, pl. berharapkan = berharap akan ...
+- egyfajta választékos passzívot is jelölhet, pl. langit bertaburkan bintang
+*** ke-...-an
+- kellemetlenség éri, pl. kehujanan (megázik), kedinginan (fázik), kemasukan pencuri (kirabolják)
+- kivételek: kelihatan ([vmilyennek] tűnik), kedengaran ([vmilyennek] hallatszik)
+*** meN-
+- melléknévből: olyanná válik, pl. kuning (sárga) -> menguning (sárgul)
+*** meN-...-i
+- gyakran használják ezeket az igéket passzív formában
+- képez dupla tárgyas igéket is
+- melléknévből: olyanná tesz, pl. kotor (koszos) -> mengotori (bekoszol)
+- főnévből: tárgyas igét képez, ahol a tárgy gyakran helyhatározó vagy fogadó,
+            vagy valahogyan viselkedik, pl. mengepalai (lit. "fejez", csoportot vezet)
+- tárgyatlan igéből: tárgyasat csinál, a tárgy gyakran helyhatározó vagy fogadó,
+                     tehát a jelentés nem változik, csak nem kell di/ke/akan/stb.
+- tárgyas igéből: ismétlődő/intenzív cselekvés, pl. mengambili uang  (újra és újra felvesz pénzt)
+- kivételek: baik -> memperbaiki, baru -> memperbarui
+*** meN-...-kan
+- melléknévből: olyanná tesz, pl. bersih (tiszta) -> membersihkan (tisztít)
+- tárgyatlan igéből: késztet, pl. masuk (bemegy) -> memasukkan (belerak)
+- tárgyas igéből: vkinek csinál, pl. membeli (vásárol) -> membelikan (vásárol vkinek)
+*** memper-...-kan
+- ber- típusú igéből: késztet, pl. bersatu (egyesül) -> mempersatukan (egyesít)
+*** memper-
+- melléknévből: még olyanabbá tesz, pl. besar (nagy) -> memperbesar (még nagyobbá tesz)
+- kivételek: baik -> memperbaiki, baru -> memperbarui
+*** ter-
+- ld. Igék/ter-
+** A 16 ige
+- ezeknél a meN-...-kan helyettesíti a meN-... alakot
+- sima tárgyas ige jelentésűek
+*** Igéből
+- anjur
+- beri (memberi: ad, -kan: ad vkinek)
+- bicara
+- dengar (mendengar: hall, -kan: hallgat)
+- kirim (mengirim: küld, -kan: küld vkinek)
+- pikir
+- pinjam (meminjam: kölcsönvesz, -kan: kölcsönad)
+- terjemah
+*** Főnévből
+- séwa (menyéwa: bérel, -kan: bérbe ad)
+- kerja
+- cerita
+- kapal
+- janji
+- kata
+- kabar
+- ucap
