@@ -45,6 +45,7 @@
 - a rövid alakok birtokos vagy tárgyesetben szoktak előfordulni
 - ha az alany dia vagy meréka, akkor a tárgy nem lehet dia, csak -nya
 - a -nya esetenként fordítható határozott névelővel ("a ... [amiről szó van]")
+- hozzateheto a berdua, bertiga stb.
 ** Mutató
 - ez a ... / az a ... értelemben a jelzett főnév után
 - ez: ini
@@ -80,18 +81,8 @@
 - -on át (időtartamot vezet be, még tarthat): selama
 - -kor/-nak: pada
 - óta: sejak / semenjak
-* Főnevek
-- nincsenek esetek
-- többesszám az első tag duplázásával (rak buku => rak-rak buku), nem kötelező
-  (csak megszámlálható dolgokra, ha nem szerepel szám(lálószó))
-- egy főnév egy másik után helyezése jelző értékű, pl. toko pakaian (ruhabolt)
-- hasonlóan mutató névmások, melléknevek és igék is a főnevek után tehetők
-- birtokos kapcsolat: (birtok) (birtokos), pl. buku guru (a tanár könyve)
-- birtokos komment: punya (birtokos), pl. punya guru (a tanáré)
-- tagadás: bukan + főnév
 * Melléknevek
 - a jelzett szó után
-- tagadás: tidak + melléknév
 - középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)
 - felsőfok: paling + melléknév / ter- + melléknév,
   a ter- csak olyanok melléknévhez kapcsolódhat, aminek nincs prefixuma
@@ -138,6 +129,7 @@
   ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
   (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
   [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
+- peldakent minggu yang lalu
 ** Beszélt nyelvi
 - déh:
 - doang: mondat végén "csak, csupán" értelmű
@@ -201,60 +193,6 @@
 - passzív: gyakran akaratlan, pl. menginjak (rálép) -> terinjak (véletlenül eltapos)
 - állapot: passzív melléknév jellegű, pl. membuka (kinyit) -> terbuka (nyitott)
 - tagadva általában képtelenséget jelez, pl. tidak termakan (nem lehet megenni)
-* Számok
-- 0: nol / kosong
-- 1: satu (számlálószó előtt se-)
-- 2: dua
-- 3: tiga
-- 4: empat
-- 5: lima
-- 6: enam
-- 7: tujuh
-- 8: delapan
-- 9: sembilan
-- 10: sepuluh (tizesjelölőként puluh, pl. enam puluh (60))
-- 11: sebelas
-- 12-19: ... belas (pl. 15: lima belas)
-- 100: seratus (ezresjelölőként ratus)
-- 1000: seribu (ezresjelölőként ribu)
-- 1000,000: sejuta (milliósjelölőként juta)
-- 1000,000,000: satu milyar
-** Sorszámnevek
-- 1.: pertama
-- n.: ke- (kedua, ketiga, ...)
-** Számlálószavak
-- emberek: orang
-- állatok: ékor
-- általános dolgok: buah
-- (egy) absztrakt dolog: sesuatu
-** Emberszámlálás
-- ber- (pl. berdua, bertiga stb.)
-** Hányadosok
-- egy-valahányad: seper..., pl. sepertiga, seperempat
-** Idő
-*** Dátumok
-- sorrend: [pada] nap - hónap - év / [pada] [bulan] hónap / [pada] [tahun] év
-- az évet teljes számként kell felolvasni, de 2000 alatt szokás kettőben is (pl. 19 95)
-**** Hónapok nevei
-- január: Januari
-- február: Fébruari
-- március: Maret
-- április: April
-- május: Méi
-- június: Juni
-- július: Juli
-- augusztus: Agustus
-- szeptember: Séptémber
-- október: Oktober
-- november: Novémber
-- december: Désémber
-*** Óra
-- jam setengah ... = fél ... (pl. jam setengah tiga = 2:30)
-- jam ... kurang ... menit = ... lesz ... perc múlva (pl. jam lima kurang lima menit = 4:55)
-- jam ... kurang seperempat = haromnegyed ... (pl. jam enam kurang seperempat = 5:45)
-- jam ... léwat ... menit = ... múlt ... perccel (pl. jam satu léwat sepuluh menit = 1:10)
-- jam ... léwat seperempat = negyed ...+1 (pl. jam dua léwat seperempat = 2:15)
-- gyakran egyértelműsítik a napszakot (pagi / siang / soré / malam), pl. jam empat soré (16:00)
 * Szóképzés
 ** Főnevek
 - nagyon sokféle képző van, és ezek nem mindig konzekvensek

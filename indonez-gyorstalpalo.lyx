@@ -117,7 +117,7 @@ nak, azaz Indonézia nyelvének.
 tt.
  Nem csoda hát, hogy a nyelv azóta rengeteg jávai eredetű szóval is gazdagodott.
  Ezen kívül az utóbbi évtizedekben jelentős mennyiségű angol jövevényszót
- is felszedett, ami a nyelvtanulóknak nagy könnyebséget jelent.
+ is felszedett, ami a nyelvtanulóknak nagy könnyebbséget jelent.
 \end_layout
 
 \begin_layout Standard
@@ -1452,11 +1452,1538 @@ reference "sec:Kérdőszavak"
 \end_layout
 
 \begin_layout Section
+Számok
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="6">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nol / kosong
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+satu (se-)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dua
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tiga
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+empat
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+lima
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+enam
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tujuh
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+delapan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sembilan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+se
+\emph default
+puluh
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+se
+\emph default
+belas
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000,000
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000,000,000
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+se
+\emph default
+ratus
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+se
+\emph default
+ribu
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+se
+\emph default
+juta
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+satu milyar
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:szamok"
+
+\end_inset
+
+Az indonéz számok.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A számok logikus felépítésűek (ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:szamok"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat).
+ A magyarhoz hasonlóan ezres osztásokban a magas helyiértéktől indulva épülnek
+ fel.
+ A tíz, száz, ezer, ill.
+\begin_inset space ~
+\end_inset
+
+millió helyiértékeket jelölő szavak eggyel szorozva 
+\emph on
+se-
+\emph default
+ prefixumot kapnak, egyébként a 
+\emph on
+se-
+\emph default
+ helyét a megfelelő szorzó veszi át.
+ Ugyanígy működik a 11--19 számoknál a tizen- ,,helyiérték'' is.
+ Nézzünk egy példát: 
+\emph on
+enam milyar delapan ratus tujuh puluh empat juta lima ratus tiga belas ribu
+ dua ratus sembilan puluh satu 
+\emph default
+(6,874,513,291).
+\end_layout
+
+\begin_layout Standard
+Más kelet-ázsiai nyelvekhez hasonlóan az indonézben is vannak szám\SpecialChar \-
+lá\SpecialChar \-
+ló\SpecialChar \-
+sza\SpecialChar \-
+vak.
+ Ezek úgy működnek, mint pl.
+\begin_inset space ~
+\end_inset
+
+a ,,szem'' szó abban a kifejezésben, hogy ,,három szem búza'', de a használatuk
+ sokkal általánosabb, mint a magyarban.
+ A legfontosabb számlálószavak a következők: 
+\emph on
+orang
+\emph default
+ (emberekre), 
+\emph on
+ékor
+\emph default
+ (állatokra [lit.
+\begin_inset space ~
+\end_inset
+
+farok]), 
+\emph on
+buah
+\emph default
+ (általános).
+ Ezeken kívül még 10--20 számlálószó van, ami elég gyakorinak számít.
+ A szórend mindig szám--számlálószó--dolog, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+tiga ékor tikus
+\emph default
+ (három egér; 
+\emph on
+tikus
+\emph default
+: egér).
+ Ha a számlált dologból csak egy van, a 
+\emph on
+se-
+\emph default
+ alakot használjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+seorang penyanyi
+\emph default
+ (egy énekes; 
+\emph on
+penyanyi
+\emph default
+: énekes).
+ A számlálószavak használata nem kötelező, és csak akkor használhatóak,
+ ha a számlált dolog határozatlan.
+\end_layout
+
+\begin_layout Standard
+A sorszámneveket a 
+\emph on
+ke-
+\emph default
+ prefixummal képezzük.
+ Kivétel a 
+\emph on
+pertama
+\emph default
+ (első), de utána már mindig szabályos: 
+\emph on
+kedua
+\emph default
+, 
+\emph on
+ketiga
+\emph default
+ stb., pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+orang ketiga
+\emph default
+ (a harmadik ember; 
+\emph on
+orang
+\emph default
+: ember).
+ Ugyanezek a szavak más szórenddel azt jelentik, hogy ,,mind a 
+\begin_inset Formula $\dots$
+\end_inset
+
+'', pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ketiga bébék tidur
+\emph default
+ (mindhárom kacsa alszik; 
+\emph on
+bébék
+\emph default
+: kacsa, 
+\emph on
+tidur
+\emph default
+: alszik).
+\end_layout
+
+\begin_layout Standard
+A hányadosokat a 
+\emph on
+per
+\emph default
+ közbeékelésével kapjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dua per tiga
+\emph default
+ (
+\begin_inset Formula $\frac{2}{3}$
+\end_inset
+
+).
+ A számlálóban levő 1-nél a 
+\emph on
+se-
+\emph default
+ alakot használjuk, és az egészet egybeírjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+seperempat
+\emph default
+ (
+\begin_inset Formula $\frac{1}{4}$
+\end_inset
+
+).
+ Kivétel az 
+\begin_inset Formula $\frac{1}{2}$
+\end_inset
+
+, ami rendhagyóan 
+\emph on
+setengah
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Dátum és idő
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="7">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+január
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+február
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+március
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+április
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+május
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+június
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+július
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Januari
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fébruari
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Maret
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+April
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Méi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Juni
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Juli
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+augusztus
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+szeptember
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+október
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+november
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+december
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Agustus
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Séptémber
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Oktober
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Novémber
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Désémber
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hétfő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kedd
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+szerda
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+csütörtök
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+péntek
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+szombat
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+vasárnap
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Senin
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Selasa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rabu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kamis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jumat
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sabtu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Minggu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+év
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hónap
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hét
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nap
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+óra
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+perc
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+másodperc
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+tahun
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+bulan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+minggu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hari
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+jam
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+menit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+detik
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:datumok"
+
+\end_inset
+
+Hónapok és napok nevei; időtartamok.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A hónapok nevei a hollandból, a napok nevei (a vasárnap kivételével) az
+ arabból származnak, ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:datumok"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat.
+ A dátumokban a sorrend nap--hónap--év, pl.
+\begin_inset space ~
+\end_inset
+
+22 Maret 1982.
+ Az évszámokat fel lehet olvasni egyben, vagy két darabra osztva, így 1982
+ lehet 
+\emph on
+seribu sembilan ratus delapan puluh dua
+\emph default
+, vagy a kicsit rövidebb 
+\emph on
+sembilan belas delapan puluh dua
+\emph default
+.
+ Ha csak hónapot vagy csak évet említünk, ki szokás elé tenni a 
+\emph on
+bulan
+\emph default
+ (hónap) ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+tahun
+\emph default
+ (év) szavakat.
+ A napok nevei elé általában kirakják a 
+\emph on
+hari
+\emph default
+ (nap) szót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hari Kamis
+\emph default
+.
+ A pénteket jelentő 
+\emph on
+Jumat
+\emph default
+ kiejtése rendhagyó, az 
+\emph on
+a
+\emph default
+ hang elé egy torokzárás kerül [dzsum'
+\begin_inset Formula $\mathrm{\dot{a}}$
+\end_inset
+
+t].
+\end_layout
+
+\begin_layout Standard
+Időpontot több módon is ki lehet fejezni.
+ Mindegyik verzió a 
+\emph on
+jam
+\emph default
+ (óra) vagy 
+\emph on
+pukul
+\emph default
+ (üt) szóval kezdődik.
+ A legegyszerűbb, ha csak egymás után rakjuk a két számot, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jam tiga sepuluh
+\emph default
+ (3:10).
+ Ennek egy kicsit hosszabb változata a 
+\emph on
+léwat
+\emph default
+ (elhalad) szót használja, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jam enam léwat lima [menit]
+\emph default
+ (6:05).
+ Amennyiben negyedóra telt el egész óta, akkor a 
+\emph on
+seperempat
+\emph default
+ (negyed) szót is használhatjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jam delapan léwat seperempat
+\emph default
+ (8:15).
+ Ha a 
+\emph on
+léwat
+\emph default
+ szót lecseréljük a 
+\emph on
+kurang
+\emph default
+ (levon) szóra, a jelentés értelemszerűen változik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jam enam kurang lima [menit]
+\emph default
+ (5:55), 
+\emph on
+jam delapan kurang seperempat
+\emph default
+ (7:45).
+ A fél órát úgy fejezik ki, mint magyarul, tehát a következő egész óra elé
+ teszik a 
+\emph on
+setengah
+\emph default
+ (fél) szót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jam setengah tujuh
+\emph default
+ (6:30).
+\end_layout
+
+\begin_layout Standard
+Általában a 12 órás rendszert használják, és egy, az időpont végére helyezett
+ szóval egyértelműsítik a napszakot.
+ Ezek általában: 
+\emph on
+pagi
+\emph default
+ (reggel), 
+\emph on
+siang
+\emph default
+ (délben), 
+\emph on
+soré
+\emph default
+ (délután), 
+\emph on
+malam
+\emph default
+ (este/éjjel), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pukul empat soré
+\emph default
+ (16:00), 
+\emph on
+jam delapan malam
+\emph default
+ (20:00).
+\end_layout
+
+\begin_layout Section
 Főnevek
 \end_layout
 
 \begin_layout Standard
-Blabla
+A főnevek egyetlen ragozása a többesszám, de ezt sem kötelező jelölni, csak
+ akkor használják, ha egyértelműsíteni akarják, hogy több dologról van szó.
+ A többesszámú alakot egyszerűen a főnév ismétlésével képezzük, írásban
+ kötőjellel elválasztva, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bintang-bintang
+\emph default
+ (csillagok; 
+\emph on
+bintang
+\emph default
+: csillag).
+ Csak meg\SpecialChar \-
+szám\SpecialChar \-
+lál\SpecialChar \-
+ha\SpecialChar \-
+tó dolgokat lehet többesszámba tenni, és csak akkor, ha
+ nem szerepel előtte szám vagy számlálószó.
+\end_layout
+
+\begin_layout Standard
+Két főnév egymás után helyezése jelző értékű, a második lesz az első jelzője,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+toko pakaian
+\emph default
+ (ruhabolt; 
+\emph on
+toko
+\emph default
+: bolt, 
+\emph on
+pakaian
+\emph default
+: ruha).
+ Többesszámnál csak az első tag duplázódik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+toko-toko pakaian
+\emph default
+.
+ A második helyre kerülhet melléknév vagy mutató névmás is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+anak kecil
+\emph default
+ (kisgyerek; 
+\emph on
+anak
+\emph default
+: gyerek, 
+\emph on
+kecil
+\emph default
+: kicsi), 
+\emph on
+pria ini
+\emph default
+ (az a férfi; 
+\emph on
+pria
+\emph default
+: férfi, 
+\emph on
+ini
+\emph default
+: ez).
+ Ha ezek kombinálódnak, akkor a sorrend főnév--melléknév--mutató névmás,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kotak pos baru itu
+\emph default
+ (az az új postaláda;
+\emph on
+ kotak
+\emph default
+: doboz, 
+\emph on
+pos
+\emph default
+: posta, 
+\emph on
+baru
+\emph default
+: új, 
+\emph on
+itu
+\emph default
+: az).
+\end_layout
+
+\begin_layout Standard
+Ugyanígy fejezzük ki a birtoklást is: a birtokolt dolog kerül előre, a birtokló
+ hátulra, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kucing guru
+\emph default
+ (a tanár macskája; 
+\emph on
+kucing
+\emph default
+: macska, 
+\emph on
+guru
+\emph default
+: tanár), 
+\emph on
+anjing teman Kartini
+\emph default
+ (Kartini barátnőjének a kutyája; 
+\emph on
+anjing
+\emph default
+: kutya, 
+\emph on
+teman
+\emph default
+: barát/nő).
+ Ha a mondat állítmánya birtoklás, akkor a 
+\emph on
+punya
+\emph default
+ (birtokol) igét kell használni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Gelas itu punya Sudirman
+\emph default
+ (Az a pohár Sudirmané; 
+\emph on
+gelas
+\emph default
+: pohár, 
+\emph on
+itu
+\emph default
+: az).
 \end_layout
 
 \begin_layout Section
@@ -1498,6 +3025,14 @@ Blabla
 \end_layout
 
 \begin_layout Section
+Kötőszavak
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
 Partikulák
 \end_layout
 
@@ -1515,14 +3050,6 @@ Blabla
 
 \begin_layout Section
 Igék
-\end_layout
-
-\begin_layout Standard
-Blabla
-\end_layout
-
-\begin_layout Section
-Számok
 \end_layout
 
 \begin_layout Standard

@@ -1,4 +1,3 @@
-- fonevek
 - szemelyes nevmasok, udvariassagi szintek, birtoklas - utotagok, -nya egyeb hasznalata
 - igeido egyertelmusites
 - yang
@@ -14,7 +13,6 @@
 - passziv di- + [oleh] aktor [nem szerepel szotarban]
 - melleknevkepzo: ter- [idonkent szerepel szotarban]
 - felszolitas (me- kieses), tiltas [jangan], -lah
-- szamok, szamlaloszavak, se-, sorszamnevek
 - beszelt nyelvi jelensegek [ld. beszelt.txt]
 - roviditesek (duplazas: 2, yg, dg, ... + PD stb.)
 - kidolgozott pelda, szotovek feltuntetesevel
