@@ -1451,6 +1451,11 @@ reference "sec:Kérdőszavak"
 ).
 \end_layout
 
+\begin_layout Standard
+Fontos még megjegyezni, hogy a magyartól eltérően az alanyt csak ritkán
+ lehet elhagyni, mivel az indonézben az igét szám/személy szerint nem ragozzuk.
+\end_layout
+
 \begin_layout Section
 Számok
 \end_layout
@@ -1855,7 +1860,7 @@ Az indonéz számok.
 
 \end_inset
 
-A számok logikus felépítésűek (ld.
+A számok logikus struktúrájúak (ld.
 \begin_inset space ~
 \end_inset
 
@@ -1955,7 +1960,7 @@ seorang penyanyi
 penyanyi
 \emph default
 : énekes).
- A számlálószavak használata nem kötelező, és csak akkor használhatóak,
+ A számlálószavak használata nem kötelező, és csak akkor alkalmazhatóak,
  ha a számlált dolog határozatlan.
 \end_layout
 
@@ -2031,7 +2036,7 @@ dua per tiga
 \end_inset
 
 ).
- A számlálóban levő 1-nél a 
+ Ha a számlálóban 1 van, akkor a 
 \emph on
 se-
 \emph default
@@ -2628,8 +2633,8 @@ Hónapok és napok nevei; időtartamok.
 
 \end_inset
 
-A hónapok nevei a hollandból, a napok nevei (a vasárnap kivételével) az
- arabból származnak, ld.
+A hónapok nevei a hollandból, a napok nevei -- a vasárnap kivételével --
+ az arabból származnak (ld.
 \begin_inset space ~
 \end_inset
 
@@ -2644,7 +2649,7 @@ reference "tab:datumok"
 \begin_inset space ~
 \end_inset
 
-táblázat.
+táblázat).
  A dátumokban a sorrend nap--hónap--év, pl.
 \begin_inset space ~
 \end_inset
@@ -2991,7 +2996,537 @@ Személyes névmások
 \end_layout
 
 \begin_layout Standard
-Blabla
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="6">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Te / Ti (Ön / Önök)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ők
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Formális:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+saya
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+cím
+\emph default
+ / anda / saudara
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dia / ia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kami / kita
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+meréka
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rövid alak:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nya
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nya
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Közvetlen:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+aku
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kamu / engkau / 
+\emph on
+név
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dia / ia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kami / kita
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+meréka
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rövid alak:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ku
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-mu / -kau
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nya
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-nya
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:szemelyes"
+
+\end_inset
+
+Személyes névmások.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Az indonézben elég nagy a választék a személyes névmásokból (ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:szemelyes"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat).
+ Az első és második személyben más névmásokat használnak formális ill.
+\begin_inset space ~
+\end_inset
+
+közvetlen beszédhelyzetben.
+ Második személyben udvariasabb, ha személyes névmások helyett inkább olyan
+ címeket vagy megszólításokat használunk, mint
+\emph on
+ Bapak
+\emph default
+ (bácsi [lit.
+\begin_inset space ~
+\end_inset
+
+apa]), 
+\emph on
+Ibu
+\emph default
+ (néni [lit.
+\begin_inset space ~
+\end_inset
+
+anya]),
+\emph on
+ Tuan
+\emph default
+ (Uram),
+\emph on
+ Nyonya
+\emph default
+ (Hölgyem), 
+\emph on
+Nona
+\emph default
+ (Kisasszony) stb.
+ A 
+\emph on
+Bapak
+\emph default
+ és 
+\emph on
+Ibu
+\emph default
+ szavaknak egy rövidebb formáját lehet nevekhez, címekhez kapcsolni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Pak Guru
+\emph default
+ (Tanár Úr), 
+\emph on
+Bu Susi
+\emph default
+ (Susi néni).
+\end_layout
+
+\begin_layout Standard
+A tegezések közül a 
+\emph on
+kamu
+\emph default
+ a leggyakoribb, de érdekes megjegyezni, hogy a beszélgetőpartner neve is
+ használható személyes névmásként, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Sri sudah tidur?
+\emph default
+ ([Te=Sri] már alszol?; 
+\emph on
+sudah
+\emph default
+: már, 
+\emph on
+tidur
+\emph default
+: alszik).
+ A második személyű személyes névmások használhatóak egyes- és többesszámban
+ egyaránt, de ú\SpecialChar \-
+jab\SpecialChar \-
+ban megjelent a ,,ti'' értelemű 
+\emph on
+kalian
+\emph default
+ szó is.
+\end_layout
+
+\begin_layout Standard
+Az egyesszám harmadik személyű alakok közül a 
+\emph on
+dia
+\emph default
+ a gyakoribb -- az 
+\emph on
+ia
+\emph default
+ választékos stílusú, és csak az ige előtt használható (tehát pl.
+\begin_inset space ~
+\end_inset
+
+tárgyként vagy birtoklóként nem).
+ Létezik harmadik személyű formális személyes névmás is (
+\emph on
+beliau
+\emph default
+), de csak ritkán használják.
+\end_layout
+
+\begin_layout Standard
+A többesszám első személyű alakok közt értelmi különbség van: a 
+\emph on
+kami
+\emph default
+ nem tartalmazza a beszélgetőpartnert, a 
+\emph on
+kita
+\emph default
+ igen.
+ A többesszámú alakok kiegészíthetőek azzal, hogy hányan vannak, ezt egy
+ 
+\emph on
+ber-
+\emph default
+ prefixummal ellátott számmal lehet kifejezni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+meréka berdua
+\emph default
+ (ők ketten).
+\end_layout
+
+\begin_layout Standard
+A rövid alakokat birtoklóként ill\SpecialChar \@.
+
+\begin_inset space ~
+\end_inset
+
+tárgyként lehet használni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+temanku
+\emph default
+ (a barátom; 
+\emph on
+teman
+\emph default
+: barát), 
+\emph on
+saya menunggumu
+\emph default
+ (várlak; 
+\emph on
+menunggu
+\emph default
+: vár).
+ A 
+\emph on
+-nya
+\emph default
+ szuffixum időnként fordítható határozott névelővel, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pintunya rusak
+\emph default
+ (rossz az ajtó / rossz az ajtaja; 
+\emph on
+pintu
+\emph default
+: ajtó, 
+\emph on
+rusak
+\emph default
+: rossz, hibás).
 \end_layout
 
 \begin_layout Section

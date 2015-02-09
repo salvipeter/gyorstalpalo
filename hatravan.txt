@@ -2,10 +2,6 @@
 
 * ABC & Kiejtés
 - a b/d/g szó végén p/t/k lesz (csak jövevényszavaknál fordul elő)
-** Hangváltozások az "utcai" nyelvben
-- a ber-/me- prefixek gyakran leesnek
-- kettőshangzók: au -> o, ai -> é
-- az a-ból néhol e lesz
 * Hangváltozások
 ** N (meN-, peN- típusú prefixek)
 - a következő hangtól függően változik (a csillagozott mássalhangzó eltűnik):
@@ -23,29 +19,6 @@
 - ha a tő CerC alakú, akkor az R kiesik (pl. ber- + kerja -> bekerja)
 - kivétel: ber- + ajar -> belajar
 * Névmások
-** Személyes/birtokos
-- a neveket/címeket lehet E/2 személyes/birtokos névmásként használni
-*** Udvarias
-|------+------------------+------------+----------------+--------------+--------|
-| Én   | Te               | Ő          | Mi             | Ti           | Ők     |
-|------+------------------+------------+----------------+--------------+--------|
-| saya | anda/saudara/cím | dia / ia % | kami / kita %2 | anda/saudara | meréka |
-|------+------------------+------------+----------------+--------------+--------|
-- %: ia csak az ige előtt használható
-- %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
-*** Tegező
-|--------+-----+---------------------+------------+----------------+---------------+--------|
-|        | Én  | Te                  | Ő          | Mi             | Ti            | Ők     |
-|--------+-----+---------------------+------------+----------------+---------------+--------|
-| Teljes | aku | kamu / engkau / név | dia / ia % | kami / kita %2 | kamu / engkau | meréka |
-| Rövid  | -ku | -mu  / kau          | -nya       |                | -mu / kau     | -nya   |
-|--------+-----+---------------------+------------+----------------+---------------+--------|
-- %: ia csak az ige előtt használható
-- %2: attól függően, hogy beleértjük a beszélőpartnert (kita) vagy nem (kami)
-- a rövid alakok birtokos vagy tárgyesetben szoktak előfordulni
-- ha az alany dia vagy meréka, akkor a tárgy nem lehet dia, csak -nya
-- a -nya esetenként fordítható határozott névelővel ("a ... [amiről szó van]")
-- hozzateheto a berdua, bertiga stb.
 ** Mutató
 - ez a ... / az a ... értelemben a jelzett főnév után
 - ez: ini
@@ -146,6 +119,7 @@
 - az időt lehet egyértelműsíteni
 - folyamatos jelen: sedang + ige ("éppen")
 - befejezettség: sudah/telah + ige ("már") [telah formálisabb, írott nyelvi]
+  (=> sudah mint valasz; belum [pernah], belum mint valasz)
 - múltbeli, már megszűnt szokás, helyzet: dulu/dahulu + ige ("régen")
 - éppen most befejezett cselekvés: baru [saja] + ige
 - jövőidő: akan + ige ("majd")

@@ -1,4 +1,3 @@
-- szemelyes nevmasok, udvariassagi szintek, birtoklas - utotagok, -nya egyeb hasznalata
 - igeido egyertelmusites
 - yang
 - eloljaroszok
