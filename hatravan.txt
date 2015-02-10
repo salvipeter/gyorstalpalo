@@ -18,16 +18,6 @@
 - ha a tő r-rel kezdődött, csak egy r lesz (pl. ber- + renang -> berenang)
 - ha a tő CerC alakú, akkor az R kiesik (pl. ber- + kerja -> bekerja)
 - kivétel: ber- + ajar -> belajar
-* Névmások
-** Mutató
-- ez a ... / az a ... értelemben a jelzett főnév után
-- ez: ini
-- az: itu
-** Vonatkozó
-- ami, aki: yang (bővebben ld. Partikulák)
-** Határozatlan
-- valami: sesuatu
-- valaki: seseorang
 * Kérdőszavak
 - mi: apa
 - ki: siapa (élőlények nevét is ezzel kérdezzük)
@@ -39,21 +29,14 @@
 - milyen ...: ... apa
 - miért: kenapa / mengapa (írott) [ezek csak mondat elején lehetnek]
 - hol/hova/honnan: di/ke/dari mana
-- mennyi: berapa
+- mennyi: berapa (reszleges reduplikacioval beberapa "nehany, valahany")
 - hányszor: berapa kali
 - (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
 * Elöljárószók
 - -ban/-nál: di (állítmány is lehet)
 - -ba/-hoz: ke (állítmány is lehet)
-- -ból/-tól: dari
-- -ig: sampai
-- -val: dengan
-- -ban (belül): dalam
 - -hoz/-nak: kepada (személyekre)
-- -nak, -ért: untuk
 - -on át (időtartamot vezet be, még tarthat): selama
-- -kor/-nak: pada
-- óta: sejak / semenjak
 * Melléknevek
 - a jelzett szó után
 - középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)
@@ -62,11 +45,6 @@
 - túlságosan: terlalu + melléknév
 - azonos mérték: se + melléknév ... / sama melléknév + nya dengan ...,
   pl. dia sekaya anda / dia sama kayanya dengan anda
-* Határozószók
-- ige után (de időnként ige előtt, és kiemelhető a mondat elejére)
-- képzés melléknévből: dengan/secara + melléknév, vagy reduplikáció,
-  pl. mereka berlari [dengan/secara] cepat[-cepat] (gyorsan futnak)
-- időhatározóknál: pada + időpont (ilyenkor ki kell tenni a hari/bulan/stb-t)
 * Prefixumok és szuffixumok
 - -kah: kérdésjelző (a kérdéses szóhoz, főleg írott nyelvben)
 - -lah: kiemelő rag; felszólítás erejét enyhíti
@@ -86,23 +64,10 @@
 - többesszám, pl. kamu membeli apa saja? (miket vettél?), sudah ke mana saja? (hol(tsz.) voltál?)
 - kifejezésekben, pl. tentu saja (természetesen)
 ** yang
-- ami/aki (pl. orang yang duduk di sana, "az ember, aki ott ül")
-- az, ami/aki (pl. yang menolong saya Eva, "Eva volt az, aki segített nekem)
-- csak úgy, vagy kiemelő jelleggel főnév és melléknév között (opcionális)
-  (pl. kucing [yang] lucu, "aranyos macska")
-- számlálószó jelleggel, egy szövegkörnyezetből világos főnevet helyettesít
-  (pl. mau yang kecil?, "a kicsi [...t] akarod?";
-       saya mau yang ini, "ezt [a ...t] akarom")
-- hasonlóan, egy általánosabb halmazból specifikus elemet határoz meg
-  (pl. saya punya dua anak, yang perempuan ..., "két gyerekem van, a lány...")
-- jelzők halmozásánál: a nem mellénévi jelzők elé kerülnek, a melléknevek
-  utána, az utolsó két melléknév közt "dan"-nal
-  (pl. rumah makan Indonesia yang romantis, unik dan murah; rumahku yang baru)
 - "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
   ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
   (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
   [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
-- peldakent minggu yang lalu
 ** Beszélt nyelvi
 - déh:
 - doang: mondat végén "csak, csupán" értelmű

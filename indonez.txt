@@ -1,5 +1,4 @@
 - igeido egyertelmusites
-- yang
 - eloljaroszok
 - kerdoszavak
 - tobbesszam duplazassal
@@ -13,5 +12,5 @@
 - melleknevkepzo: ter- [idonkent szerepel szotarban]
 - felszolitas (me- kieses), tiltas [jangan], -lah
 - beszelt nyelvi jelensegek [ld. beszelt.txt]
-- roviditesek (duplazas: 2, yg, dg, ... + PD stb.)
+- roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
 - kidolgozott pelda, szotovek feltuntetesevel
