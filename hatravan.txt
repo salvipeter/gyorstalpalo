@@ -1,23 +1,5 @@
 #			  -*- mode: org -*-
 
-* ABC & Kiejtés
-- a b/d/g szó végén p/t/k lesz (csak jövevényszavaknál fordul elő)
-* Hangváltozások
-** N (meN-, peN- típusú prefixek)
-- a következő hangtól függően változik (a csillagozott mássalhangzó eltűnik):
-- p*/b[/f/v]: m
-- t*/d/c/j[/sy/z]: n
-- s*: ny
-- k*/g/h[/kh] vagy magánhangzó: ng
-- m/n/ny/ng/w/y/l/r: -
-- az eltűnő mássalhangzók idegen szavakban megmaradhatnak (pl. mengkritik)
-- a per- prefix p-je általában megmarad (pl. meN- + per- + kecil -> memperkecil)
-- reduplikációnál a prefix kiesik, de a hangváltozás marad (pl. menunggu-nunggu)
-- egy szótagos tőnél a meN- prefix menge-re változhat (pl. pel -> mengepel)
-** R (beR-, peR-, teR- típusú prefixek)
-- ha a tő r-rel kezdődött, csak egy r lesz (pl. ber- + renang -> berenang)
-- ha a tő CerC alakú, akkor az R kiesik (pl. ber- + kerja -> bekerja)
-- kivétel: ber- + ajar -> belajar
 * Kérdőszavak
 - mi: apa
 - ki: siapa (élőlények nevét is ezzel kérdezzük)
@@ -32,11 +14,6 @@
 - mennyi: berapa (reszleges reduplikacioval beberapa "nehany, valahany")
 - hányszor: berapa kali
 - (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
-* Elöljárószók
-- -ban/-nál: di (állítmány is lehet)
-- -ba/-hoz: ke (állítmány is lehet)
-- -hoz/-nak: kepada (személyekre)
-- -on át (időtartamot vezet be, még tarthat): selama
 * Melléknevek
 - a jelzett szó után
 - középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)

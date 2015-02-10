@@ -3078,11 +3078,7 @@ name "tab:hatarozoszok"
 
 A legfontosabb helyhatározók (
 \emph on
-dari/di/ke+
-\begin_inset Formula $\dots$
-\end_inset
-
-
+dari/di/ke+...
 \emph default
 ).
 \end_layout
@@ -3129,14 +3125,6 @@ indah
 \end_layout
 
 \begin_layout Section
-Melléknevek
-\end_layout
-
-\begin_layout Standard
-Blabla
-\end_layout
-
-\begin_layout Section
 \begin_inset CommandInset label
 LatexCommand label
 name "sec:Kérdőszavak"
@@ -3171,7 +3159,745 @@ Hangváltozások
 \end_layout
 
 \begin_layout Standard
-Blabla
+Az indonéz nyelvnek kiterjedt képzőrendszere van (ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Szóképzés"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+szekció), és a mel\SpecialChar \-
+lék\SpecialChar \-
+ne\SpecialChar \-
+vek és igék használatának megértéséhez fontos, hogy
+ tisztában legyünk a képzők szótőhöz csatolásakor fellépő hangváltozásokkal.
+ A képző lehet prefixum (pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ke-
+\emph default
+), szuffixum (pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+-an
+\emph default
+), vagy állhat mindkettőből (pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ke-...-an
+\emph default
+).
+ A hangváltozások szempontjából csak a prefixumok fontosak (ill.
+\begin_inset space ~
+\end_inset
+
+a kétoldali képzők első tagjai).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+ber-
+\emph default
+/
+\emph on
+per-
+\emph default
+/
+\emph on
+ter-
+\emph default
+ prefixumok
+\end_layout
+
+\begin_layout Standard
+Hangváltozás két esetben történik:
+\end_layout
+
+\begin_layout Itemize
+Ha a tő 
+\emph on
+r
+\emph default
+ hanggal kezdődik, akkor a két 
+\emph on
+r
+\emph default
+ találkozásából csak egy marad, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ber
+\emph default
++
+\emph on
+renang
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+berenang
+\emph default
+ (úszik).
+\end_layout
+
+\begin_layout Itemize
+Ha a tő 
+\emph on
+
+\begin_inset Formula $C_{1}erC_{2}\dots$
+\end_inset
+
+
+\emph default
+ alakú, ahol
+\emph on
+ 
+\emph default
+
+\begin_inset Formula $C_{1}$
+\end_inset
+
+ és 
+\begin_inset Formula $C_{2}$
+\end_inset
+
+ tetszőleges mássalhangzókat jelölnek, akkor a prefixumból kiesik az 
+\emph on
+r
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ber
+\emph default
++
+\emph on
+kerja
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+bekerja
+\emph default
+ (dolgozik).
+\end_layout
+
+\begin_layout Standard
+Egyéb esetben egyszerűen hozzákapcsoljuk a szótőt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jalan
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+berjalan
+\emph default
+.
+ Kivétel a 
+\emph on
+ber
+\emph default
++
+\emph on
+ajar
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+belajar
+\emph default
+ (tanul) ige.
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+meN-
+\emph default
+/
+\emph on
+peN-
+\emph default
+ prefixumok
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="6">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p*/b[/f/v]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+t*/d/c/j[/sy/z]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+mgh.
+\emph default
+/k*/g/h[/kh]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+s*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1 szótagú
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+egyéb
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ng
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ny
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nge
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:hangvaltozasok"
+
+\end_inset
+
+Nazális kiválasztása a következő hangtól függően.
+ A csillaggal jelölt mássalhangzók a prefixum csatolásakor kiesnek.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A prefixumok végén az 
+\emph on
+N
+\emph default
+ egy nazálist jelöl, de hogy melyiket, azt a következő hang (a szótő első
+ hangja) határozza meg (ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:hangvaltozasok"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat).
+ Ez lényegében a képzés helye alapján történik, de vannak kisebb eltérések
+ (pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+c
+\emph default
+ és 
+\emph on
+j
+\emph default
+ előtt 
+\emph on
+n
+\emph default
+ lesz, nem 
+\emph on
+ny
+\emph default
+, ahogy várnánk).
+ A 
+\emph on
+p
+\emph default
+, 
+\emph on
+t
+\emph default
+, 
+\emph on
+k
+\emph default
+ és 
+\emph on
+s
+\emph default
+ hangok a prefixum csatolásakor eltűnnek.
+ A csak jövevényszavakban használt mássalhangzók előtt a nazális úgy változik,
+ mint a mássalhangzó ,,indonézesített'' változata előtt, így pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+z
+\emph default
+ előtt úgy viselkedik, mint 
+\emph on
+j
+\emph default
+ előtt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+me
+\emph default
+N+
+\emph on
+zalim
+\emph default
++
+\emph on
+i
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menzalimi
+\emph default
+ (elnyom).
+ Lássunk néhány további példát, az egyszerűség kedvéért mindig a 
+\emph on
+meN-
+\emph default
+ prefixummal.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+potong
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+memotong
+\emph default
+ (vág), 
+\emph on
+bantu
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+membantu
+\emph default
+ (segít)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+tulis
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menulis
+\emph default
+ (ír), 
+\emph on
+dapat
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mendapat
+\emph default
+ (szerez), 
+\emph on
+cari
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mencari
+\emph default
+ (keres), 
+\emph on
+jual
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menjual
+\emph default
+ (elad)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+ajar
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mengajar
+\emph default
+ (tanít), 
+\emph on
+kirim
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mengirim
+\emph default
+ (küld), 
+\emph on
+ganti
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mengganti
+\emph default
+ (vál\SpecialChar \-
+toz\SpecialChar \-
+tat), 
+\emph on
+hapus
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menghapus
+\emph default
+ (töröl)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+sapu
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menyapu
+\emph default
+ (söpör)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+cat
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+mengecat
+\emph default
+ (befest)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+larang
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+melarang
+\emph default
+ (megtilt), 
+\emph on
+minta
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+meminta
+\emph default
+ (kér), 
+\emph on
+nilai
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+menilai
+\emph default
+ (ér\SpecialChar \-
+té\SpecialChar \-
+kel), 
+\emph on
+rasa
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+merasa
+\emph default
+ (érez)
+\end_layout
+
+\begin_layout Standard
+Az eltűnő mássalhangzók idegen szavak előtt megmaradhatnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kritik
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+meng\SpecialChar \-
+kritik
+\emph default
+ (kritizál).
+\end_layout
+
+\begin_layout Standard
+Visszafelé gondolkodva a szótő általában könnyen megállapítható.
+ Több lehetőség csak akkor van, ha a nazális után magánhangzó jön, hiszen
+ ekkor a szótő kezdődhet (i) eltűnő mássalhangzóval, (ii) nazálissal, vagy
+ ha a nazális 
+\emph on
+ng
+\emph default
+, akkor (iii) magánhangzóval.
+ Nazálissal kezdődő szótőből nincs nagyon sok, és ha a nazális 
+\emph on
+ng
+\emph default
+, akkor a magánhangzó sokkal valószínűbb, mint a 
+\emph on
+k
+\emph default
+, ezért általában jól meg lehet tippelni a helyes verziót.
+\end_layout
+
+\begin_layout Section
+Melléknevek
+\end_layout
+
+\begin_layout Standard
+Ahogy azt már korábban láttuk, a melléknevek a jelzett főnév után kerülnek.
+ 
 \end_layout
 
 \begin_layout Section
@@ -3764,11 +4490,7 @@ orang ketiga
 orang
 \emph default
 : ember).
- Ugyanezek a szavak más szórenddel azt jelentik, hogy ,,mind a 
-\begin_inset Formula $\dots$
-\end_inset
-
-'', pl.
+ Ugyanezek a szavak más szórenddel azt jelentik, hogy ,,mind a ...'', pl.
 \begin_inset space ~
 \end_inset
 

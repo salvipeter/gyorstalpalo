@@ -1,16 +1,13 @@
-- igeido egyertelmusites
-- eloljaroszok
 - kerdoszavak
-- tobbesszam duplazassal
 - melleknevek hasonlitasa (lebih/kurang/paling/daripada)
-- hatarozok kepzese
-- kepzokrol: a hangvaltozasok (de megjegyezni, hogy ezek tobbsege egyszeruen szotarbol kikeresheto)
+- igeido egyertelmusites
+- passziv di- + [oleh] aktor [nem szerepel szotarban]
+- felszolitas (me- kieses), tiltas [jangan], -lah
+- kepzokrol: megjegyezni, hogy ezek tobbsege egyszeruen szotarbol kikeresheto
 - fonevkepzo: [ke-]...-an
 - igei kepzok: ber-, me-, me-...-kan, me-...-i, memper-...-kan, alapveto jelenteskor
 - birtoklo ber- (bermobil, berambut hitam) [idonkent szerepel szotarban]
-- passziv di- + [oleh] aktor [nem szerepel szotarban]
 - melleknevkepzo: ter- [idonkent szerepel szotarban]
-- felszolitas (me- kieses), tiltas [jangan], -lah
 - beszelt nyelvi jelensegek [ld. beszelt.txt]
 - roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
 - kidolgozott pelda, szotovek feltuntetesevel
