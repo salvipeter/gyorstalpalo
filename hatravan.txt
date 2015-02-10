@@ -14,10 +14,11 @@
 - mennyi: berapa (reszleges reduplikacioval beberapa "nehany, valahany")
 - hányszor: berapa kali
 - (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
-* Prefixumok és szuffixumok
-- -kah: kérdésjelző (a kérdéses szóhoz, főleg írott nyelvben)
-- -lah: kiemelő rag; felszólítás erejét enyhíti
-- se-: ugyanolyan ..., ugyanaz a ..., ugyanabban a ...ban stb.; az egész ...
+** yang
+- "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
+  ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
+  (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
+  [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
 * Partikulák
 ** kan
 - "nemde?" értelmű, a bukan rövid formája
@@ -32,11 +33,6 @@
 - bármi, pl. mana saja (bármelyik), apa saja yang kamu ingini beritahulah aku (mondd meg, mit szeretnél)
 - többesszám, pl. kamu membeli apa saja? (miket vettél?), sudah ke mana saja? (hol(tsz.) voltál?)
 - kifejezésekben, pl. tentu saja (természetesen)
-** yang
-- "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
-  ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
-  (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
-  [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
 ** Beszélt nyelvi
 - déh:
 - doang: mondat végén "csak, csupán" értelmű
@@ -47,60 +43,6 @@
 - sih:
 - tuh:
 - ya:
-* Igék
-- alapigék és ber-/meN- prefixumokkal képzett igék vannak
-- nincs egyeztetés (idővel, számmal, személlyel, nemmel)
-- az időt lehet egyértelműsíteni
-- folyamatos jelen: sedang + ige ("éppen")
-- befejezettség: sudah/telah + ige ("már") [telah formálisabb, írott nyelvi]
-  (=> sudah mint valasz; belum [pernah], belum mint valasz)
-- múltbeli, már megszűnt szokás, helyzet: dulu/dahulu + ige ("régen")
-- éppen most befejezett cselekvés: baru [saja] + ige
-- jövőidő: akan + ige ("majd")
-- tagadás: tak/tidak + [sedang/sudah/stb.] + ige ("nemde?" értelemben kan/bukan)
-- buzdítás: ayo/mari [kita] + ige ("hadd ...-junk")
-- többesszám: a cselekvés sokszor ismétlődik, általában az alany többesszámú, de nem feltétlenül,
-  pl. duduk-duduk (üldögélnek), berteriak-teriak (kiáltoznak), melihat-lihat (nézelődnek);
-  a hangváltozás megmarad az ismételt részben, pl. menunggu-nunggu (várakoznak)
-- kölcsönös cselekvés: saling + ige, pl. saling memaafkan (megbocsátanak egymásnak);
-  vagy me- igéknél "igető-ige", pl. maaf-memaafkan, kunjung-mengunjungi (meglátogatják egymást);
-  vagy alapigéknél "ber[ige-]főnév", pl. ber[peluk-]pelukan (megölelik egymást), bercium-ciuman stb.
-- mellékmondatban ill. másodlagos igénél leesik a me- (pl. bahasa yang saya pelajari),
-  lényegében ez egy passzív, ld. lent
-** Felszólítás
-- alapigék: változatlanul, pl. minum -> minum (igyál)
-- ber- igék: ha a szótő is ige, akkor a prefixum leeshet, de nem muszáj; ha nem, akkor megmarad,
-  pl. bermain -> [ber]main (játssz), berkata -> berkata (beszélj)
-- me- igék: konkrét tárgyas igéknél a prefix leesik,
-  de tárgyatlannál és konkrét tárgy nélkülinél megmarad, pl. menari -> menari (táncolj),
-  membaca -> baca buku itu (olvasd a könyvet) / membaca (olvass) / membaca buku (olvass könyvet)
-- udvariasabbá tehetik a következők: silahkan ... / tolong ... / coba ... / harap ... / ...-lah
-- tiltás: jangan[lah] + ige (tárgyas igéknél a me- prefixum elhagyható)
-- gyakori a passzív felszólítás/tiltás, pl. téhnya diminum;
-  jendéla jangan dibuka, ez utóbbi lehet fordított szórenddel is: jangan dibuka jendéla
-- felszólító/tiltó igékhez nem kapcsolódhat utótag alakú személyes névmás (-ku/-mu/-nya)
-- ha a felszólítás a cselekvés módjára vonatkozik, a határozót képezheti a yang,
-  pl. berlarilah yang cepat (fuss gyorsan), sikatlah gigimu yang bersih (jól mosd meg a fogadat)
-** Passzív
-- két fajta: (i) 3. személyű személyes névmás, főnév, vagy kifejezetlen az ágens
-             (ii) személyes névmás az ágens
-- (i) di-... [[oléh] <ágens>], pl. membersihkan -> dibersihkan [[oléh] Pak Amir / dia / -nya]
-- az oléh kötelező, ha az ágens nem közvetlenül követi az igét,
-  pl. dia sudah diberi uang itu oléh meréka
-- kivétel: mengerti => dimengerti
-- időnként használják 1. és 2. személyű személyes névmással, de nem helyes
-- (ii) személyes névmás + meN- nélküli alak, pl. membersihkan -> kami bersihkan
-- ez valójában egy kiemelése a tárgynak a mondat elejére
-- nem kerülhet semmi közé, tehát pl. baju itu sudah saya seterika,
-  nem lehet felcserélni a sudah és saya pozícióját
-- az aku/kamu gyakran ku- ill. kau- prefixum alakjában jelenik meg,
-  pl. buku ini sudah kubaca
-- a megszólítások (Pak, Bu, <a saját nevem>, <partner neve> stb.) is személyes névmásnak számítanak
-** ter-
-- akaratlanság: ter- (tárgyatlan igékkel), pl. berbatuk (köhög) -> terbatuk (akaratlanul köhög)
-- passzív: gyakran akaratlan, pl. menginjak (rálép) -> terinjak (véletlenül eltapos)
-- állapot: passzív melléknév jellegű, pl. membuka (kinyit) -> terbuka (nyitott)
-- tagadva általában képtelenséget jelez, pl. tidak termakan (nem lehet megenni)
 * Szóképzés
 ** Főnevek
 - nagyon sokféle képző van, és ezek nem mindig konzekvensek

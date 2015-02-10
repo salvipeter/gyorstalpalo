@@ -2044,7 +2044,7 @@ Rövid alak:
 \begin_inset Text
 
 \begin_layout Plain Layout
--mu / -kau
+-mu
 \end_layout
 
 \end_inset
@@ -4073,7 +4073,880 @@ Igék
 \end_layout
 
 \begin_layout Standard
-Blabla
+Az indonéz igék három csoportra oszlanak: alapigék, 
+\emph on
+ber-
+\emph default
+ igék és 
+\emph on
+meN-
+\emph default
+ igék.
+ A 
+\emph on
+ber-
+\emph default
+ igék tárgyatlanok, míg a 
+\emph on
+meN-
+\emph default
+ igék általában tárgyasok; ezek képezhetőek főnevekből, melléknevekből és
+ alapigékből, a részleteket ld.
+\begin_inset space ~
+\end_inset
+
+a szóképzésről szóló 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Szóképzés"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+szekcióban.
+ Az igéből képzett igéknek a jelentése különbözhet a szótőétől, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pulang
+\emph default
+ (hazamegy) / 
+\emph on
+berpulang
+\emph default
+ (meghal), de meg is egyezhet, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dengar / mendengar
+\emph default
+ (hall).
+ Ez utóbbi esetben általában a képzett alakot használják.
+\end_layout
+
+\begin_layout Subsection
+Igeidők
+\end_layout
+
+\begin_layout Standard
+Az igéket nem csak hogy számmal/személlyel nem kell egyeztetni, de még igeidő
+ sincsen.
+ A történés ill.
+\begin_inset space ~
+\end_inset
+
+cselekvés idejének egyértelműsítésére azonban van lehetőség határozók segítségév
+el.
+\end_layout
+
+\begin_layout Itemize
+Folyamatos: 
+\emph on
+sedang
+\emph default
+ (éppen), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya sedang bermain
+\emph default
+ (Éppen játszom; 
+\emph on
+bermain
+\emph default
+: játszik).
+\end_layout
+
+\begin_layout Itemize
+Befejezett: 
+\emph on
+sudah 
+\emph default
+/
+\emph on
+ telah
+\emph default
+ (már), a 
+\emph on
+telah
+\emph default
+ kicsit formálisabb, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya sudah makan
+\emph default
+ (Már ettem; 
+\emph on
+makan
+\emph default
+: eszik).
+ A 
+\emph on
+sudah
+\emph default
+ egymagában válaszként is használható olyan kérdésekre, mint 
+\emph on
+Apa kamu sudah makan?
+\emph default
+ (Már ettél?).
+ Tagadó választ a 
+\emph on
+belum
+\emph default
+ (még nem) szóval adhatunk.
+ A 
+\emph on
+pernah
+\emph default
+ (valaha) szó segítségével fogalmazhatunk meg olyan mondatokat, mint 
+\emph on
+Apa kamu pernah makan di réstoran itu?
+\emph default
+ (Ettél már abban a vendéglőben?; 
+\emph on
+réstoran
+\emph default
+: vendéglő),
+\emph on
+ Saya belum pernah makan di réstoran itu
+\emph default
+ (Én még sohasem ettem abban a vendéglőben), 
+\emph on
+Saya pernah makan di réstoran
+\emph default
+ itu (Volt már, hogy abban a vendéglőben ettem).
+\end_layout
+
+\begin_layout Itemize
+Éppen befejezett: 
+\emph on
+baru [saja]
+\emph default
+ (épp most), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya baru [saja] pulang
+\emph default
+ (Épp most jöttem haza; 
+\emph on
+pulang
+\emph default
+: hazamegy).
+\end_layout
+
+\begin_layout Itemize
+Jövőbeli: 
+\emph on
+akan
+\emph default
+ (majd), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya akan belajar
+\emph default
+ (Tanulni fogok; 
+\emph on
+belajar
+\emph default
+: tanul).
+\end_layout
+
+\begin_layout Itemize
+Múltbeli szokás: 
+\emph on
+dulu 
+\emph default
+/
+\emph on
+ dahulu
+\emph default
+ (korábban), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya dulu suka berenang
+\emph default
+ (Régebben szerettem úszni; 
+\emph on
+suka
+\emph default
+: szeret, 
+\emph on
+berenang
+\emph default
+: úszik)
+\end_layout
+
+\begin_layout Subsection
+Többesszám
+\end_layout
+
+\begin_layout Standard
+Az igék ,,többesszáma'' egy fajta szaporítóképző, a jelentés úgy változik,
+ hogy a cselekvés sokszor ismétlődik, általában többesszámú alannyal.
+ A képzés, mint a főneveknél, itt is a szó ismétlése, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+duduk-duduk
+\emph default
+ (üldögélnek; 
+\emph on
+duduk
+\emph default
+: ül).
+ Az igének csak a szótöve ismétlődik, viszont a prefixum által okozott hangválto
+zás az ismételt tagban is megjelenik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+berteriak-teriak
+\emph default
+ (kiáltoznak; 
+\emph on
+berteriak
+\emph default
+: kiabál), 
+\emph on
+melihat-lihat
+\emph default
+ (nézelődnek; 
+\emph on
+melihat
+\emph default
+: néz), 
+\emph on
+menunggu-nunggu
+\emph default
+ (várakoznak; 
+\emph on
+menunggu
+\emph default
+: vár [a szótő 
+\emph on
+tunggu
+\emph default
+]).
+\end_layout
+
+\begin_layout Subsection
+Kölcsönös cselekvés
+\end_layout
+
+\begin_layout Standard
+Kölcsönös cselekvés kifejezésére a legegyszerűbb mód a 
+\emph on
+saling
+\emph default
+ (egymás) szó használata, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+saling menghormati
+\emph default
+ (tisztelik egymást; 
+\emph on
+menghormati
+\emph default
+: tisztel).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+meN-
+\emph default
+ igéknél egy másik lehetőség a szótő hozzácsatolása a szó elejéhez, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+maaf-memaafkan
+\emph default
+ (megbocsátanak egymásnak; 
+\emph on
+memaafkan
+\emph default
+: megbocsát [a szótő 
+\emph on
+maaf
+\emph default
+]).
+\end_layout
+
+\begin_layout Standard
+Az alapigéknél a 
+\emph on
+ber-...-an
+\emph default
+ affixum adja ugyanezt a jelentést, belül az ige kettőzhető, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+berpelukan / berpeluk-pelukan
+\emph default
+ (megölelik egymást; 
+\emph on
+peluk
+\emph default
+: meg\SpecialChar \-
+ö\SpecialChar \-
+lel).
+\end_layout
+
+\begin_layout Subsection
+Szenvedő szerkezet
+\end_layout
+
+\begin_layout Standard
+A passzív képzésére két mód van.
+ Az ágenstől (cselekvőtől) függ, hogy melyiket használjuk.
+ Ha személyes névmás (különösen, ha harmadik személyű), akkor bármelyik
+ alkalmazható.
+\end_layout
+
+\begin_layout Subsubsection
+I.
+\begin_inset space ~
+\end_inset
+
+típus
+\end_layout
+
+\begin_layout Standard
+Akkor használható, ha az ágens nincs kifejezve, főnév, vagy harmadik személyű
+ személyes névmás.
+ (Időnként használják első és második személyűekkel is.) A 
+\emph on
+meN-
+\emph default
+ prefixum helyére 
+\emph on
+di-
+\emph default
+ kerül, és az ige után következő ágens elé pedig be lehet tenni az 
+\emph on
+oléh
+\emph default
+ elöljárószót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Ayu diperiksa [oléh] dokter itu
+\emph default
+ (Ayut megvizsgálta az orvos [lit.
+ Ayu meg lett vizsgálva az orvos által]; 
+\emph on
+memeriksa
+\emph default
+: megvizsgál, 
+\emph on
+dokter
+\emph default
+: orvos).
+\end_layout
+
+\begin_layout Standard
+Az 
+\emph on
+oléh
+\emph default
+ használata kötelező, ha az ágens nem közvetlenül követi az igét, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya diberikan bunga ini oléh Bu Citra
+\emph default
+ (Ezt a virágot Citra néni adta nekem [lit.
+ Én adva lettem ezt a virágot Citra néni által]; 
+\emph on
+memberikan
+\emph default
+: ad, 
+\emph on
+bunga
+\emph default
+: virág).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+mengerti
+\emph default
+ (ért) ige passzív alakja rendhagyóan 
+\emph on
+dimengerti
+\emph default
+.
+\end_layout
+
+\begin_layout Subsubsection
+II.
+\begin_inset space ~
+\end_inset
+
+típus
+\end_layout
+
+\begin_layout Standard
+Akkor használható, ha az ágens személyes névmás.
+ Az ágens az alany és az ige közé kerül, a 
+\emph on
+meN-
+\emph default
+ prefixum pedig leesik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Dagingnya saya potong-potong
+\emph default
+ (A húst felvágom; 
+\emph on
+daging
+\emph default
+: hús, 
+\emph on
+memotong-motong
+\emph default
+: felvág).
+ Az ágens és az ige közé nem jöhet semmi, ezért a határozók az ágens elé
+ kerülnek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Dagingnya sudah saya potong-potong
+\emph default
+ (A húst már felvágtam).
+ 
+\end_layout
+
+\begin_layout Standard
+Az 
+\emph on
+aku
+\emph default
+ és 
+\emph on
+kamu
+\emph default
+/
+\emph on
+engkau
+\emph default
+ személyes névmások ágensként általában 
+\emph on
+ku-
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kau-
+\emph default
+ alakban jelennek meg, és az igével egybeíródnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Pekerjaan itu kudapatkan
+\emph default
+ (Azt az állást megszereztem; 
+\emph on
+pekerjaan
+\emph default
+: állás, 
+\emph on
+mendapatkan
+\emph default
+: megszerez).
+\end_layout
+
+\begin_layout Subsubsection
+Vonatkozói mellékmondatok
+\end_layout
+
+\begin_layout Standard
+Amennyiben egy vonatkozói mellékmondat úgy hivatkozik a főmondatban levő
+ főnévre, mint tárgyra, akkor a mellékmondatnak passzívnak kell lennie,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+surat yang kautulis
+\emph default
+ (a levél, amit írtál; 
+\emph on
+surat
+\emph default
+: levél, 
+\emph on
+menulis
+\emph default
+: ír), 
+\emph on
+surat yang ditulis guru saya
+\emph default
+ (a levél, amit a tanárom írt; 
+\emph on
+guru
+\emph default
+: tanár).
+\end_layout
+
+\begin_layout Subsection
+Felszólítás
+\end_layout
+
+\begin_layout Standard
+Buzdítás kifejezésére az 
+\emph on
+ayo
+\emph default
+ / 
+\emph on
+mari
+\emph default
+ (hajrá) használható, ami gyakran kiegészül a beszélgetőpartnert is tartalmazó
+ 
+\emph on
+kita
+\emph default
+ személyes névmással, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Mari [kita] pergi ke Indonesia
+\emph default
+ (Menjünk Indonéziába; 
+\emph on
+pergi
+\emph default
+: megy).
+\end_layout
+
+\begin_layout Standard
+A felszólító alak a három típusú igére különbözőképp működik.
+ Az alapigék nem változnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Minum!
+\emph default
+ (Igyál!; 
+\emph on
+minum
+\emph default
+: iszik).
+ A 
+\emph on
+ber-
+\emph default
+ igéknél, ha a szótő azonos jelentésű ige, a 
+\emph on
+ber-
+\emph default
+t általában elhagyják, de nem kötelező, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+[Ber]main!
+\emph default
+ (Játssz!; 
+\emph on
+bermain/main
+\emph default
+: játszik), 
+\emph on
+Berdoa!
+\emph default
+ (Imádkozz; 
+\emph on
+berdoa
+\emph default
+: imádkozik; 
+\emph on
+doa
+\emph default
+: ima).
+ A 
+\emph on
+meN-
+\emph default
+ igéknél a prefixum mindig leesik, ha az igének konkrét tárgya van, de egyébként
+ megmaradhat, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Baca buku itu!
+\emph default
+ (Olvasd azt a könyvet!; 
+\emph on
+membaca
+\emph default
+: olvas, 
+\emph on
+buku
+\emph default
+: könyv), 
+\emph on
+[Mem]baca buku!
+\emph default
+ (Olvass könyvet!), 
+\emph on
+[Mem]baca!
+\emph default
+ (Olvass!).
+\end_layout
+
+\begin_layout Standard
+A fenti felszólító alak egy durva parancs.
+ Ennek enyhítésére lehet használni a 
+\emph on
+silahkan
+\emph default
+ (nyugodtan), 
+\emph on
+tolong
+\emph default
+ (kérem)
+\emph on
+, coba
+\emph default
+ (próbálja meg), 
+\emph on
+harap
+\emph default
+ (remélem) szavakat, illetve a felszólítás élét elvevő 
+\emph on
+-lah
+\emph default
+ szuffixumot, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Silahkan masuk!
+\emph default
+ (Kérem jöjjön be!; 
+\emph on
+masuk
+\emph default
+: bemegy), 
+\emph on
+Tolong ceritakan dongéng itu!
+\emph default
+ (Kérlek mondd el azt a mesét!; 
+\emph on
+menceritakan
+\emph default
+: elmond, 
+\emph on
+dongéng
+\emph default
+: mese), 
+\emph on
+Tidurlah!
+\emph default
+ (Aludj!; 
+\emph on
+tidur
+\emph default
+: alszik).
+\end_layout
+
+\begin_layout Standard
+Tiltást a 
+\emph on
+jangan
+\emph default
+ (ne) szóval fejezünk ki; tárgyas igéknél a 
+\emph on
+meN-
+\emph default
+ prefixum elhagyható.
+ Ez is gyengíthető a 
+\emph on
+-lah
+\emph default
+ szuffixummal, ami a 
+\emph on
+jangan
+\emph default
+hoz kapcsolódik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Jangan[lah] [mem]buka pintu!
+\emph default
+ (Ne nyisd ki az ajtót!; 
+\emph on
+membuka
+\emph default
+: kinyit, 
+\emph on
+pintu
+\emph default
+: ajtó).
+\end_layout
+
+\begin_layout Standard
+A felszólító és tiltó igékhez nem kapcsolódhat utótag alakú személyes névmás
+ (
+\emph on
+-ku/-mu/-nya
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+Mind a felszólításban, mind a tiltásban gyakori a passzív szerkezet, ezzel
+ is kicsit udvariasabb lesz a kifejezés, hiszen nyelvtanilag a cselekvés
+ tárgyát utasítjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Silahkan diminum!
+\emph default
+ (Kérem igyon (teát)! [lit.
+\begin_inset space ~
+\end_inset
+
+(A tea) nyugodtan legyen megíva!]; 
+\emph on
+minum
+\emph default
+: iszik), 
+\emph on
+Surat saya jangan dibaca!
+\emph default
+ (Ne olvasd el a levelemet! [lit.
+\begin_inset space ~
+\end_inset
+
+A levelem ne olvasódjon el!]; 
+\emph on
+surat
+\emph default
+: levél, 
+\emph on
+membaca
+\emph default
+: olvas).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+ter-
+\emph default
+ prefixumos alak
+\end_layout
+
+\begin_layout Standard
+Az igék 
+\emph on
+ter-
+\emph default
+ prefixumos alakjának két jelentése lehet: (i) akaratlanság (tárgyatlan
+ igékkel), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+terbatuk
+\emph default
+ (akaratlanul köhög; 
+\emph on
+batuk
+\emph default
+: köhög), és (ii) szenvedő mel\SpecialChar \-
+lék\SpecialChar \-
+né\SpecialChar \-
+vi igenév (tárgyas igékkel), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+terbuka
+\emph default
+ (nyitott; 
+\emph on
+membuka
+\emph default
+: kinyit).
+ Ez utóbbi állapotot jelöl, de időnként használható akaratlan (passzív)
+ igeként is.
+ A tagadott alak általában képtelenséget jelez, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+tidak terlihat
+\emph default
+ (nem látszik; 
+\emph on
+melihat
+\emph default
+: lát).
 \end_layout
 
 \begin_layout Section
