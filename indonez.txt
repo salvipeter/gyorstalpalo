@@ -1,5 +1,4 @@
 - kerdoszavak
-- melleknevek hasonlitasa (lebih/kurang/paling/daripada)
 - igeido egyertelmusites
 - passziv di- + [oleh] aktor [nem szerepel szotarban]
 - felszolitas (me- kieses), tiltas [jangan], -lah

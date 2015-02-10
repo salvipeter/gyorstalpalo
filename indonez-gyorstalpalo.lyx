@@ -1448,7 +1448,11 @@ reference "sec:Kérdőszavak"
 
 \end_inset
 
-).
+.
+\begin_inset space ~
+\end_inset
+
+szekció).
 \end_layout
 
 \begin_layout Standard
@@ -3892,12 +3896,176 @@ k
 \end_layout
 
 \begin_layout Section
-Melléknevek
+Összehasonlítás
 \end_layout
 
 \begin_layout Standard
-Ahogy azt már korábban láttuk, a melléknevek a jelzett főnév után kerülnek.
- 
+Melléknevek középfokát a 
+\emph on
+lebih
+\emph default
+ (több) szóval képezzük, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+lebih bagus
+\emph default
+ (jobb; 
+\emph on
+bagus
+\emph default
+: jó).
+ A viszonyítási alapot a 
+\emph on
+dari
+\emph default
+ vagy 
+\emph on
+daripada
+\emph default
+ elöljárószó vezeti be, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Kucing lebih pintar dari[pada] anjing
+\emph default
+ (A macskák okosabbak a kutyáknál; 
+\emph on
+kucing
+\emph default
+: macska, 
+\emph on
+pintar
+\emph default
+: okos, 
+\emph on
+anjing
+\emph default
+: kutya).
+ Ellentétes értelmű összehasonlítást a 
+\emph on
+kurang
+\emph default
+ (kevesebb) szóval képezhetünk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Komputer ini kurang mahal dari[pada] yang Apple
+\emph default
+ (Ez a számítógép kevésbé drága, mint az Apple; 
+\emph on
+komputer
+\emph default
+: számítógép, 
+\emph on
+mahal
+\emph default
+: drága).
+\end_layout
+
+\begin_layout Standard
+Ha két dolog valamilyen vonatkozásban ugyanolyan, ezt két módon is kifejezhetjük
+: (i) 
+\emph on
+A se...
+ B
+\emph default
+, vagy (ii) 
+\emph on
+A sama ...nya dengan B
+\emph default
+ [lit.
+ A-nak ugyanolyan a ...-ja mint B-nek].
+ Például 
+\emph on
+Kamu setinggi saya / Kamu sama tingginya dengan saya
+\emph default
+ (Ugyanolyan magas vagy, mint én; 
+\emph on
+tinggi
+\emph default
+: magas).
+\end_layout
+
+\begin_layout Standard
+A felsőfokot a 
+\emph on
+paling
+\emph default
+ szóval fejezhetjük ki, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+paling baru
+\emph default
+ (legújabb; 
+\emph on
+baru
+\emph default
+: új), 
+\emph on
+paling menarik
+\emph default
+ (legérdekesebb / legvonzóbb; 
+\emph on
+menarik
+\emph default
+: érdekes, vonzó).
+ Ugyanezt fejezi ki a 
+\emph on
+ter-
+\emph default
+ prefixum is, de ez csak olyan melléknévhez kapcsolódhat, amelynek még nincsen
+ prefixuma.
+ Így tehát a 
+\emph on
+terbaru
+\emph default
+ létezik, de mivel a 
+\emph on
+menarik
+\emph default
+ szó 
+\emph on
+meN
+\emph default
++
+\emph on
+tarik
+\emph default
+ (húz, von) alakú, ehhez már nem kapcsolható 
+\emph on
+ter-
+\emph default
+ prefixum.
+\end_layout
+
+\begin_layout Standard
+A túlzófokot a 
+\emph on
+terlalu
+\emph default
+ (túlságosan) szó vezeti be, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+terlalu pedas
+\emph default
+ (túl csípős; 
+\emph on
+pedas
+\emph default
+: csípős).
 \end_layout
 
 \begin_layout Section

@@ -14,14 +14,6 @@
 - mennyi: berapa (reszleges reduplikacioval beberapa "nehany, valahany")
 - hányszor: berapa kali
 - (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
-* Melléknevek
-- a jelzett szó után
-- középfok: lebih + melléknév (-nál: daripada, kevésbé: kurang + melléknév)
-- felsőfok: paling + melléknév / ter- + melléknév,
-  a ter- csak olyanok melléknévhez kapcsolódhat, aminek nincs prefixuma
-- túlságosan: terlalu + melléknév
-- azonos mérték: se + melléknév ... / sama melléknév + nya dengan ...,
-  pl. dia sekaya anda / dia sama kayanya dengan anda
 * Prefixumok és szuffixumok
 - -kah: kérdésjelző (a kérdéses szóhoz, főleg írott nyelvben)
 - -lah: kiemelő rag; felszólítás erejét enyhíti
