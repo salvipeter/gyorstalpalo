@@ -1,19 +1,6 @@
 #			  -*- mode: org -*-
 
 * Kérdőszavak
-- mi: apa
-- ki: siapa (élőlények nevét is ezzel kérdezzük)
-- kié: punya siapa
-- melyik: yang mana
-- melyik ...: ... yang mana
-- mikor: kapan [csak mondat elej'en]
-- milyen: bagaimana [dengan]
-- milyen ...: ... apa
-- miért: kenapa / mengapa (írott) [ezek csak mondat elején lehetnek]
-- hol/hova/honnan: di/ke/dari mana
-- mennyi: berapa (reszleges reduplikacioval beberapa "nehany, valahany")
-- hányszor: berapa kali
-- (melléknévből képzettek): berapa lama/jauh/sukar/tinggi/dalam/stb.
 ** yang
 - "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
   ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
