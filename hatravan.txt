@@ -1,35 +1,5 @@
 #			  -*- mode: org -*-
 
-* Kérdőszavak
-** yang
-- "mi/ki az, ami/aki" típusú kérdéseknél az apa/siapa után kötelező a yang;
-  ilyenkor gyakran ige követi, és csak utána jöhet a személyes névmás
-  (pl. apa yang bisa mereka buat untuk kita?, "mit tudnak értünk tenni?")
-  [nem kell, ha az apa tárgyesetben van, vö. mereka bisa buat apa untuk kita?]
-* Partikulák
-** kan
-- "nemde?" értelmű, a bukan rövid formája
-- mondat közben az állítmány előtt, pl. London kan jauh dari sini
-- mondat végén, pl. London jauh dari sini, (bu)kan?
-** pun
-- is, pl. saya pun sudah membeli mobil baru (én is vettem új autót)
-- akár ... is, pl. berdiri pun dia tak bisa, apalagi berlari (állni sem tud, nemhogy futni)
-- bármi (kérdőszó után), pl. ke mana pun dia pergi, saya mau ikut (bárhova is megy, én vele megyek)
-** saja
-- csak, pl. saya mau satu anak saja (csak egy gyereket akarok), tenang saja (csak nyugi)
-- bármi, pl. mana saja (bármelyik), apa saja yang kamu ingini beritahulah aku (mondd meg, mit szeretnél)
-- többesszám, pl. kamu membeli apa saja? (miket vettél?), sudah ke mana saja? (hol(tsz.) voltál?)
-- kifejezésekben, pl. tentu saja (természetesen)
-** Beszélt nyelvi
-- déh:
-- doang: mondat végén "csak, csupán" értelmű
-- dong: erősíti a kijelentést, felszólítást, kérést; "persze"
-- kok: mondat elején "hogyhogy?" értelmű, mondat végén erősíti valamilyen feltételezés tagadását
-- lho:
-- nih:
-- sih:
-- tuh:
-- ya:
 * Szóképzés
 ** Főnevek
 - nagyon sokféle képző van, és ezek nem mindig konzekvensek

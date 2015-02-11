@@ -2286,6 +2286,51 @@ rusak
 : rossz, hibás).
 \end_layout
 
+\begin_layout Standard
+A visszaható személyes névmás teljes alakja 
+\emph on
+diri
+\emph default
++(rövid alak)+[
+\emph on
+sendiri
+\emph default
+], pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dirimu [sendiri]
+\emph default
+ (saját magad).
+ Ugyanilyen értelemben lehet használni a személytelen 
+\emph on
+diri sendiri
+\emph default
+ alakot is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Utami melihat dirinya [sendiri] di cermin
+\emph default
+ / 
+\emph on
+Utami melihat diri sendiri di cermin 
+\emph default
+(Utami nézi magát a tükörben; 
+\emph on
+melihat
+\emph default
+: néz, 
+\emph on
+cermin
+\emph default
+: tükör).
+\end_layout
+
 \begin_layout Section
 Elöljárószók és határozószók
 \end_layout
@@ -3387,19 +3432,416 @@ reference "sub:Vonatkozói-mellékmondatok"
 \end_layout
 
 \begin_layout Section
-Kötőszavak
-\end_layout
-
-\begin_layout Standard
-Blabla
-\end_layout
-
-\begin_layout Section
 Partikulák
 \end_layout
 
 \begin_layout Standard
-Blabla
+Az indonéz nyelvben rengeteg partikula van, az alábbiakban a leggyakoribbak
+ közül kerül néhány bemutatásra.
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+cuma
+\emph default
+ és 
+\emph on
+hanya
+\emph default
+ partikulák
+\end_layout
+
+\begin_layout Standard
+Mindkét partikula ,,csak'' jelentésű, és a következő szót módosítják, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya hanya mau bertanya
+\emph default
+ (Csak kérdezni akarok; 
+\emph on
+mau
+\emph default
+: akar, 
+\emph on
+bertanya
+\emph default
+: kérdez).
+ A 
+\emph on
+hanya
+\emph default
+ inkább írott nyelvben használatos.
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+juga
+\emph default
+ partikula
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+juga
+\emph default
+ (is) partikula mindig az után a szó után jön, amire vonatkozik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Dia juga orang Hongaria
+\emph default
+ (Ő is magyar; 
+\emph on
+orang
+\emph default
+: ember, 
+\emph on
+Hongaria
+\emph default
+: Magyarország).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+kan
+\emph default
+ partikula
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+kan
+\emph default
+ a 
+\emph on
+bukan
+\emph default
+ szó rövid formája, magyar megfelelője az ,,ugye''.
+ Kerülhet a mondat végére, vagy az állítmány elé, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Borobudur di Jawa Tengah, kan?
+\emph default
+ (Borobudur Közép-Jávában van, ugye?; 
+\emph on
+tengah
+\emph default
+: közép), 
+\emph on
+Borobudur kan di Jawa Tengah?
+\emph default
+ (Borobudur ugye Közép-Jávában van?).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+pun
+\emph default
+ partikula
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+pun
+\emph default
+ (is) szócska hasonlít a 
+\emph on
+juga
+\emph default
+ partikulához, de a jelentésköre jóval tágabb, egy fajta általános kiemelő
+ szó.
+ A kérdőszavaknak ,,bár...
+ is'' jelentést kölcsönöz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ke mana pun
+\emph default
+ (bárhova is), 
+\emph on
+siapa pun
+\emph default
+ (bárki is).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+saja
+\emph default
+ partikula
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+saja
+\emph default
+ (csak, éppen) partikula is az előző szóra vonatkozik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Nur saja yang masuk
+\emph default
+ (Csak Nur megy be; 
+\emph on
+masuk
+\emph default
+: bemegy).
+ Ebben a jelentésben felcserélhető a 
+\emph on
+cuma
+\emph default
+ / 
+\emph on
+hanya
+\emph default
+ partikulákkal, amik viszont a módosított szó elé kerülnek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Hanya Nur yang masuk
+\emph default
+.
+ A 
+\emph on
+saja
+\emph default
+ szócska kérdőszavakhoz kapcsolva a 
+\emph on
+pun
+\emph default
+hoz hasonlóan ,,bár...'' jelentést eredményez, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kapan saja
+\emph default
+ (bármikor), 
+\emph on
+berapa saja
+\emph default
+ (bármennyi).
+ Kérdő mondatokban ugyanez azt a többletjelentést hordozza, hogy a válaszban
+ több dolgot várunk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Kamu membeli apa saja?
+\emph default
+ (Miket vásároltál?; 
+\emph on
+membeli
+\emph default
+: vásárol).
+\end_layout
+
+\begin_layout Section
+Kötőszavak
+\end_layout
+
+\begin_layout Standard
+Néhány hasznos kötőszó: 
+\emph on
+dan
+\emph default
+ (és), 
+\emph on
+ketika 
+\emph default
+/
+\emph on
+ waktu
+\emph default
+ (amikor), 
+\emph on
+kalau
+\emph default
+ / 
+\emph on
+jika
+\emph default
+ / 
+\emph on
+bila
+\emph default
+ (ha), 
+\emph on
+tetapi
+\emph default
+ / 
+\emph on
+tapi
+\emph default
+ (de), 
+\emph on
+[oléh] karena
+\emph default
+ / 
+\emph on
+sebab
+\emph default
+ (mivel), 
+\emph on
+sebelum
+\emph default
+ (mielőtt), 
+\emph on
+setelah / sesudah
+\emph default
+ (miután), 
+\emph on
+meskipun / walaupun
+\emph default
+ (noha), 
+\emph on
+agar / supaya 
+\emph default
+(azért, hogy), 
+\emph on
+bahwa
+\emph default
+ (hogy),
+\emph on
+ sehingga
+\emph default
+ (annyira, hogy).
+ Nézzünk egy pár példát.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Saya membeli buku ini, karena saya mau membaca sebelum tidur 
+\emph default
+(Megveszem ezt a könyvet, mert olvasni akarok alvás előtt; 
+\emph on
+membeli
+\emph default
+: vásárol, 
+\emph on
+buku
+\emph default
+: könyv, 
+\emph on
+mau
+\emph default
+: akar, 
+\emph on
+membaca
+\emph default
+: olvas, 
+\emph on
+tidur
+\emph default
+: alszik).
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Waktu kecil dia belajar dengan keras supaya lulus ujian
+\emph default
+ (Kiskorában ke\SpecialChar \-
+mé\SpecialChar \-
+nyen tanult, hogy átmenjen a vizsgán; 
+\emph on
+kecil
+\emph default
+: kicsi, 
+\emph on
+belajar
+\emph default
+: tanul, 
+\emph on
+keras
+\emph default
+: erős, szigorú, 
+\emph on
+lulus
+\emph default
+: (vizsgán) átmegy, 
+\emph on
+ujian
+\emph default
+: vizsga).
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Walaupun kamu kaya, itu tidak berarti bahwa kamu boléh membuat apa saja
+\emph default
+ (Noha te gazdag vagy, ez nem jelenti azt, hogy bármit megtehetsz; 
+\emph on
+kaya
+\emph default
+: gazdag, 
+\emph on
+berarti
+\emph default
+: jelent, 
+\emph on
+boléh
+\emph default
+: szabad (vmit csinálni), 
+\emph on
+membuat
+\emph default
+: csinál).
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Saya membencinya, sehingga kalau dia datang ke pésta, saya tinggal di rumah
+\emph default
+ (Annyira utálom őt, hogy ha ő jön a buliba, akkor én otthon maradok; 
+\emph on
+membenci
+\emph default
+: utál, 
+\emph on
+datang
+\emph default
+: jön, 
+\emph on
+pésta
+\emph default
+: buli,
+\emph on
+ tinggal
+\emph default
+: marad, 
+\emph on
+rumah
+\emph default
+: ház).
 \end_layout
 
 \begin_layout Section

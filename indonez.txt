@@ -1,9 +1,15 @@
-- kerdoszavak
+- sendiri (sajat maga; magatol [155,174;219], sajat magat (diri[nya] sendiri / dirinya) [212])
+
+- bisa/dapat (kepes,lehet), boleh (szabad), harus/mesti (kell), perlu (szukseges),
+  sempat (raer, alkalma van ra)
+
+- beszelt nyelvi jelensegek [ld. beszelt.txt]
+- roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
+
 - kepzokrol: megjegyezni, hogy ezek tobbsege egyszeruen szotarbol kikeresheto
 - fonevkepzo: [ke-]...-an
 - igei kepzok: ber-, me-, me-...-kan, me-...-i, memper-...-kan, alapveto jelenteskor
 - birtoklo ber- (bermobil, berambut hitam) [idonkent szerepel szotarban]
 - melleknevkepzo: ter- [idonkent szerepel szotarban]
-- beszelt nyelvi jelensegek [ld. beszelt.txt]
-- roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
+
 - kidolgozott pelda, szotovek feltuntetesevel
