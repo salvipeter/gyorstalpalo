@@ -1,11 +1,1 @@
-A kollokviális nyelv lényeges különbségeket mutat a formális beszédhelyzetben ill. írásban használt indonézhez képest. Részben a filmek és tévéműsorok hatására kialakult a beszélt nyelvnek egy olyan változata, amit Indonézia legtöbb részén megértenek -- ez a jakartai dialektus. Ennek részletes tárgyalása túlmutat ezen az összefoglalón, ezért itt csak a legfontosabb eltéréseket sorolom fel; további információkért ld. a Colloquial Jakartan Indonesian [] c. könyvet.
-- kiejtes: benar -> bener (nem mindig); au -> o: kalau -> kalo (majdnem mindig); ai->é: capai -> capé[k]
-- a kezdő s leeshet bizonyos szavakban (saja -> aja, sama -> ama)
-- prefixumok leesnek, de a hangvaltozas maradhat; kan->in (mendengarkan->dengerin,menulis->nulis),
-  ilyenkor a c-ből ny lesz, pl. mencari -> nyari
-- ter- helyett ke- lehet
-- erzelemkifejezo es ritmizalo partikulak (pl. déh, doang, dong, kok, lho, nih, sih, tuh, ya)
-- javai nyelvbol jovo szavak gyakoriak, pl. szemelyes nevmasok (gua,lo)
-- angol szavak, mondatok hasznalata
-- sekarang -> lagi, dengan -> [s]ama
-- pelda (mondjuk a tetangga masa gitu-bol)
+

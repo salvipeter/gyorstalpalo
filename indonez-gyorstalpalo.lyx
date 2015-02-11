@@ -7236,15 +7236,624 @@ A kollokviális indonéz nyelv
 \end_layout
 
 \begin_layout Standard
-Blabla
+A kollokviális nyelv lényeges különbségeket mutat a formális beszédhelyzetben
+ ill.
+\begin_inset space ~
+\end_inset
+
+írásban használt indonézhez képest.
+ Részben a filmek és tévéműsorok ha\SpecialChar \-
+tá\SpecialChar \-
+sá\SpecialChar \-
+ra kialakult a beszélt nyelvnek egy
+ olyan változata, amit Indonézia legtöbb részén megértenek -- ez a jakartai
+ dialektus.
+ Ennek részletes tárgyalása túlmutat ezen az összefoglalón, ezért itt csak
+ a legfontosabb eltérések kerülnek bemutatásra; további információkért ld.
+\begin_inset space ~
+\end_inset
+
+a Colloquial Jakartan Indonesian c.
+\begin_inset space ~
+\end_inset
+
+könyvet
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "colloquial-jakartan"
+
+\end_inset
+
+.
 \end_layout
 
-\begin_layout Section
-Példa
+\begin_layout Subsection
+Gyakori hangváltozások
 \end_layout
 
 \begin_layout Standard
-Blabla
+Sok szóban az utolsó szótagban levő 
+\emph on
+a
+\emph default
+ hang 
+\emph on
+e
+\emph default
+-re változik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+benar
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+bener
+\emph default
+, 
+\emph on
+kesal
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+kesel
+\emph default
+, de nem mindig (csak ott, ahol 
+\emph on
+e
+\emph default
+ volt a klasszikus malájban).
+ Az 
+\emph on
+au
+\emph default
+ és 
+\emph on
+ai
+\emph default
+ kettőshangzók rendre 
+\emph on
+o
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+é
+\emph default
+ hanggá változnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kalau
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+kalo
+\emph default
+, 
+\emph on
+ramai
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ramé
+\emph default
+.
+ A kezdő 
+\emph on
+s
+\emph default
+ időnként leesik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+saja
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+aja
+\emph default
+, 
+\emph on
+sama
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ama
+\emph default
+, 
+\emph on
+sudah
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+udah
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Nyelvtani változások
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+meN-
+\emph default
+ prefixum gyakran leesik, de a hangváltozás megmarad, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+menulis
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+nu\SpecialChar \-
+lis
+\emph default
+ (a szótő 
+\emph on
+tulis
+\emph default
+).
+ A 
+\emph on
+-kan
+\emph default
+ szuffixum gyakran 
+\emph on
+-in
+\emph default
+ alakra vált, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mendengarkan
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+dengerin
+\emph default
+ (a szótő 
+\emph on
+dengar
+\emph default
+, figyeljük meg, hogy a szó végi 
+\emph on
+a
+\emph default
+ is átváltozott 
+\emph on
+e
+\emph default
+-re).
+ Ha a szótő 
+\emph on
+c
+\emph default
+ hanggal kezdődött, akkor a 
+\emph on
+meN-
+\emph default
+ prefixum leesése 
+\emph on
+ny
+\emph default
+ hangot eredményez, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mencari
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+nyari
+\emph default
+ (a szótő 
+\emph on
+cari
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+ter-
+\emph default
+ prefixum helyett sokszor 
+\emph on
+ke-
+\emph default
+ prefixumot használnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+terpakai
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ke\SpecialChar \-
+pa\SpecialChar \-
+ké
+\emph default
+.
+\end_layout
+
+\begin_layout Subsection
+Partikulák
+\end_layout
+
+\begin_layout Standard
+A beszélt nyelv számos olyan (nagyrészt a jávai nyelvből kölcsönzött) partikulát
+ tartalmaz, amelyek egyáltalán nem jelennek meg a formális nyelvben.
+ Ezek nagy része érzelmi többlet kifejezésére vagy ritmizálásra szolgál,
+ ezért nehezen fordíthatóak.
+ Ilyenek pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+déh
+\emph default
+, 
+\emph on
+dong
+\emph default
+, 
+\emph on
+lho
+\emph default
+, 
+\emph on
+sih
+\emph default
+, 
+\emph on
+ya
+\emph default
+ partikulák.
+ Könnyebben megfogható jelentéssel rendelkezik pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+doang
+\emph default
+ (csak), a 
+\emph on
+kok
+\emph default
+ (hogyhogy?), és az 
+\emph on
+ini
+\emph default
+ és 
+\emph on
+itu
+\emph default
+ szavakból származó 
+\emph on
+nih
+\emph default
+ és 
+\emph on
+tuh
+\emph default
+.
+ Ez utóbbi kettő a szokásos funkciói mellett kiemelésre is szolgál.
+\end_layout
+
+\begin_layout Subsection
+Szókincs
+\end_layout
+
+\begin_layout Standard
+A jakartai nyelvjárás sok szót kölcsönzött a helyi 
+\emph on
+Betawi
+\emph default
+ (,,batáviai'') nyelven keresztül a hokkien (fucsieni kínai) nyelvből, még
+ személyes névmásokat is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gué
+\emph default
+ (én), 
+\emph on
+lu
+\emph default
+ (te).
+ Sok szót helyettesítenek a jávai megfelelőjével, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+enggak
+\emph default
+ (nem) a 
+\emph on
+tidak
+\emph default
+ helyett.
+\end_layout
+
+\begin_layout Standard
+Bizonyos szavak jelentése kibővült, pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+lagi
+\emph default
+ (megint) szó használható folyamatosságjelzőként a 
+\emph on
+sedang
+\emph default
+ helyett, vagy a 
+\emph on
+[s]ama
+\emph default
+ (azonos) szó használható a 
+\emph on
+dengan
+\emph default
+ (-val) elöljárószó helyett.
+\end_layout
+
+\begin_layout Standard
+A fiatalok körében gyakori az angol szavak, esetenként egész angol mondatok
+ használata.
+ Nézzünk egy példát: 
+\emph on
+Soalnya lagi naik Carstensz Pyramid, he's so gokil, you know, kerén banget
+ déh
+\emph default
+ (A helyzet az, hogy [ő] éppen mászik fel a Puncak Jaya hegyre, tiszta őrült,
+ tudod, baromi cool; 
+\emph on
+soal
+\emph default
+: probléma, ügy, 
+\emph on
+naik
+\emph default
+: felmászik, 
+\emph on
+gokil
+\emph default
+: őrült (szleng), 
+\emph on
+kerén
+\emph default
+: cool (jávai), 
+\emph on
+banget
+\emph default
+: nagyon (jávai)).
+ 
+\end_layout
+
+\begin_layout Subsection
+Rövidítések
+\end_layout
+
+\begin_layout Standard
+A formális indonézben is sok szót képeznek rövidítésekből, de ez különösen
+ gyakori a kollokviális nyelvben.
+ Példák: 
+\emph on
+ABG [Anak Baru Gedé]
+\emph default
+ (tinédzser; 
+\emph on
+anak
+\emph default
+: gyerek, 
+\emph on
+gedé
+\emph default
+: nagy (jávai)), 
+\emph on
+PD [Percaya Diri]
+\emph default
+ (öntelt; 
+\emph on
+percaya
+\emph default
+: bízik), 
+\emph on
+curhat [curahan hati]
+\emph default
+ (kiönti a szívét; 
+\emph on
+curahan
+\emph default
+: kiömlés, 
+\emph on
+hati
+\emph default
+: szív).
+\end_layout
+
+\begin_layout Standard
+Manapság a szociális média miatt a beszélt nyelvet is egyre többször kell
+ leírni.
+ A blogposztok és üzenetek a beavatatlanok számára teljesen olvashatatlanok,
+ mert tele vannak rövidítésekkel, mint például a duplázás helyettesítése
+ a 2-es számmal, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+memotong2
+\emph default
+ (
+\emph on
+memotong-motong
+\emph default
+), 
+\emph on
+yg
+\emph default
+ (
+\emph on
+yang
+\emph default
+), 
+\emph on
+dg
+\emph default
+ (
+\emph on
+dengan
+\emph default
+), 
+\emph on
+ga
+\emph default
+ (
+\emph on
+nggak
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+ }
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Példa - Ezt LibreOffice-ban egyszerűbb megcsinálni...)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+ }
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Folytatás...
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -7482,6 +8091,28 @@ Quinn,
 The Learner's Dictionary of Today's Indonesian
 \emph default
 , Allen & Unwin, 2001.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "colloquial-jakartan"
+
+\end_inset
+
+J.
+\begin_inset space ~
+\end_inset
+
+N.
+\begin_inset space ~
+\end_inset
+
+Sneddon, 
+\emph on
+Colloquial Jakartan Indonesian
+\emph default
+, Pacific Linguistics, 2006.
 \end_layout
 
 \end_body

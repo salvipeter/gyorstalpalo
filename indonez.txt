@@ -1,6 +1,3 @@
-- beszelt nyelvi jelensegek [ld. beszelt.txt]
-- roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
-
 - kepzokrol: megjegyezni, hogy ezek tobbsege egyszeruen szotarbol kikeresheto
 - fonevkepzo: [ke-]...-an
 - igei kepzok: ber-, me-, me-...-kan, me-...-i, memper-...-kan, alapveto jelenteskor
