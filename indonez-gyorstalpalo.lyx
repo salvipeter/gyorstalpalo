@@ -2287,11 +2287,11 @@ rusak
 \end_layout
 
 \begin_layout Standard
-A visszaható személyes névmás teljes alakja 
+A visszaható személyes névmás 
 \emph on
 diri
 \emph default
-+(rövid alak)+[
++(rövid alak) [
 \emph on
 sendiri
 \emph default
@@ -2314,21 +2314,38 @@ diri sendiri
 
 
 \emph on
-Utami melihat dirinya [sendiri] di cermin
+Utami menipu dirinya [sendiri]
 \emph default
  / 
 \emph on
-Utami melihat diri sendiri di cermin 
+Utami menipu diri sendiri 
 \emph default
-(Utami nézi magát a tükörben; 
+(Utami becsapja magát; 
 \emph on
-melihat
+menipu
 \emph default
-: néz, 
+: becsap).
+ Az alany után a 
 \emph on
-cermin
+sendiri
 \emph default
-: tükör).
+ szó ,,ő maga'' értelmű, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Présidén sendiri mengunjungi Papua
+\emph default
+ (Az elnök maga látogat el Pápuába; 
+\emph on
+présidén
+\emph default
+: elnök, 
+\emph on
+mengunjungi
+\emph default
+: ellátogat).
 \end_layout
 
 \begin_layout Section
@@ -4981,6 +4998,100 @@ suka
 berenang
 \emph default
 : úszik)
+\end_layout
+
+\begin_layout Subsection
+Modális igék
+\end_layout
+
+\begin_layout Standard
+Ide tartoznak azok az igék, amelyek egy másik ige jelentését módosítják,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bisa
+\emph default
+ / 
+\emph on
+dapat
+\emph default
+ (képes, lehet), 
+\emph on
+boléh
+\emph default
+ (szabad), 
+\emph on
+harus
+\emph default
+ / 
+\emph on
+mesti
+\emph default
+ (kell, muszáj), 
+\emph on
+perlu
+\emph default
+ (szükséges), 
+\emph on
+sempat
+\emph default
+ (ráér, alkalma van), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Saya tidak boléh minum susu
+\emph default
+ (Nem ihatok tejet; 
+\emph on
+minum
+\emph default
+: iszik, 
+\emph on
+susu
+\emph default
+: tej), 
+\emph on
+Kamu harus mendengar lagu ini
+\emph default
+ (Meg kell hallgatnod ezt a dalt; 
+\emph on
+mendengar
+\emph default
+: hallgat, 
+\emph on
+lagu
+\emph default
+: dal).
+ Gyakran ide sorolják még a 
+\emph on
+mau
+\emph default
+ (akar) és 
+\emph on
+ingin
+\emph default
+ (szeretne) igéket is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Meréka ingin menonton televisi
+\emph default
+ (Tévét szeretnének nézni; 
+\emph on
+menonton
+\emph default
+: néz, 
+\emph on
+televisi
+\emph default
+: tévé).
 \end_layout
 
 \begin_layout Subsection

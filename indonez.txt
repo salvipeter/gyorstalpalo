@@ -1,8 +1,3 @@
-- sendiri (sajat maga; magatol [155,174;219], sajat magat (diri[nya] sendiri / dirinya) [212])
-
-- bisa/dapat (kepes,lehet), boleh (szabad), harus/mesti (kell), perlu (szukseges),
-  sempat (raer, alkalma van ra)
-
 - beszelt nyelvi jelensegek [ld. beszelt.txt]
 - roviditesek (duplazas: 2, yg, dg, ... + PD,ABG stb.)
 
