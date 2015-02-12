@@ -37,20 +37,10 @@
 ** Melléknevek
 *** ke-...-an
 - melléknévből: túlságosan vmilyen, pl. kecapékan (holtfáradt), kelaparan (farkaséhes)
-*** ter-
-- ld. Igék/ter-
 ** Igék
 *** ber-
 - tárgyatlan igeképző
 - főnévből: (vmilyen) vmivel rendelkezik, pl. berpakaian cantik (szép ruhával rendelkezik)
-*** ber-...-an
-- egymással (gyakran duplázva), pl. berpandang-pandangan (bámulják egymást)
-- folyamatosságot vagy ismétlődést jelölhet, pl. berkilauan (folyamatosan csillog)
-- jelezheti, hogy sokan végzik, pl. berlarian (sokan futnak)
-*** ber-...-kan
-- helyettesíthet valamilyen elöljárószót, pl. bersenjata dengan golok -> bersenjatakan golok
-- helyettesítheti az "akan" szót, pl. berharapkan = berharap akan ...
-- egyfajta választékos passzívot is jelölhet, pl. langit bertaburkan bintang
 *** ke-...-an
 - kellemetlenség éri, pl. kehujanan (megázik), kedinginan (fázik), kemasukan pencuri (kirabolják)
 - kivételek: kelihatan ([vmilyennek] tűnik), kedengaran ([vmilyennek] hallatszik)
@@ -75,8 +65,6 @@
 *** memper-
 - melléknévből: még olyanabbá tesz, pl. besar (nagy) -> memperbesar (még nagyobbá tesz)
 - kivételek: baik -> memperbaiki, baru -> memperbarui
-*** ter-
-- ld. Igék/ter-
 ** A 16 ige
 - ezeknél a meN-...-kan helyettesíti a meN-... alakot
 - sima tárgyas ige jelentésűek
