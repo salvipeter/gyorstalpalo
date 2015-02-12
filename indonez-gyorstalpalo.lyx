@@ -1287,7 +1287,15 @@ adalah
 
 
 \emph on
-Dia [adalah] Jono
+Dia 
+\emph default
+[
+\emph on
+adalah
+\emph default
+]
+\emph on
+ Jono
 \emph default
  (Ő Jono; 
 \emph on
@@ -1295,7 +1303,15 @@ dia
 \emph default
 : ő), 
 \emph on
-Dwi [adalah] guru
+Dwi 
+\emph default
+[
+\emph on
+adalah
+\emph default
+]
+\emph on
+ guru
 \emph default
  (Dwi tanár; 
 \emph on
@@ -1339,13 +1355,21 @@ apa
 \begin_inset space ~
 \end_inset
 
-
+[
 \emph on
-[Apakah] Lestari cantik?
+Apakah
 \emph default
-, 
+]
 \emph on
-[Apakah] dia Jono?
+ Lestari cantik?
+\emph default
+, [
+\emph on
+Apakah
+\emph default
+]
+\emph on
+ dia Jono?
 \emph default
  Írott nyelvben szokásos egy másik formula is, amikor az állítmány a mondat
  elejére kerül 
@@ -1384,33 +1408,33 @@ Kiegészítendő kérdésnél a kérdőszó a kiegészítendő rész helyére ke
 
 
 \emph on
-Budi menulis apa?
+Budi mencari siapa?
 \emph default
- (Mit ír Budi?; 
+ (Kit keres Budi?; 
 \emph on
-menulis
+mencari
 \emph default
-: ír, 
-\emph on
-apa
-\emph default
-: mi?), 
-\emph on
-Siapa makan nasi?
-\emph default
- (Ki eszik rizst?; 
+: keres, 
 \emph on
 siapa
 \emph default
-: ki?, 
+: ki?), 
 \emph on
-makan
+Apa ini?
 \emph default
-: eszik, 
+ / 
 \emph on
-nasi
+Ini apa?
 \emph default
-: főtt rizs).
+ (Mi ez?; 
+\emph on
+apa
+\emph default
+: mi?, 
+\emph on
+ini
+\emph default
+: ez).
  Egyéb esetekben a kérdőszó általában a mondat elejére kerül -- bővebben
  ld.
 \begin_inset space ~
@@ -1494,9 +1518,13 @@ yang
 \begin_inset space ~
 \end_inset
 
-
+[
 \emph on
-[Orang] yang minum kopi itu Umar
+Orang
+\emph default
+]
+\emph on
+ yang minum kopi itu Umar
 \emph default
  ([Az ember] aki kávét iszik, az Umar), 
 \emph on
@@ -1565,8 +1593,8 @@ pont).
 \end_layout
 
 \begin_layout Standard
-Két főnév egymás után helyezése jelző értékű, a második lesz az első jelzője,
- pl.
+Két főnév egymás után helyezése jelzős szerkezet, a második módosítja az
+ elsőt, pl.
 \begin_inset space ~
 \end_inset
 
@@ -1612,7 +1640,7 @@ kecil
 \emph on
 pria ini
 \emph default
- (az a férfi; 
+ (ez a férfi; 
 \emph on
 pria
 \emph default
@@ -1722,7 +1750,7 @@ teman
 \emph on
 punya
 \emph default
- (birtokol) igét kell használni, pl.
+ (-é) szót kell használni, pl.
 \begin_inset space ~
 \end_inset
 
@@ -2276,9 +2304,13 @@ sendiri
 
 
 \emph on
-dirimu [sendiri]
+dirimu 
 \emph default
- (saját magad).
+[
+\emph on
+sendiri
+\emph default
+] (saját magad).
  Ugyanilyen értelemben lehet használni a személytelen 
 \emph on
 diri sendiri
@@ -2289,9 +2321,13 @@ diri sendiri
 
 
 \emph on
-Utami menipu dirinya [sendiri]
+Utami menipu dirinya 
 \emph default
- / 
+[
+\emph on
+sendiri
+\emph default
+] / 
 \emph on
 Utami menipu diri sendiri 
 \emph default
@@ -2464,7 +2500,15 @@ pada
 
 
 \emph on
-Saya mengirim email ke/kepada/pada SBY
+Saya mengirim email ke
+\emph default
+/
+\emph on
+kepada
+\emph default
+/
+\emph on
+pada SBY
 \emph default
  (Küldök egy emailt SBY-nak; 
 \emph on
@@ -3140,7 +3184,15 @@ name "tab:hatarozoszok"
 
 A legfontosabb helyhatározók (
 \emph on
-dari/di/ke+...
+dari
+\emph default
+/
+\emph on
+di
+\emph default
+/
+\emph on
+ke+...
 \emph default
 ).
 \end_layout
@@ -3237,7 +3289,15 @@ cara
 
 
 \emph on
-Bagaimana [cara] memasak rendang?
+Bagaimana 
+\emph default
+[
+\emph on
+cara
+\emph default
+]
+\emph on
+ memasak rendang?
 \emph default
  (Hogyan főzünk pörköltet?; 
 \emph on
@@ -3272,7 +3332,7 @@ nama
 \emph on
 punya
 \emph default
- (birtokol) igével kombinálhatjuk, pl.
+ (-é) szóval kombinálhatjuk, pl.
 \begin_inset space ~
 \end_inset
 
@@ -3294,7 +3354,15 @@ mana
 \emph default
  szóval képezhetőek a 
 \emph on
-dari/di/ke mana
+dari
+\emph default
+/
+\emph on
+di
+\emph default
+/
+\emph on
+ke mana
 \emph default
  (honna? hol? hova?) kér\SpecialChar \-
 dő\SpecialChar \-
@@ -3313,7 +3381,15 @@ Kamu ke mana?
 \emph default
  (Hová mész?), 
 \emph on
-Kamu suka [baju] yang mana?
+Kamu suka 
+\emph default
+[
+\emph on
+baju
+\emph default
+]
+\emph on
+ yang mana?
 \emph default
  (Melyik [inget] szereted?; 
 \emph on
@@ -3333,7 +3409,11 @@ kapan
 \emph default
  (mikor?), 
 \emph on
-mengapa / kenapa
+mengapa 
+\emph default
+/
+\emph on
+ kenapa
 \emph default
  (miért?) kérdőszavak mindig a mondat elején állnak.
  A 
@@ -3422,7 +3502,11 @@ menggunakan
 
 
 \emph on
-Meréka bisa membuat apa untuk kita? / Apa yang bisa meréka buat untuk kita?
+Meréka bisa membuat apa untuk kita? 
+\emph default
+/
+\emph on
+ Apa yang bisa meréka buat untuk kita?
 \emph default
  (Mit tudnak tenni értünk?; 
 \emph on
@@ -3715,7 +3799,7 @@ berapa saja
 \emph on
 Kamu membeli apa saja?
 \emph default
- (Miket vásároltál?; 
+ (Miket vásárolsz?; 
 \emph on
 membeli
 \emph default
@@ -3759,9 +3843,13 @@ tetapi
 \emph on
 tapi
 \emph default
- (de), 
+ (de), [
 \emph on
-[oléh] karena
+oléh
+\emph default
+]
+\emph on
+ karena
 \emph default
  / 
 \emph on
@@ -3773,15 +3861,27 @@ sebelum
 \emph default
  (mielőtt), 
 \emph on
-setelah / sesudah
+setelah 
+\emph default
+/
+\emph on
+ sesudah
 \emph default
  (miután), 
 \emph on
-meskipun / walaupun
+meskipun 
+\emph default
+/
+\emph on
+ walaupun
 \emph default
  (noha), 
 \emph on
-agar / supaya 
+agar 
+\emph default
+/
+\emph on
+ supaya 
 \emph default
 (azért, hogy), 
 \emph on
@@ -4355,9 +4455,9 @@ j
 
 
 \emph on
-me
+meN
 \emph default
-N+
++
 \emph on
 zalim
 \emph default
@@ -4678,7 +4778,15 @@ daripada
 
 
 \emph on
-Kucing lebih pintar dari[pada] anjing
+Kucing lebih pintar dari
+\emph default
+[
+\emph on
+pada
+\emph default
+]
+\emph on
+ anjing
 \emph default
  (A macskák okosabbak a kutyáknál; 
 \emph on
@@ -4703,7 +4811,15 @@ kurang
 
 
 \emph on
-Komputer ini kurang mahal dari[pada] yang Apple
+Komputer ini kurang mahal dari
+\emph default
+[
+\emph on
+pada
+\emph default
+]
+\emph on
+ yang Apple
 \emph default
  (Ez a számítógép kevésbé drága, mint az Apple; 
 \emph on
@@ -4731,7 +4847,11 @@ A sama ...nya dengan B
  A-nak ugyanolyan a ...-ja mint B-nek].
  Például 
 \emph on
-Kamu setinggi saya / Kamu sama tingginya dengan saya
+Kamu setinggi saya 
+\emph default
+/
+\emph on
+ Kamu sama tingginya dengan saya
 \emph default
  (Ugyanolyan magas vagy, mint én; 
 \emph on
@@ -4858,7 +4978,7 @@ meN-
 a szóképzésről szóló 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sec:Szóképzés"
+reference "sub:Igék-képzése"
 
 \end_inset
 
@@ -4885,7 +5005,11 @@ berpulang
 
 
 \emph on
-dengar / mendengar
+dengar 
+\emph default
+/
+\emph on
+ mendengar
 \emph default
  (hall).
  Ez utóbbi esetben általában a képzett alakot használják.
@@ -4992,15 +5116,27 @@ Saya pernah makan di réstoran
 \begin_layout Itemize
 Éppen befejezett: 
 \emph on
-baru [saja]
+baru 
 \emph default
- (épp most), pl.
+[
+\emph on
+saja
+\emph default
+] (épp most), pl.
 \begin_inset space ~
 \end_inset
 
 
 \emph on
-Saya baru [saja] pulang
+Saya baru 
+\emph default
+[
+\emph on
+saja
+\emph default
+]
+\emph on
+ pulang
 \emph default
  (Épp most jöttem haza; 
 \emph on
@@ -5266,7 +5402,11 @@ ber-...-an
 
 
 \emph on
-berpelukan / berpeluk-pelukan
+berpelukan 
+\emph default
+/
+\emph on
+ berpeluk-pelukan
 \emph default
  (megölelik egymást; 
 \emph on
@@ -5317,7 +5457,15 @@ oléh
 
 
 \emph on
-Ayu diperiksa [oléh] dokter itu
+Ayu diperiksa 
+\emph default
+[
+\emph on
+oléh
+\emph default
+]
+\emph on
+ dokter itu
 \emph default
  (Ayut megvizsgálta az orvos [lit.
  Ayu meg lett vizsgálva az orvos által]; 
@@ -5520,7 +5668,15 @@ kita
 
 
 \emph on
-Mari [kita] pergi ke Indonesia
+Mari 
+\emph default
+[
+\emph on
+kita
+\emph default
+]
+\emph on
+ pergi ke Indonesia
 \emph default
  (Menjünk Indonéziába; 
 \emph on
@@ -5556,13 +5712,21 @@ t általában elhagyják, de nem kötelező, pl.
 \begin_inset space ~
 \end_inset
 
-
+[
 \emph on
-[Ber]main!
+Ber
+\emph default
+]
+\emph on
+main!
 \emph default
  (Játssz!; 
 \emph on
-bermain/main
+bermain
+\emph default
+/
+\emph on
+main
 \emph default
 : játszik), 
 \emph on
@@ -5598,13 +5762,21 @@ membaca
 \emph on
 buku
 \emph default
-: könyv), 
+: könyv), [
 \emph on
-[Mem]baca buku!
+Mem
 \emph default
- (Olvass könyvet!), 
+]
 \emph on
-[Mem]baca!
+baca buku!
+\emph default
+ (Olvass könyvet!), [
+\emph on
+Mem
+\emph default
+]
+\emph on
+baca!
 \emph default
  (Olvass!).
 \end_layout
@@ -5690,7 +5862,23 @@ hoz kapcsolódik, pl.
 
 
 \emph on
-Jangan[lah] [mem]buka pintu!
+Jangan
+\emph default
+[
+\emph on
+lah
+\emph default
+]
+\emph on
+ 
+\emph default
+[
+\emph on
+mem
+\emph default
+]
+\emph on
+buka pintu!
 \emph default
  (Ne nyisd ki az ajtót!; 
 \emph on
@@ -5707,7 +5895,15 @@ pintu
 A felszólító és tiltó igékhez nem kapcsolódhat utótag alakú személyes névmás
  (
 \emph on
--ku/-mu/-nya
+-ku
+\emph default
+/
+\emph on
+-mu
+\emph default
+/
+\emph on
+-nya
 \emph default
 ).
 \end_layout
@@ -5802,7 +5998,7 @@ membuka
 \emph on
 tidak terlihat
 \emph default
- (nem látszik; 
+ (nem látható; 
 \emph on
 melihat
 \emph default
@@ -7201,9 +7397,13 @@ léwat
 
 
 \emph on
-jam enam léwat lima [menit]
+jam enam léwat lima 
 \emph default
- (6:05).
+[
+\emph on
+menit
+\emph default
+] (6:05).
  Amennyiben negyedóra telt el egész óta, akkor a 
 \emph on
 seperempat
@@ -7231,9 +7431,13 @@ kurang
 
 
 \emph on
-jam enam kurang lima [menit]
+jam enam kurang lima 
 \emph default
- (5:55), 
+[
+\emph on
+menit
+\emph default
+] (5:55), 
 \emph on
 jam delapan kurang seperempat
 \emph default
@@ -7347,7 +7551,7 @@ Az indonéz nyelv szókincsének egy jelentős része logikusan származtatható
  ismerkedés inkább csak azért fontos, hogy (i) könnyebben tanuljuk az új
  szavakat, és (ii) ki tudjuk találni a jelentést, ha ismeretlen szóval találkozu
 nk.
- Az alábbiakban néhány fontosabb képző gyakori jelentései kerülnek bemutatásra
+ Az alábbiakban néhány fontosabb képző gyakori jelentéseit soroljuk fel
  (bővebben
 \emph on
  
@@ -7766,6 +7970,12 @@ rumah
 
 \end_deeper
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Igék-képzése"
+
+\end_inset
+
 Igék képzése
 \end_layout
 
@@ -7849,7 +8059,7 @@ nilai
 \end_layout
 
 \begin_layout Itemize
-[igéből] vonzat helyett tárgy, pl.
+[igéből] elöljárószó helyett tárgyat kér, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8033,7 +8243,7 @@ A kollokviális nyelv lényeges különbségeket mutat a formális beszédhelyze
 tá\SpecialChar \-
 sá\SpecialChar \-
 ra kialakult a beszélt nyelvnek egy
- olyan változata, amit Indonézia legtöbb részén megértenek -- ez a jakartai
+ olyan változata, amelyet Indonézia legtöbb részén megértenek -- ez a jakartai
  dialektus.
  Ennek részletes tárgyalása túlmutat ezen az összefoglalón, ezért itt csak
  a legfontosabb eltérések kerülnek bemutatásra; további információkért ld.
@@ -8338,7 +8548,7 @@ Partikulák
 \end_layout
 
 \begin_layout Standard
-A beszélt nyelv számos olyan (nagyrészt a jávai nyelvből kölcsönzött) partikulát
+A beszélt nyelv számos olyan (nagyrészt a jávai nyelvből származó) partikulát
  tartalmaz, amelyek egyáltalán nem jelennek meg a formális nyelvben.
  Ezek nagy része érzelmi többlet kifejezésére vagy ritmizálásra szolgál,
  ezért nehezen fordíthatóak.
@@ -8450,11 +8660,15 @@ lagi
 \emph on
 sedang
 \emph default
- helyett, vagy a 
+ helyett, vagy a [
 \emph on
-[s]ama
+s
 \emph default
- (azonos) szó használható a 
+]
+\emph on
+ama
+\emph default
+ (azonos) szó használható társhatározóként a 
 \emph on
 dengan
 \emph default
@@ -8503,9 +8717,13 @@ A formális indonézben is sok szót képeznek rövidítésekből, de ez külön
  gyakori a kollokviális nyelvben.
  Példák: 
 \emph on
-ABG [Anak Baru Gedé]
+ABG 
 \emph default
- (tinédzser; 
+[
+\emph on
+Anak Baru Gedé
+\emph default
+] (tinédzser; 
 \emph on
 anak
 \emph default
@@ -8515,17 +8733,25 @@ gedé
 \emph default
 : nagy (jávai)), 
 \emph on
-PD [Percaya Diri]
+PD 
 \emph default
- (öntelt; 
+[
+\emph on
+Percaya Diri
+\emph default
+] (öntelt; 
 \emph on
 percaya
 \emph default
 : bízik), 
 \emph on
-curhat [curahan hati]
+curhat 
 \emph default
- (kiönti a szívét; 
+[
+\emph on
+curahan hati
+\emph default
+] (kiönti a szívét; 
 \emph on
 curahan
 \emph default
@@ -8539,7 +8765,7 @@ hati
 \begin_layout Standard
 Manapság a szociális média miatt a beszélt nyelvet is egyre többször kell
  leírni.
- A blogposztok és üzenetek a beavatatlanok számára teljesen olvashatatlanok,
+ A blogposztok és üzenetek a beavatatlanok számára szinte olvashatatlanok,
  mert tele vannak olyan egyszerűsítésekkel, mint a duplázás helyettesítése
  a 2-es számmal, pl.
 \begin_inset space ~
@@ -16192,7 +16418,11 @@ A tigris belenézett a tóba.
  A tükörképe megjelent a víz felszínén.
  A tigris kegyetlenül bömbölt egyet, a száját tágra nyitva.
  A tigris a tóban szintén kinyitotta a száját.
- -- ,,Győzd le, ha mered'' -- mondta a kancsil.
+ 
+\end_layout
+
+\begin_layout Standard
+-- ,,Győzd le, ha mered'' -- mondta a kancsil.
  A tigris beleugrott a tóba, a tükörképe pedig eltűnt.
  Csak ekkor jött rá, hogy becsapták.
 \end_layout
