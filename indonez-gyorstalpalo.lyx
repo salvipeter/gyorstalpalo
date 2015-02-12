@@ -4813,6 +4813,19 @@ terlalu pedas
 pedas
 \emph default
 : csípős).
+ Ugyanezt a jelentést a 
+\emph on
+ke-...-an
+\emph default
+ formulával is elérhetjük, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kepedasan
+\emph default
+.
 \end_layout
 
 \begin_layout Section
@@ -7276,8 +7289,8 @@ jam delapan malam
 \end_layout
 
 \begin_layout Standard
-Az olyan kifejezésekben, mint ,,jövő hét'' és ,,múlt év'', a ,,jövő'' és
- ,,múlt'' szavaknak rendre a 
+A ,,jövő hét'' és ,,múlt év'' kifejezésekben a ,,jövő'' és ,,múlt'' szavaknak
+ rendre a 
 \emph on
 yang akan datang
 \emph default
@@ -7334,7 +7347,23 @@ Az indonéz nyelv szókincsének egy jelentős része logikusan származtatható
  ismerkedés inkább csak azért fontos, hogy (i) könnyebben tanuljuk az új
  szavakat, és (ii) ki tudjuk találni a jelentést, ha ismeretlen szóval találkozu
 nk.
- Az alábbiakban néhány fontosabb képző kerül bemutatásra.
+ Az alábbiakban néhány fontosabb képző gyakori jelentései kerülnek bemutatásra
+ (bővebben
+\emph on
+ 
+\emph default
+ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "indonesian-comprehensive-grammar"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Subsection
@@ -7349,14 +7378,90 @@ peN-
 :
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[
+\emph on
+meN-
+\emph default
+ igéből] a cselekvést végző ember/dolog, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+penulis
+\emph default
+ (író; 
+\emph on
+menulis
+\emph default
+: ír), 
+\emph on
+penghapus
+\emph default
+ (radír; 
+\emph on
+menghapus
+\emph default
+: töröl)
+\end_layout
+
+\begin_layout Itemize
+[melléknévből] változatos jelentésű, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+penjahat
+\emph default
+ (bűnöző; 
+\emph on
+jahat
+\emph default
+: gonosz), 
+\emph on
+penyakit
+\emph default
+ (betegség; 
+\emph on
+sakit
+\emph default
+: beteg)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
 pe-
 \emph default
-:
+: 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[
+\emph on
+ber-
+\emph default
+ igéből] a cselekvést végző ember/dolog, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pedagang
+\emph default
+ (kereskedő; 
+\emph on
+berdagang
+\emph default
+: kereskedik)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
@@ -7365,6 +7470,145 @@ pe-
 :
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[tárgyas igéből] az ige tárgya, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+lukisan
+\emph default
+ (festmény; 
+\emph on
+melukis
+\emph default
+: fest), 
+\emph on
+makanan
+\emph default
+ (étel; [
+\emph on
+me
+\emph default
+]
+\emph on
+makan
+\emph default
+: eszik)
+\end_layout
+
+\begin_layout Itemize
+[aktív igéből] változatos -- gyakran absztrakt, de jelölhet eszközt vagy
+ helyet, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bantuan
+\emph default
+ (segítség; 
+\emph on
+membantu
+\emph default
+: segít), 
+\emph on
+gantungan
+\emph default
+ (vállfa; 
+\emph on
+menggantung
+\emph default
+: felakaszt), 
+\emph on
+parkiran
+\emph default
+ (parkoló; 
+\emph on
+memarkir
+\emph default
+: parkol)
+\end_layout
+
+\begin_layout Itemize
+[főnévből] azonos, vagy erősebb jelentés, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+lautan
+\emph default
+ (óceán; 
+\emph on
+laut
+\emph default
+: tenger), de reduplikációval változatosságot vagy kicsinyítést jelent,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sa\SpecialChar \-
+yur-sayuran
+\emph default
+ (mindenféle zöldségek; 
+\emph on
+sayur
+\emph default
+: zöldség), 
+\emph on
+mobil-mobilan
+\emph default
+ (játékautó; 
+\emph on
+mobil
+\emph default
+: autó)
+\end_layout
+
+\begin_layout Itemize
+[melléknévből] jellegzetesen olyan dolog, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kotoran
+\emph default
+ (szemét, kosz; 
+\emph on
+kotor
+\emph default
+: koszos), 
+\emph on
+manisan
+\emph default
+ (édesség; 
+\emph on
+manis
+\emph default
+: édes)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Csak a jo oldalhatar miatt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
@@ -7373,14 +7617,108 @@ ke-...-an
 :
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[melléknévből] absztrakt (tagadással is), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kecantikan
+\emph default
+ (szépség; 
+\emph on
+cantik
+\emph default
+: szép), 
+\emph on
+ketidak-adilan
+\emph default
+ (igazságtalanság; 
+\emph on
+adil
+\emph default
+: igazságos)
+\end_layout
+
+\begin_layout Itemize
+[tárgyatlan alapigéből] főnévi igenév, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kelahiran
+\emph default
+ (születés; 
+\emph on
+lahir
+\emph default
+: születik)
+\end_layout
+
+\begin_layout Itemize
+[főnévből] absztrakt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kewanitaan
+\emph default
+ (nőiesség; 
+\emph on
+wanita
+\emph default
+: nő), de tiszt\SpecialChar \-
+ség\SpecialChar \-
+nél a hozzátartozó terület, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kerajaan
+\emph default
+ (királyság; 
+\emph on
+raja
+\emph default
+: király)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
 peN-...-an
 \emph default
-:
+: 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[
+\emph on
+meN-
+\emph default
+ igéből] absztrakt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+penjualan
+\emph default
+ (eladás; 
+\emph on
+menjual
+\emph default
+: elad)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
@@ -7389,18 +7727,44 @@ per-...-an
 :
 \end_layout
 
-\begin_layout Subsection
-Melléknevek képzése
+\begin_deeper
+\begin_layout Itemize
+[
+\emph on
+ber-
+\emph default
+ igéből] absztrakt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+permainan
+\emph default
+ (játék; 
+\emph on
+bermain
+\emph default
+: játszik)
 \end_layout
 
 \begin_layout Itemize
+[főnévből] jelentéstágító, pl.
+\begin_inset space ~
+\end_inset
+
 
 \emph on
-ke-...-an
+perumahan
 \emph default
-:
+ (elszállásolás; 
+\emph on
+rumah
+\emph default
+: ház)
 \end_layout
 
+\end_deeper
 \begin_layout Subsection
 Igék képzése
 \end_layout
@@ -7410,25 +7774,116 @@ Igék képzése
 \emph on
 ber-
 \emph default
-:
+: 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
+[főnévből] birtokolja, használja, vagy csinálja az illető dolgot, pl.
+\begin_inset space ~
+\end_inset
+
 
 \emph on
-meN-
+ber\SpecialChar \-
+a\SpecialChar \-
+nak dua
 \emph default
-:
+ (két gyereke van; 
+\emph on
+anak
+\emph default
+: gyerek), 
+\emph on
+berkuda
+\emph default
+ (lovagol; 
+\emph on
+kuda
+\emph default
+: ló), 
+\emph on
+berperang
+\emph default
+ (háborúzik; 
+\emph on
+perang
+\emph default
+: háború)
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
 
 \emph on
 meN-...-i
 \emph default
-:
+: (ezek az igék közvetlen érintkezést sugallnak)
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[főnévből] alkalmazza valamin, adja valakinek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+meracuni
+\emph default
+ (meg\SpecialChar \-
+mér\SpecialChar \-
+gez; 
+\emph on
+racun
+\emph default
+: méreg), 
+\emph on
+menilai
+\emph default
+ (értékel; 
+\emph on
+nilai
+\emph default
+: érték)
+\end_layout
+
+\begin_layout Itemize
+[igéből] vonzat helyett tárgy, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+membohongi ...
+
+\emph default
+ (hazudik valakinek), vö.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+berbohong pada ...
+\end_layout
+
+\begin_layout Itemize
+[melléknévből] olyanná tesz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mengotori
+\emph default
+ (bekoszol; 
+\emph on
+kotor
+\emph default
+: koszos)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
@@ -7437,30 +7892,132 @@ meN-...-kan
 :
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
+[tárgyas igéből] valakinek csinálja, pl.
+\begin_inset space ~
+\end_inset
+
 
 \emph on
-memper-
+membelikan
 \emph default
-:
+ (vásárol valakinek; 
+\emph on
+membeli
+\emph default
+: vásárol)
 \end_layout
 
+\begin_layout Itemize
+[tárgyatlan igéből] műveltető, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+memasukkan
+\emph default
+ (belerak; 
+\emph on
+masuk
+\emph default
+: bemegy)
+\end_layout
+
+\begin_layout Itemize
+[melléknévből] olyanná tesz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+membersihkan
+\emph default
+ (tisztít; 
+\emph on
+bersih
+\emph default
+: tiszta)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
 memper-...-kan
 \emph default
-:
+: 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+[
+\emph on
+ber-
+\emph default
+ igéből] műveltető, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mempersatukan
+\emph default
+ (egyesít; 
+\emph on
+bersatu
+\emph default
+: egyesül)
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 
 \emph on
 ke-...-an
 \emph default
-:
+: 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+kellemetlenség éri, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kehujanan
+\emph default
+ (megázik; 
+\emph on
+hujan
+\emph default
+: eső), 
+\emph on
+kedinginan
+\emph default
+ (fázik; 
+\emph on
+dingin
+\emph default
+: hideg), 
+\emph on
+kemasukan pencuri
+\emph default
+ (kirabolják; 
+\emph on
+masuk
+\emph default
+: bemegy, 
+\emph on
+pencuri
+\emph default
+: tolvaj)
+\end_layout
+
+\end_deeper
 \begin_layout Section
 A kollokviális indonéz nyelv
 \end_layout
@@ -7751,11 +8308,11 @@ A
 \emph on
 ter-
 \emph default
- prefixum helyett sokszor 
+ prefixum sokszor 
 \emph on
 ke-
 \emph default
- prefixumot használnak, pl.
+ alakra változik, pl.
 \begin_inset space ~
 \end_inset
 

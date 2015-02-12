@@ -1,68 +1,15 @@
 #			  -*- mode: org -*-
 
 * Szóképzés
-** Főnevek
-*** peN-
-- meN- igékhez: a műveletet végző ember/dolog, pl. menulis (ír) -> penulis (író);
-- melléknevekhez: változatos, pl. sakit (beteg) -> penyakit (betegség); 
-                                  jahat (rossz) -> penjahat (bűnöző)
-*** pe-
-- ber- igékhez: a műveletet végző ember, pl. berdagang (kereskedik) -> pedagang (kereskedő)
-- néha más szóból is hasonlóan, pl. tenis (tenisz) -> petenis (teniszező)
-*** -an
-- tárgyas igéből: ami ...va lett, pl. melukis (fest) -> lukisan (festmény)
-- tárgyas igéből: ami ...-ódik, pl. makan (eszik) -> makanan (étel)
-- aktív igéből: absztrakt, pl. membantu (segít) -> bantuan (segítség)
-- aktív igéből: eszköz vagy hely, pl. menggantung (felakaszt) -> gantungan (vállfa);
-                                      memarkir (parkol) -> parkiran (parkoló)
-- főnévből: ugyanaz, vagy erősített jelentés, pl. laut (tenger) -> lautan (óceán)
-- reduplikált főnévből: változatosságot jelöl, pl. sayur (zöldség) -> sayur-sayuran (zöldségek)
-- reduplikált főnévből: kicsinyítő, pl. mobil (autó) -> mobil-mobilan (játékautó)
-- melléknévből: jellegzetesen olyan dolog, pl. kotor (koszos) -> kotoran (szemét, trágya)
-*** ke-...-an
-- melléknévből: absztrakt, pl. cantik (szép) -> kecantikan (szépség)
-- tagadott melléknévből: absztrakt, pl. adil (igazságos) -> ketidak-adilan (igazságtalanság)
-- tárgyatlan, prefixtelen igéből: főnévi igenév, pl. lahir (születik) -> kelahiran (születés)
-- ber-/ter- igéből (a prefix megmarad!): absztrakt, pl. berhasil (sikeres) -> keberhasilan (siker)
-- főnévből: absztrakt, pl. wanita (nő) -> kewanitaan (nőiesség)
-- rangot jelentő főnévből: a kezelt terület, pl. menteri (miniszter) -> kementerian (minisztérium)
-- kellemetlen melléknévből/főnévből: túlságos, pl. kehujanan (óriási esőzés), kedinginan (fagy)
-*** peN-...-an
-- meN- típusú igéből: absztrakt, pl. menjual (elad) -> penjualan (eladás)
-*** per-...-an
-- ber- típusú igéből: absztrakt, pl. bermain (játszik) -> permainan (játék)
-- főnévből: jelentéstágító, pl. rumah (ház) -> perumahan (elhelyezés, szállásolás)
-** Melléknevek
-*** ke-...-an
-- melléknévből: túlságosan vmilyen, pl. kecapékan (holtfáradt), kelaparan (farkaséhes)
 ** Igék
-*** ber-
-- tárgyatlan igeképző
-- főnévből: (vmilyen) vmivel rendelkezik, pl. berpakaian cantik (szép ruhával rendelkezik)
-*** ke-...-an
-- kellemetlenség éri, pl. kehujanan (megázik), kedinginan (fázik), kemasukan pencuri (kirabolják)
-- kivételek: kelihatan ([vmilyennek] tűnik), kedengaran ([vmilyennek] hallatszik)
-*** meN-
-- melléknévből: olyanná válik, pl. kuning (sárga) -> menguning (sárgul)
-*** meN-...-i
-- gyakran használják ezeket az igéket passzív formában
-- képez dupla tárgyas igéket is
-- melléknévből: olyanná tesz, pl. kotor (koszos) -> mengotori (bekoszol)
-- főnévből: tárgyas igét képez, ahol a tárgy gyakran helyhatározó vagy fogadó,
-            vagy valahogyan viselkedik, pl. mengepalai (lit. "fejez", csoportot vezet)
-- tárgyatlan igéből: tárgyasat csinál, a tárgy gyakran helyhatározó vagy fogadó,
-                     tehát a jelentés nem változik, csak nem kell di/ke/akan/stb.
-- tárgyas igéből: ismétlődő/intenzív cselekvés, pl. mengambili uang  (újra és újra felvesz pénzt)
-- kivételek: baik -> memperbaiki, baru -> memperbarui
-*** meN-...-kan
-- melléknévből: olyanná tesz, pl. bersih (tiszta) -> membersihkan (tisztít)
-- tárgyatlan igéből: késztet, pl. masuk (bemegy) -> memasukkan (belerak)
-- tárgyas igéből: vkinek csinál, pl. membeli (vásárol) -> membelikan (vásárol vkinek)
 *** memper-...-kan
 - ber- típusú igéből: késztet, pl. bersatu (egyesül) -> mempersatukan (egyesít)
 *** memper-
 - melléknévből: még olyanabbá tesz, pl. besar (nagy) -> memperbesar (még nagyobbá tesz)
 - kivételek: baik -> memperbaiki, baru -> memperbarui
+*** ke-...-an
+- kellemetlenség éri, pl. kehujanan (megázik), kedinginan (fázik), kemasukan pencuri (kirabolják)
+- kivételek: kelihatan ([vmilyennek] tűnik), kedengaran ([vmilyennek] hallatszik)
 ** A 16 ige
 - ezeknél a meN-...-kan helyettesíti a meN-... alakot
 - sima tárgyas ige jelentésűek
