@@ -1249,14 +1249,19 @@ ré
 ka
 \emph default
  (ők).
- A mondatok intonációja lényegesen bonyolultabb, de ennek leírása túlmutat
- ezen az összefoglalón.
+ A hangsúly helyét megváltoztatják a szuffixumos képzők, de a szóhoz kapcsolt
+ partikulák ill.
+\begin_inset space ~
+\end_inset
+
+személyes névmások nem.
 \end_layout
 
 \begin_layout Standard
-Ne felejtsük el, hogy a legtöbb indonéznek nem anyanyelve az indonéz, és
- ezért a kiejtés, a hangsúlyozás, és az intonáció mind hordozhat a helyi
- nyelvek jellegzetességeiből eredő akcentust.
+A mondatok intonációja lényegesen bonyolultabb, de ne felejtsük el, hogy
+ a legtöbb indonéznek nem anyanyelve az indonéz, és ezért a kiejtés, a hangsúlyo
+zás, és az intonáció mind hordozhat a helyi nyelvek jellegzetességeiből
+ eredő akcentust.
 \end_layout
 
 \begin_layout Section
@@ -2630,6 +2635,19 @@ secara cepat
 cepat-cepat
 \emph default
 .
+ A 
+\emph on
+se...-...nya
+\emph default
+ formulával felsőfokú határozót képezhetünk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+secepat-cepatnya
+\emph default
+ (amilyen gyorsan csak lehet).
 \end_layout
 
 \begin_layout Standard
@@ -3598,6 +3616,50 @@ tengah
 Borobudur kan di Jawa Tengah?
 \emph default
  (Borobudur ugye Közép-Jávában van?).
+\end_layout
+
+\begin_layout Subsection
+A 
+\emph on
+-lah
+\emph default
+ partikula
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+-lah
+\emph default
+ partikula elsődleges funkciója kiemelt mondatrészek (pl.
+\begin_inset space ~
+\end_inset
+
+az alany elé helyezett állítmány) jelölése, vö.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Kita mendapat ilmu di sekolah
+\emph default
+ (Mi tudást szerzünk az iskolában; 
+\emph on
+mendapat
+\emph default
+: szerez, 
+\emph on
+ilmu
+\emph default
+: tudomány, tudás, 
+\emph on
+sekolah
+\emph default
+: iskola) és 
+\emph on
+Di sekolahlah kita mendapat ilmu
+\emph default
+ (Az iskola az, ahol mi tudást szerzünk).
 \end_layout
 
 \begin_layout Subsection
@@ -5787,6 +5849,62 @@ tidak terlihat
 melihat
 \emph default
 : lát).
+\end_layout
+
+\begin_layout Subsection
+Idézés
+\end_layout
+
+\begin_layout Standard
+Két módon szokásos idézni azt, amit valaki mondott.
+ Az egyiknél egy tárgyatlan ige (beszél, válaszol, kérdez stb.) vezeti be
+ az idézetet, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+\lang bahasa
+Dia berkata, ``Terima kasih''
+\emph default
+\lang magyar
+ (Azt mondta: ,,köszönöm'' [lit.
+ fogadd el a szeretetet]; 
+\emph on
+berkata
+\emph default
+: mond, 
+\emph on
+menerima
+\emph default
+: elfogad, 
+\emph on
+kasih
+\emph default
+: szeretet).
+ A másiknál az idézet után egy főnév (pl.
+\begin_inset space ~
+\end_inset
+
+szó, válasz, kérdés stb.) áll birtokos kapcsolatban a beszélővel, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+\lang bahasa
+``Iya,'' jawabnya
+\emph default
+\lang magyar
+ (,,Igen'' -- válaszolta; 
+\emph on
+iya
+\emph default
+: igen, 
+\emph on
+jawab
+\emph default
+: válasz).
 \end_layout
 
 \begin_layout Section
@@ -10960,7 +11078,7 @@ binatang
 \begin_layout Plain Layout
 
 \lang bahasa
-besar''
+besar,''
 \end_layout
 
 \end_inset
@@ -11756,7 +11874,7 @@ paling
 \begin_layout Plain Layout
 
 \lang bahasa
-kuat''
+kuat,''
 \end_layout
 
 \end_inset
@@ -12143,7 +12261,7 @@ bömböl
 \begin_inset Text
 
 \begin_layout Plain Layout
-amilyen.erősen.csak.tud
+amilyen.erősen.csak.lehet
 \end_layout
 
 \end_inset
@@ -13485,7 +13603,7 @@ kamu
 \begin_layout Plain Layout
 
 \lang bahasa
-téngok''
+téngok,''
 \end_layout
 
 \end_inset
@@ -14529,7 +14647,7 @@ kalahkan
 \begin_layout Plain Layout
 
 \lang bahasa
-dia''
+dia,''
 \end_layout
 
 \end_inset
@@ -15533,7 +15651,7 @@ Egy napon jött [az erdőbe] egy kancsil.
 \end_layout
 
 \begin_layout Standard
--- ,,Most ugyan nem! Ne egyél meg, mert szerencsétlenség fog érni.
+-- ,,Majd máskor! Ne egyél meg, mert szerencsétlenség fog érni.
  Meg fog enni egy nagy állat'' -- mondta a kancsil.
 \end_layout
 
@@ -15548,7 +15666,7 @@ Egy napon jött [az erdőbe] egy kancsil.
 
 \begin_layout Standard
 A tigris nagyon dühös lett.
- Bömbölt egyet olyan hangosan, ahogy csak tudott.
+ Bömbölt egyet olyan hangosan, ahogy csak a torkán kifért.
 \end_layout
 
 \begin_layout Standard
@@ -15563,8 +15681,8 @@ A kancsil megmutatta neki: elindult, és a tigris követte.
 \end_layout
 
 \begin_layout Standard
--- ,,Az imént én itt láttam.
- Nézz bele!'' -- mondta a kancsil.
+-- ,,Az előbb én itt láttam.
+ Nézd csak!'' -- mondta a kancsil.
 \end_layout
 
 \begin_layout Standard

@@ -2,8 +2,6 @@
 
 * Szóképzés
 ** Főnevek
-- nagyon sokféle képző van, és ezek nem mindig konzekvensek
-- az alábbiak a leggyakoribbak, de korántsem törvényszerűek
 *** peN-
 - meN- igékhez: a műveletet végző ember/dolog, pl. menulis (ír) -> penulis (író);
 - melléknevekhez: változatos, pl. sakit (beteg) -> penyakit (betegség); 
