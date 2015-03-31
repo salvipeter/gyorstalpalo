@@ -6653,7 +6653,15 @@ A számlálószavak használata nem kötelező, és csak akkor alkalmazhatóak,
 
 
 \emph on
-dua [buah] apel
+dua 
+\emph default
+[
+\emph on
+buah
+\emph default
+]
+\emph on
+ apel
 \emph default
  (két alma; 
 \emph on
@@ -6665,7 +6673,15 @@ dua apel itu
 \emph default
  (az a két alma), 
 \emph on
-beberapa [buah] apel
+beberapa 
+\emph default
+[
+\emph on
+buah
+\emph default
+]
+\emph on
+ apel
 \emph default
  (néhány alma).
 \end_layout
