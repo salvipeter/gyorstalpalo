@@ -938,7 +938,7 @@ kh
 \emph on
 gh
 \emph default
- hörgő hangok hátul a nyelvcsapnál, a francia 
+ ,,hörgő'' hangok hátul az ínycsapnál, a francia uvuláris 
 \emph on
 r 
 \emph default
@@ -958,7 +958,7 @@ A
 \emph on
 k
 \emph default
- szintén két jelentéssel bír: magánhangzó előtt megegyezik a magyar 
+ szintén két hangot jelöl: magánhangzó előtt megegyezik a magyar 
 \emph on
 k
 \emph default
@@ -983,11 +983,19 @@ maklum
 \end_layout
 
 \begin_layout Enumerate
-Az 
+A szótagvégi 
 \emph on
 l
 \emph default
- mély hangrendű szótagok végén a beszélők egy részénél kemény (velarizált).
+ hátul képzett magánhangzók után (pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kapal
+\emph default
+) a beszélők egy részénél kemény (velarizált).
 \end_layout
 
 \begin_layout Enumerate
@@ -1214,8 +1222,8 @@ Az indonéz mondat
 \end_layout
 
 \begin_layout Standard
-Az indonéz nyelv SVO szerkezetű, tehát az alany után jön az állítmány, és
- a tárgy (ha van) a mondat végére kerül, pl.
+Az indonéz nyelv SVO szerkezetű, tehát az alany után jön az ige, és a tárgy
+ (ha van) a mondat végére kerül, pl.
 \begin_inset space ~
 \end_inset
 
@@ -1239,7 +1247,12 @@ Susi duduk
 \emph on
 duduk
 \emph default
-: ül), 
+: ül).
+ Melléknévi állítmánynál is ugyanez a szórend, pl.
+\begin_inset space ~
+\end_inset
+
+
 \emph on
 Lestari cantik
 \emph default
@@ -1276,8 +1289,8 @@ Lestari tidak cantik
 \end_layout
 
 \begin_layout Standard
-Amennyiben a mondat két dolog egyenlőségét fejezi ki, az alany és állítmány
- közé bekerülhet az 
+Ha az állítmány főnév vagy névmás, az alany és állítmány közé bekerülhet
+ az 
 \emph on
 adalah
 \emph default
@@ -1318,7 +1331,7 @@ adalah
 guru
 \emph default
 : tanár).
- A tagadás ebben az esetben a 
+ A tagadás ilyenkor a 
 \emph on
 bukan
 \emph default
@@ -1549,26 +1562,12 @@ name "sec:Főnevek"
 
 \end_inset
 
-Főnevek
+Főnevek és főnévi csoportok
 \end_layout
 
 \begin_layout Standard
 A főnevek egyetlen ragozása a többesszám, de ezt sem kötelező jelölni, csak
  akkor használják, ha egyértelműsíteni akarják, hogy több dologról van szó.
- A többesszámú alakot egyszerűen a főnév ismétlésével képezzük, írásban
- kötőjellel elválasztva, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-bintang-bintang
-\emph default
- (csillagok; 
-\emph on
-bintang
-\emph default
-: csillag).
  Csak meg\SpecialChar \-
 szám\SpecialChar \-
 lál\SpecialChar \-
@@ -1590,6 +1589,20 @@ reference "sub:Számlálószavak"
 \end_inset
 
 pont).
+ A többesszámú alakot egyszerűen a főnév ismétlésével képezzük, írásban
+ kötőjellel elválasztva, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bintang-bintang
+\emph default
+ (csillagok; 
+\emph on
+bintang
+\emph default
+: csillag).
 \end_layout
 
 \begin_layout Standard
@@ -1700,11 +1713,7 @@ kantor yang baru, bersih dan nyaman ini
 \emph on
 kantor
 \emph default
-: iroda, 
-\emph on
-baru
-\emph default
-: új
+: iroda
 \emph on
 , bersih
 \emph default
@@ -3474,11 +3483,19 @@ beberapa
 \end_layout
 
 \begin_layout Standard
-A ,,Mi az, ami ...?'' ill.
-\begin_inset space ~
-\end_inset
-
-,,Ki az, aki ...?'' típusú kérdésekben kötelező a 
+Amennyiben az 
+\emph on
+apa 
+\emph default
+/ 
+\emph on
+siapa
+\emph default
+ kérdőszavakkal egy igei vagy melléknévi ál\SpecialChar \-
+lít\SpecialChar \-
+má\SpecialChar \-
+nyú mondat alanyára kérdezünk,
+ kötelező a 
 \emph on
 yang
 \emph default
@@ -3542,15 +3559,15 @@ Az indonéz nyelvben rengeteg partikula van, az alábbiakban a leggyakoribbak
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 cuma
 \emph default
- és 
+ / 
 \emph on
 hanya
 \emph default
- partikulák
+ -- ,,csak''
 \end_layout
 
 \begin_layout Standard
@@ -3579,11 +3596,11 @@ hanya
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 juga
 \emph default
- partikula
+ -- ,,is''
 \end_layout
 
 \begin_layout Standard
@@ -3611,11 +3628,11 @@ Hongaria
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 kan
 \emph default
- partikula
+ -- ,,ugye''
 \end_layout
 
 \begin_layout Standard
@@ -3648,11 +3665,11 @@ Borobudur kan di Jawa Tengah?
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 -lah
 \emph default
- partikula
+ -- fókusz
 \end_layout
 
 \begin_layout Standard
@@ -3692,11 +3709,12 @@ Di sekolahlah kita mendapat ilmu
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 pun
 \emph default
- partikula
+ -- ,,is'' / ,,bár...
+ is''
 \end_layout
 
 \begin_layout Standard
@@ -3727,11 +3745,11 @@ siapa pun
 \end_layout
 
 \begin_layout Subsection
-A 
+
 \emph on
 saja
 \emph default
- partikula
+ -- ,,csak'' / ,,bár...''
 \end_layout
 
 \begin_layout Standard
@@ -3739,7 +3757,7 @@ A
 \emph on
 saja
 \emph default
- (csak, éppen) partikula is az előző szóra vonatkozik, pl.
+ (csak) partikula is az előző szóra vonatkozik, pl.
 \begin_inset space ~
 \end_inset
 
@@ -3760,7 +3778,7 @@ cuma
 \emph on
 hanya
 \emph default
- partikulákkal, amik viszont a módosított szó elé kerülnek, pl.
+ partikulákkal, melyek viszont a módosított szó elé kerülnek, pl.
 \begin_inset space ~
 \end_inset
 
@@ -3799,7 +3817,7 @@ berapa saja
 \emph on
 Kamu membeli apa saja?
 \emph default
- (Miket vásárolsz?; 
+ (Mi mindent vásárolsz?; 
 \emph on
 membeli
 \emph default
@@ -3817,13 +3835,45 @@ dan
 \emph default
  (és), 
 \emph on
-ketika 
+atau
+\emph default
+ (vagy), 
+\emph on
+tetapi
+\emph default
+ / 
+\emph on
+tapi
+\emph default
+ (de), 
+\emph on
+meskipun
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+/
+\emph on
+ walaupun
+\emph default
+ (noha), 
+\emph on
+sehingga
+\emph default
+ (annyira, hogy), 
+\emph on
+agar 
 \emph default
 /
 \emph on
- waktu
+ supaya 
 \emph default
- (amikor), 
+(azért, hogy), 
+\emph on
+bahwa
+\emph default
+ (hogy), 
 \emph on
 kalau
 \emph default
@@ -3835,15 +3885,15 @@ jika
 \emph on
 bila
 \emph default
- (ha), 
+ (ha),
 \emph on
-tetapi
+ ketika 
 \emph default
- / 
+/
 \emph on
-tapi
+ waktu
 \emph default
- (de), [
+ (amikor), [
 \emph on
 oléh
 \emph default
@@ -3867,31 +3917,7 @@ setelah
 \emph on
  sesudah
 \emph default
- (miután), 
-\emph on
-meskipun 
-\emph default
-/
-\emph on
- walaupun
-\emph default
- (noha), 
-\emph on
-agar 
-\emph default
-/
-\emph on
- supaya 
-\emph default
-(azért, hogy), 
-\emph on
-bahwa
-\emph default
- (hogy),
-\emph on
- sehingga
-\emph default
- (annyira, hogy).
+ (miután).
  Nézzünk egy pár példát.
 \end_layout
 
@@ -4140,7 +4166,7 @@ Ha a tő
 \begin_inset Formula $C_{2}$
 \end_inset
 
- tetszőleges mássalhangzókat jelölnek, akkor a prefixumból kiesik az 
+ tetszőleges mássalhangzókat jelöl, akkor a prefixumból kiesik az 
 \emph on
 r
 \emph default
@@ -4407,23 +4433,19 @@ táblázat).
 \begin_inset space ~
 \end_inset
 
-a 
+
 \emph on
-c
+s
 \emph default
- és 
-\emph on
-j
-\emph default
- előtt 
-\emph on
-n
-\emph default
- lesz, nem 
+-nél 
 \emph on
 ny
 \emph default
-, ahogy várnánk).
+ lesz, nem 
+\emph on
+n
+\emph default
+, mint ahogy várnánk).
  A 
 \emph on
 p
@@ -4975,8 +4997,38 @@ ber-
 \emph on
 meN-
 \emph default
- igék általában tárgyasok; ezek képezhetőek főnevekből, melléknevekből és
- alapigékből, a részleteket ld.
+ igék általában tárgyasok.
+ Minden tárgyas ige 
+\emph on
+meN-
+\emph default
+ alakú, de egy-két gyakori 
+\emph on
+m
+\emph default
+-mel kezdődő igénél elsősorban a prefixum nélküli alakot használják, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+minum
+\emph default
+ (iszik), 
+\emph on
+makan
+\emph default
+ (eszik), 
+\emph on
+minta
+\emph default
+ / 
+\emph on
+mohon
+\emph default
+ (kér).
+ Az igék képezhetőek főnevekből, melléknevekből és alapigékből, a részleteket
+ ld.
 \begin_inset space ~
 \end_inset
 
@@ -5195,7 +5247,7 @@ suka
 \emph on
 berenang
 \emph default
-: úszik)
+: úszik).
 \end_layout
 
 \begin_layout Subsection
@@ -5964,8 +6016,8 @@ Az igék
 \emph on
 ter-
 \emph default
- prefixumos alakjának két jelentése lehet: (i) akaratlanság (tárgyatlan
- igékkel), pl.
+ prefixumos alakjának két jelentése lehet: (i) nem akaratlagos cselekvés
+ (tárgyatlan igékkel), pl.
 \begin_inset space ~
 \end_inset
 
@@ -5995,7 +6047,7 @@ membuka
 : kinyit).
  Ez utóbbi állapotot jelöl, de időnként használható akaratlan (passzív)
  igeként is.
- A tagadott alak általában képtelenséget jelez, pl.
+ A tagadott alak általában lehetőség hiányát jelzi, pl.
 \begin_inset space ~
 \end_inset
 
@@ -6339,7 +6391,7 @@ belas
 \begin_inset Text
 
 \begin_layout Plain Layout
-1,000
+1000
 \end_layout
 
 \end_inset
@@ -6348,7 +6400,7 @@ belas
 \begin_inset Text
 
 \begin_layout Plain Layout
-1,000,000
+1 000 000
 \end_layout
 
 \end_inset
@@ -6366,7 +6418,7 @@ belas
 \begin_inset Text
 
 \begin_layout Plain Layout
-1,000,000,000
+1 000 000 000
 \end_layout
 
 \end_inset
@@ -6506,14 +6558,19 @@ se-
 \emph on
 se-
 \emph default
- helyét a megfelelő szorzó veszi át.
- Ugyanígy működik a 11--19 számoknál a tizen- ,,helyiérték'' is.
+ helyét a megfelelő szorzó veszi át (különírva).
+ Hasonlóan képezzük a 11--19 számokat is, ahol az egyesek után a ,,tizen-''
+ jelentésű 
+\emph on
+belas
+\emph default
+ szó kerül.
  Nézzünk egy példát: 
 \emph on
 enam milyar delapan ratus tujuh puluh empat juta lima ratus tiga belas ribu
  dua ratus sembilan puluh satu 
 \emph default
-(6,874,513,291).
+(6 874 513 291).
 \end_layout
 
 \begin_layout Subsection
@@ -7742,7 +7799,7 @@ memarkir
 \end_layout
 
 \begin_layout Itemize
-[főnévből] azonos, vagy erősebb jelentés, pl.
+[főnévből] azonos vagy nagyobb jelenség, pl.
 \begin_inset space ~
 \end_inset
 
@@ -7770,7 +7827,10 @@ sayur
 \emph default
 : zöldség), 
 \emph on
-mobil-mobilan
+mo\SpecialChar \-
+bil-mo\SpecialChar \-
+bil\SpecialChar \-
+an
 \emph default
  (játékautó; 
 \emph on
@@ -7852,7 +7912,7 @@ adil
 \end_layout
 
 \begin_layout Itemize
-[tárgyatlan alapigéből] főnévi igenév, pl.
+[tárgyatlan alapigéből] esemény, pl.
 \begin_inset space ~
 \end_inset
 
@@ -7958,7 +8018,7 @@ bermain
 \end_layout
 
 \begin_layout Itemize
-[főnévből] jelentéstágító, pl.
+[főnévből] absztrakt, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8064,7 +8124,7 @@ nilai
 \end_layout
 
 \begin_layout Itemize
-[igéből] elöljárószó helyett tárgyat kér, pl.
+[igéből] vonzatos igéből tárgyast képez, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8282,15 +8342,15 @@ Gyakori hangváltozások
 \end_layout
 
 \begin_layout Standard
-Sok szóban az utolsó szótagban levő 
+Sok szóban az utolsó szótag 
 \emph on
 a
 \emph default
- hang 
+ hangja helyett 
 \emph on
 e
 \emph default
--re változik, pl.
+-t találunk, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8331,7 +8391,7 @@ au
 \emph on
 ai
 \emph default
- kettőshangzók rendre 
+ kettőshangzóknak rendre az 
 \emph on
 o
 \emph default
@@ -8343,7 +8403,7 @@ o
 \emph on
 é
 \emph default
- hanggá változnak, pl.
+ hangok felelnek meg, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8428,7 +8488,7 @@ A
 \emph on
 meN-
 \emph default
- prefixum gyakran leesik, de a hangváltozás megmarad, pl.
+ prefixumot gyakran lehagyják, de a hangváltozás megmarad, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8454,11 +8514,11 @@ tulis
 \emph on
 -kan
 \emph default
- szuffixum gyakran 
+ szuffixum helyett sokszor 
 \emph on
 -in
 \emph default
- alakra vált, pl.
+ alakot találunk, pl.
 \begin_inset space ~
 \end_inset
 
@@ -8482,11 +8542,11 @@ dengar
 \emph on
 a
 \emph default
- is átváltozott 
+ helyén 
 \emph on
 e
 \emph default
--re).
+ van).
  Ha a szótő 
 \emph on
 c
@@ -8527,11 +8587,11 @@ A
 \emph on
 ter-
 \emph default
- prefixum sokszor 
+ prefixumot helyettesítheti a 
 \emph on
 ke-
 \emph default
- alakra változik, pl.
+, pl.
 \begin_inset space ~
 \end_inset
 
