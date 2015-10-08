@@ -1,0 +1,167 @@
+Az IndoDic elektronikus szótárhoz (http://indodic.com/)
+tartozik egy lista a 200 leggyakoribb indonéz szóról.
+Ennek kb. a felét megtanítja a gyorstalpaló.
+
+Nézzük meg, melyek ezek!
+
+3. [Az indonéz mondat]: adalah, bukan, tak, tidak
+
+4. [Mutató, határozatlan és vonatkozó névmások]: ini, itu, sesuatu, yang
+
+5. [Főnevek és főnévi csoportok]: punya
+
+6. [Személyes névmások]: aku, anda, dia, diri, ia, kami, kamu, kita, ku, mereka, sendiri
+
+7. [Elöljárószók és határozók]: antara, atas, dalam, dari, dengan, depan, di, ke, kepada, luar, pada, sampai, sangat, secara, sejak, sekali, semenjak, sini, tanpa, tentang, untuk
+
+8. [Kérdőszavak]: apa, beberapa, cara, kali, mana, siapa
+
+9. [Partikulák]: hanya, juga, saja
+
+10. [Kötőszavak]: agar, atau, bahwa, bila, dan, jika, kalau, karena, ketika, sebab, sebelum, sehingga, setelah, tapi, tetapi, waktu
+
+12. [Összehasonlítás]: kurang, paling, sama, terlalu
+
+13.1. [Igeidők]: akan, baru, belum, dahulu, dulu, pernah, sedang, sudah, telah
+
+13.2. [Modális igék]: bisa, boleh, dapat, harus, ingin, mau, perlu
+
+13.5. [Szenvedő szerkezet]: oleh
+
+13.6. [Felszólítás]: jangan
+
+14. [Számok]: juta
+
+14.1. [Számlálószavak]: buah, sebuah, orang
+
+14.2. [Származtatott számnevek]: pertama
+
+A maradék szavak nagyrészt igék, főnevek, melléknevek és határozók.
+
+Igék:
+- ada: van
+- dapat: szerez
+- datang: jön
+- hidup: él
+- kembali: visszatér
+- lalu: elhalad; eltelik
+- makan: eszik
+- masuk: bemegy
+- melakukan: elvégez, megtesz
+- memberi[kan]: ad
+- membuat: készít, csinál
+- memiliki: birtokol
+- mencari: keres
+- mengatakan: mond
+- menjadi: történik
+- merasa: érez
+- merupakan: képez, formál
+- mulai: elkezd
+- naik: beszáll, felszáll; felmegy
+- perlu: szüksége van
+- pulang: hazamegy
+- tahu: tud
+- tiba: megérkezik
+
+Főnevek:
+- air: víz
+- akibat: eredmény, hatás
+- anak: gyerek
+- bagian: rész
+- barang: dolog, tárgy
+- hal: helyzet
+- harga: ár
+- hari: nap
+- hati: szív
+- jalan: út
+- jumlah: összeg
+- kata: szó
+- kepala: fej
+- kerja: munka
+- makanan: étel
+- malam: este, éjjel
+- masalah: probléma
+- mata: szem
+- nama: név
+- pusat: központ
+- saat: pillanat
+- salah: hiba
+- tempat: hely
+- tengah: közép, középpont
+- uang: pénz
+- waktu: idő
+
+Melléknevek:
+- bagus: jó
+- baik: jó
+- banyak: sok
+- baru: új
+- benar: helyes
+- besar: nagy
+- biasa: szokásos
+- cepat: gyors
+- cukup: elég
+- jauh: távoli
+- jelas: világos, egyértelmű
+- kecil: kicsi
+- khusus: speciális, különleges
+- lain: másik
+- lama: hosszú (idő); régi
+- langsung: közvetlen, direkt
+- mudah: egyszerű, könnyű
+- salah: hibás
+- sedikit: kevés
+- siap: kész
+- termasuk: benne foglalt
+- tersebut: az imént említett
+- tinggi: magas
+
+Határozók:
+- kemudian: később
+- kini: manapság, most
+- lalu: aztán
+- langsung: közvetlenül
+- makin: egyre inkább
+- memang: valóban
+- nanti: később
+- sebagai: -ként
+- segera: azonnal
+- sekarang: most
+- sekitar: (idő/hely) körül
+- selalu: mindig
+- selama: mialatt
+- sementara: közben
+- terus: folyamatosan
+
+atas  (1)	p.	=	for; about; according to	
+bagi  (1)	adv.	=	for; regarding; in order to; on behalf of	
+bahkan	adv.	=	moreover; in fact; what is more; even; yes	
+begitu	p.	=	like that; in that manner; such; so	
+bersama	v.	=	being together; with; joint; similar; common	
+hingga  (1)	p.	=	up to; as far as; until	
+jadi  (2)	p.	=	so; thus; therefore; consequently	
+kecuali	p.	=	besides; except for; but for; only; just	
+lagi  (1)	p.	=	more; again; another; additional; afresh; anew	
+maka	p.	=	so; then; therefore; thus; a conjunction word	
+mampu	adj.	=	able; capable; affordable; wealthy; rich; powerful	
+masih	adv.	=	still; yet; as yet; even though	
+maupun	p.	=	although; in spite of	
+melalui	p.	=	through; via; by way of	
+memang	adv.	=	indeed; yes; actually; naturally; certainly; of course; an affirming word
+menurut	p.	=	according to; pursuant	
+mungkin	adv.	=	maybe; possible; possibly; perhaps; might; may	
+namun	p.	=	yet; even though; still; even if; although	
+pula	p.	=	again; also; too	
+sambil	p.	=	while; during; at the same time	
+saya	pron.	=	I; me; my	
+sekalipun	p.	=	although; even though; even if; notwithstanding	
+seluruh	adv.	=	all; throughout; an entirety; a whole group	
+semua	adv.	=	entire group; all; whole	
+seperti	p.	=	such as; like; akin; as if; as	
+sering	adj.	=	often; frequently; a lot	
+serta	p.	=	along with; as well as; together with; including	
+sesuai	adj.	=	suitable; proper; agreeable; fitting; appropriate	
+setiap	p.	=	each; every; per	
+suatu	n.	=	one; any; an; a; some; a certain one	
+terhadap	p.	=	regarding; concerning; with respect to; facing	
+yaitu  (jaitu)	adv.	=	namely; that is	
