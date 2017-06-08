@@ -1,43 +1,73 @@
-#LyX 1.6.10 created this file. For more info see http://www.lyx.org/
-\lyxformat 345
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass article
+\options a4paper
 \use_default_options true
+\maintain_unincluded_children false
 \language magyar
+\language_package default
 \inputencoding auto
-\font_roman default
-\font_sans default
-\font_typewriter default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family default
+\use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
 \paperfontsize default
 \spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
-\use_amsmath 1
-\use_esint 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
+\use_indices false
 \paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Tárgymutató
+\shortcut idx
+\color #008000
+\end_index
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
-\defskip medskip
+\paragraph_indentation default
 \quotes_language english
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
 \tracking_changes false
 \output_changes false
-\author "" 
-\author "" 
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
 \end_header
 
 \begin_body
@@ -48,6 +78,11 @@ Szuahéli gyorstalpaló
 
 \begin_layout Author
 Salvi Péter
+\end_layout
+
+\begin_layout Date
+2012.
+ július 8.
 \end_layout
 
 \begin_layout Section
@@ -199,19 +234,19 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="12">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -901,7 +936,7 @@ z
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 Szuahéli ábécé 
@@ -1131,8 +1166,8 @@ status collapsed
 
 \begin_layout Plain Layout
 Ezek a számok osztályozzák a bantu nyelvcsalád nyelveiben megtalálható összes
- főnévcsoportot --- ezek közül nem mindegyik jelenik meg a szuahéliben,
- ez az oka, hogy az alábbiakban nincsen szó 12-es és 13-as csoportról.
+ főnévcsoportot — ezek közül nem mindegyik jelenik meg a szuahéliben, ez
+ az oka, hogy az alábbiakban nincsen szó 12-es és 13-as csoportról.
 \end_layout
 
 \end_inset
@@ -1155,9 +1190,9 @@ mtu/watu
 \emph on
 Mhungaria/Wahungaria
 \emph default
- (magyar ember) --- magánhangzó előtt a prefixum 
+ (magyar ember) — magánhangzó előtt a prefixum 
 \emph on
-mw\SpecialChar \nobreakdash-
+mw\SpecialChar nobreakdash
 /w-
 \emph default
  (de van, hogy többesszámban megtartja a 
@@ -1192,14 +1227,17 @@ mti/miti
 \emph on
 mchungwa/ michungwa
 \emph default
- (narancsfa) --- magánhangzó előtt a prefixum 
+ (narancsfa) — magánhangzó előtt a prefixum 
 \emph on
 mw-/mi-
 \emph default
 , pl.
-
 \emph on
- mwezi/miezi
+
+\begin_inset space ~
+\end_inset
+
+mwezi/miezi
 \emph default
  (Hold, hónap)
 \end_layout
@@ -1213,12 +1251,12 @@ JI-MA (5/6): [nagy dolgok] pl.
 
 jiwe/mawe
 \emph default
- (kő, szik\SpecialChar \-
+ (kő, szik\SpecialChar softhyphen
 la), 
 \emph on
 jicho/macho
 \emph default
- (szem) --- a 
+ (szem) — a 
 \emph on
 ji-
 \emph default
@@ -1259,7 +1297,7 @@ KI-VI (7/8): [kicsi vagy lenézett dolgok, használati tárgyak] pl.
 \emph on
 kiatu/viatu
 \emph default
- (cipő) --- 
+ (cipő) — 
 \emph on
 i
 \emph default
@@ -1288,14 +1326,14 @@ ng'ombe/ng'ombe
 \emph on
 mvua/ mvua
 \emph default
- (eső) --- a prefixum meghatározása elég bonyolult (ld.
+ (eső) — a prefixum meghatározása elég bonyolult (ld.
 \begin_inset space \space{}
 \end_inset
 
 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:N-csoportbeli-melléknevek"
+reference "subsec:N-csoportbeli-melléknevek"
 
 \end_inset
 
@@ -1319,7 +1357,7 @@ U (14, 11/10, 11/6): [absztrakt fogalmak] pl.
 \emph on
 ukubwa
 \emph default
- (nagyság) --- a legtöbb absztrakt fogalomnak nincs többesszáma (14-es csoport),
+ (nagyság) — a legtöbb absztrakt fogalomnak nincs többesszáma (14-es csoport),
  más esetekben N- vagy MA-típusú többesszámot vesz fel, pl.
 \begin_inset space \space{}
 \end_inset
@@ -1352,7 +1390,7 @@ KU (15): [főnévi igenevek] pl.
 \emph on
 kula 
 \emph default
-(enni) --- magánhangzó előtt a prefixum 
+(enni) — magánhangzó előtt a prefixum 
 \emph on
 kw-
 \emph default
@@ -1396,7 +1434,7 @@ mahali
 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Helyhatározók"
+reference "subsec:Helyhatározók"
 
 \end_inset
 
@@ -1436,7 +1474,7 @@ Az embereket és állatokat jelölő szavak (főnévcsoporttól függetlenül) m
 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Birtokos-szerkezet"
+reference "subsec:Birtokos-szerkezet"
 
 \end_inset
 
@@ -1453,13 +1491,13 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="23" columns="6">
-<features>
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -1758,7 +1796,7 @@ N (9/10)
  
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:N-csoportbeli-melléknevek"
+reference "subsec:N-csoportbeli-melléknevek"
 
 \end_inset
 
@@ -1775,7 +1813,7 @@ reference "sub:N-csoportbeli-melléknevek"
  
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:N-csoportbeli-melléknevek"
+reference "subsec:N-csoportbeli-melléknevek"
 
 \end_inset
 
@@ -2772,7 +2810,7 @@ mw-
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 A főnévcsoportok jellemzői (P: főnév-prefixum, MP: melléknév-prefixum, AP:
@@ -2817,7 +2855,7 @@ táblázat összefoglalja, hogy mit kell tudni az egyes csoportokról.
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Birtokos-szerkezet"
+name "subsec:Birtokos-szerkezet"
 
 \end_inset
 
@@ -2938,7 +2976,7 @@ mpishi
 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Személyes-névmások"
+reference "subsec:Személyes-névmások"
 
 \end_inset
 
@@ -2952,7 +2990,7 @@ Névmások
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Személyes-névmások"
+name "subsec:Személyes-névmások"
 
 \end_inset
 
@@ -2970,14 +3008,14 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="7">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -3376,7 +3414,7 @@ hawa-
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 A személyes névmások jellemzői 
@@ -3728,7 +3766,7 @@ basi
 \emph default
 : busz, 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 ingine
 \emph default
 : más)
@@ -3752,7 +3790,7 @@ k-/v-
 ch-/vy-
 \emph default
 , pl.
-\begin_inset space \space{}
+\begin_inset space ~
 \end_inset
 
 
@@ -3806,7 +3844,7 @@ KU, PA/KU/MU: szabályosak
 Az N csoportbeli főnevek/melléknevek prefixumai
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:N-csoportbeli-melléknevek"
+name "subsec:N-csoportbeli-melléknevek"
 
 \end_inset
 
@@ -3844,11 +3882,11 @@ t-
 n
 \emph default
 -et kap, pl.
-\begin_inset space \space{}
+\emph on
+
+\begin_inset space ~
 \end_inset
 
-
-\emph on
 nchi
 \emph default
  (föld), illetve 
@@ -3860,11 +3898,11 @@ p-
 m
 \emph default
 -et, pl.
-\begin_inset space \space{}
+\emph on
+
+\begin_inset space ~
 \end_inset
 
-
-\emph on
 mpya
 \emph default
  (
@@ -3940,11 +3978,11 @@ w-
  b
 \emph default
 -vé, pl.
-\begin_inset space \space{}
+\emph on
+
+\begin_inset space ~
 \end_inset
 
-
-\emph on
 sanamu mbili
 \emph default
  (két szobor; 
@@ -4020,11 +4058,11 @@ l/r
 d
 \emph default
  lesz, pl.
-\begin_inset space \space{}
+\emph on
+
+\begin_inset space ~
 \end_inset
 
-
-\emph on
 njia ndefu
 \emph default
  (hosszú út; 
@@ -4038,13 +4076,277 @@ njia
 : hosszú)
 \end_layout
 
+\begin_layout Standard
+A fentieket a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Az-N-csoportbeli"
+
+\end_inset
+
+.
+ táblázat foglalja össze.
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="3">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kezdőbetű és más feltételek
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Prefixum
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Változás
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p/f/s/ch/k/t (több szótagú), n/m/ng, idegen szavak
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p (egyszótagú)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+f/s/ch/k/t (egyszótagú)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[magánhangzó]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ny
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b/v/w
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+w
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+b
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+d/j/z/g/l/r
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l/r
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+d
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Az-N-csoportbeli"
+
+\end_inset
+
+Az N csoportbeli főnevek/melléknevek prefixumai
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Más egyeztetések
 \end_layout
 
 \begin_layout Standard
 Van néhány fontos szó, amelyeknél nem a melléknév-prefixumot, hanem az egyeztető
- prefixumot kell használni.
+ prefixumot kell használni (M-WA egyesszámban kis eltérésekkel).
  Ezek a következők:
 \end_layout
 
@@ -4172,8 +4474,10 @@ töve
 -a
 \emph default
  végű, a teljes képlet:
-\begin_inset Formula \[
-\textrm{alany-prefix}+\textrm{idő-infix}+\left[\textrm{utaló infix}\right]+\left[\textrm{tárgy-infix}\right]+\textrm{tő}+\left[\textrm{képző-szuffix}\right]*,\]
+\begin_inset Formula 
+\[
+\textrm{alany-prefix}+\textrm{idő-infix}+\left[\textrm{utaló infix}\right]+\left[\textrm{tárgy-infix}\right]+\textrm{tő}+\left[\textrm{képző-szuffix}\right]*,
+\]
 
 \end_inset
 
@@ -4246,620 +4550,6 @@ hamsafiri
 \emph default
  (nem utaztok).
  
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="17" columns="3">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Állító
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Tagadó
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Főnévi igenév
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ku-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ku-
-\emph on
-to
-\emph default
--...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Jelen
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-na
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-[TI]-...i
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Jelen (utaló)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-na-
-\emph on
-UI
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-si-
-\emph on
-UI
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Perfektum
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-me
-\emph default
-[
-\emph on
-sha
-\emph default
-]-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-ja-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Jövő
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-ta
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-
-\emph on
-ta
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Jövő (utaló)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-taka-
-\emph on
-UI
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-taka-
-\emph on
-UI
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Múlt
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-li
-\emph default
--[
-\emph on
-UI
-\emph default
-]-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-ku-[
-\emph on
-UI
-\emph default
-]-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Habituális
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-hu-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
--
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Felszólító mód
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-...
- / ...eni
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
--
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Óhajtó mód
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-[AP]-[TI]-...e
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-si-[TI]-...e
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Szekvenciális
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-[AP]-ka-[TI]-...[e]
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
--
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Utaló
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-[TI]-...-UI
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-si-
-\emph on
-UI
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Kötőmód
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-ki-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-sipo-[TI]-...
- / AP-si-[TI]-...e
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Valószínűtlen jelen
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-nge
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-singe
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Valószínűtlen múlt
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-ngali
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP-
-\emph on
-singali
-\emph default
--[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Formális jelen
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-AP*-a-[TI]-...
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-TP-[TI]-...i
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption
-
-\begin_layout Plain Layout
-Igeidők és módok
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:Igeidők-és-módok"
-
-\end_inset
-
- --- a dőlt betűvel szedett infixumok nem kaphatnak hangsúlyt; a csillaggal
- jelzett prefixumnál összevonások lépnek fel (AP:
-\begin_inset space ~
-\end_inset
-
-alany-prefixum, TP: tagadó prefixum, UI: utaló infixum, TI: tárgy-infixum)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -4927,6 +4617,619 @@ Jövő
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="17" columns="3">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Állító
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tagadó
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Főnévi igenév
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ku-
+\emph on
+to
+\emph default
+-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+na
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-[TI]-...i
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jelen (utaló)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-na-
+\emph on
+UI
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-
+\emph on
+UI
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Perfektum
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+me
+\emph default
+[
+\emph on
+sha
+\emph default
+]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-ja-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jövő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+ta
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-
+\emph on
+ta
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jövő (utaló)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-taka-
+\emph on
+UI
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-taka-
+\emph on
+UI
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Múlt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+li
+\emph default
+-[
+\emph on
+UI
+\emph default
+]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-ku-[
+\emph on
+UI
+\emph default
+]-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Habituális
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hu-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Felszólító mód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+...
+ / ...eni
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Óhajtó mód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[AP]-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Szekvenciális
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[AP]-ka-[TI]-...[e]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Utaló
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-[TI]-...-UI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-si-
+\emph on
+UI
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kötőmód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-ki-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-sipo-[TI]-...
+ / AP-si-[TI]-...e
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Valószínűtlen jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+nge
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+singe
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Valószínűtlen múlt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+ngali
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP-
+\emph on
+singali
+\emph default
+-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Formális jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AP*-a-[TI]-...
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TP-[TI]-...i
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Igeidők és módok
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Igeidők-és-módok"
+
+\end_inset
+
+ — a dőlt betűvel szedett infixumok nem kaphatnak hangsúlyt; a csillaggal
+ jelzett prefixumnál összevonások lépnek fel (AP:
+\begin_inset space ~
+\end_inset
+
+alany-prefixum, TP: tagadó prefixum, UI: utaló infixum, TI: tárgy-infixum)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
 A jövőidő infixuma 
 \emph on
 -ta-
@@ -5354,7 +5657,7 @@ A legtöbb idő-infixumra (jelen:
 \emph on
 -li
 \emph default
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 ) és az utaló infixumokra nem kerülhet hangsúly, így a tárgy-infixum nélküli
  egyszótagos igék esetében, ahol ezek hangsúlyos helyre (utolsóelőtti szótag)
  kerülnének, a tő főnévi igenévi alakban szerepel (
@@ -5443,7 +5746,7 @@ nakwenda
 Névszói állítmány, létezés és birtoklás
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Azonosság,-különbözőség,-létezés"
+name "subsec:Azonosság,-különbözőség,-létezés"
 
 \end_inset
 
@@ -5801,7 +6104,9 @@ Jövőidejű utaló igéknél az idő-infixum
 
 
 \emph on
-chakula tutakachotengeneza 
+chakula tutaka\SpecialChar softhyphen
+cho\SpecialChar softhyphen
+tengeneza 
 \emph default
 (az étel, amit készíteni fogunk; 
 \emph on
@@ -5992,7 +6297,7 @@ A kötőmódnak több használata van: feltételes mód, párhuzamos cselekvés 
  összetett igék képzése (erről majd a 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Összetett-igeidők"
+reference "subsec:Összetett-igeidők"
 
 \end_inset
 
@@ -6033,7 +6338,7 @@ kama
 \emph on
 ikiwa
 \emph default
- szót --- mindkettő ,,ha''-nak fordítható, az utóbbi valójában a 
+ szót — mindkettő ,,ha''-nak fordítható, az utóbbi valójában a 
 \emph on
 -wa
 \emph default
@@ -6155,7 +6460,7 @@ ningefurahi ungekunywa maji
 Összetett igeidők
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Összetett-igeidők"
+name "subsec:Összetett-igeidők"
 
 \end_inset
 
@@ -6299,14 +6604,14 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="7">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -6575,7 +6880,7 @@ mwa-
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 A formális jelen jelének összevonásai
@@ -6657,10 +6962,10 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="3">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -6843,7 +7148,7 @@ Műveltető
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 A főbb igeképzők (E: e és o után e, egyébként i)
@@ -6870,7 +7175,7 @@ name "tab:Igeképzők"
 Passzív
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Passzív"
+name "subsec:Passzív"
 
 \end_inset
 
@@ -6936,7 +7241,7 @@ na
 
 
 \emph on
- \SpecialChar \nobreakdash-
+ \SpecialChar nobreakdash
 uliwa
 \emph default
 , 
@@ -6949,12 +7254,12 @@ uliwa
 
 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 saidiwa
 \emph default
 , 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 la
 \emph default
 
@@ -7056,7 +7361,7 @@ ananichekea
 Társas
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Társas"
+name "subsec:Társas"
 
 \end_inset
 
@@ -7234,7 +7539,7 @@ melléknévből is lehet igét képezni.
 
 
 \emph on
- -elekeza, \SpecialChar \nobreakdash-
+ -elekeza, \SpecialChar nobreakdash
 haribika
 \emph default
 
@@ -7243,7 +7548,7 @@ haribika
 
 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 haribisha
 \emph default
 , 
@@ -7320,7 +7625,7 @@ gari
 
 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 haribu
 \emph default
 /
@@ -7582,7 +7887,7 @@ vigumu
 Helyhatározók
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Helyhatározók"
+name "subsec:Helyhatározók"
 
 \end_inset
 
@@ -7842,7 +8147,7 @@ vipi
  Ezek a mondatban a válasznak megfelelő helyre kerülnek.
  A 
 \emph on
-\SpecialChar \nobreakdash-
+\SpecialChar nobreakdash
 ngapi
 \emph default
  melléknév, amelyet többesszámmal kell egyeztetni, pl.
@@ -7914,21 +8219,21 @@ na
 -t, már több funkcióban is láttunk: birtoklás/létezés- (
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Azonosság,-különbözőség,-létezés"
+reference "subsec:Azonosság,-különbözőség,-létezés"
 
 \end_inset
 
 ), ágens- (
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Passzív"
+reference "subsec:Passzív"
 
 \end_inset
 
 ) és társjelölőként (
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Társas"
+reference "subsec:Társas"
 
 \end_inset
 
@@ -8471,14 +8776,14 @@ status collapsed
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="7">
-<features booktabs="true">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -9007,7 +9312,7 @@ milioni
 \end_layout
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 \begin_inset CommandInset label
@@ -9300,6 +9605,10 @@ korongo       -amba                            bwana         -acha
 
 \begin_layout Plain Layout
 
+\end_layout
+
+\begin_layout Plain Layout
+
       usiniue.
        Mimi     sikuja        shambani     mwako   kwa
 \end_layout
@@ -9336,7 +9645,6 @@ korongo       -amba                            bwana         -acha
 
 \begin_layout Plain Layout
 
- 
 \end_layout
 
 \begin_layout Plain Layout
@@ -9456,7 +9764,6 @@ is  te  (neked)nincs (9)választás (15)társulni (9)büntetés (9)övék
 
 \begin_layout Plain Layout
 
- 
 \end_layout
 
 \begin_layout Plain Layout
@@ -9523,14 +9830,6 @@ is  te  (neked)nincs (9)választás (15)társulni (9)büntetés (9)övék
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
   Basi     baada ya   kusema   maneno    hayo,  Musa       akamwua
 \end_layout
 
@@ -9561,6 +9860,14 @@ is  te  (neked)nincs (9)választás (15)társulni (9)büntetés (9)övék
 \begin_layout Plain Layout
 
       korongo              kunguru
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \begin_layout Plain Layout
@@ -9755,7 +10062,7 @@ T.
  M.
  Mirza, 
 \emph on
-Swahili --- A Foundation for Speaking, Reading and Writing 2nd Ed.
+Swahili — A Foundation for Speaking, Reading and Writing 2nd Ed.
 \emph default
 , University Press of America, 1998.
 \end_layout
@@ -9852,7 +10159,7 @@ key "magyar-szotar"
 
 Füssi Nagy Géza, 
 \emph on
-Szuahéli--Magyar / Magyar--Szuahéli kéziszótár
+Szuahéli–Magyar / Magyar–Szuahéli kéziszótár
 \emph default
 , Nemzeti Tankönyvkiadó, 1998.
 \end_layout
@@ -9883,9 +10190,9 @@ A.
  C.
  Madan, 
 \emph on
-Swahili--English / English--Swahili Dictionary
+Swahili–English / English–Swahili Dictionary
 \emph default
-, Clarendon Press, Oxford, 1902--1903.
+, Clarendon Press, Oxford, 1902–1903.
 \end_layout
 
 \begin_layout Bibliography
@@ -9898,7 +10205,7 @@ key "rechenbach-szotar"
 Charles W.
  Rechenbach, 
 \emph on
-Swahili--English Dictionary
+Swahili–English Dictionary
 \emph default
 , The Catholic University of America Press, Washington, D.C., 1967.
 \end_layout
