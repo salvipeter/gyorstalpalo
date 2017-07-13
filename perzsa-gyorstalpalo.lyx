@@ -162,7 +162,7 @@ key "sutton,mace"
 .
  Bár léteznek modernebb, beszédcentrikus kiadványok is, e könyvek logikus
  felépítésével és könnyen érthető stílusával nehéz vetekedni.
- A kicsit szárazabb, de helyenként mélyebb tárgyalású kurzusok 
+ A kicsit szárazabb, de helyenként alaposabb tárgyalású kurzusok 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "thackston,lambton"
@@ -220,8 +220,1001 @@ key "thiesen,thackston-poems,thackston-gulistan,davis,nicholson,sprachman"
 \end_layout
 
 \begin_layout Standard
-Blabla - arab írásból (nem részletezve), saját átírás vs.
- standard, kiejtés, hangsúly
+A perzsa (és a dari) írása az arab ábécén alapul.
+ Bár maga az ábécé nem különösebben bonyolult, az arab és perzsa nyelvek
+ szerkezeti különbsége miatt a helyesírás nem triviális.
+ Az olvasó a fent említett nyelvkönyvek bármelyikében
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Az arab/perzsa írásnak számos stílusa létezik.
+ A legtöbb tankönyv csak az újságokban használt 
+\emph on
+naskh
+\emph default
+ írást tanítja, de klasszikus szövegek, feliratok írására gyakran alkalmazzák
+ a 
+\emph on
+nasta'liq
+\emph default
+ stílust is.
+ A kézírásban használt ,,tört'' 
+\emph on
+shekaste
+\emph default
+ írásforma is ennek egy, speciális ligatúrákkal bővített változata.
+ Az itt ajánlott nyelvkönyvek egy része ezekre is kitér 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "sutton,thackston,mace-grammar"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ talál róla részletes leírást, így itt a továbbiakban csak a latin betűs
+ átírással fogunk foglalkozni.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="10">
+<features booktabs="true" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+a
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+â (ā)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ch (č)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+d
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+f
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+g
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+h
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+i
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $æ^{1}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+aa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+b
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $cs^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+d
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $é^{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+f
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $g^{4}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+h
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+í
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+k
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+kh (x)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+o
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+p
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+q
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+r
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dzs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $k^{2,4}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $h^{5}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+l
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+m
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+n
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+o
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $p^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $g^{6}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+r
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+s
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sh (š)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+t
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+v
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+z
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+zh (ž)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+'
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+sz
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+s
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $t^{2}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ú
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+v
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+j
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+z
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+zs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $ʔ^{7}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:abece"
+
+\end_inset
+
+A perzsa hangok latin betűs átírása.
+ A hivatalos átírás, ahol különbözik, zárójelben van feltüntetve.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Ez az összefoglaló Thackston 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "thackston"
+
+\end_inset
+
+ átírását követi, a kettőshangzók kivételével (ld.
+ lejjebb).
+ A 2012-ben Irán és az ENSZ által elfogadott hivatalos átírás ettől lényegében
+ csak két dologban különbözik: (i) a két betűvel jelzett hangokat (ch, kh,
+ sh, zh) mellékjelek bevezetésével egy betűsekre cserélte, és (ii) a hangsúlytal
+an szuffixumokat (típustól függően) egybe- vagy különírással kezeli, míg
+ itt ezeket kötőjellel jelöljük.
+ Az 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:abece"
+
+\end_inset
+
+.
+\begin_inset space \space{}
+\end_inset
+
+táblázat mutatja az átírást; az egyes betűk alatt a kiejtés a magyar ábécé
+ írásmódja szerint van feltüntetve.
+ Néhány megjegyzés a nehezebb hangokhoz:
+\end_layout
+
+\begin_layout Enumerate
+Rövid 
+\emph on
+á
+\emph default
+ és 
+\emph on
+e
+\emph default
+ közti hang.
+\end_layout
+
+\begin_layout Enumerate
+A 
+\emph on
+cs
+\emph default
+, 
+\emph on
+k
+\emph default
+, 
+\emph on
+p
+\emph default
+, és 
+\emph on
+t
+\emph default
+ hangok hehezetesek.
+\end_layout
+
+\begin_layout Enumerate
+Rövid 
+\emph on
+é
+\emph default
+ hang.
+\end_layout
+
+\begin_layout Enumerate
+A 
+\emph on
+g
+\emph default
+ és 
+\emph on
+k
+\emph default
+ hangok szótag végén és elülső magánhangzók (
+\emph on
+e
+\emph default
+/
+\emph on
+i
+\emph default
+/
+\emph on
+a
+\emph default
+) előtt palatalizálódnak (
+\begin_inset Formula $g^{j}$
+\end_inset
+
+, 
+\begin_inset Formula $k^{j}$
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Enumerate
+Hátul az ínycsapnál képzett ,,hörgő'' 
+\emph on
+h
+\emph default
+ hang.
+\end_layout
+
+\begin_layout Enumerate
+Hátul az ínycsapnál képzett 
+\emph on
+g
+\emph default
+ hang.
+ Magánhangzók közt átválthat a 
+\emph on
+q
+\emph default
+-val jelölt ,,hörgő'' hang zöngés változatába (hasonló a francia 
+\emph on
+r
+\emph default
+-hez).
+\end_layout
+
+\begin_layout Enumerate
+Torokzárás (arab jövevényszavakban).
+ A perzsában elég gyenge, gyakran inkább csak meghosszabbítja az előző magánhang
+zót.
+\end_layout
+
+\begin_layout Standard
+A hagyományos felfogás szerint az 
+\emph on
+a
+\emph default
+, 
+\emph on
+e
+\emph default
+, 
+\emph on
+o
+\emph default
+ magánhangzók rövidek, míg az 
+\emph on
+â
+\emph default
+, 
+\emph on
+i
+\emph default
+, 
+\emph on
+u
+\emph default
+ ezek hosszú párjai.
+ Valójában azonban a ,,rövid'' magánhangzók mássalhangzó-torlódás előtt
+ hosszúak lesznek (pl.
+\begin_inset space ~
+\end_inset
+
+az 
+\emph on
+a
+\emph default
+ a 
+\emph on
+sard
+\emph default
+ szóban), és az 
+\emph on
+i
+\emph default
+ más magánhangzó vagy 
+\emph on
+y
+\emph default
+ előtt rövidül (pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+piâle
+\emph default
+ szóban).
+ Az 
+\emph on
+o-u
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+e-i
+\emph default
+ alakú szavakban az első magánhangzó képzése gyakran hasonul a másodikhoz,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+forush
+\emph default
+ (
+\emph on
+furús
+\emph default
+), 
+\emph on
+kelid
+\emph default
+ (
+\emph on
+kilíd
+\emph default
+).
+\end_layout
+
+\begin_layout Standard
+Két kettőshangzó van: 
+\emph on
+ow
+\emph default
+ és 
+\emph on
+ey
+\emph default
+, melyek az 
+\emph on
+a
+\emph default
++
+\emph on
+v
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+a
+\emph default
++
+\emph on
+y
+\emph default
+ kombinációból jönnek létre (Thackston jelölésében 
+\emph on
+aw
+\emph default
+/
+\emph on
+ay
+\emph default
+).
+ Ezt illusztrálja, hogy pl.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+raftan
+\emph default
+ (megy) ige egyesszámú felszólító módja 
+\emph on
+berow
+\emph default
+ (menj!), míg a többesszám 
+\emph on
+-id
+\emph default
+ ragjával 
+\emph on
+beravid
+\emph default
+ (menjetek!) lesz.
+\end_layout
+
+\begin_layout Standard
+A hangsúly általában a szó végére kerül.
+ Ebbe beleszámítanak a ragok is, kivéve azokat a szuffixumokat, amelyek
+ itt kötőjellel vannak jelölve.
+ Az igéknél hierarchikus szabályrendszer alapján dönthetjük el, hova kerül
+ a hangsúly:
+\end_layout
+
+\begin_layout Enumerate
+a
+\emph on
+ na-
+\emph default
+ prefixumra [ha van]
+\end_layout
+
+\begin_layout Enumerate
+összetett igéknél (de nem igeneveknél) a főnévi tag utolsó szótagára
+\end_layout
+
+\begin_layout Enumerate
+a 
+\emph on
+mi-
+\emph default
+ vagy 
+\emph on
+be-
+\emph default
+ prefixumra [ha van]
+\end_layout
+
+\begin_layout Enumerate
+az utolsó szótagra
+\end_layout
+
+\begin_layout Standard
+Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos.
 \end_layout
 
 \begin_layout Section
