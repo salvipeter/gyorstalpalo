@@ -85,8 +85,134 @@ Bevezetés
 \end_layout
 
 \begin_layout Standard
-Blabla - hol beszélik, mikor/hogyan jött létre, fontosság, jövevényszavak,
- tankönyvek/nyelvtanok/szótárak
+Irán hivatalos nyelve a perzsa, bár csak a népesség kb.
+\begin_inset space ~
+\end_inset
+
+felének ez az anyanyelve.
+ Hasonló a helyzet az Afganisztánban beszélt dari nyelvvel, és bár ez kiejtésben
+ és szókincsben kisebb eltéréseket mutat, a két ország beszélői kölcsönösen
+ megértik egymást.
+ Szintén perzsa nyelvjárás Tádzsikisztán hivatalos nyelve, ám a tádzsik
+ a szovjet hatásra beépült orosz jövevényszavak, valamint a 80-as évek óta
+ készülő neologizmusok miatt szókincsében jelentősen különbözik testvéreitől.
+\end_layout
+
+\begin_layout Standard
+A modern vagy újperzsa nyelv az indoeurópai nyelvcsaládba tartozik, közvetlen
+ előde a Szászánida/Újperzsa Birodalomban (i.sz.
+\begin_inset space ~
+\end_inset
+
+III–VII.
+\begin_inset space ~
+\end_inset
+
+sz.) beszélt középperzsa, ami pedig rendre az Akhaimenida/Óperzsa Birodalomban
+ (i.e.
+\begin_inset space ~
+\end_inset
+
+VI– IV.
+\begin_inset space ~
+\end_inset
+
+sz.) beszélt óperzsa nyelv folytatása.
+ A IX.
+\begin_inset space ~
+\end_inset
+
+század körül kialakult újperzsába az iszlám hódítás sok változást hozott:
+ a szókincs rengeteg arab jövevényszóval bővült, és áttértek a korábbi,
+ arámin alapuló pahlavi írásról az arab ábécé egy új betűkkel kiegészített
+ változatára.
+ Az utóbbi több, mint 1000 évben a nyelv keveset változott, így a modern
+ perzsa ismeretében élvezhetőek a klasszikus irodalom gyöngyszemei is.
+ A nyelv egészen a XIX.
+\begin_inset space ~
+\end_inset
+
+századig a térségben 
+\emph on
+lingua francá
+\emph default
+nak számított, és nagy hatást gyakorolt (többek közt) az oszmán török és
+ a hindusztáni/urdu nyelvekre.
+\end_layout
+
+\begin_layout Standard
+Ennek az összefoglalónak az a célja, hogy egy egyszerre átolvasható, de
+ többé-kevésbé teljes áttekintést adjon a perzsa nyelvtanról, és (az írás
+ elsajátítása után) az itt össze\SpecialChar softhyphen
+gyűj\SpecialChar softhyphen
+tött információk és egy szótár segítségével
+ az olvasó le tudjon fordítani egyszerűbb szövegeket.
+ A nyelv mélyebb megismeréséhez vannak nagyon jó angol nyelvű tankönyvek,
+ ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "sutton,mace"
+
+\end_inset
+
+.
+ Bár léteznek modernebb, beszédcentrikus kiadványok is, e könyvek logikus
+ felépítésével és könnyen érthető stílusával nehéz vetekedni.
+ A kicsit szárazabb, de helyenként mélyebb tárgyalású kurzusok 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "thackston,lambton"
+
+\end_inset
+
+ referenciaként is használhatóak Mace nyelvtana 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "mace-grammar"
+
+\end_inset
+
+ mellett.
+ Klasszikus szövegek olvasásához a Steingass-féle szótár 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "steingass"
+
+\end_inset
+
+ ajánlott, modern szótárakból nagyobb a kínálat, pl.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "hayyim,aryanpur"
+
+\end_inset
+
+.
+ A hivatkozásokban találhatóak ezenkívül nyelvtanulók számára összeállított
+ olvasókönyvek 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "hillmann-news,hillmann-fiction,newid"
+
+\end_inset
+
+, valamint néhány hasznos könyv a perzsa költészet iránt érdeklődőeknek
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "thiesen,thackston-poems,thackston-gulistan,davis,nicholson,sprachman"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section
@@ -118,8 +244,359 @@ Beszélt nyelv
 Klasszikus nyelv
 \end_layout
 
+\begin_layout Standard
+más kiejtés, több magánhangzó
+\end_layout
+
 \begin_layout Section
 Példa
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "sutton"
+
+\end_inset
+
+L.
+\begin_inset space ~
+\end_inset
+
+P.
+\begin_inset space ~
+\end_inset
+
+Elwell–Sutton, 
+\emph on
+Elementary Persian Grammar
+\emph default
+, Cambridge University Press, 1972.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mace"
+
+\end_inset
+
+J.
+\begin_inset space ~
+\end_inset
+
+Mace, 
+\emph on
+Teach Yourself Modern Persian
+\emph default
+, English Universities Press, 1971.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "thackston"
+
+\end_inset
+
+W.
+\begin_inset space ~
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+Thackston, 
+\emph on
+An Introduction to Persian, 4th Ed.
+\emph default
+, Ibex Publishers, 2009.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "lambton"
+
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+K.
+\begin_inset space ~
+\end_inset
+
+S.
+ Lambton, 
+\emph on
+Persian Grammar
+\emph default
+, Cambridge University Press, 1974.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "mace-grammar"
+
+\end_inset
+
+J.
+\begin_inset space ~
+\end_inset
+
+Mace, 
+\emph on
+Persian Grammar
+\emph default
+, Routledge, 2003.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "steingass"
+
+\end_inset
+
+F.
+\begin_inset space ~
+\end_inset
+
+Steingass, 
+\emph on
+A Comprehensive Persian–English Dictionary
+\emph default
+, Librairie du Liban, 1892.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "hayyim"
+
+\end_inset
+
+S.
+\begin_inset space ~
+\end_inset
+
+Hayyim, 
+\emph on
+New Persian–English Dictionary
+\emph default
+, Librairie-imprimerie Béroukhim, 1934.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "aryanpur"
+
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+Aryanpur–Kashani, 
+\emph on
+The Combined New Persian–English and English–Persian Dictionary
+\emph default
+, Mazda Publishers, 1986.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "hillmann-news"
+
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+C.
+\begin_inset space ~
+\end_inset
+
+Hillmann et al., 
+\emph on
+Persian Newspaper Reader, 2nd Ed.
+\emph default
+, Dunwoody Press, 2000.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "hillmann-fiction"
+
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+C.
+\begin_inset space ~
+\end_inset
+
+Hillmann et al., 
+\emph on
+Persian Fiction Reader, 2nd Ed.
+\emph default
+, Dunwoody Press, 2000.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "newid"
+
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+Newid et al., 
+\emph on
+Persisches Lesebuch
+\emph default
+, Reichert Verlag, 2007.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "thiesen"
+
+\end_inset
+
+F.
+\begin_inset space ~
+\end_inset
+
+Thiesen, 
+\emph on
+A Manual of Classical Persian Prosody
+\emph default
+, Otto Harrassowitz, 1982.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "thackston-poems"
+
+\end_inset
+
+W.
+\begin_inset space ~
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+Thackston, 
+\emph on
+A Millenium of Classical Persian Poetry
+\emph default
+, Ibex Publishers, 1994.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "thackston-gulistan"
+
+\end_inset
+
+W.
+\begin_inset space ~
+\end_inset
+
+M.
+\begin_inset space ~
+\end_inset
+
+Thackston, 
+\emph on
+The Gulistan (Rose Garden) of Sa'di
+\emph default
+, Ibex Publishers, 2008.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "davis"
+
+\end_inset
+
+D.
+\begin_inset space ~
+\end_inset
+
+Davis, 
+\emph on
+Faces of Love: Hafez and the Poets of Shiraz (with Persian text)
+\emph default
+, Mage Publishers, 2012/2013.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "nicholson"
+
+\end_inset
+
+R.
+\begin_inset space ~
+\end_inset
+
+A.
+\begin_inset space ~
+\end_inset
+
+Nicholson, 
+\emph on
+Selected Poems from the Divani Shamsi Tabriz
+\emph default
+, Cambridge University Press, 1898.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "sprachman"
+
+\end_inset
+
+P.
+\begin_inset space ~
+\end_inset
+
+Sprachman, 
+\emph on
+Suppressed Persian
+\emph default
+, Mazda Publishers, 1995.
 \end_layout
 
 \end_body
