@@ -244,14 +244,14 @@ nasta'liq
 shekaste
 \emph default
  írásforma is ennek egy, speciális ligatúrákkal bővített változata.
- Az itt ajánlott nyelvkönyvek egy része ezekre is kitér 
+ Az itt ajánlott nyelvkönyvek egy része 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "sutton,thackston,mace-grammar"
 
 \end_inset
 
-.
+ ezekre is kitér.
 \end_layout
 
 \end_inset
@@ -378,7 +378,7 @@ i
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $æ^{1}$
+\begin_inset Formula $á/e^{1}$
 \end_inset
 
 
@@ -429,7 +429,7 @@ d
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset Formula $é^{3}$
+\begin_inset Formula $e/é^{3}$
 \end_inset
 
 
@@ -956,9 +956,13 @@ t
 \begin_layout Enumerate
 Rövid 
 \emph on
+e
+\emph default
+ és 
+\emph on
 é
 \emph default
- hang.
+ közti hang.
 \end_layout
 
 \begin_layout Enumerate
@@ -1117,7 +1121,7 @@ kilíd
 \end_layout
 
 \begin_layout Standard
-Két kettőshangzó van: 
+A két kettőshangzó, az 
 \emph on
 ow
 \emph default
@@ -1125,7 +1129,7 @@ ow
 \emph on
 ey
 \emph default
-, melyek az 
+, az 
 \emph on
 a
 \emph default
@@ -1145,15 +1149,7 @@ a
 \emph on
 y
 \emph default
- kombinációból jönnek létre (Thackston jelölésében 
-\emph on
-aw
-\emph default
-/
-\emph on
-ay
-\emph default
-).
+ kombinációból jönnek létre.
  Ezt illusztrálja, hogy pl.
 \begin_inset space ~
 \end_inset
@@ -1175,6 +1171,20 @@ berow
 beravid
 \emph default
  (menjetek!) lesz.
+ Thackston ezért 
+\emph on
+aw
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ay
+\emph default
+-ként írja át őket, de ez az összefoglaló (és a hivatalos átírás) a kiejtést
+ követi.
 \end_layout
 
 \begin_layout Standard
@@ -1219,6 +1229,94 @@ Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos.
 
 \begin_layout Section
 Sok egyéb
+\end_layout
+
+\begin_layout Itemize
+fonevek
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+hatarozatlansag
+\end_layout
+
+\begin_layout Itemize
+tobbesszam
+\end_layout
+
+\begin_layout Itemize
+ezafe
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+melleknevek
+\end_layout
+
+\begin_layout Itemize
+szemelyes/birtokos nevmasok
+\end_layout
+
+\begin_layout Itemize
+eloljaroszavak
+\end_layout
+
+\begin_layout Itemize
+igek
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+alapformak es igenevek
+\end_layout
+
+\begin_layout Itemize
+sima es osszetett igek
+\end_layout
+
+\begin_layout Itemize
+multido + tagadas
+\end_layout
+
+\begin_layout Itemize
+jelenido
+\end_layout
+
+\begin_layout Itemize
+folyamatos mult + kontrafaktualis
+\end_layout
+
+\begin_layout Itemize
+kotomod/felszolito mod
+\end_layout
+
+\begin_layout Itemize
+befejezett igeidok
+\end_layout
+
+\begin_layout Itemize
+jovoido
+\end_layout
+
+\begin_layout Itemize
+passziv
+\end_layout
+
+\begin_layout Itemize
+szemelytelen igek
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+targyjelolo
+\end_layout
+
+\begin_layout Itemize
+kerdoszavak
+\end_layout
+
+\begin_layout Itemize
+konstrukciok
 \end_layout
 
 \begin_layout Section
