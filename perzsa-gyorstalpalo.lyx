@@ -1023,7 +1023,7 @@ g
  hang.
  Magánhangzók közt átválthat a 
 \emph on
-q
+kh
 \emph default
 -val jelölt ,,hörgő'' hang zöngés változatába (hasonló a francia 
 \emph on
@@ -1166,21 +1166,21 @@ y
 
 a 
 \emph on
-raftan
+shenidan
 \emph default
- (megy) ige egyesszámú felszólító módja 
+ (hallgat) ige egyesszámú felszólító alakja 
 \emph on
-berow
+beshenow
 \emph default
- (menj!), míg a többesszám 
+ (hallgasd), de a többesszám 
 \emph on
 -id
 \emph default
  ragjával 
 \emph on
-beravid
+beshenavid
 \emph default
- (menjetek!) lesz.
+ (hallgassátok) lesz.
  Thackston ezért 
 \emph on
 aw
@@ -1201,8 +1201,8 @@ ay
 A hangsúly általában a szó végére kerül.
  Ebbe beleszámítanak a ragok is, kivéve azokat a szuffixumokat, amelyek
  itt kötőjellel vannak jelölve.
- Az igéknél hierarchikus szabályrendszer alapján dönthetjük el, hova kerül
- a hangsúly:
+ A főnévi/melléknévi igenevek is véghangsúlyosak, de az igék egyéb alakjainál
+ hierarchikus szabályrendszer alapján dönthetjük el, hova kerül a hangsúly:
 \end_layout
 
 \begin_layout Enumerate
@@ -1214,7 +1214,7 @@ a
 \end_layout
 
 \begin_layout Enumerate
-összetett igéknél (de nem igeneveknél) a főnévi tag utolsó szótagára
+összetett igéknél a főnévi tag utolsó szótagjára
 \end_layout
 
 \begin_layout Enumerate
@@ -1230,11 +1230,33 @@ be-
 \end_layout
 
 \begin_layout Enumerate
-az utolsó szótagra
+a tő utolsó szótagjára
 \end_layout
 
 \begin_layout Standard
 Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos.
+\end_layout
+
+\begin_layout Standard
+A mondat intonációjának leírása túlmutat ezen az összefoglalón, de az 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "sutton"
+
+\end_inset
+
+ és
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "lambton"
+
+\end_inset
+
+ nyelvkönyvek tartalmaznak sémákat és példákat.
 \end_layout
 
 \begin_layout Section
@@ -1323,6 +1345,10 @@ targyjelolo
 
 \begin_layout Itemize
 kerdoszavak
+\end_layout
+
+\begin_layout Itemize
+kotoszavak
 \end_layout
 
 \begin_layout Itemize
