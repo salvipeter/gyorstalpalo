@@ -1191,8 +1191,8 @@ ay
 A hangsúly általában a szó végére kerül.
  Ebbe beleszámítanak a ragok is, kivéve azokat a szuffixumokat, amelyek
  itt kötőjellel vannak jelölve.
- Az igéknél hierarchikus szabályrendszer alapján dönthetjük el, hova kerül
- a hangsúly:
+ A főnévi/melléknévi igenevek is véghangsúlyosak, de az igék egyéb alakjainál
+ hierarchikus szabályrendszer alapján dönthetjük el, hova kerül a hangsúly:
 \end_layout
 
 \begin_layout Enumerate
@@ -1204,7 +1204,7 @@ a
 \end_layout
 
 \begin_layout Enumerate
-összetett igéknél (de nem igeneveknél) a főnévi tag utolsó szótagára
+összetett igéknél a főnévi tag utolsó szótagjára
 \end_layout
 
 \begin_layout Enumerate
@@ -1220,7 +1220,7 @@ be-
 \end_layout
 
 \begin_layout Enumerate
-az utolsó szótagra
+a tő utolsó szótagjára
 \end_layout
 
 \begin_layout Standard
@@ -1237,15 +1237,15 @@ fonevek
 
 \begin_deeper
 \begin_layout Itemize
+ezafe
+\end_layout
+
+\begin_layout Itemize
 hatarozatlansag
 \end_layout
 
 \begin_layout Itemize
 tobbesszam
-\end_layout
-
-\begin_layout Itemize
-ezafe
 \end_layout
 
 \end_deeper
@@ -1254,7 +1254,8 @@ melleknevek
 \end_layout
 
 \begin_layout Itemize
-szemelyes/birtokos nevmasok
+szemelyes/birtokos/mutato stb.
+ nevmasok
 \end_layout
 
 \begin_layout Itemize
@@ -1313,6 +1314,10 @@ targyjelolo
 
 \begin_layout Itemize
 kerdoszavak
+\end_layout
+
+\begin_layout Itemize
+kotoszavak
 \end_layout
 
 \begin_layout Itemize
