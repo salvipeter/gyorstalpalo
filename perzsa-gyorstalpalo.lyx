@@ -1234,11 +1234,16 @@ a tő utolsó szótagjára
 \end_layout
 
 \begin_layout Standard
-Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos.
+Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos, és megszólítá
+snál is előre kerül a hangsúly.
 \end_layout
 
 \begin_layout Standard
-A mondat intonációjának leírása túlmutat ezen az összefoglalón, de az 
+A mondat intonációjára jellemző, hogy állító mondatokban az ige előtt viszik
+ fel a hangot, tagadásnál viszont az ige a leghangsúlyosabb.
+ Eldöntendő kérdésnél a mondat emelkedő hanglejtésű, míg kiegészítendő kérdésnél
+ ereszkedő (erős hangsúllyal a kérdőszón).
+ Az intonáció részletes leírása túlmutat ezen az összefoglalón, de az 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "sutton"
@@ -1260,27 +1265,365 @@ key "lambton"
 \end_layout
 
 \begin_layout Section
+Főnevek
+\end_layout
+
+\begin_layout Standard
+A főnevek szótári alakja határozott vagy általános értelmű, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sib
+\emph default
+ (az alma, [általában véve] alma).
+ Határozatlanságot az 
+\emph on
+-i
+\emph default
+ szuffixummal és/vagy a 
+\emph on
+yek
+\emph default
+ (egy) szóval fejezhetünki, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sib-i
+\emph default
+, 
+\emph on
+yek sib-
+\emph default
+[
+\emph on
+i
+\emph default
+] (egy alma).
+ Ha több főnév ,,és''-sel van összekapcsolva, az 
+\emph on
+-i
+\emph default
+ szuffixum a végére kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sag-o gorbe-i
+\emph default
+ (egy kutya és egy macska; 
+\emph on
+sag
+\emph default
+: kutya, 
+\emph on
+-o
+\emph default
+: és, 
+\emph on
+gorbe
+\emph default
+: macska).
+ Ha a főnév 
+\emph on
+-i
+\emph default
+ hangra végződik, a szuffixum elhagyható, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sandali
+\emph default
+ (a szék, szék, egy szék).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Thackston szerint ki kell írni, és Forvo-n van, hogy kiejtik és hallatszik.
+ Mace és Elwell-Sutton azt írja, hogy nem kell.
+\end_layout
+
+\end_inset
+
+ Más szóvégi magánhangzó esetén az 
+\emph on
+-i
+\emph default
+-t ejtésben időnként egy kicsit elválasztják, de gyakoribb, hogy egy 
+\emph on
+y
+\emph default
+ hang ékelődik be elé, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gorbe-i
+\emph default
+ [gor'be
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ʔ
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang magyar
+i / gor'beyi].
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Thackston még hamzát használ, máshol y-t, a kiejtésről senki nem beszél,
+ de Forvo alapján mindkettő van.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Többesszám
+\end_layout
+
+\begin_layout Standard
+A többesszámot a hangsúlyos 
+\emph on
+-hâ
+\emph default
+ szuffixummal képezzük, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ketâbhâ
+\emph default
+ (könyvek; 
+\emph on
+ketâb
+\emph default
+: könyv).
+ Emberekre, páros szervekre, és néhány más főnévre használható ezenkívül
+ a szintén hangsúlyos 
+\emph on
+-ân
+\emph default
+ (
+\emph on
+-e
+\emph default
+ után 
+\emph on
+-gân
+\emph default
+, más magánhangzó után 
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{
+\backslash
+emph-yân
+\emph on
+}
+\end_layout
+
+\end_inset
+
+
+\emph default
+) is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+cheshmân
+\emph default
+ (szemek; 
+\emph on
+cheshm
+\emph default
+: szem), 
+\emph on
+dâneshjuyân
+\emph default
+ (diákok; 
+\emph on
+dâneshju
+\emph default
+: diák), 
+\emph on
+hamsâyegân
+\emph default
+ (szomszédok; 
+\emph on
+hamsâye
+\emph default
+: szomszéd).
+ Régebben emberekre csak ez utóbbi volt használható, de mára a 
+\emph on
+-hâ
+\emph default
+ használata általános lett.
+\end_layout
+
+\begin_layout Standard
+Az arab eredetű szavaknak emellett van arab többesszáma is.
+ Ezek használata választékosabbá teszi a beszédet, de értelemben megegyezik
+ a szabályossal.
+ A képzésre szabály nincsen, bár vannak gyakori sémák: ilyen az 
+\emph on
+-ât
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+heyvânât
+\emph default
+ (állatok; 
+\emph on
+heyvân
+\emph default
+: állat), és emberekre az 
+\emph on
+-in
+\emph default
+ (
+\emph on
+-i
+\emph default
+ után 
+\emph on
+-un
+\emph default
+), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mojremin
+\emph default
+ (bűnözők; 
+\emph on
+mojrem
+\emph default
+: bűnöző), 
+\emph on
+enqelâbiun
+\emph default
+ (forradalmárok; 
+\emph on
+enqelâbi
+\emph default
+: forradalmár).
+ Az utóbbi mintájára az 
+\emph on
+-ât
+\emph default
+ szuffixumot néhány perzsa eredetű szóval is használják; ilyenkor 
+\emph on
+-e
+\emph default
+ után 
+\emph on
+-jât
+\emph default
+-ot találunk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ruznâmejât
+\emph default
+ (újságok; 
+\emph on
+ruznâme
+\emph default
+: újság).
+ Példák az ún.
+\begin_inset space ~
+\end_inset
+
+,,tört'' arab többesszámra: 
+\emph on
+manâzel
+\emph default
+ (házak; 
+\emph on
+manzel
+\emph default
+: ház), 
+\emph on
+'olum
+\emph default
+ (tudományok; 
+\emph on
+'elm
+\emph default
+: tudomány), 
+\emph on
+arkân
+\emph default
+ (oszlopok; 
+\emph on
+rokn
+\emph default
+: oszlop).
+\end_layout
+
+\begin_layout Subsection
+Az 
+\emph on
+ezâfe
+\emph default
+ szerkezet
+\end_layout
+
+\begin_layout Standard
+Bla
+\end_layout
+
+\begin_layout Section
 Sok egyéb
 \end_layout
 
-\begin_layout Itemize
-fonevek
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-hatarozatlansag
-\end_layout
-
-\begin_layout Itemize
-tobbesszam
-\end_layout
-
-\begin_layout Itemize
-ezafe
-\end_layout
-
-\end_deeper
 \begin_layout Itemize
 melleknevek
 \end_layout

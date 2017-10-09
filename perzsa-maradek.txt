@@ -1,0 +1,796 @@
+â
+			  -*- mode: org -*-
+
+* Névmások
+- a többesszámot udvariasságra is használják (első [szerény], második és harmadik személyben is)
+- E/2 csak nagyon közeli barátokkal, vagy lenézően
+** Személyes/Birtokos
+|---+---------------+----------------------------|
+|   | E             | T                          |
+|---+---------------+----------------------------|
+| 1 | mán / bánde % | maa                        |
+| 2 | to %2         | shomaa / jenaab-e-'aalí %4 |
+| 3 | ú / aan %3    | aanhaa / íshaan %5         |
+|---+---------------+----------------------------|
+- %: a bánde jelentése szolga, udvarias beszédben használják
+- %2: írásban tw
+- %3: emberekre ú, minden másra aan
+      [Thackston:] aan mindenre, ú csak emberekre
+- %4: jenaab-e-'aalí jelentése excellenciád, udvarias beszédben használják (egyes számban is)
+- %5: emberekre eredetileg csak az íshaan-t lehetett használni, ma már az aanhaa-t is;
+      az íshaan udvarias beszédbe ment át (tiszteletteljes E/3-ra is)
+*** Birtokos szuffixumok
+- nem kötelezőek, lehet ezaafe + személyes névmás is (=> hangsúlyozott birtoklás)
+- hangsúlytalanok (enklitikum)
+- aa és ú után y-vel kapcsolódik (-yám stb.), írásban is
+|---+--------+---------|
+|   | E      | T       |
+|---+--------+---------|
+| 1 | -ám    | -emaan  |
+| 2 | -át %  | -etaan  |
+| 3 | -esh % | -eshaan |
+|---+--------+---------|
+- %: eredetileg -át és -ásh, de az informális -et ill. -esh kiejtés kezdi felülírni
+  [Thackston:] -e végű szavakhoz kapcsolódva -át/-ásh (és az -e kiesik)
+- az -í végű szavakhoz simán kapcsolva írjuk (nem kell hamza)
+- az -e végű szavak után külön írjuk, és az -ám/-át/-esh kap egy alefet;
+  az -emaan/-etaan/-eshaan kezdő e-je kiesik 
+- az -aa és -ú végű szavaknál egy y ékelődik be
+- birtoklásos állítmányhoz: maal-e ..., pl. ín ketaab maal-e mán
+- enyém/tiéd/stb. lehet (irodalmi szövegben) aan-e mán stb. is
+- prepozíciókhoz is kapcsolódhat (nem kell ezaafe) [írott nyelvben ritka]
+- igéhez kapcsolva közvetlen tárgyat is jelölhet,
+  összetett igéknél a főnévi részhez kapcsolódik [írott nyelvben ritka]
+** Mutató
+- ín / aan : ez/az; ez/az a vmi
+- hámín / hámaan : éppen ez/az a vmi
+- az ín/aan hozzátehető a chún-hoz => [hám]chonín / [hám]chonaan : ilyen/olyan; így/úgy
+- a chánd-hoz is tehetőek => chándín : számos, ennyi; chándaan : annyi, (tagadásban) nem annyi[ra]
+- a towr-ral => [hám]ín towr / [hám]aan towr (/ che towr) : így/úgy(/hogyan)
+** Határozatlan
+- hích : bármi; (tagadásban) semmi, utána mindig egyesszám
+- kásí / hích kás : valaki
+- chízí / hích chíz : valami
+- hích yek/kodaam : egy (meghatározott halmazból)
+- hích vaqt : valaha; soha
+** Visszaható
+- khod (írva: KHwd), régiesebben khísh[tán]
+- összekapcsolható a birtokos szuffixumokkal (pl. khod-ám stb.) [beszélt nyelven szinte mindig]
+- a birtokos szuffixumok használhatóak ilyenkor is (míg a teljes alak nem),
+  pl. báraadár-ám raa dídám, báraadár-e khod raa dídám, *báraadár-e mán raa dídám
+** Vonatkozó
+- ke
+- az előtte levőhöz -í kapcsolódik (szokásos módon szükség esetén hamzával)
+- í-re végződő szavak után gyakran lehagyják
+- az -í és ke egybeírható (-íke)
+- ha tárgyra utalunk vissza, akkor -í-raa-ke lesz
+- elöljárószavaknál az aan-al lehet rá hivatkozni (ill. tsz. aanhaa, embernél ú / íshaan), pl.
+  sándúq-íke mán áz aan púl-raa gereftám (a doboz, amiből én a pénzt kivettem),
+  márd-íke pesár-esh be ín mádráse mírávád (a férfi, akinek a fia ebbe az iskolába jár)
+- hasonlóan a raa-val is, de ez néha beszédben átcsúszik a visszautalt dologra,
+  pl. naame-í-ke dírúz [aan-raa] neveshtám kojaast? [helyes verzió]
+      naame-í-raa-ke dírúz neveshtám kojaast?       [pongyola verzió]
+- a mellékmondat után a főmondat nem állhat csupán létigéből, ilyenkor más sorrend kell,
+  pl. *ín dárs dárs-í-ke dísháb khaandím ást. [rossz, nem állhat magában az ást]
+       dárs-í-ke dísháb khaandím ín dárs-ást. [így megfordítva már jó]
+       ín dárs dárs-í-st-ke dísháb khaandím.  [ez is egy megoldás lehet időnként]
+- az -í nem kell, ha nem kiválasztásról van szó, hanem csak plusz információt szolgáltat, vö.:
+  ketaabí ke mán bíshtár dúst daarám ... (a könyv, amit a legjobban szeretek ...)
+  ketaab-e "Másnáví" ke bozorgtarín ketaab-e Rúmí ast ... (Masnavi, ami Rumi legnagyobb könyve ...)
+- birtokolt dolgok mindig -í nélküliek
+- használható kiemelésre is, ilyenkor nélküle is lényegében ugyanazt jelenti a mondat,
+  pl. mán [ke] baa ín píshnáhaad mokhaalef-ám ([ami engem illet] ellenzem ezt az indítványt)
+*** Időhatározóként
+- ke = amikor
+- az első tagmondatban van, tehát "amikor ..., akkor ..."
+  (kivéve egy folyamatos cselekvés megszakításakor: "tévét nézett amikor csörgött a telefon",
+   illetve hánúz + tagadott befejezett múlt: "alighogy hazaért, csörgött a telefon")
+- nem állhat a tagmondat legelején, pl. báchche ke búdám, zendegí saadetár búd
+- ha nincs semmi elétehető, akkor egy személyes névmást szúrunk be elé
+** Általános
+- aadám: általános személyként, amikor nem a főige alanya (különben rövid főnévi igenévvel)
+- ha tárgy, akkor mindig kell -raa, pl. cheraa aadám-raa aanqádr áziyát míkonánd?
+* Elöljárószavak
+** Ezaafe nélkül
+- be: -ba/-ra/-hoz; -nak; -n (módhatározó, pl. könnyen: be raahtí)
+- dár: -ban/-on/-nál; -szor (matematikai)
+- áz: -ból/-ról/-tól; -nál (összehasonlításban)
+- baa: -val
+- bí: -talan; nélkül
+- taa: -ig; amint; azért, hogy
+- bár: -on
+- joz: helyett, kivéve
+** Összetett elöljárószavak
+- písh áz / qábl áz: ... előtt
+- pás áz / bá'ád áz: ... után
+- joz áz / gheyr áz: -n kívül (átv.)
+- bírún áz / khaarej áz: -n kívül (térben)
+** Ezaafe-vel
+- báraa-ye: -ért, számára
+- baalaa-ye: ... felett
+- paa'í-ye: ... alatt
+- zír-e: ... alatt
+- rú-ye: -on, ... felett
+- jelú-ye: ... előtt (térben)
+- posht-e: ... mögött
+- páhlú-ye: -nál; ... jelenlétében
+- kenaar-e: ... mellett
+- názdík-e: ... közelében
+- bedún-e: ... nélkül
+- donbaal-e: -t (keres / elvisz)
+- dám-e: -hoz közel
+- sár-e: ... közben; ... végén/tetején
+- láb-e: ... szélén
+- dárbaare-ye: -ról, -val kapcsolatban
+- písh-e: (vki)-nél/-hez
+- rúberú-ye: -val szemben
+- tú-ye: -ba, -ra
+* Kérdőszavak
+- gyakran közvetlenül az ige előtt
+- eldöntendő kérdésnél a mondat elejére jöhet aayaa (de elég az emelkedő hanglejtés is)
+- che: mi? milyen? [beszélt nyelvben chí] ("milyen?" értelemben utána határozatlan kell)
+- keí: mikor?
+- kojaa: hol?
+- kí: ki?
+- cheraa: miért?
+- kodaam: melyik?
+- chetour: hogyan?
+- chánd / cheqádr: mennyi? [egyesszámmal]
+- chánd váqt: milyen hosszú idő?
+- chándom(ín): hányadik?
+- néhány kérdőszónak lehet többesszáma, 
+  pl. chehaa (mi minden), kíhaa (ki mindenki), kojaahaa (hol mindenhol)
+* Főnevek
+** Főnévi állítmány
+- ha nincsen módosítva, akkor mindig határozott egyesszámú, pl. álí o ákbár daaneshjú ánd
+- ha módosított, akkor mindig határozatlan és számban egyeztetett,
+  pl. álí daaneshjú-í zeráng-ást / álí {daaneshjú-ye zeráng}-í-st
+- ha módosított és tagadott, akkor a határozatlanságjelző csak a melléknévk után jöhet,
+  pl. álí {daaneshjú-ye zeráng}-í níst
+- irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
+  pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
+** Ezaafe
+- birtoklást, jellemzést (melléknévvel) vagy azonosítást jelöl
+- a birtokló/jelző kerül hátulra
+- a kettő közé egy "e" (mgh. után ye) hang kerül
+- nem írják, kivéve aa és ú után y-vel
+- í-re és e-re végződő főnévnél az í-re illetve a h-ra kerülhet hamza (az ejtés változatlanul ye)
+- pl. esm-e mán (az én nevem, írásban "Asm mn")
+- határozatlan birtokolt dolgot a "yek" vagy "yekí áz" vezeti be,
+  pl. yekí áz ketaabhaa-ye mán / yek daaneshjú-ye daaneshgaah
+- az ezaafe halmozható, de a melléknevek közé vá (és) is kerülhet,
+  pl. sháb-e taarík-e sárd / sháb-e taarík vá sárd 
+  [Thackston:] határozatlannál o, amúgy ezaafe (ld. Melléknevek)
+* Melléknevek, határozók
+- jelzett után, kapcsolódás ezaafe-vel, de határozatlan után nincs, pl. mízí khúb = {míz-e khúb}-í
+- számban egyeztetni nem kell
+- több melléknév esetén mindegyik közt ezaafe, de határozatlannál "o",
+  pl. mízí khúb o bozorg = {míz-e khúb-e bozorg}-í
+- középfok: -tár (hangsúlyos)
+- felsőfok: -tárín (hátul hangsúlyos, a jelzett elé kerül!)
+- két kivétel: khúb => behtár(ín), zíaad/kheílí => bíshtár(ín) [néha csak bísh]
+- "bonyolult" mellékneveknél bíshtár + ... alakban képezzük a középfokot
+- "bonyolult" mellékneveknél külön írjuk a tárín-t
+  [Thackston:] -tár/-tárín mindig írható egybe vagy külön
+- felsőfokra lehet még: ... áz háme
+- összehasonlításnál a "mint": áz, taa => taa akkor, ha:
+  - az összehasonlítás a főige után kerül
+  - az összehasonlítás alapja prepozíciós vagy tárgy
+  - nem azonos az összehasonlítás alapja ("inkább ez mint az" típusú)
+- negatív összehasonlítás: <A> be ...-gí-ye <B> níst (<A> nincs olyan ..., mint <B>)
+** Melléknevekből képzett főnevek használata
+- be ín ... => ennyire, pl. be ín zúdí "ennyire korán"
+- be aan ... => annyira, pl. be aan bozorgí "annyira nagy"
+- be ...-e ... => olyan ..., mint, pl. ín be khúbí-e aan ást "ez olyan jó, mint az"
+** hárche
+- hárche ...-tár => annyira ... amennyire csak lehet,
+  pl. baayád hárche zúdtár beresím
+- ...-e támaamtár => ugyanez (a baa-val képzett több szavas határozóknál),
+  pl. baa ehteraam-e hárche támaamtár tá'zim-kárd
+- hárche ...-tár, ...-tár => minél ..., annál ...,
+  pl. hárche bíshtár, behtár
+- ha a mellékmondat jövőre vonatkozik vagy lehetetlen, akkor kötőmóddal,
+  pl. hárche bolándtár begúíd, behtár míshenávánd
+* Igék
+- alapformák: múlt idejű tő (MT), jelen idejű tő (JT)
+- a JT általában a MT az utolsó t/d/íd nélkül
+- egyeztetés nem élő dolgoknál mindig egyesszámmal
+  (de az állító létige rövid mondatokban, ahol közel a többesszámú alany, többesszámban is lehet)
+** Tagadás
+- ná- (mindig hangsúlyos)
+- mgh. előtt náy- (kivéve: ístaadán => náíst..., írásban n- vagy nh- kerül a kezdő alef elé)
+- á- és o- kezdetűeknél írásban a kezdő alef eltűnhet
+- aa kezdetűeknél írásban a madde kitehető, de nem muszáj
+** Főnévi igenév
+- MT + -án (hátul hangsúlyos)
+- főnévként használható (kaphat -raa partikulát, vagy birtokos személyragokat stb.),
+  tehát alanyként, tárgyként, elöljárószó után
+*** Rövid főnévi igenév
+- MT
+- használható a jövőidő kifejezésénél (ld. lent)
+- használható az alábbi személytelen kifejezésekben:
+- a baayestán igével, ha általános alanyt akarunk kifejezni (pl. "az embernek azt kell mondania"),
+  tehát baayád (kell), nábaayád (nem szabad), baayest (kellett), nábaayest (nem volt szabad) után
+- a shodán ige személytelen alakjaival: [ná]míshod, [ná]míshávád "[nem] lehetséges"
+- a távaanestán ige személytelen alakjaival: [ná]mítávaanest, [ná]mítávaan "[nem] lehet"
+** Múlt
+- MT + ...
+|---+-----+------------|
+|   | E   | T          |
+|---+-----+------------|
+| 1 | -ám | -ím        |
+| 2 | -í  | -íd        |
+| 3 | -   | - / -ánd % |
+|---+-----+------------|
+- %: aanhaa: -, íshaan: -ánd
+- a hangsúly mindig a szótő végén van (ha nincs tagadva)
+** Jelen
+- éppen végbemenő, habituális, vagy jövőidő kifejezésére
+- mí + JT + ...; kivéve daashtán, ahol daar + ..., és a személytelen igék (ld. lejjebb)
+- a mí hangsúlyos, ha nincsen tagadva
+- a mí-t lehet egybe és külön is írni, de:
+  (1) á-val kezdődő JT előtt csak egybe (és az alef eltűnik)
+  (2) í-vel kezdődő JT előtt csak külön
+  (3) modern helyesírás szerint általában külön írják
+  [Thackston: mindig lehet egybe és külön írni,
+   aa-val kezdődőeknél a madde opcionális,
+   más magánhangzóval kezdődőeknél a szótőkezdő alef kieshet]
+- a búdán és a daashtán nem kap mí- prefixumot; a daashtános összetett igék egy része sem
+- ha a JT aa-ra vagy ú-ra végződik, az á-k elé egy y, az í-k elé egy (y-on ülő) hamza (') kerül,
+  pl. míaayám, míaa'ím stb., mígúyám, mígú'ím stb.
+|---+-----+--------------|
+|   | E   | T            |
+|---+-----+--------------|
+| 1 | -ám | -ím          |
+| 2 | -í  | -íd          |
+| 3 | -ád | -ád / -ánd % |
+|---+-----+--------------|
+- %: aanhaa: -ád, íshaan: -ánd
+*** Rendhagyó JT-k
+- meg kell tanulni, de az alábbi szabályosságok sokszor működnek
+- a -khtán végű igéknél -z vagy -s vagy -sh lesz
+- az -údán végű igéknél -aa lesz
+- a -stán végűek általában rendhagyóak (változatosan: -h/-nd/-n/...)
+- az -aaftán/íftán/úftán végűeknél általában -aab/-íb/úb lesz
+- az -ordán végűeknél -aar lesz
+- az -aashtán végűeknél mindig -aar lesz
+*** Létige
+- a búdán helyett (aminek a JT-e baash, "létezik") egy másik igét használnak
+- hosszú és rövid alakok; mindegyik hosszú alak elöl hangsúlyos
+|---+---------------------+-----------------------------------|
+|   | E                   | T                                 |
+|---+---------------------+-----------------------------------|
+| 1 | hástám / -ám        | hástím  -ím                       |
+| 2 | hástí / -í          | hástíd / -íd %2                   |
+| 3 | hást / ást / -ást % | hást/ást/-ást % / hástánd/-ánd %2 |
+|---+---------------------+-----------------------------------|
+- %: a hást létezést fejez ki, míg az ást ekvivalenciát
+  [Thackston:] az összes hosszú alak létezést fejez ki, nincs hosszú "ást" alak,
+  de magánhangzó után használják a hosszú alakot is sima értelemben,
+  hogy elkerüljék a magánhangzótorlódást (viszont ilyenkor nincs hangsúlyuk)
+- %2: aanhaa: -ást, íshaan: -ánd
+**** Kötések [Mace]
+- az előző szó végződése alapján:
+|------+--------------+-------------+-------------+--------------+--------------+---------------|
+|      | -ám          | -í          | -ást        | -ím          | -íd          | -ánd          |
+|------+--------------+-------------+-------------+--------------+--------------+---------------|
+| msh. | külön / -ám  | külön / -í  | külön %     | külön / -ím  | külön / -íd  | külön / -ánd  |
+| aa/ú | külön / -yám | külön / -'í | külön / -st | külön / -'ím | külön / -'íd | külön / -yánd |
+| í    | külön / -ám  | külön / -í  | külön / -st | külön / -ím  | külön / -íd  | külön / -ánd  |
+| e    | külön        | külön       | külön       | külön        | külön        | külön         |
+|------+--------------+-------------+-------------+--------------+--------------+---------------|
+- %: ebben a formában beszélt nyelvben e-nek ejtik
+- a "kí hástíd?"-et általában "kístíd?"-re rövidítik
+**** Kötések [Thackston]
+- az előző szó végződése alapján:
+|------+-------+-------+---------------------+-------+-------+-------|
+|      | -ám   | -í    | -ást                | -ím   | -íd   | -ánd  |
+|------+-------+-------+---------------------+-------+-------+-------|
+| msh. | -ám   | -í    | külön [ritkán -ást] | -ím   | -íd   | -ánd  |
+| aa   | külön | -'í   | -st                 | -'ím  | -'íd  | külön |
+| ú    | külön | -'í   | -ást [ritkán -st]   | -'ím  | -'íd  | külön |
+| í    | külön | külön | külön / -st %       | külön | külön | külön |
+| e    | külön | külön | külön               | külön | külön | külön |
+|------+-------+-------+---------------------+-------+-------+-------|
+- %: hangsúlytalan í után -st (ritkán hangsúlyos í után is)
+- a "külön" kötés nélküliséget jelent, szóköz nem feltétlenül van
+- az e + -ám/-ást/-ánd ejtésekor az e kiesik
+- che + ást => chíst, che + ánd => chístánd
+  kí  + ást => kíst,  kí  + ánd => kístánd
+**** Tagadás
+- níst-, létezés és ekvivalencia értelemben is
+- elöl hangsúlyos
+|---+--------+------------------|
+|   | E      | T                |
+|---+--------+------------------|
+| 1 | nístám | nístím           |
+| 2 | nístí  | nístíd           |
+| 3 | níst   | níst / nístánd % |
+|---+--------+------------------|
+- %: aanhaa: -, íshaan: -ánd
+** Kötőmód (felszólító mód)
+- magában felszólítás, tiltás (második, harmadik személy) ill. engedélyezés (első személy),
+  de ilyenkor E/2-nél nincs -í utótag, tehát pl. bíaa (gyere), nánevís (ne írj)
+- képességet, érzelmeket, kívánságot, bizonytalanságot kifejező igék után
+- mint a jelen, de mí- prefix helyett be- (szintén hangsúlyos)
+- ha a JT á-val vagy aa-val kezdődik, a prefix bí- (írásban mindkét esetben byA...!)
+- ha a JT í-vel kezdődik, külön írjuk a be prefixet
+- összetett igéknél nincs be (bí) prefix, kivéve a daadán-os igéket
+- tagadásnál a be- kiesik, csak a tagadó ná(y)- marad
+- alárendelt esetben, ha változik az alany, egy ke vezeti be: míkhaahám ke shomaa bíaaíd
+*** Rendhagyó igék (búdán és daashtán)
+- a búdan töve baash lesz, és nem kap be- prefixet, tehát baashám, baashíd stb., de kap ná-t
+- a daashtán jelenidőben is befejezett kötőmódot képez, tehát daashte baashám/baashíd stb.
+** Folyamatos múlt
+- mí + múlt (pl. míráftám, míráftíd stb.)
+- múltban ismétlődő esemény vagy megszakított folyamat (pl. éppen olvastam, amikor csöngettek)
+** Igenevek
+*** Ágens
+- JT + ánde (az án hangsúlyos)
+- lehet használni főnévként is, többesszáma ilyenkor -gaan (pl. párídán => páránde => párándegaan)
+- összetett igéknél a főnévi tag + JT, pl. paak kárdán => paakkon; daanesh jostán => daaneshjú
+*** Módhatározó
+- JT + [y]aan
+- pl. khándaan (nevetve)
+*** Képesség
+- JT + [y]aa
+- pl. khaandán => khaanaa (olvasható), daanestán => daanaa (bölcs)
+- csak néhány igére használható
+** Befejezett alakok (főleg írásban és formális beszédhelyzetben)
+- múltidejű melléknévi igenév (MMI): MT + e
+- az MMI magában abszolutív, pl. ú vaared-e otaaq shode, háme ráftánd
+  "ő a szobába belépve, mindenki elment"
+- befejezett jelen és múlt a létige alakjaival, pl. neveshte ám, neveshte búdám
+- a befejezett jelennél a létige rövid formáját használják, de különírva (saját aleffel)
+- tagadásnál a MMI-et tagadjuk, pl. nákárde ám, nákárde búdám
+- kötőmódot is hasonló módon képezhetünk, pl. ráfte baashám, náráfte baashám
+- van "folyamatos befejezett" is: mí + MMI + létige, pl. míráfte-ám / zendágí míkárde-ást,
+  ahol egy múltbeli folyamatos/szokásos cselekvés hatással van a jelenre
+*** Befejezett múlt használata
+- múltbeli előidejűség kifejezése
+- tehető utána egy ke: mán taaze ráfte búdám ke shomaa aamádíd [épp elmentem, amikor jöttél]
+- a hánúz + tagadás (még nem) használatával "amint" értelem,
+  pl. hánúz nánesháste búdám ke dár baaz shod [alig ültem le, és már nyílt az ajtó]
+- ha a létige befejezett jelenbe kerül, akkor elbeszélő múlt [ritka],
+  pl. dár aan váqt be sísaalegí náresíde búde ást [akkor még nem érte el a 30 évet]
+** Passzív alakok (elég ritka)
+- MMI + shodán; ágens az áz-zal fejezhető ki, pl. ín áz kí peidaa shod?
+- kötőmódnál lehagyható a be-, tehát MMI + [be]sháv-
+- a tagadás a shodán-hoz kapcsolódik, pl. díde náshávám
+- a kárdán-os összetett igéknél az igei részt helyettesíti a shodán, pl. peidaa shodán
+- a zádán-os összetett igéknél az igei részt helyettesíti a khordán, pl. koták khordán
+- a daashtán-os igéknél is, de néha yaaftán-t használnak passzívhoz, pl. ánjaam yaaftán
+- más összetett igéknél az igei rész MMI-jéhez kapcsolódik a shodán, pl. neshaan daade shodán
+** Személytelen igék
+*** Baayestán és shaayestán
+- csak idő szerint ragozzuk, személy szerint mindig E/3 (pl. baayest)
+- jelen időhöz nem kap mí- előtagot (baayád, shaayád)
+- kötőmódot vonz
+- beszélt nyelvben E/1 múltidő (kellett vmit csinálnom): baayád míkárdám (baayest bekonám helyett)
+  de ez az alak egyben a kontrafaktuális is! - furcsa/gyanús [Colloquial Persian, Unit 14]
+*** Távaanestán és shodán
+- ld. rövid főnévi igenév
+*** Összetett igék
+- általában aktívan nem befolyásolható dolgok (pl. emlékezés, érzések - fáradtság, álmosság stb.)
+- a főnévi részt birtokos alakba helyezzük, itt jelenik meg az alany
+- az igei rész E/3 alakú, pl. yaad-ám níst ("nincs emlékezetem" - nem emlékszem),
+  khaab-etaan mí-aayád ("az álmod jön" - álmos vagy)
+** Jövőidő (főleg írásban és formális beszédhelyzetben)
+- khaastán jelen ideje mí- előtag nélkül + az ige rövid főnévi igeneve, pl. khaahám kárd
+- ilyenkor a segédigénél lényegesen hangsúlyosabb a főnévi igenév (hátul hangsúlyos)
+- tagadásnál a segédigét tagadjuk, és az lesz hangsúlyos, pl. nákhaahám goft
+- a létige helyett jövőidőben a shodánt használjuk, tehát pl. khaahád shod
+- összetett igéknél a két tag közé ékelődik a segédige, pl. táshríf khaahád aavárd
+** Kontrafaktuális
+- alakra megegyezik a folyamatos múlttal
+- olyan helyzetekben, amikor kötőmód kéne
+- pl. baayád míráft (el kellett volna mennie) vs. baayád ráfte baashád (biztosan elment)
+- pl. kaash[kí] ínjaa búdíd (bárcsak itt lettél volna) vs. ... baashíd (... lennél)
+- pl. behtár búd namíaamádíd (jobb lett volna, ha nem jössz)
+* Partikulák
+** Tárgyjelölő
+- a határozott tárgy után jön: raa
+- egybe és külön is lehet írni
+- személyes névmásokkal általában egybeírják (és mán + raa => máraa, to + raa => toraa (nincs w))
+- ha határozatlanság-jelölővel együtt szerepel, akkor "egy nem meghatározott, de nem bármilyen",
+  pl. ketaab-e dígár-í khaastám [egy (bármilyen) másik könyvet kértem]
+  pl. ketaab-e dígár-í-raa khaastám [egy (bizonyos) másik könyvet kértem]
+** Határozatlanság-jelölő
+- tagadott alakokkal gyakran szerepel, pl. hích kásí nádídám
+- ha az ezaafe helyére kerül, akkor az ezaafe eltűnik, pl. márdí khúb
+  (de a leggyakoribb, hogy a csoport végére kerül, tehát pl. márd-e khúbí)
+** Hám
+- hangsúlyozás (összehasonlításnál, rámutatásnál),
+  pl. Kodaam? Ín hám. vagy pl. mán hám mírávám, válí ...
+- már, pl. aanhaa hám ráfte búdánd
+- szintén, pl. mán hám mírávám
+* Konstrukciók
+** Feltételes mondatok
+- ha: ágár (elhagyható)
+- biztos: ha [jelen], [jelen], pl. ágár mídaaníd, cheraa namígúíd? "ha (úgyis) tudod, ..."
+  (ha a "ha" elmarad, akkor a feltétel kötőmódú)
+- feltételes: ha [kötő/múlt], [jelen/jövő/felszólító]; a kötőmód erősíti a valószínűtlenséget
+  (bár a Colloquial Persian szerint épp a múltidő erősíti a valószínűtlenséget)
+  múltra vonatkozó feltételnél múltbeli kötőmód, pl. ágár ú-raa díde baashíd ...
+- lehetetlen: ha [folyamatos múlt], [folyamatos múlt]; vonatkozhat múltra vagy jövőre is
+- beszélt nyelvben a lehetetlen mindkét oldalán lehet befejezett múlt is
+** Időtartamok kifejezése
+- vmennyi idő óta: (időtartam) ást [ke] (jelen)
+- sima: pl. se saal-ást ke ínjaa hástám (3 éve vagyok itt)
+- állapotok, tagadás: pl. do háfte-ást ke áz khaane bírún náráfte-ást (2 hete nem ment ki a házból)
+- folyamatban levő cselekvés: pl. do saa'át-ást ke kaar-míkonám (2 órája dolgozom)
+- mindezek múltidőben hasonlóan (ást helyett búd)
+- az idő hosszának hangsúlyozására: éppen most (ld. lent),
+  pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
+** Éppen most / éppen akkor
+- ld. a kollokviális folyamatos igeidőket (használják néhá írásban is)
+* Szórend
+- S + O + V  => alany + idő + tárgy + mód + hely + ige
+- a közvetlen tárgy általában megelőzi a közvetettet
+- a kérdőszó általában az igéhez közel kerül, kivétel a cheraa (miért?), ami előre
+* Számok
+** Alapszámok
+- a főnév mindig egyesszámban
+- a helyiértékeket "o" választja el, sorban felülről lefele
+- 0: sefr
+- 1: yek
+- 2: do
+- 3: se
+- 4: cháhaar
+- 5: pánj
+- 6: shesh
+- 7: háft
+- 8: hásht
+- 9: noh
+- 10: dáh
+- 11: yaazdáh
+- 12: dávaazdáh
+- 13: sízdáh
+- 14: cháhaardáh
+- 15: paanzdáh
+- 16: shaanzdáh
+- 17: hívdáh [írva hefdáh]
+- 18: hízhdáh [írva hejdáh]
+- 19: núzdáh
+- 20: bíst
+- 30: sí
+- 40: chehel
+- 50: pánjaah
+- 60: shást
+- 70: háftaad
+- 80: háshtaad
+- 90: návád
+- 100: sád
+- 200: devíst
+- 300: sísád
+- 500: paansád
+- 400/600/700/800/900: ... sád (cháhaarsád, sheshsád, háftsád, háshtsád, nohsád)
+- 1000: hezaar (yekhezaar, dohezaar stb.)
+- 1000000: melyún / miliún
+** Törtek és szorzók
+- 1/2: ním
+- arab verziók is néhányból:
+- 1/2: nesf
+- 1/3: sols
+- 1/4: rob'
+- %: ... dár sád, pl. 50% => pánjaah dár sád
+- n-szeres: n báraabár
+** Számlálószavak
+- az időt (saa'át, saal stb.), alkalmat (baar, dáf'e) kifejező szavakhoz nem kell
+- a mértékegységek is számlálószavakként funkcionálnak
+- a "taa" egy általános számlálószó (>=2 dologra), emberekhez "náfár"
+- a "daane" apró dolgokra, az "ádád" pedig árucikkekre
+** Sorszámnevek
+- a szabályos végződés -om (hangsúlyos)
+- 1. ávvál (ritkán: nokhost / yekom)
+- 2. dovvom
+- 3. sevvom
+- utána szabályos (cháhaarom, pánjom, ...), de 2/3-ra végződőeknél mint fent
+- mindezek kaphatnak egy plusz -ín végződést (ávválín, dovvomín stb.) és a főnév elé kerülnek
+- a sima verzió fix rendezésre, az -ín végződéses ideiglenes rendezésre utal,
+  pl. az 5. ház az utcában fix, az 5. fehér ház az utcában nem
+- az első négyre arab verziót is használnak, gyakran határozóként:
+- 1. ávvál  => ávválán
+- 2. sání   => sánián
+- 3. sáles  => sálesan
+- 4. raabe' => raabe'an
+** Idő
+- forma egésztől félig: saa'át-e-... o ... dáqíqe, pl. saa'át-e-se o dáh dáqíqe (3 óra 10 perc),
+  vagy saa'át-e-shesh o ním (fél 7)
+- forma féltől egészig: ... dáqíqe be ..., pl. hásht dáqíqe be cháhaar (8 perc múlva 4),
+  vagy yek rob' be do (háromnegyed 2)
+  vagy saa'át-e yaazdáh-o rob' kám (háromnegyed 11)
+- általános forma: ... dáqíqe áz ... gozáshte, pl. pánjaah dáqíqe áz cháhaar gozáshte (4:50),
+  vagy rob' saa'át áz hásht gozáshte (8:15)
+- negyedóra: rob' [saa'át]
+- félóra: ním [saa'át]
+- másodperc: saaníye
+*** A hét napjai
+- szombat: shámbe
+- vasárnap : yekshámbe
+- hétfő : doshámbe
+- kedd : seshámbe
+- szerda : cháhaarshámbe
+- csütörtök : pánjshámbe
+- péntek : jom'e / aadíne (ritkábban)
+- ezek elé lehet tenni a rúz (nap) szót ezaafeval, pl. rúz-e-doshámbe
+- melyik nap: chándshámbe
+- hagyományosan naplementekor kezdődik a nap, tehát a "shab-e jom'e" csütörtök estét jelent
+  (manapság kiment a használatból, kivéve épp a csütörtök este)
+- fordított sorrenddel a "normális" értelmet kapjuk, pl. "jom'e shab" péntek este
+*** Dátumok
+- a dátum sorrendje [hét-napja]-nap-hónap-év, ahol a nap sorszámnév és ezaafe-ben van a hónappal,
+  pl. shámbe shaanzdáhom-e-khordaad (iráni 3. hó 16-a, szombat), ávvál-e-maars (március 1-je)
+- az évet mint egy számot olvassák fel, előtte saal (év) + ezaafe,
+  pl. saal-e hezaar o nohsád o cháhaardáh (1914)
+**** Muszlim naptár
+- egy fajta holdnaptár, tehát rövidebb az év
+- csak vallási ünnepekre használják
+- az éveket a holdnaptári hijrától számítják "hejrí-e qámárí" (i.sz. 622)
+- 1. hónap: mohárrám
+- 2. hónap: sáfár
+- 3. hónap: rabí'ol'avval
+- 4. hónap: rabí'ossaaní
+- 5. hónap: jomaadál'úlaa
+- 6. hónap: jomaadál'okhraa
+- 7. hónap: rájáb
+- 8. hónap: shá'baan
+- 9. hónap: rámázaan
+- 10. hónap: shávvaal
+- 11. hónap: zelqa'de
+- 12. hónap: zelhejje
+**** Iráni naptár
+- a tavaszi napéjegyenlőségkor kezdődik (március 20-22 között valahol)
+- az éveket a nap-naptári hijrától számítják "hejrí-e shámsí" (i.sz. 621)
+- 1. hónap (31 napos) : fárvárdín
+- 2. hónap (31 napos) : ordíbehesht
+- 3. hónap (31 napos) : khordaad
+- 4. hónap (31 napos) : tír
+- 5. hónap (31 napos) : mordaad
+- 6. hónap (31 napos) : sháhrívár
+- 7. hónap (30 napos) : mehr
+- 8. hónap (30 napos) : aabaan / ábaan
+- 9. hónap (30 napos) : aazár
+- 10. hónap (30 napos) : dey
+- 11. hónap (30 napos) : báhmán
+- 12. hónap (29 napos, 30 szökőévkor) : esfánd[yaar]
+- utána lehet tenni a maah (hónap) szót, pl. tírmaah (főleg a rövidebbekhez szokás)
+- a szökőév (saal-e-kábíse) 4 évente van, pl. 1379-ben (i.sz. 2000)
+- évszakok: báhaar (1-3), taabestaan (4-6), paaíz (7-9), zemestaan (10-12)
+**** Nemzetközi naptár
+- nem hivatalos, a francia neveket használják, francia kiejtéssel
+- január: janvier [zhaanvíye]
+- február: février [fevríye]
+- március: mars [maars]
+- április: avril [aavríl]
+- május: mai [me]
+- június: juin [zhúán]
+- július: juillet [zhúíye]
+- augusztus: août [owt] (a végső t hallatszik)
+- szeptember: septembre [septaambr]
+- október: octobre [oktobr]
+- november: novembre [novaambr]
+- december: décembre [desaambr]
+*** -ként -szer
+- határozatlan + szám + baar/dáf'e
+- pl. saal-í do dáf'e => évente kétszer
+** Határozatlan
+- [yek]chánd + egyesszám[-í], pl. yekchánd saalí (néhány év)
+- többesszám-í chánd, pl. saalaan-í chánd (néhány év, irodalmi stílus)
+- nem megszámlálhatóra => cheqádr + egyesszám
+- egy kevés => kám-í / qádr-í + egyesszám
+- 2-3: do se, 5-6: pánj shesh stb.
+- több/kevesebb X, mint ... => ... X bíshtár/kámtár,
+  pl. do taa qálám bíshtár (több, mint két toll)
+* Szóképzés
+** Főnevek képzése
+- JT + [y]esh => absztrakt főnév, pl. aamúzesh (tanulás, tudás)
+- az -e végű melléknévekből -gí hozzátevésével absztrakt főnév lesz, pl. khástegí (fáradtság),
+  ez mindig működik, melléknévi igenevekre is
+- MT o JT, vagy MT o MT, pl. goftogú, aamádoraft
+- főnév + -baan (néha -vaan) az ott dolgozó foglalkozást jelenti, pl. baaghbaan (kertész)
+- főnév + -gaah/[e]staan vmi helyét jelöli, pl. Torkestaan (Turkesztán), daaneshgaah (egyetem)
+- főnév + -khaane a hely, ahol vmit tárolnak vagy csinálnak, pl. ketaabkhaane (könyvtár)
+- MT + -aar absztrakt főnevet képez, pl. goftaar (beszéd)
+- melléknév + aa: absztrakt tulajdonság, pl. gármaa (melegség)
+- a -[g]í képző (ld. lejjebb) absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
+  de -í végű melléknévnél helyette búdán (pl. ábrí-búdán : "felhősség") [vagy rendhagyó arab]
+- [beszélt nyelvben] -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
+- főnév + JT, pl. aashpáz (szakács)
+- a -kár/kaar/-gár/-gaar szuffixumok vmilyen munkavégzést jelölnek
+- az -ák végződés kicsinyítőképző, pl. morghák, pesárák stb.
+- a -che végződés is kicsinyítőképző (csak élettelenre), pl. dáryaache
+** Műveltető igék képzése
+- JT + aandán/aanídán, pl. súkhtán, súz- (ég) => súzaanídán (meggyújt)
+- a tő rövid á-jából aa-t csinálva, pl. gozáshtán => gozaashtán
+** Melléknevek/határozók képzése
+- msh. után -í, -e után -gí, más magánhangzó után -'í
+  (főnévi igenévhez kapcsolva "-való"/"-ható", pl. dúst-daashtání "szeretnivaló", 
+   baavár-nákárdání "hihetetlen" stb.)
+- pl. íraan => íraaní, háfte => háftegí
+- [g]aane, pl. báraadáraane "testvéri";  mo'áddábaane "udvariasan"
+- főnév + JT, pl. khoshgú (hízelgő)
+** Egyéb
+- a hám- prefixum kiemel, vagy (mint a latin cum-) közös cselekvésre utal
+- számok alapján: szám + főnév + e/í, pl. bístsaale (20 éves), dochárkhe (kerékpár)
+* Klasszikus nyelv
+** Magánhangzók
+- áw és áy ejtése áw és áy volt
+- volt külön ó (ejtsd: ów) és é (ejtsd: éy)
+- az ó-ból később ú, az é-ből í lett
+- klasszikus szövegek olvasásakor sem különböztetjük meg (de Iránon kívül még léteznek)
+** Elöljárószók
+- a "be" névmások előtt "bed", pl. be ín => bedín, be ó => bedó
+- néhány kifejezésben a modern nyelv is tartalmazza, pl. bedín vasíle
+- más elöljárószók régen hátul voltak, elöl pedig "be" volt,
+  pl. be sár-ásh bár (a fején); be zámín ándár (a földben)
+** Óhajtó mód
+- csak harmadik személyben
+- JT + aad (tagadva: má + JT + aad)
+- a búdán óhajtó módja rendhagyóan baad (tagadva: mábaad)
+** Tiltás
+- ná- helyett má-, pl. mákon
+** Megszólítás
+- név után -[y]aa, pl. khodaa-yaa, Haafez-aa
+- "óh"-ként időnként máshova is beékelődik, pl. mábaad-aa (ó ne legyen)
+- a "válaszolta" is gyakran goft-aa
+** A raa partikula
+- eredetileg részesesetet jelölt
+- a birtoklást is ezzel fejezték ki (neki van), pl. váy-raa bánde-é búd "volt egy szolgája"
+- névmásoknál jelenthet tárgyesetet is
+** Utótagos személyes névmások
+- jelenthetnek részesesetet is (nem csak tárgyesetet és birtoklást)
+- nem feltétlenül ahhoz vannak kapcsolva, amire vonatkoznak
+** Igék aspektusai
+- be- + múltidő: befejezettséget jelöl (de ha nincs, attól még lehet befejezett)
+- egyszeriséget, pillanatnyiságot, véglegességet fejez ki (görög aoristos, orosz befejezett igék)
+- mí- helyett hámí: folytonosságot, ismétlést jelöl
+- nem muszáj az ige előtt lennie, utána is kerülhet
+- múltidő + -í: régen ismétlődő cselekvés, pl. aamádándí: szoktak jönni
+- ezzel (ahogy a modern nyelvben) kifejezhető a lehetetlen feltétel is
+- kombinálható a be- és -í, pl. beneshástí: le szokott ülni
+** Elbeszélő múlt
+- a sima múltidőnél a személyragok elé -ást- ékelődik be (-ástám, -ástí, ...)
+- az "ást"-on van a hangsúly
+- ez kombinálható az ismétlődést ill. lehetetlen feltételt kifejező -í raggal (ld. aspektusok)
+** Közmondásos múlt
+- közmondásokban, versek általános érvényű állításaiban a sima múlt helyettesítheti a jelen időt
+** Létige
+- jelen időben bov- tő (bovám, boví, bovád, bovím, bovíd, bovánd)
+- az E/3 jelen- és múltidő írásban ugyanúgy néz ki (bovád / búd)
+- a "níst"-nek ná- volt a töve (náyám, náí, níst, náím, náíd, náyánd)
+- az E/3 rendhagyóan níst
+** Kötőszavak
+- cho / chon: mert, amikor, ha, mint, hogyan?
+* Beszélt nyelv
+- az írása nem standardizált
+** Fonetikai változások
+- "aan" => "ún" majdnem mindenhol, pl. aan khaane => ún khúne (de pl.: íraan, daastaan)
+- "aam" => "úm" néha, pl. aamádán => úmádán, kodaam => kodúm
+- "st" => "ss" általában (de írásban nem reprezentálják)
+- "ár" => "e" szó végén ezeknél: dígár => díge, ágár => áge, mágár => máge, aakhár => aakhe
+- "-e" + enklitikum => "-á", pl. kháste-ást => khástáss, khaane-shaan => khúnáshún
+- "-e" + "-íX" => "-íX" a befejezett alakoknál, pl. ráfte-ím => ráftím
+- "-haa" => "-aa" többesszám, pl. ketaabhaa => ketaabaa
+- magánhangzók közti és szó végi h általában eltűnik, pl. hámraah => hámraa
+- szó végi hamza/3ain is eltűnik, pl. ertefaa' => ertefaa
+** Létige
+- rövid alak (az előző hang alapján):
+|--------+-----+----+------+-----+-----+--------|
+|        | -ám | -í | -ást | -ím | -íd | -ánd   |
+|--------+-----+----+------+-----+-----+--------|
+| msh./í | -ám | -í | -e   | -ím | -ín | -án[d] |
+| egyéb  | -m  | -y | -st  | -ym | -yn | -n     |
+|--------+-----+----+------+-----+-----+--------|
+- hosszú alak (csak a T/2, T/3 különbözik az írottól):
+|---+--------+--------|
+|   | E      | T      |
+|---+--------+--------|
+| 1 | hástám | hástím |
+| 2 | hástí  | hástín |
+| 3 | hást   | hástán |
+|---+--------+--------|
+- a rövid és hosszú létige közti értelmi különbség gyakorlatilag megszűnt
+- hosszút használják:
+  (a) kiemelésre
+  (b) az -í után (kivéve E/3, ahol az -e -t használják)
+  (c) az -[á]m ill. a [h]ám után
+  (d) nem í/e magángangzó után
+** Ragozás
+*** Múlt
+- a MT általában nem változik, kivéve távaanestán => túnest [de személytelen mítávaanest]
+- személyragok:
+|---+--------+-----|
+|   | E      | T   |
+|---+--------+-----|
+| 1 | -ám    | -ím |
+| 2 | -í     | -ín |
+| 3 | [-esh] | -án |
+|---+--------+-----|
+- mivel a befejezett alakoknál a MMI-ből az -e kiesik, megegyezik a sima múlttal (kivéve E/3: -e)
+- de a befejezetteknél a személyragokon lesz a hangsúly, míg a sima múltnál előtte,
+  pl. ráftÁm vs. rÁftám; ráftÍn vs. rÁftín; de: ráftE vs. rÁft
+*** Jelen
+- a JT néhány igénél változik, ld. lent
+- személyragok mássalhangzó után:
+|---+-----+-----|
+|   | E   | T   |
+|---+-----+-----|
+| 1 | -ám | -ím |
+| 2 | -í  | -ín |
+| 3 | -é  | -án |
+|---+-----+-----|
+- személyragok magánhangzó után:
+|---+----+-----|
+|   | E  | T   |
+|---+----+-----|
+| 1 | -m | -ym |
+| 2 | -y | -yn |
+| 3 | -d | -n  |
+|---+----+-----|
+*** JT változások
+|--------------+-----------+--------------+-------------------------|
+| szó          | JT        | Jelen E/1    | felszólító              |
+|--------------+-----------+--------------+-------------------------|
+| aavord-      | -aar-     | míaarám      | bíaar[ín]               |
+| [á]ndaakht   | -ndaaz-   | míndaazám    | bándaaz[ín]             |
+| vár-daasht-  | vár-daar- | vár-mídaarám | vár-daar[ín]            |
+| túnest-      | tún-      | mítúnám      | betún[ín]               |
+| khaast-      | khaa-     | míkhaam      | bekhaa[yn]              |
+| daad-        | d-        | mídám        | bedeh / bedín           |
+| dúnest-      | dún-      | mídúnám      | bedún[ín]               |
+| ráft-        | r-        | mírám        | borow / berín           |
+| shod-        | sh-       | míshám       | beshow / beshín         |
+| shost-       | shúr-     | míshúrám     | beshúr[ín]              |
+| sh[e]kást-   | shkán-    | míshkánám    | beshkán[ín]             |
+| sheníd-      | shn[áv]-  | míshn[áv]ám  | beshnow / beshnín       |
+| sh[e]naakht- | shnaas    | míshnaasám   | beshnaas[ín]            |
+| g[o]zaasht-  | [g]zaar-  | mí[g]zaarám  | bezaar[ín], bogzaar[ín] |
+| g[o]zásht-   | [g]zár-   | mí[g]zárám   | bezár[ín], bogzár[ín]   |
+| goft-        | g-        | mígám        | begú / begín            |
+| n[e]shást-   | nshín-    | mí[n]shínám  | be[n]shín[ín]           |
+| n[e]vesht-   | nvís-     | mínvísám     | benvís[ín]              |
+|--------------+-----------+--------------+-------------------------|
+*** Folyamatos igeidők
+- a beszélt nyelvben a sima jelen/múlt nem jelent folyamatost
+- folyamatos jelen: daashtán + jelen, pl. daarám mírám, daarí mírí stb.
+- folyamatos múlt: daashtán + múlt, pl. daashtám míráftám, daashtí míráftí stb.
+- ezeket nem lehet tagadni
+- kifejezhető velük, hogy éppen amikor vmi történt, vmi más történt:
+  pl. daashtám rúznaame míkhaandám ke telfon záng zád.
+** Partikulák
+*** ezaafe
+- főnév + melléknévnél az ezaafe hátraugorhat, hangsúlyosan: otaaq-e kúchek => otaaq kúchek-e
+- ha -raa is kapcsolódna hozzá, akkor -e helyett -á lesz: kíf-e síaah raa => kíf síaah-a-ro
+*** raa
+- a -raa partikulából -ro/-re lesz, mássalhangzó után -o/-e [mán + raa => máraa helyett mán-o]
+- írásban szokás vaav-al reprezentálni
+- ha -[h]ám is van utána, akkor teljesen kiesik, pl. aan-raa-hám dídám => ún-ám dídám
+- használható idő-/helyhatározóként, pl. shíraaz-o náráftám
+*** ke
+- kiemeli az előző szót
+- pl. ín-ke dorost níst => EZ nem jó (nem az)
+- pl. ín dorost níst-ke => ez NEM jó
+** Birtokos szuffixumok
+- az előző hang alapján:
+|-----+-----+-----+------+-------+-------+--------|
+|     | Én  | Te  | Ő    | Mi    | Ti    | Ők     |
+|-----+-----+-----+------+-------+-------+--------|
+| msh | -ám | -et | -esh | -emún | -etún | -eshún |
+| mgh | -m  | -t  | -sh  | -mún  | -tún  | -shún  |
+|-----+-----+-----+------+-------+-------+--------|
+- az E/3 -[e]sh szuffixum jelentheti, hogy "az a ..., amiről szó van" (cf. indonéz -nya)
+** Elöljárószók
+- "dár => "tú[-ye]"
+- helyhatározók általában az ige után kerülnek, pl. dár aan khaane ráftánd => ráftán tú ún khúne
+- sokszor a helyhatározók teljesen eltűnnek a mondatból, pl. míkhaast berám Tehrún
+- a birtokos szuffixumok minden elöljárószóhoz kapcsolhatóak
+- ilyenkor be => beh- (behám, behet stb.), baa => baahaa- (baahaam, baahaat stb.),
+  és hámraah => hámraahaa- (hámraahaam, hámraahaat stb.)
+** Változások, amik Thackston szerint az írott nyelvben is vannak
+- tagadott jelenidőnél a námí-ből nemí- lesz, pl. nemíkonám
+- a be- prefix bo-ra változik, ha a következő magánhangzó o [vagy ow vagy ú],
+  pl. begú => bogú és bekoníd => bokoníd, de begú'íd => begíd és begúyám => begám
+- az összetett igék kötőmódjában is gyakran kirakják a be- prefixet,
+  ha nem annyira szoros a kapcsolat és nem kárdán/shodán az igei rész
+- a be-/ná- prefix utáni nyílt szótagból az e/o magánhangzók kiesnek, pl. begozaaríd => bogzaaríd
