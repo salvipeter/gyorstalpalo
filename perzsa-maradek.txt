@@ -149,23 +149,7 @@
   pl. álí {daaneshjú-ye zeráng}-í níst
 - irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
   pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
-** Ezaafe
-- birtoklást, jellemzést (melléknévvel) vagy azonosítást jelöl
-- a birtokló/jelző kerül hátulra
-- a kettő közé egy "e" (mgh. után ye) hang kerül
-- nem írják, kivéve aa és ú után y-vel
-- í-re és e-re végződő főnévnél az í-re illetve a h-ra kerülhet hamza (az ejtés változatlanul ye)
-- pl. esm-e mán (az én nevem, írásban "Asm mn")
-- határozatlan birtokolt dolgot a "yek" vagy "yekí áz" vezeti be,
-  pl. yekí áz ketaabhaa-ye mán / yek daaneshjú-ye daaneshgaah
-- az ezaafe halmozható, de a melléknevek közé vá (és) is kerülhet,
-  pl. sháb-e taarík-e sárd / sháb-e taarík vá sárd 
-  [Thackston:] határozatlannál o, amúgy ezaafe (ld. Melléknevek)
 * Melléknevek, határozók
-- jelzett után, kapcsolódás ezaafe-vel, de határozatlan után nincs, pl. mízí khúb = {míz-e khúb}-í
-- számban egyeztetni nem kell
-- több melléknév esetén mindegyik közt ezaafe, de határozatlannál "o",
-  pl. mízí khúb o bozorg = {míz-e khúb-e bozorg}-í
 - középfok: -tár (hangsúlyos)
 - felsőfok: -tárín (hátul hangsúlyos, a jelzett elé kerül!)
 - két kivétel: khúb => behtár(ín), zíaad/kheílí => bíshtár(ín) [néha csak bísh]
@@ -397,8 +381,6 @@
   pl. ketaab-e dígár-í-raa khaastám [egy (bizonyos) másik könyvet kértem]
 ** Határozatlanság-jelölő
 - tagadott alakokkal gyakran szerepel, pl. hích kásí nádídám
-- ha az ezaafe helyére kerül, akkor az ezaafe eltűnik, pl. márdí khúb
-  (de a leggyakoribb, hogy a csoport végére kerül, tehát pl. márd-e khúbí)
 ** Hám
 - hangsúlyozás (összehasonlításnál, rámutatásnál),
   pl. Kodaam? Ín hám. vagy pl. mán hám mírávám, válí ...

@@ -1193,7 +1193,7 @@ aw
 \emph on
 ay
 \emph default
--ként írja át őket, de ez az összefoglaló (és a hivatalos átírás) a kiejtést
+-ként írja át ezeket, de ez az összefoglaló (és a hivatalos átírás) a kiejtést
  követi.
 \end_layout
 
@@ -1617,6 +1617,224 @@ ezâfe
 \end_layout
 
 \begin_layout Standard
+Főnevek összekapcsolhatóak az 
+\emph on
+-e
+\emph default
+ szuffixum (magánhangzó után 
+\emph on
+-ye
+\emph default
+) segítségével.
+ Ennek a neve 
+\emph on
+ezâfe
+\emph default
+, azaz ,,hozzáadás'' – ez jelenthet birtoklást, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gorbehâ-ye Kâmrân
+\emph default
+ (Kamran macskái; 
+\emph on
+gorbe
+\emph default
+: macska), vagy azonosítást, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+râh-e Esfahân
+\emph default
+ (az Iszfahánba vezető út; 
+\emph on
+râh
+\emph default
+: út).
+ Bonyolultabb összetételek is lehetségesek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dustân-e pedar-o mâdar-e âqâ-ye 'alizâde
+\emph default
+ (Alizade úr szüleinek barátai; 
+\emph on
+pedar
+\emph default
+: apa, 
+\emph on
+-o
+\emph default
+: és, 
+\emph on
+mâdar
+\emph default
+: anya, 
+\emph on
+dust
+\emph default
+: barát, 
+\emph on
+âqâ
+\emph default
+: úr).
+ Határozatlan birtokolt dolgokról a 
+\emph on
+yek-i az
+\emph default
+ (egy ...-ból) kifejezéssel tudunk beszélni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+yek-i az ketâbhâ-ye Mar\SpecialChar softhyphen
+yam
+\emph default
+ (egy Maryam könyvei közül; 
+\emph on
+ketâb
+\emph default
+: könyv).
+\end_layout
+
+\begin_layout Section
+Melléknevek
+\end_layout
+
+\begin_layout Standard
+Jelzők összekapcsolása is az 
+\emph on
+ezâfe
+\emph default
+-vel történik (egyeztetés nincsen).
+ Több jelző esetén az utolsó kivételével mindegyikhez ki kell rakni az 
+\emph on
+ezâfe
+\emph default
+-t, de ilyenkor használhatjuk helyette az ,,és'' (
+\emph on
+-o
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+va-
+\emph default
+) szót is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+otâqhâ-ye bozorg-e tamiz
+\emph default
+ / 
+\emph on
+otâqhâ-ye bozorg-o tamiz
+\emph default
+ (nagy és tiszta szobák; 
+\emph on
+otâq
+\emph default
+: szoba, 
+\emph on
+bozorg
+\emph default
+: nagy, 
+\emph on
+tamiz
+\emph default
+: tiszta).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Thackston szerint az -o/va- verzió csak akkor használható, ha a főnév határozatl
+an -i -t kapott
+\end_layout
+
+\end_inset
+
+ A melléknevek sorrendje nem számít, de ha más főnevek is szerepelnek a
+ szerkezetben, akkor a jelző kerül közelebb, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+barâdar-e zerang-e Rezâ
+\emph default
+ (Reza okos fivére; 
+\emph on
+barâdar
+\emph default
+: fivér, 
+\emph on
+zerang
+\emph default
+: okos), vö.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+barâdar-e Rezâ-ye zerang
+\emph default
+ (az okos Reza fivére).
+\end_layout
+
+\begin_layout Standard
+A határozatlanságot jelölő 
+\emph on
+-i
+\emph default
+ általában a szerkezet után kerül, de lehet az 
+\emph on
+ezâfe
+\emph default
+ helyére is tenni, ilyenkor az esetleges további jelzőket mindig ,,és''-sel
+ kötjük, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dokhtar-e zibâ-ye javân-i
+\emph default
+ / 
+\emph on
+dokhtar-i zibâ va-javân
+\emph default
+ (egy szép és fiatal lány; 
+\emph on
+dokhtar
+\emph default
+: lány, 
+\emph on
+zibâ
+\emph default
+: szép, 
+\emph on
+javân
+\emph default
+: fiatal).
+\end_layout
+
+\begin_layout Subsection
+Fokozás
+\end_layout
+
+\begin_layout Standard
 Bla
 \end_layout
 
@@ -1625,15 +1843,18 @@ Sok egyéb
 \end_layout
 
 \begin_layout Itemize
-melleknevek
-\end_layout
-
-\begin_layout Itemize
-szemelyes/birtokos/mutato nevmasok
+szemelyes/birtokos/mutato nevmasok - szemelyes nevmasnal a megszolitasokrol
+ (aqa/khanom hasznalata, ld.
+ Thackston 23.
+ oldal)
 \end_layout
 
 \begin_layout Itemize
 eloljaroszavak
+\end_layout
+
+\begin_layout Itemize
+mondatszerkezet, fonevi/melleknevi allitmany, kerdo mondat, tagadas
 \end_layout
 
 \begin_layout Itemize
