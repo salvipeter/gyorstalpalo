@@ -1709,7 +1709,7 @@ Melléknevek
 \end_layout
 
 \begin_layout Standard
-Jelzők összekapcsolása is az 
+Jelzők főnévhez kapcsolása az 
 \emph on
 ezâfe
 \emph default
@@ -1835,6 +1835,113 @@ Fokozás
 \end_layout
 
 \begin_layout Standard
+A közép- és felsőfokot rendre a hangsúlyos 
+\emph on
+-tar
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+-tarin
+\emph default
+ végződésekkel képezzük.
+ A felsőfokú melléknév a jelzett főnév elé kerül, 
+\emph on
+ezâfe
+\emph default
+ nélkül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khâne-ye kuchektar
+\emph default
+ (kisebb ház; 
+\emph on
+khâne
+\emph default
+: ház, 
+\emph on
+kuchek
+\emph default
+: kicsi), 
+\emph on
+kuchektarin khâne
+\emph default
+ (a legkisebb ház).
+ A 
+\emph on
+khub
+\emph default
+ (jó; jól) melléknév közép- és felsőfoka helyett az azonos jelentésű, de
+ régies 
+\emph on
+beh
+\emph default
+ alakjait használják (
+\emph on
+behtar
+\emph default
+[
+\emph on
+in
+\emph default
+]).
+ Egy másik kivétel a ,,sok'' jelentésű 
+\emph on
+besyâr
+\emph default
+, 
+\emph on
+kheyli
+\emph default
+ és 
+\emph on
+ziâd
+\emph default
+ szavak fokozása: középfokban 
+\emph on
+bish
+\emph default
+ vagy 
+\emph on
+bishtar
+\emph default
+, felsőfokban 
+\emph on
+bishtarin
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+A középfok kifejezhető a 
+\emph on
+bishtar
+\emph default
+ segítségével is, ezt főleg akkor használják, amikor a melléknév bonyolult,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bishtar <<< van ilyen?
+\end_layout
+
+\begin_layout Standard
+blabla
+\end_layout
+
+\begin_layout Subsection
+Összehasonlítás
+\end_layout
+
+\begin_layout Standard
 Bla
 \end_layout
 
@@ -1909,6 +2016,10 @@ targyjelolo
 
 \begin_layout Itemize
 kerdoszavak
+\end_layout
+
+\begin_layout Itemize
+hatarozok, kepzesek, arab hatarozok stb.
 \end_layout
 
 \begin_layout Itemize

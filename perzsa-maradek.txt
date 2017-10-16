@@ -150,12 +150,7 @@
 - irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
   pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
 * Melléknevek, határozók
-- középfok: -tár (hangsúlyos)
-- felsőfok: -tárín (hátul hangsúlyos, a jelzett elé kerül!)
-- két kivétel: khúb => behtár(ín), zíaad/kheílí => bíshtár(ín) [néha csak bísh]
 - "bonyolult" mellékneveknél bíshtár + ... alakban képezzük a középfokot
-- "bonyolult" mellékneveknél külön írjuk a tárín-t
-  [Thackston:] -tár/-tárín mindig írható egybe vagy külön
 - felsőfokra lehet még: ... áz háme
 - összehasonlításnál a "mint": áz, taa => taa akkor, ha:
   - az összehasonlítás a főige után kerül
