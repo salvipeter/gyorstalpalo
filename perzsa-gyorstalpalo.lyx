@@ -226,6 +226,12 @@ key "thiesen,thackston-poems,thackston-gulistan,davis,nicholson,sprachman"
 \end_layout
 
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Írás-és-kiejtés"
+
+\end_inset
+
 Írás és kiejtés
 \end_layout
 
@@ -932,47 +938,31 @@ táblázat mutatja az átírást; az egyes betűk alatt a kiejtés a magyar áb�
 \end_layout
 
 \begin_layout Enumerate
-Rövid 
-\emph on
-á
-\emph default
- és 
-\emph on
-e
-\emph default
- közti hang.
+Rövid [á] és [e] közti hang.
 \end_layout
 
 \begin_layout Enumerate
-A 
-\emph on
-cs
-\emph default
-, 
-\emph on
-k
-\emph default
-, 
-\emph on
-p
-\emph default
-, és 
-\emph on
-t
-\emph default
- hangok hehezetesek.
+Hehezetesek hangok [
+\begin_inset Formula $\mathrm{cs^{h}}$
+\end_inset
+
+/
+\begin_inset Formula $\mathrm{k^{h}}$
+\end_inset
+
+/
+\begin_inset Formula $\mathrm{p^{h}}$
+\end_inset
+
+/
+\begin_inset Formula $\mathrm{t^{h}}$
+\end_inset
+
+].
 \end_layout
 
 \begin_layout Enumerate
-Rövid 
-\emph on
-e
-\emph default
- és 
-\emph on
-é
-\emph default
- közti hang.
+Rövid [e] és [é] közti hang.
 \end_layout
 
 \begin_layout Enumerate
@@ -996,15 +986,15 @@ i
 \emph on
 a
 \emph default
-) előtt palatalizálódnak (
-\begin_inset Formula $g^{j}$
+) előtt palatalizálódnak [
+\begin_inset Formula $\mathrm{g^{j}}$
 \end_inset
 
-, 
-\begin_inset Formula $k^{j}$
+/
+\begin_inset Formula $\mathrm{k^{j}}$
 \end_inset
 
-).
+].
 \end_layout
 
 \begin_layout Enumerate
@@ -1025,11 +1015,7 @@ g
 \emph on
 kh
 \emph default
--val jelölt ,,hörgő'' hang zöngés változatába (hasonló a francia 
-\emph on
-r
-\emph default
--hez).
+-val jelölt ,,hörgő'' hang zöngés változatába (hasonló a francia r-hez).
 \end_layout
 
 \begin_layout Enumerate
@@ -1115,19 +1101,15 @@ e-i
 \emph on
 forush
 \emph default
- (
-\emph on
-furús
-\emph default
-), 
+ [furús], 
 \emph on
 kelid
 \emph default
- (
-\emph on
-kilíd
-\emph default
-).
+ [
+\begin_inset Formula $\mathrm{k^{j}}$
+\end_inset
+
+ilíd].
 \end_layout
 
 \begin_layout Standard
@@ -1198,6 +1180,76 @@ ay
 \end_layout
 
 \begin_layout Standard
+Az átírás egy hangtani változást nem vesz figyelembe: amikor hangsúlyos
+ 
+\emph on
+e
+\emph default
+-re végződő szóhoz 
+\emph on
+a
+\emph default
+-val kezdődő hangsúlytalan szuffixumot kapcsolunk, akkor az 
+\emph on
+-e
+\emph default
+ rendszerint kiesik, és az eredmény egy hangsúlyos 
+\emph on
+a
+\emph default
+ lesz.
+ Ez azonban nem kötelező, gondos beszédben a két magánhangzót egy torokzárás
+ választhatja el.
+ Pl.:
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+karde-am
+\emph default
+ [
+\begin_inset Formula $\mathrm{k^{j}}$
+\end_inset
+
+ár'dám / 
+\begin_inset Formula $\mathrm{k^{j}}$
+\end_inset
+
+ár'de
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ʔ
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang magyar
+ám].
+\end_layout
+
+\begin_layout Subsection
+Hangsúly és intonáció
+\end_layout
+
+\begin_layout Standard
 A hangsúly általában a szó végére kerül.
  Ebbe beleszámítanak a ragok is, kivéve azokat a szuffixumokat, amelyek
  itt kötőjellel vannak jelölve.
@@ -1210,7 +1262,7 @@ a
 \emph on
  na-
 \emph default
- prefixumra [ha van]
+ prefixumra (ha van)
 \end_layout
 
 \begin_layout Enumerate
@@ -1226,7 +1278,7 @@ mi-
 \emph on
 be-
 \emph default
- prefixumra [ha van]
+ prefixumra (ha van)
 \end_layout
 
 \begin_layout Enumerate
@@ -1393,7 +1445,7 @@ gorbe-i
 \noun default
 \color inherit
 \lang magyar
-i / gor'beyi].
+í / gor'bejí].
 \begin_inset Note Note
 status open
 
@@ -1454,9 +1506,7 @@ status open
 \backslash
 mbox{
 \backslash
-emph-yân
-\emph on
-}
+emph-yân}
 \end_layout
 
 \end_inset
@@ -1503,7 +1553,8 @@ hamsâye
 Az arab eredetű szavaknak emellett van arab többesszáma is.
  Ezek használata választékosabbá teszi a beszédet, de értelemben megegyezik
  a szabályossal.
- A képzésre szabály nincsen, bár vannak gyakori sémák: ilyen az 
+ A képzésében nincsen logikus rendszer, bár vannak gyakori sémák: ilyen
+ az 
 \emph on
 -ât
 \emph default
@@ -1552,7 +1603,7 @@ enqelâbiun
 enqelâbi
 \emph default
 : forradalmár).
- Az utóbbi mintájára az 
+ Az 
 \emph on
 -ât
 \emph default
@@ -1655,6 +1706,19 @@ râh-e Esfahân
 râh
 \emph default
 : út).
+ A családnév elé is 
+\emph on
+ezâfe
+\emph default
+ kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Irâj-e Pezeshkzâd
+\emph default
+ (Iraj Pezeshkzad).
  Bonyolultabb összetételek is lehetségesek, pl.
 \begin_inset space ~
 \end_inset
@@ -1702,6 +1766,2074 @@ yam
 ketâb
 \emph default
 : könyv).
+\end_layout
+
+\begin_layout Section
+Személyes és birtokos névmások
+\end_layout
+
+\begin_layout Standard
+A perzsa személyes névmásokat a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Személyes-névmások"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat foglalja össze.
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+te
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ő / az
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+man
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+to
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+u/vey / ân
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-am
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-et (-at)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-esh (-ash)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti / ön[ök]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ők/azok / ő[k] (udv.)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mâ
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+shomâ
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ânhâ / ishân
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-emân
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-etân
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-eshân
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Személyes-névmások"
+
+\end_inset
+
+Személyes névmások.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Udvarias beszédben egyesszámban is a többesszámú alakokat használják (
+\emph on
+shomâ
+\emph default
+, 
+\emph on
+ishân
+\emph default
+), és ezekhez egyeztetnek.
+ Nagyon formális helyzetekben, pl.
+\begin_inset space ~
+\end_inset
+
+hivatalos levelekben, első személyben a 
+\emph on
+bande
+\emph default
+ (szolga), második személyben a 
+\emph on
+janâb-e 'âli
+\emph default
+ (kb.
+\begin_inset space ~
+\end_inset
+
+méltóságos úr) kifejezéseket is alkalmazzák.
+ Emberekre az 
+\emph on
+u
+\emph default
+ és 
+\emph on
+vey
+\emph default
+ egyaránt használatos (bár az utóbbi inkább írott nyelvi), míg az 
+\emph on
+ân
+\emph default
+ ilyenkor ritka.
+ Hasonló megkülönböztetés volt többesszámban is: emberekre 
+\emph on
+ishân
+\emph default
+, minden másra 
+\emph on
+ânhâ
+\emph default
+.
+ Ez azonban megszűnt, és ma már az 
+\emph on
+ishân
+\emph default
+ csak udvarias beszédben használatos, informális szituációkban az 
+\emph on
+ânhâ
+\emph default
+ vette át a helyét.
+\end_layout
+
+\begin_layout Standard
+Második személyben a fenti névmások helyett gyakran használnak címeket,
+ amelyekhez – a szituációnak megfelelően – a kereszt- vagy családnevet teszik
+ hozzá, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+doktor Shirâzi
+\emph default
+ (Shirazi doktor úr).
+ A Mr.
+\begin_inset space ~
+\end_inset
+
+és Ms.
+\begin_inset space ~
+\end_inset
+
+megfelelői rendre az 
+\emph on
+âqâ
+\emph default
+ és 
+\emph on
+khânom
+\emph default
+, amelyek családnév előtt 
+\emph on
+ezâfe
+\emph default
+-vel szerepelnek, keresztnévvel viszont 
+\emph on
+ezâfe
+\emph default
+ nélkül, akár elöl, akár hátul, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+âqâ-ye Farrokhzâd
+\emph default
+ (Mr.
+\begin_inset space ~
+\end_inset
+
+Farrokhzad), 
+\emph on
+khânom-e Qorbâni
+\emph default
+ (Ms.
+\begin_inset space ~
+\end_inset
+
+Ghorbani), 
+\emph on
+Donyâ khânom
+\emph default
+ (Donya), 
+\emph on
+âqâ Rostam
+\emph default
+ (Rostam).
+ Közeli kapcsolatban a 
+\emph on
+jân
+\emph default
+ (élet) szót is a keresztnév után lehet helyezni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Maryam jân
+\emph default
+ (drága Maryam).
+\end_layout
+
+\begin_layout Standard
+Birtoklás kifejezhető 
+\emph on
+ezâfe
+\emph default
+ segítségével, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pirâhan-e man
+\emph default
+ (az ingem; 
+\emph on
+pirâhan
+\emph default
+: ing), vagy a táblázatban feltüntetett (hangsúlytalan) szuffixumok hozzáadásáva
+l, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pirâhan-am
+\emph default
+.
+ Egyesszám második és harmadik személyben a kollokviális kiejtés (
+\emph on
+-et
+\emph default
+/
+\emph on
+-esh
+\emph default
+) kezd átmenni az írott nyelvbe is
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Az ,,írott nyelv kiejtése'' alatt a leírt szövegek felolvasásakor alkalmazott
+ kiejtést kell érteni.
+\end_layout
+
+\end_inset
+
+, kivéve az 
+\emph on
+-e
+\emph default
+ végű szavaknál, ahol megmarad az 
+\emph on
+-at/-ash
+\emph default
+ (és a végső magánhangzó elnyelődik, ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Írás-és-kiejtés"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+pont vége), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khâne-ash
+\emph default
+ (a háza; 
+\emph on
+khâne
+\emph default
+: ház).
+ Hosszú magánhangzó után egy 
+\emph on
+-y-
+\emph default
+ ékelődik be, pl.
+ 
+\emph on
+abru-yet
+\emph default
+ (a szemöldököd; 
+\emph on
+abru
+\emph default
+: szemöldök).
+\end_layout
+
+\begin_layout Standard
+Birtokos névmást 
+\emph on
+ezâfe
+\emph default
+-vel képzünk, ahol a birtokolt helyén a 
+\emph on
+mâl
+\emph default
+ (vagyon) szó áll, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mâl-e shomâ
+\emph default
+ (az öné).
+ Irodalmibb szövegben a 
+\emph on
+mâl 
+\emph default
+helyett állhat az 
+\emph on
+ân
+\emph default
+ is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ân-e mâ
+\emph default
+ (a miénk).
+\end_layout
+
+\begin_layout Section
+Igék
+\end_layout
+
+\begin_layout Standard
+A perzsában az igéknek két töve van, egy jelenidejű (JT) és egy múltidejű
+ (MT).
+ Ez utóbbi mindig 
+\emph on
+d
+\emph default
+-re vagy 
+\emph on
+t
+\emph default
+-re végződik (
+\emph on
+t
+\emph default
+-re, ha előtte zöngétlen mássalhangzó van, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dânest-
+\emph default
+).
+ A jelenidejű tő gyakran egyszerűen képezhető úgy, hogy a MT 
+\emph on
+-
+\emph default
+[
+\emph on
+i
+\emph default
+]
+\emph on
+d
+\emph default
+/
+\emph on
+-t
+\emph default
+ végződését elhagyjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khord-
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khor
+\emph default
+-, 
+\emph on
+khâbid-
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khâb
+\emph default
+-, 
+\emph on
+bâft-
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bâf-
+\emph default
+.
+ Sokszor azonban valamilyen hangváltozás történik, és ezeket a rendhagyó
+ eseteket meg kell tanulni.
+ A 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Rendhagyó-igék-gyakori"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat mutat néhány gyakoribb sémát.
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="7">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MT
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-kht-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ud-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-Vft-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-ord-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-âsht-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-st-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Példa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+andâkht-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+farmud-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+yâft-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+shomord-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dâsht-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+bast-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+JT
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-z-/-s-/-sh-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-â-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-Vb-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-âr-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-âr-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-h-/-nd-/-n-/...
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Példa
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+andâz-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+farmâ-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+yâb-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+shomâr-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+dâr-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+band-
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Rendhagyó-igék-gyakori"
+
+\end_inset
+
+Rendhagyó igék gyakori sémái (a V egy hosszú magánhangzót jelöl).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Az igét az alannyal egyeztetni kell, de ha az alany nem embert (vagy más
+ ,,racionális lényt'') jelöl, akkor egyesszámba kerül.
+ Kivételt képeznek a nagyon rövid mondatok, ahol közel van az alany és az
+ állítmány, mert ilyenkor többesszámba is kerülhet.
+\end_layout
+
+\begin_layout Subsection
+Főnévi igenév
+\end_layout
+
+\begin_layout Standard
+A főnévi igenév egyben a szótári alak is, képzése MT + 
+\emph on
+an
+\emph default
+, pl.
+ 
+\emph on
+kardan
+\emph default
+ (MT: 
+\emph on
+kard-
+\emph default
+).
+ Ez a mondatban szerepelhet alanyként, tárgyként, vagy elöljárószó után
+ is.
+\end_layout
+
+\begin_layout Standard
+A múltidejű tő maga a ,,rövid főnévi igenév'' (RFI), amit a jövőidő kifejezéséné
+l, illetve személytelen szerkezetekben használnak (ezekről ld.
+\begin_inset space ~
+\end_inset
+
+később).
+\end_layout
+
+\begin_layout Subsection
+Befejezett melléknévi igenév
+\end_layout
+
+\begin_layout Standard
+A befejezett melléknévi igenév (BMI) képzése MT + 
+\emph on
+e
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kardan 
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ karde
+\emph default
+.
+ Amikor egy mondatban több egymás utáni cselekvést akarunk kifejezni, az
+ utolsó kivételével mindegyiket tehetjük ebbe az alakba, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bidâr shode, sobhâne khorde, lebâs pushidam 
+\emph default
+(felébredtem, megreggeliztem és felöltöztem; 
+\emph on
+bidâr
+\emph default
+: éber, 
+\emph on
+shodan
+\emph default
+: válik, 
+\emph on
+sobhâne
+\emph default
+: reggeli, 
+\emph on
+khordan
+\emph default
+: eszik, 
+\emph on
+lebâs
+\emph default
+: ruha, 
+\emph on
+pushidam
+\emph default
+: (ruhát) felvettem).
+\end_layout
+
+\begin_layout Subsection
+Összetett igék
+\end_layout
+
+\begin_layout Standard
+Igék képezhetőek más szófajú szavakból egy alapige hozzácsatolásával.
+ Az erre a célra használt leggyakoribb igék a 
+\emph on
+kardan/kon-
+\emph default
+ (csinál), 
+\emph on
+shodan/shav-
+\emph default
+ (válik), 
+\emph on
+dâshtan/dâr-
+\emph default
+ (birtokol), 
+\emph on
+dâdan/deh-
+\emph default
+ (ad), 
+\emph on
+gereftan/gir-
+\emph default
+ (vesz), 
+\emph on
+zadan/zan-
+\emph default
+ (üt), 
+\emph on
+khordan/khor-
+\emph default
+ (eszik).
+ A 
+\emph on
+kardan
+\emph default
+ és 
+\emph on
+shodan
+\emph default
+ gyakran párt alkot, amelyből az egyik tárgyas, a másik tárgyatlan igét
+ képez, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gom kardan
+\emph default
+ / 
+\emph on
+gom shodan
+\emph default
+ (elveszít / elveszik; 
+\emph on
+gom
+\emph default
+: elveszett).
+ Az összetett igéknek csak az igei része ragozódik.
+ A leggyakoribb igék mintegy kétharmada ebbe a típusba tartozik 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "frequency"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Ragozás
+\end_layout
+
+\begin_layout Standard
+Az igeidőt illetve módot prefixumok jelölik, a személyragok (SZ) az ige
+ végéhez csatolódnak.
+ A személyragokat a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Személyragok"
+
+\end_inset
+
+., az igék különböző alakjait az 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Igeragozás"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat foglalja össze.
+ Ha a JT hosszú magánhangzóra végződik, az 
+\emph on
+-a-
+\emph default
+ kezdetű személyragokba egy 
+\emph on
+-y-
+\emph default
+ kötőhang kerül.
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+te
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ők
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-[y]am
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-i
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(-[y]ad)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-im
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-id
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-[y]and
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Személyragok"
+
+\end_inset
+
+Személyragok.
+ (A zárójeles szuffixum a múltidejű tő után eltűnik.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jelen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[ne]mi + JT + SZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Múlt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[na] + MT + SZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kötőmód
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+na/[be] + JT + SZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Folyamatos múlt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mi + MT + SZ
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Befejezett
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[na] + BMI + (
+\emph on
+budan
+\emph default
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Jövő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+khâh + SZ + RFI
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Passzív
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BMI + [na] + (
+\emph on
+shodan
+\emph default
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Igeragozás"
+
+\end_inset
+
+Igeragozás.
+ (JT: jelenidejű tő, SZ: személyrag, MT: múltidejű tő, BMI: befejezett melléknév
+i igenév, RFI: rövid főnévi igenév)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Jelenidő
+\end_layout
+
+\begin_layout Standard
+A jelenidő, mint a magyarban, egyaránt kifejezhet éppen végbemenő, habituális,
+ vagy jövőre vonatkozó állításokat.
+ Jele a 
+\emph on
+mi-
+\emph default
+ prefixum, tagadásban 
+\emph on
+nemi-
+\emph default
+ (eredetileg 
+\emph on
+nami-
+\emph default
+, de a kollokviális kiejtés az írott nyelvbe is átjött).
+ Pl.: 
+\emph on
+fârsi yâd migiram
+\emph default
+ (perzsául tanulok; 
+\emph on
+fârsi
+\emph default
+: perzsa, 
+\emph on
+yâd
+\emph default
+: emlékezet 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+yâd gereftan
+\emph default
+: tanul).
+\end_layout
+
+\begin_layout Standard
+Kivételes a 
+\emph on
+dâshtan/dâr-
+\emph default
+ (birtokol) ige, amely nem kap 
+\emph on
+mi-
+\emph default
+ prefixumot (tagadásban is csak 
+\emph on
+nadâr-
+\emph default
+).
+ Az ezzel képzett összetett igék nagyrésze (de nem mind) szintén így viselkedik.
+ Pl.: 
+\emph on
+pul nadârand
+\emph default
+ (nincs pénzük; 
+\emph on
+pul
+\emph default
+: pénz).
+\end_layout
+
+\begin_layout Standard
+Szintén kivételes a 
+\emph on
+budan
+\emph default
+/
+\emph on
+bâsh-
+\emph default
+ létige, aminek ragozását a 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-létige-jelenidejű"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat mutatja.
+ Létezés kifejezésére csak a hosszú alakokat használják, míg azonosság kifejezés
+ére inkább a rövid alakokat – bár kiemelés miatt, vagy azért, hogy elkerüljék
+ a magánhangzó-torlódást, időnként erre is alkalmazzák a hosszút.
+ Tagadott alakból csak egy fajta van.
+ Példák: 
+\emph on
+in qâshoq nist
+\emph default
+ (ez nem kanál; 
+\emph on
+qâshoq
+\emph default
+: kanál), 
+\emph on
+qâshoq nist
+\emph default
+ (nincs kanál), 
+\emph on
+qâshoq-i hast
+\emph default
+ (van egy kanál), 
+\emph on
+parandegân-im
+\emph default
+ (madarak vagyunk; 
+\emph on
+parande
+\emph default
+: madár), 
+\emph on
+parande hasti
+\emph default
+ (madár vagy).
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="7">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+én
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+te
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ő
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+mi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ti
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ők
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Hosszú
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hastam
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hasti
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hast
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hastim
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hastid
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+hastand
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rövid
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-[y]am
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-i
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-[a]st
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-im
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-id
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+-[y]and
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tagadott
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nistam
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nisti
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nist
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nistim
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nistid
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+nistand
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:A-létige-jelenidejű"
+
+\end_inset
+
+A létige jelenidejű ragozása.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Érdemes megfigyelni, hogy a hosszú és tagadott alakok szinte szabályosak
+ a 
+\emph on
+hast-
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+nist-
+\emph default
+ tővel, és a rövid alak majdnem megegyezik a személyragokkal: mindegyiknél
+ csak az ,,ő'' alak képzése más.
+ A rövid alaknál hosszú magánhangzó után az 
+\emph on
+-ast
+\emph default
+-ból az 
+\emph on
+-a-
+\emph default
+ kiesik, de egyébként megmarad, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Leylâ dâneshju-st
+\emph default
+ (Leyla egyetemista; 
+\emph on
+dâneshju
+\emph default
+: egyetemista), 
+\emph on
+Shirin bachche-ast
+\emph default
+ (Shirin gyerek; 
+\emph on
+bachche
+\emph default
+: gyerek).
+ Hasonlóan az 
+\emph on
+-am
+\emph default
+ és 
+\emph on
+-and 
+\emph default
+végződések is megmaradnak rövid mássalhangzó után, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gorosne-am
+\emph default
+ (éhes vagyok; 
+\emph on
+gorosne
+\emph default
+: éhes).
+\end_layout
+
+\begin_layout Subsubsection
+Múltidő
+\end_layout
+
+\begin_layout Standard
+da
+\end_layout
+
+\begin_layout Subsubsection
+Kötőmód / Felszólító mód
+\end_layout
+
+\begin_layout Standard
+asdf
+\end_layout
+
+\begin_layout Subsubsection
+Folyamatos múltidő
+\end_layout
+
+\begin_layout Standard
+sadfa
+\end_layout
+
+\begin_layout Standard
+kontrafaktuális
+\end_layout
+
+\begin_layout Subsubsection
+Befejezett igeidők
+\end_layout
+
+\begin_layout Standard
+asfd
+\end_layout
+
+\begin_layout Subsubsection
+Jövőidő
+\end_layout
+
+\begin_layout Standard
+asdf
+\end_layout
+
+\begin_layout Subsubsection
+Passzív igealakok
+\end_layout
+
+\begin_layout Standard
+asdfa
+\end_layout
+
+\begin_layout Subsection
+Személytelen igék
+\end_layout
+
+\begin_layout Standard
+sdf
+\end_layout
+
+\begin_layout Subsection
+Egyéb igenevek
+\end_layout
+
+\begin_layout Standard
+afd
 \end_layout
 
 \begin_layout Section
@@ -1923,18 +4055,35 @@ A középfok kifejezhető a
 \emph on
 bishtar
 \emph default
- segítségével is, ezt főleg akkor használják, amikor a melléknév bonyolult,
+ segítségével is, ezt ritkán használják, inkább csak összetett mellékneveknél,
  pl.
 \begin_inset space ~
 \end_inset
 
 
 \emph on
-bishtar <<< van ilyen?
+bishtar qâbel-e tavajjoh / qâbel-e tavajjohtar
+\emph default
+ (figyelemreméltóbb; 
+\emph on
+qâbel
+\emph default
+: képes, méltó, 
+\emph on
+tavajjoh
+\emph default
+: figyelem).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Netes keresések alapján ritka.
+ Mace írja a bishtarin verziót is, de azt látszólag nem használják.
 \end_layout
 
-\begin_layout Standard
-blabla
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1950,10 +4099,7 @@ Sok egyéb
 \end_layout
 
 \begin_layout Itemize
-szemelyes/birtokos/mutato nevmasok - szemelyes nevmasnal a megszolitasokrol
- (aqa/khanom hasznalata, ld.
- Thackston 23.
- oldal)
+mutato nevmasok
 \end_layout
 
 \begin_layout Itemize
@@ -1961,55 +4107,13 @@ eloljaroszavak
 \end_layout
 
 \begin_layout Itemize
+partikulak
+\end_layout
+
+\begin_layout Itemize
 mondatszerkezet, fonevi/melleknevi allitmany, kerdo mondat, tagadas
 \end_layout
 
-\begin_layout Itemize
-igek
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-alapformak es igenevek
-\end_layout
-
-\begin_layout Itemize
-sima es osszetett igek
-\end_layout
-
-\begin_layout Itemize
-multido + tagadas
-\end_layout
-
-\begin_layout Itemize
-jelenido
-\end_layout
-
-\begin_layout Itemize
-folyamatos mult + kontrafaktualis
-\end_layout
-
-\begin_layout Itemize
-kotomod/felszolito mod
-\end_layout
-
-\begin_layout Itemize
-befejezett igeidok
-\end_layout
-
-\begin_layout Itemize
-jovoido
-\end_layout
-
-\begin_layout Itemize
-passziv
-\end_layout
-
-\begin_layout Itemize
-szemelytelen igek
-\end_layout
-
-\end_deeper
 \begin_layout Itemize
 targyjelolo
 \end_layout
@@ -2417,6 +4521,24 @@ Sprachman,
 Suppressed Persian
 \emph default
 , Mazda Publishers, 1995.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "frequency"
+
+\end_inset
+
+C.
+\begin_inset space ~
+\end_inset
+
+Miller et al., 
+\emph on
+A Frequency Dictionary of Persian
+\emph default
+, Routledge, 2017.
 \end_layout
 
 \end_body
