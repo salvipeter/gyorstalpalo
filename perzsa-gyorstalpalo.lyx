@@ -2300,6 +2300,22 @@ helyett állhat az
 \end_layout
 
 \begin_layout Section
+Mutató (és egyéb?) névmások
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
+Elöljárószók
+\end_layout
+
+\begin_layout Standard
+Blabla
+\end_layout
+
+\begin_layout Section
 Igék
 \end_layout
 
@@ -3160,7 +3176,7 @@ Folyamatos múlt
 \begin_inset Text
 
 \begin_layout Plain Layout
-mi + MT + SZ
+[ne]mi + MT + SZ
 \end_layout
 
 \end_inset
@@ -3277,15 +3293,15 @@ Jelenidő
 \begin_layout Standard
 A jelenidő, mint a magyarban, egyaránt kifejezhet éppen végbemenő, habituális,
  vagy jövőre vonatkozó állításokat.
- Jele a 
+ Képzése a folyamatosságot jelző 
 \emph on
 mi-
 \emph default
- prefixum, tagadásban 
+ prefixummal történik, ami tagadásban 
 \emph on
 nemi-
 \emph default
- (eredetileg 
+ lesz (eredetileg 
 \emph on
 nami-
 \emph default
@@ -3364,7 +3380,7 @@ táblázat mutatja.
 ére inkább a rövid alakokat – bár kiemelés miatt, vagy azért, hogy elkerüljék
  a magánhangzó-torlódást, időnként erre is alkalmazzák a hosszút.
  Tagadott alakból csak egy fajta van.
- Példák: 
+ Pl.: 
 \emph on
 in qâshoq nist
 \emph default
@@ -3714,7 +3730,7 @@ hast-
 \emph on
 nist-
 \emph default
- tővel, és a rövid alak majdnem megegyezik a személyragokkal: mindegyiknél
+ tővel, és a rövid alakok majdnem megegyeznek a személyragokkal: mindegyiknél
  csak az ,,ő'' alak képzése más.
  A rövid alaknál hosszú magánhangzó után az 
 \emph on
@@ -3773,7 +3789,18 @@ Múltidő
 \end_layout
 
 \begin_layout Standard
-da
+A múltidő egyszeri múltbeli események és múltbeli (már nem fennálló) állapotok
+ leírására szolgál.
+ Külön jele nincsen, tagadása a 
+\emph on
+na-
+\emph default
+ (magánhangzó előtt 
+\emph on
+nay-
+\emph default
+) prefixummal történik.
+ Pl.: TODO
 \end_layout
 
 \begin_layout Subsubsection
@@ -3781,7 +3808,263 @@ Kötőmód / Felszólító mód
 \end_layout
 
 \begin_layout Standard
-asdf
+A kötőmód/felszólító mód alakja hasonlít a jelenidőéhez, de a prefixum 
+\emph on
+be-
+\emph default
+ (magánhangzó előtt 
+\emph on
+bi-
+\emph default
+), tagadva 
+\emph on
+na
+\emph default
+[
+\emph on
+y
+\emph default
+]
+\emph on
+-
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+beravim
+\emph default
+ (menjünk; 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+: megy), 
+\emph on
+nayâid
+\emph default
+ ([ön] ne jöjjön; 
+\emph on
+âmadan
+\emph default
+/
+\emph on
+â-
+\emph default
+: jön).
+ Ha a szó mássalhangzóval kezdődik, és az első magánhangzója 
+\emph on
+o 
+\emph default
+(esetleg
+\emph on
+ ow
+\emph default
+/
+\emph on
+u
+\emph default
+), akkor a prefixum 
+\emph on
+bo-
+\emph default
+ alakra hasonul, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bokonid
+\emph default
+ ([ön] csinálja; 
+\emph on
+kardan
+\emph default
+/
+\emph on
+kon-
+\emph default
+: csinál).
+ A kötőmód és felszólító mód ragozásában egy különbség van, hogy felszólításkor/
+tiltáskor egyesszám második személyben az 
+\emph on
+-i
+\emph default
+ eltűnik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bokhor
+\emph default
+ (egyél; 
+\emph on
+khordan
+\emph default
+/
+\emph on
+khor-
+\emph default
+: eszik).
+ Ha a JT legalább két szótagos, és az első szótag nyílt szótag 
+\emph on
+-e-
+\emph default
+ vagy 
+\emph on
+-o-
+\emph default
+ magánhangzóval, akkor ez a magánhangzó kiesik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+benshin
+\emph default
+ (ülj le; 
+\emph on
+neshastan
+\emph default
+/
+\emph on
+neshin-
+\emph default
+: leül), 
+\emph on
+bogzârid
+\emph default
+ ([ön] rakja le; 
+\emph on
+gozâshtan
+\emph default
+/
+\emph on
+gozâr
+\emph default
+: lerak).
+\end_layout
+
+\begin_layout Standard
+Összetett igéknél elvileg a 
+\emph on
+be-
+\emph default
+ kiesik (tagadásban a 
+\emph on
+na-
+\emph default
+ megmarad), de a gyakorlatban ezt csak azoknál az igéknél követik, ahol
+ nagyon szoros az összetétel – tipikusan ahol a nem igei rész elöljárószó,
+ vagy ahol az ige a 
+\emph on
+kardan
+\emph default
+ vagy a 
+\emph on
+shodan
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sabr konid
+\emph default
+ ([ön] várjon; 
+\emph on
+sabr
+\emph default
+: türelem 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+sabr kardan
+\emph default
+: vár).
+\end_layout
+
+\begin_layout Standard
+Kivétel a 
+\emph on
+budan
+\emph default
+/
+\emph on
+bâsh-
+\emph default
+ létige, ami szintén nem kap 
+\emph on
+be-
+\emph default
+ prefixet, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khosh bâsh
+\emph default
+ (legyél boldog; 
+\emph on
+khosh
+\emph default
+: boldog), és a 
+\emph on
+dâshtan
+\emph default
+/
+\emph on
+dâr-
+\emph default
+ (birtokol) ige, aminél a befejezett kötőmód helyettesíti a simát is (ld.
+\begin_inset space ~
+\end_inset
+
+lent).
+\end_layout
+
+\begin_layout Standard
+Kötőmód szükséges képességet, érzelmeket, kívánságot, bizonytalanságot kifejező
+ igék után.
+ Ha az alárendelt mellékmondat alanya más, mint a főmondaté, akkor a 
+\emph on
+ke
+\emph default
+ (hogy) szó vezeti be, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mikhâhand ke man biâyam
+\emph default
+ (azt akarják, hogy jöjjek; 
+\emph on
+khâstan
+\emph default
+-/
+\emph on
+khâh
+\emph default
+: akar, 
+\emph on
+âmadan
+\emph default
+/
+\emph on
+â-
+\emph default
+: jön).
 \end_layout
 
 \begin_layout Subsubsection
@@ -3789,11 +4072,24 @@ Folyamatos múltidő
 \end_layout
 
 \begin_layout Standard
-sadfa
+Múltban ismétlődő vagy megszakított folyamatot jelöl.
+ A jelenidőből ismert folyamatosságot jelző 
+\emph on
+mi-
+\emph default
+ prefixumot ezúttal a múltidejű tőhöz kapcsoljuk, pl.
+\begin_inset space ~
+\end_inset
+
+TODO
 \end_layout
 
 \begin_layout Standard
-kontrafaktuális
+Ha kötőmód helyére kerül, kontrafaktuális értelmet kap, pl.
+\begin_inset space ~
+\end_inset
+
+TODO
 \end_layout
 
 \begin_layout Subsubsection
