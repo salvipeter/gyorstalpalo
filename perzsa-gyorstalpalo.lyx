@@ -4097,7 +4097,13 @@ Befejezett igeidők
 \end_layout
 
 \begin_layout Standard
-asfd
+A befejezett alakokat a BMI és a létige segítségével képezzük.
+ A létigét ragozhatjuk jelenidőben (mindig a rövid alakot használva), múltidőben
+, kötőmódban, pl.
+\begin_inset space ~
+\end_inset
+
+TODO
 \end_layout
 
 \begin_layout Subsubsection

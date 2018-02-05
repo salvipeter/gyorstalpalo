@@ -3248,6 +3248,8 @@ Csoport
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 P
 \end_layout
 
@@ -3266,6 +3268,8 @@ MP
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 AP
 \end_layout
 
@@ -3313,7 +3317,11 @@ m(w)-, w(a)-
 \begin_inset Text
 
 \begin_layout Plain Layout
-m(w)-, wa-/we-
+m(w)-, wa-/
+\series bold
+we
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3331,7 +3339,11 @@ a-, wa-
 \begin_inset Text
 
 \begin_layout Plain Layout
--m(w)-, -wa-
+-
+\series bold
+m(w)
+\series default
+-, -wa-
 \end_layout
 
 \end_inset
@@ -3340,7 +3352,11 @@ a-, wa-
 \begin_inset Text
 
 \begin_layout Plain Layout
-ha-, hawa-
+
+\series bold
+ha
+\series default
+-, hawa-
 \end_layout
 
 \end_inset
@@ -3369,7 +3385,11 @@ m(w)-, mi-
 \begin_inset Text
 
 \begin_layout Plain Layout
-m(w)-, mi-/mye-/mi-
+m(w)-, mi-/
+\series bold
+mye
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3416,7 +3436,7 @@ JI-MA (5/6)
 \begin_inset Text
 
 \begin_layout Plain Layout
-ji-/-, ma-
+-/j(i)-, ma-/m(e)-
 \end_layout
 
 \end_inset
@@ -3425,7 +3445,7 @@ ji-/-, ma-
 \begin_inset Text
 
 \begin_layout Plain Layout
--/j-/ji-, ma-/me-
+-/j(i)-, ma-/m(e)-
 \end_layout
 
 \end_inset
@@ -3472,7 +3492,7 @@ KI-VI (7/8)
 \begin_inset Text
 
 \begin_layout Plain Layout
-ki-/ch-, vi-/vy-
+k(i)-/ch-, v(i)-/vy-
 \end_layout
 
 \end_inset
@@ -3609,7 +3629,11 @@ u-/w-
 \begin_inset Text
 
 \begin_layout Plain Layout
-m(w)-
+
+\series bold
+m(w)
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3665,7 +3689,7 @@ ku-/kw-/kuto-
 \begin_inset Text
 
 \begin_layout Plain Layout
-ku-
+ku-/kw-
 \end_layout
 
 \end_inset
@@ -3721,7 +3745,11 @@ pa-
 \begin_inset Text
 
 \begin_layout Plain Layout
-pa-/pe-
+pa-/
+\series bold
+pe
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3777,7 +3805,15 @@ KU (17)
 \begin_inset Text
 
 \begin_layout Plain Layout
-ku-
+
+\series bold
+ku
+\series default
+-/
+\series bold
+kw
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3833,7 +3869,11 @@ MU (18)
 \begin_inset Text
 
 \begin_layout Plain Layout
-m-
+
+\series bold
+m
+\series default
+-
 \end_layout
 
 \end_inset
@@ -3936,7 +3976,9 @@ Csoport
 \begin_inset Text
 
 \begin_layout Plain Layout
-UI
+
+\series bold
+EP
 \end_layout
 
 \end_inset
@@ -3945,7 +3987,7 @@ UI
 \begin_inset Text
 
 \begin_layout Plain Layout
-EP
+UI
 \end_layout
 
 \end_inset
@@ -3992,7 +4034,7 @@ M-WA (1/2)
 \begin_inset Text
 
 \begin_layout Plain Layout
--ye-, -o-
+w-, w-
 \end_layout
 
 \end_inset
@@ -4001,7 +4043,11 @@ M-WA (1/2)
 \begin_inset Text
 
 \begin_layout Plain Layout
-w-, w-
+-
+\series bold
+ye
+\series default
+-, -o-
 \end_layout
 
 \end_inset
@@ -4010,7 +4056,13 @@ w-, w-
 \begin_inset Text
 
 \begin_layout Plain Layout
-(yu) huyu/yule/huyo, (wa) hawa/wale/hao
+(
+\series bold
+yu
+\series default
+) huyu/yule/huyo, (wa) hawa/wale/
+\series bold
+hao
 \end_layout
 
 \end_inset
@@ -4048,7 +4100,7 @@ M-MI (3/4)
 \begin_inset Text
 
 \begin_layout Plain Layout
--o-, -yo-
+w-, y-
 \end_layout
 
 \end_inset
@@ -4057,7 +4109,7 @@ M-MI (3/4)
 \begin_inset Text
 
 \begin_layout Plain Layout
-w-, y-
+-o-, -yo-
 \end_layout
 
 \end_inset
@@ -4066,7 +4118,9 @@ w-, y-
 \begin_inset Text
 
 \begin_layout Plain Layout
-(u) huu/ule/huo, (i) hii/ile/hiyo
+(u) huu/ule/huo, (i) hii/ile/
+\series bold
+hiyo
 \end_layout
 
 \end_inset
@@ -4104,7 +4158,7 @@ JI-MA (5/6)
 \begin_inset Text
 
 \begin_layout Plain Layout
--lo-, -yo-
+l-, y-
 \end_layout
 
 \end_inset
@@ -4113,7 +4167,7 @@ JI-MA (5/6)
 \begin_inset Text
 
 \begin_layout Plain Layout
-l-, y-
+-lo-, -yo-
 \end_layout
 
 \end_inset
@@ -4160,7 +4214,7 @@ KI-VI (7/8)
 \begin_inset Text
 
 \begin_layout Plain Layout
--cho-, -vyo-
+ch-, vy-
 \end_layout
 
 \end_inset
@@ -4169,7 +4223,7 @@ KI-VI (7/8)
 \begin_inset Text
 
 \begin_layout Plain Layout
-ch-, vy-
+-cho-, -vyo-
 \end_layout
 
 \end_inset
@@ -4178,7 +4232,13 @@ ch-, vy-
 \begin_inset Text
 
 \begin_layout Plain Layout
-(ki) hiki/kile/hicho, (vi) hivi/vile/hivyo
+(ki) hiki/kile/
+\series bold
+hicho
+\series default
+, (vi) hivi/vile/
+\series bold
+hivyo
 \end_layout
 
 \end_inset
@@ -4216,7 +4276,7 @@ N (9/10)
 \begin_inset Text
 
 \begin_layout Plain Layout
--yo-, -zo-
+y-, z-
 \end_layout
 
 \end_inset
@@ -4225,7 +4285,7 @@ N (9/10)
 \begin_inset Text
 
 \begin_layout Plain Layout
-y-, z-
+-yo-, -zo-
 \end_layout
 
 \end_inset
@@ -4234,7 +4294,11 @@ y-, z-
 \begin_inset Text
 
 \begin_layout Plain Layout
-(i) hii/ile/hiyo, (zi) hizi/zile/hizo
+(i) hii/ile/
+\series bold
+hiyo
+\series default
+, (zi) hizi/zile/hizo
 \end_layout
 
 \end_inset
@@ -4272,7 +4336,7 @@ U (14, 11)
 \begin_inset Text
 
 \begin_layout Plain Layout
--o-
+w-
 \end_layout
 
 \end_inset
@@ -4281,7 +4345,7 @@ U (14, 11)
 \begin_inset Text
 
 \begin_layout Plain Layout
-w-
+-o-
 \end_layout
 
 \end_inset
@@ -4328,7 +4392,7 @@ KU (15)
 \begin_inset Text
 
 \begin_layout Plain Layout
--ko-
+kw-
 \end_layout
 
 \end_inset
@@ -4337,7 +4401,7 @@ KU (15)
 \begin_inset Text
 
 \begin_layout Plain Layout
-kw-
+-ko-
 \end_layout
 
 \end_inset
@@ -4384,7 +4448,7 @@ PA (16)
 \begin_inset Text
 
 \begin_layout Plain Layout
--po-
+p-
 \end_layout
 
 \end_inset
@@ -4393,7 +4457,7 @@ PA (16)
 \begin_inset Text
 
 \begin_layout Plain Layout
-p-
+-po-
 \end_layout
 
 \end_inset
@@ -4440,7 +4504,7 @@ KU (17)
 \begin_inset Text
 
 \begin_layout Plain Layout
--ko-
+kw-
 \end_layout
 
 \end_inset
@@ -4449,7 +4513,7 @@ KU (17)
 \begin_inset Text
 
 \begin_layout Plain Layout
-kw-
+-ko-
 \end_layout
 
 \end_inset
@@ -4496,7 +4560,7 @@ MU (18)
 \begin_inset Text
 
 \begin_layout Plain Layout
--mo-
+mw-
 \end_layout
 
 \end_inset
@@ -4505,7 +4569,7 @@ MU (18)
 \begin_inset Text
 
 \begin_layout Plain Layout
-mw-
+-mo-
 \end_layout
 
 \end_inset
@@ -4514,7 +4578,11 @@ mw-
 \begin_inset Text
 
 \begin_layout Plain Layout
-(mu) humu/mle/humo
+(mu) humu/
+\series bold
+mle
+\series default
+/humo
 \end_layout
 
 \end_inset
@@ -4549,16 +4617,28 @@ mw-
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-A főnévcsoportok jellemzői (P: főnév-prefixum, MP: melléknév-prefixum, AP:
- alany-prefixum, TI: tárgy-infixum, TP: tagadó prefixum, UI: utaló infixum,
- EP: egyeztető prefixum, MN: mutató névmások)
 \begin_inset CommandInset label
 LatexCommand label
 name "tab:A-főnévcsoportok-jellemzői"
 
 \end_inset
 
+A főnévcsoportok jellemzői (P: főnév-prefixum, MP: melléknév-prefixum, AP:
+ alany-prefixum, TI: tárgy-infixum, TP: tagadó prefixum, UI: utaló infixum,
+ EP: egyeztető prefixum, MN: mutató névmások).
+ A félkövérrel szedett részek megtanulandók, a többi kikövetkeztethető (P
+\begin_inset Formula $\rightarrow$
+\end_inset
 
+MP; AP
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+TI, TP, (EP), MN; EP
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+UI).
 \end_layout
 
 \end_inset
