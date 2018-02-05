@@ -1537,7 +1537,7 @@ reference "subsec:Birtokos-szerkezet"
 \begin_inset Float table
 wide false
 sideways true
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -1701,7 +1701,11 @@ m(w)-, mi-
 \begin_inset Text
 
 \begin_layout Plain Layout
-m(w)-, mi-/
+m(w)-, 
+\series bold
+m(i)
+\series default
+-/
 \series bold
 mye
 \series default
