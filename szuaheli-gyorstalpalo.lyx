@@ -1537,7 +1537,7 @@ reference "subsec:Birtokos-szerkezet"
 \begin_inset Float table
 wide false
 sideways true
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -5714,7 +5714,7 @@ Tárgyak
 A szuahéliben a tárgy az ige után kerül, és az igébe kerül egy jelölő a
  tárgy csoportjának megfelelően.
  A kettő közül csak az egyik szükséges, de személyeknél az infixumot mindig
- ki kell rakni.
+ ki kell rakni, és határozott tárgyaknál is szokás.
  Ha a tárgy személyes névmás, akkor általában csak a tárgy-infixummal jelöljük.
  Példák: 
 \emph on
@@ -6417,6 +6417,34 @@ chakula
 -tamu
 \emph default
 : finom).
+\end_layout
+
+\begin_layout Standard
+Ez az utolsó módszer a birtoklást kifejező 
+\emph on
+na
+\emph default
+-val kombinálva a birtokolt tárgy helyettesítésére is szolgál, ill.
+\begin_inset space \space{}
+\end_inset
+
+annak határozottságát is jelölheti, pl.
+\begin_inset space \space{}
+\end_inset
+
+
+\emph on
+anazo 
+\emph default
+[
+\emph on
+mbao
+\emph default
+] (nála vannak [a deszkák]; 
+\emph on
+ubao
+\emph default
+: deszka).
 \end_layout
 
 \begin_layout Standard
@@ -7130,7 +7158,6 @@ reference "tab:Igeképzők"
 
 táblázat foglalja össze.
 \begin_inset Float table
-placement b
 wide false
 sideways false
 status collapsed
@@ -8944,7 +8971,6 @@ upendo
 \emph default
 : szerelem).
 \begin_inset Float table
-placement b
 wide false
 sideways false
 status collapsed
