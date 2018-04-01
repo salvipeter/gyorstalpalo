@@ -2,23 +2,6 @@
 â
 
 * Névmások
-** Mutató
-- ín / aan : ez/az; ez/az a vmi
-- hámín / hámaan : éppen ez/az a vmi
-- az ín/aan hozzátehető a chún-hoz => [hám]chonín / [hám]chonaan : ilyen/olyan; így/úgy
-- a chánd-hoz is tehetőek => chándín : számos, ennyi; chándaan : annyi, (tagadásban) nem annyi[ra]
-- a towr-ral => [hám]ín towr / [hám]aan towr (/ che towr) : így/úgy(/hogyan)
-** Határozatlan
-- hích : bármi; (tagadásban) semmi, utána mindig egyesszám
-- kásí / hích kás : valaki
-- chízí / hích chíz : valami
-- hích yek/kodaam : egy (meghatározott halmazból)
-- hích vaqt : valaha; soha
-** Visszaható
-- khod (írva: KHwd), régiesebben khísh[tán]
-- összekapcsolható a birtokos szuffixumokkal (pl. khod-ám stb.) [beszélt nyelven szinte mindig]
-- a birtokos szuffixumok használhatóak ilyenkor is (míg a teljes alak nem),
-  pl. báraadár-ám raa dídám, báraadár-e khod raa dídám, *báraadár-e mán raa dídám
 ** Vonatkozó
 - ke
 - az előtte levőhöz -í kapcsolódik (szokásos módon szükség esetén hamzával)
@@ -51,41 +34,6 @@
 ** Általános
 - aadám: általános személyként, amikor nem a főige alanya (különben rövid főnévi igenévvel)
 - ha tárgy, akkor mindig kell -raa, pl. cheraa aadám-raa aanqádr áziyát míkonánd?
-* Elöljárószavak
-** Ezaafe nélkül
-- be: -ba/-ra/-hoz; -nak; -n (módhatározó, pl. könnyen: be raahtí)
-- dár: -ban/-on/-nál; -szor (matematikai)
-- áz: -ból/-ról/-tól; -nál (összehasonlításban)
-- baa: -val
-- bí: -talan; nélkül
-- taa: -ig; amint; azért, hogy
-- bár: -on
-- joz: helyett, kivéve
-** Összetett elöljárószavak
-- písh áz / qábl áz: ... előtt
-- pás áz / bá'ád áz: ... után
-- joz áz / gheyr áz: -n kívül (átv.)
-- bírún áz / khaarej áz: -n kívül (térben)
-** Ezaafe-vel
-- báraa-ye: -ért, számára
-- baalaa-ye: ... felett
-- paa'í-ye: ... alatt
-- zír-e: ... alatt
-- rú-ye: -on, ... felett
-- jelú-ye: ... előtt (térben)
-- posht-e: ... mögött
-- páhlú-ye: -nál; ... jelenlétében
-- kenaar-e: ... mellett
-- názdík-e: ... közelében
-- bedún-e: ... nélkül
-- donbaal-e: -t (keres / elvisz)
-- dám-e: -hoz közel
-- sár-e: ... közben; ... végén/tetején
-- láb-e: ... szélén
-- dárbaare-ye: -ról, -val kapcsolatban
-- písh-e: (vki)-nél/-hez
-- rúberú-ye: -val szemben
-- tú-ye: -ba, -ra
 * Kérdőszavak
 - gyakran közvetlenül az ige előtt
 - eldöntendő kérdésnél a mondat elejére jöhet aayaa (de elég az emelkedő hanglejtés is)
@@ -214,8 +162,6 @@
 - ha határozatlanság-jelölővel együtt szerepel, akkor "egy nem meghatározott, de nem bármilyen",
   pl. ketaab-e dígár-í khaastám [egy (bármilyen) másik könyvet kértem]
   pl. ketaab-e dígár-í-raa khaastám [egy (bizonyos) másik könyvet kértem]
-** Határozatlanság-jelölő
-- tagadott alakokkal gyakran szerepel, pl. hích kásí nádídám
 ** Hám
 - hangsúlyozás (összehasonlításnál, rámutatásnál),
   pl. Kodaam? Ín hám. vagy pl. mán hám mírávám, válí ...
