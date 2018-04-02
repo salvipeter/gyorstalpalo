@@ -2367,283 +2367,6 @@ helyett állhat az
 \end_layout
 
 \begin_layout Section
-Mutató, határozatlan és visszaható névmások
-\end_layout
-
-\begin_layout Standard
-A két mutató névmás (
-\emph on
-in
-\emph default
-: ez, 
-\emph on
-ân
-\emph default
-: az) jelzői használatban a főnév elé kerül, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-in kafsh 
-\emph default
-(ez a cipő; 
-\emph on
-kafsh
-\emph default
-: cipő).
- Különféle összetételekben is megjelennek, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-hamin
-\emph default
-/
-\emph on
-hamân
-\emph default
- (éppen ez/az; 
-\emph on
-ham
-\emph default
-: kiemelő partikula), [
-\emph on
-ham
-\emph default
-]
-\emph on
-chonin
-\emph default
-/
-\emph on
-chonân
-\emph default
- ([éppen] ilyen/olyan), [
-\emph on
-ham
-\emph default
-]
-\emph on
-in
-\emph default
-/
-\emph on
-ân
-\emph default
- 
-\emph on
-towr
-\emph default
- ([éppen] így/úgy; 
-\emph on
-towr
-\emph default
-: mód), 
-\emph on
-chandin
-\emph default
-/
-\emph on
-chandân
-\emph default
- (ennyi/annyi; 
-\emph on
-chand
-\emph default
-: mennyi?).
-\end_layout
-
-\begin_layout Standard
-A határozatlan névmások a határozatlanságot kifejező 
-\emph on
--i
-\emph default
- szuffixum segítségével képződnek:
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-kas-i
-\emph default
- (valaki/senki; 
-\emph on
-kas
-\emph default
-: személy), 
-\emph on
-chiz-i
-\emph default
- (valami/semmi; 
-\emph on
-chiz
-\emph default
-: dolog).
- Tagadásban a 
-\emph on
-hich
-\emph default
- szó kerülhet eléjük, és ilyenkor az 
-\emph on
--i
-\emph default
- elmaradhat, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-hich kas-
-\emph default
-[
-\emph on
-i
-\emph default
-] (senki).
- Itt érdemes megemlíteni még a 
-\emph on
-hich yek/kodâm
-\emph default
- (egy [vmi közül]; 
-\emph on
-yek
-\emph default
-: egy, 
-\emph on
-kodâm
-\emph default
-: melyik?) és 
-\emph on
-hich vaqt
-\emph default
- (valaha/soha; 
-\emph on
-vaqt
-\emph default
-: idő) kifejezéseket is.
-\end_layout
-
-\begin_layout Standard
-A magyarban ,,bár-'' kezdetű névmásokban a perzsában a 
-\emph on
-har
-\emph default
- (minden) szó szerepel: 
-\emph on
-harche
-\emph default
- (bármi; 
-\emph on
-che
-\emph default
-: mi?), 
-\emph on
-harke
-\emph default
- (bárki; 
-\emph on
-ke
-\emph default
-: ami/aki).
- Hasonló mintára kérdőszavakkal készül a 
-\emph on
-harkojâ
-\emph default
- (bárhol; 
-\emph on
-kojâ
-\emph default
-: hol?) és 
-\emph on
-harchand
-\emph default
- (bármennyi; 
-\emph on
-chand
-\emph default
-: mennyi?), valamint ide tartozik még a 
-\emph on
-harvaqt
-\emph default
- (bármikor; 
-\emph on
-vaqt
-\emph default
-: idő) is.
-\end_layout
-
-\begin_layout Standard
-A visszaható névmás a 
-\emph on
-khod
-\emph default
-, vagy régiesebben 
-\emph on
-khish
-\emph default
-[
-\emph on
-tan
-\emph default
-]
-\emph on
- (tan
-\emph default
-: test).
- A 
-\emph on
-khod
-\emph default
--hoz birtokos szuffixumok is kapcsolhatóak, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-khod-am
-\emph default
- (saját magam).
- Birtokos esetben a visszaható névmást csak a személyes névmás rövid alakja
- válthatja fel, tehát pl.
-\begin_inset space ~
-\end_inset
-
-abban a mondatban, hogy ,,Megetettem a nővérem macskáját'', a ,,nővérem''
- csak 
-\emph on
-khâhar-e khod
-\emph default
- vagy 
-\emph on
-khâhar-am
-\emph default
- lehet, *
-\emph on
-khâhar-e man
-\emph default
- nem (
-\emph on
-khâhar
-\emph default
-: nővér).
- Kölcsönös cselekvésnél az ,,egymás'' kifejezésére a 
-\emph on
-yekdigar
-\emph default
- (
-\emph on
-yek
-\emph default
-: egy, 
-\emph on
-digar
-\emph default
-: másik) szó használatos.
-\end_layout
-
-\begin_layout Section
 Elöljárószók
 \end_layout
 
@@ -3480,6 +3203,281 @@ ezâfe
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Mutató, határozatlan és visszaható névmások
+\end_layout
+
+\begin_layout Standard
+A két mutató névmás (
+\emph on
+in
+\emph default
+: ez, 
+\emph on
+ân
+\emph default
+: az) jelzői használatban a főnév elé kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+in kafsh 
+\emph default
+(ez a cipő; 
+\emph on
+kafsh
+\emph default
+: cipő).
+ Különféle összetételekben is megjelennek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hamin
+\emph default
+/
+\emph on
+hamân
+\emph default
+ (éppen ez/az; 
+\emph on
+ham
+\emph default
+: kiemelő partikula), [
+\emph on
+ham
+\emph default
+]
+\emph on
+chonin
+\emph default
+/
+\emph on
+chonân
+\emph default
+ ([éppen] ilyen/olyan), [
+\emph on
+ham
+\emph default
+]
+\emph on
+in
+\emph default
+/
+\emph on
+ân
+\emph default
+ 
+\emph on
+towr
+\emph default
+ ([éppen] így/úgy; 
+\emph on
+towr
+\emph default
+: mód), 
+\emph on
+chandin
+\emph default
+/
+\emph on
+chandân
+\emph default
+ (ennyi/annyi; 
+\emph on
+chand
+\emph default
+: mennyi?).
+\end_layout
+
+\begin_layout Standard
+A határozatlan névmások a határozatlanságot kifejező 
+\emph on
+-i
+\emph default
+ szuffixum segítségével képződnek: 
+\emph on
+kas-i
+\emph default
+ (valaki/senki; 
+\emph on
+kas
+\emph default
+: személy), 
+\emph on
+chiz-i
+\emph default
+ (valami/semmi; 
+\emph on
+chiz
+\emph default
+: dolog), 
+\emph on
+yek-i az
+\emph default
+ (egy [adott halmaz]-ból; 
+\emph on
+yek
+\emph default
+: 1).
+ Tagadásban a 
+\emph on
+hich
+\emph default
+ szó kerülhet eléjük, és ilyenkor az 
+\emph on
+-i
+\emph default
+ elmaradhat, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hich kas-
+\emph default
+[
+\emph on
+i
+\emph default
+] (senki).
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+hich kodaam, hich vaqt?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A magyarban ,,bár-'' kezdetű névmásokban a perzsában a 
+\emph on
+har
+\emph default
+ (minden) szó szerepel: 
+\emph on
+harche
+\emph default
+ (bármi; 
+\emph on
+che
+\emph default
+: mi?), 
+\emph on
+harke
+\emph default
+ (bárki; 
+\emph on
+ke
+\emph default
+: ami/aki).
+ Hasonló mintára kérdőszavakkal készül a 
+\emph on
+harkojâ
+\emph default
+ (bárhol; 
+\emph on
+kojâ
+\emph default
+: hol?) és 
+\emph on
+harchand
+\emph default
+ (bármennyi; 
+\emph on
+chand
+\emph default
+: mennyi?), valamint ide tartozik még a 
+\emph on
+harvaqt
+\emph default
+ (bármikor; 
+\emph on
+vaqt
+\emph default
+: idő) is.
+\end_layout
+
+\begin_layout Standard
+A visszaható névmás a 
+\emph on
+khod
+\emph default
+, vagy régiesebben 
+\emph on
+khish
+\emph default
+[
+\emph on
+tan
+\emph default
+]
+\emph on
+ (tan
+\emph default
+: test).
+ A 
+\emph on
+khod
+\emph default
+-hoz birtokos szuffixumok is kapcsolhatóak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khod-am
+\emph default
+ (saját magam).
+ Birtokos esetben a visszaható névmást csak a személyes névmás rövid alakja
+ válthatja fel, tehát pl.
+\begin_inset space ~
+\end_inset
+
+abban a mondatban, hogy ,,Megetettem a nővérem macskáját'', a ,,nővérem''
+ csak 
+\emph on
+khâhar-e khod
+\emph default
+ vagy 
+\emph on
+khâhar-am
+\emph default
+ lehet, *
+\emph on
+khâhar-e man
+\emph default
+ nem (
+\emph on
+khâhar
+\emph default
+: nővér).
+ Kölcsönös cselekvésnél az ,,egymás'' kifejezésére a 
+\emph on
+yekdigar
+\emph default
+ (
+\emph on
+yek
+\emph default
+: egy, 
+\emph on
+digar
+\emph default
+: másik) és 
+\emph on
+hamdigar
+\emph default
+ szavak használatosak.
 \end_layout
 
 \begin_layout Section
@@ -5334,7 +5332,27 @@ na-
 nay-
 \emph default
 ) prefixummal történik.
- Pl.: TODO
+ Pl.: 
+\emph on
+be âshpazkhâne vâred shodim
+\emph default
+ (beléptünk a konyhába; 
+\emph on
+âshpazkhâne
+\emph default
+: konyha, 
+\emph on
+vâred shodan
+\emph default
+: belép), 
+\emph on
+Hoseyn vakil bud
+\emph default
+ (Hossein ügyvéd volt; 
+\emph on
+vakil
+\emph default
+: ügyvéd).
 \end_layout
 
 \begin_layout Subsubsection
@@ -5615,15 +5633,91 @@ mi-
 \begin_inset space ~
 \end_inset
 
-TODO
-\end_layout
 
-\begin_layout Standard
-Ha kötőmód helyére kerül, kontrafaktuális értelmet kap, pl.
+\emph on
+ân vaqt dar Mashhad zendegi mikardam
+\emph default
+ (akkoriban Meshedben éltem; 
+\emph on
+vaqt
+\emph default
+: idő, 
+\emph on
+zendegi
+\emph default
+: élet 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+zendegi kardan
+\emph default
+: él).
+ A 
+\emph on
+khâstan
+\emph default
+ (akar) igénél a folyamatos múlt adja az alapjelentést, míg az egyszerű
+ múltidő azt fejezi ki, hogy éppen készült valamit csinálni, pl.
 \begin_inset space ~
 \end_inset
 
-TODO
+
+\emph on
+mikhâstand be Hendustân safar konand
+\emph default
+ (el akartak utazni Indiába; 
+\emph on
+safar
+\emph default
+: utazás 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+safar kardan
+\emph default
+: utazik), de 
+\emph on
+khâstand be Hendustân safar konand
+\emph default
+ (készültek Indiába utazni).
+ A 
+\emph on
+tavânestan
+\emph default
+ (képes) ige is általában folyamatos alakban jelenik meg, kivéve ha egy
+ konkrét próbálkozás sikertelenségéről van szó, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+nemitavânesti bekhâbi
+\emph default
+ ([akkoriban] nem tudtál aludni), de 
+\emph on
+natavânesti bekhâbi
+\emph default
+ ([próbáltál, de] nem tudtál elaludni).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+budan
+\emph default
+ és 
+\emph on
+dâshtan
+\emph default
+ igék nem kapnak 
+\emph on
+mi-
+\emph default
+ prefixumot, így ezeknél alakra megegyezik az egyszerű múltidővel.
 \end_layout
 
 \begin_layout Subsubsection
@@ -5637,7 +5731,59 @@ A befejezett alakokat a BMI és a létige segítségével képezzük.
 \begin_inset space ~
 \end_inset
 
-TODO
+
+\emph on
+dâman pushide-ast
+\emph default
+ (szoknyát visel; 
+\emph on
+dâman
+\emph default
+: szoknya, 
+\emph on
+pushidan
+\emph default
+: (ruhát) felvesz), 
+\emph on
+dâman pushide bud
+\emph default
+ (szoknyát viselt), 
+\emph on
+mikhâst dâman ???
+\end_layout
+
+\begin_layout Standard
+Tagadásnál a melléknévi igenevet tagadjuk, pl.
+\begin_inset space ~
+\end_inset
+
+???
+\end_layout
+
+\begin_layout Standard
+A befejezett alakok a létige idejéhez képest előidejűséget fejeznek ki.
+ Állapotváltoztatást jelentő igéknél ezzel tudjuk kifejezni az állapot jelen
+ illetve múlt idejű fennálltát, pl.
+\begin_inset space ~
+\end_inset
+
+??? Érdemes összehasonlítani a sima múltidővel, pl.
+\begin_inset space ~
+\end_inset
+
+??? (kapcsolat a jelennel)
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+dâshtan
+\emph default
+ ige a kötőmódját a befejezett kötőmóddal képezi (
+\emph on
+dâshte bâsh-
+\emph default
+).
 \end_layout
 
 \begin_layout Subsubsection
@@ -5661,7 +5807,7 @@ Személytelen igék
 \end_layout
 
 \begin_layout Standard
-sdf
+sdf +kontrafaktualis
 \end_layout
 
 \begin_layout Subsection
@@ -5983,7 +6129,7 @@ más kiejtés, több magánhangzó
 \end_layout
 
 \begin_layout Section
-Példa
+Példák
 \begin_inset Newpage pagebreak
 \end_inset
 

@@ -1,12 +1,11 @@
 			  -*- mode: org -*-
-â
+âÂ
 
 * Névmások
 ** Vonatkozó
 - ke
 - az előtte levőhöz -í kapcsolódik (szokásos módon szükség esetén hamzával)
 - í-re végződő szavak után gyakran lehagyják
-- az -í és ke egybeírható (-íke)
 - ha tárgyra utalunk vissza, akkor -í-raa-ke lesz
 - elöljárószavaknál az aan-al lehet rá hivatkozni (ill. tsz. aanhaa, embernél ú / íshaan), pl.
   sándúq-íke mán áz aan púl-raa gereftám (a doboz, amiből én a pénzt kivettem),
@@ -188,7 +187,7 @@
 ** Éppen most / éppen akkor
 - ld. a kollokviális folyamatos igeidőket (használják néhá írásban is)
 * Szórend
-- S + O + V  => alany + idő + tárgy + mód + hely + ige
+- S + O + V  => idő + alany + tárgy + mód + hely + ige
 - a közvetlen tárgy általában megelőzi a közvetettet
 - a kérdőszó általában az igéhez közel kerül, kivétel a cheraa (miért?), ami előre
 * Számok
