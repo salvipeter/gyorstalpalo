@@ -4341,7 +4341,7 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="5">
+<lyxtabular version="3" rows="8" columns="5">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -4579,6 +4579,63 @@ Befejezett
 na
 \emph default
 ]
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++ BMI
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++ (
+\emph on
+budan
+\emph default
+)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Folyamatos befejezett
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+[
+\emph on
+ne
+\emph default
+]
+\emph on
+mi
 \end_layout
 
 \end_inset
@@ -5727,7 +5784,11 @@ Befejezett igeidők
 \begin_layout Standard
 A befejezett alakokat a BMI és a létige segítségével képezzük.
  A létigét ragozhatjuk jelenidőben (mindig a rövid alakot használva), múltidőben
-, kötőmódban, pl.
+, vagy kötőmódban.
+ Az első két esetben a befejezett alakok a létige idejéhez képest előidejűséget
+ fejeznek ki.
+ Állapotváltoztatást jelentő igéknél ezekkel tudjuk kifejezni az állapot
+ jelen illetve múlt idejű fennálltát, pl.
 \begin_inset space ~
 \end_inset
 
@@ -5747,43 +5808,151 @@ pushidan
 \emph on
 dâman pushide bud
 \emph default
- (szoknyát viselt), 
+ (szoknyát viselt).
+ A létigének nincsen befejezett múlt idejű alakja.
+\end_layout
+
+\begin_layout Standard
+Érdemes összehasonlítani a befejezett jelenidőt a sima múltidővel, pl.
+\begin_inset space ~
+\end_inset
+
+
 \emph on
-mikhâst dâman ???
+dishab bârân bâride-ast
+\emph default
+ (tegnap este esett az eső [és most vizes a föld]; 
+\emph on
+dishab
+\emph default
+: tegnap este, 
+\emph on
+bârân
+\emph default
+: eső,
+\emph on
+ bâridan
+\emph default
+: esik [az eső/hó]), míg 
+\emph on
+dishab bârân bârid
+\emph default
+ (tegnap este esett az eső [de nincs hatása a jelenre]).
 \end_layout
 
 \begin_layout Standard
-Tagadásnál a melléknévi igenevet tagadjuk, pl.
+Ha a létigét kötőmódba tesszük, akkor múltidejű kötőmódot kapunk, pl.
 \begin_inset space ~
 \end_inset
 
-???
-\end_layout
 
-\begin_layout Standard
-A befejezett alakok a létige idejéhez képest előidejűséget fejeznek ki.
- Állapotváltoztatást jelentő igéknél ezzel tudjuk kifejezni az állapot jelen
- illetve múlt idejű fennálltát, pl.
-\begin_inset space ~
-\end_inset
-
-??? Érdemes összehasonlítani a sima múltidővel, pl.
-\begin_inset space ~
-\end_inset
-
-??? (kapcsolat a jelennel)
-\end_layout
-
-\begin_layout Standard
-A 
+\emph on
+nemitavânid chonin maqâle-i neveshte bâshid
+\emph default
+ (Ön nem lehet, hogy egy ilyen cikket írt volna; 
+\emph on
+maqâle
+\emph default
+: cikk, 
+\emph on
+neveshtan
+\emph default
+/
+\emph on
+nevis-
+\emph default
+: ír).
+ A 
 \emph on
 dâshtan
 \emph default
- ige a kötőmódját a befejezett kötőmóddal képezi (
+ igének az egyszerű kötőmódja helyett is a múltidejűt használják, pl.
+\begin_inset space ~
+\end_inset
+
+
 \emph on
-dâshte bâsh-
+mikhâhand bachche dâshte bâshand
 \emph default
-).
+ (akarják, hogy legyen gyerekük; 
+\emph on
+bachche
+\emph default
+: gyerek).
+\end_layout
+
+\begin_layout Standard
+Minden befejezett igealak tagadásánál a melléknévi igenevet tagadjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dar mâshin naneshaste budi
+\emph default
+ (nem ültél az autóban; 
+\emph on
+mâshin
+\emph default
+: autó, 
+\emph on
+neshastan
+\emph default
+/
+\emph on
+neshin
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{-:}
+\end_layout
+
+\end_inset
+
+ leül).
+\end_layout
+
+\begin_layout Standard
+A folyamatos befejezett igeidőket úgy fejezhetjük ki, hogy a melléknévi
+ igenévhez hozzákapcsoljuk a 
+\emph on
+mi-
+\emph default
+ prefixumot, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dar kudaki piâno yâd migerefte-am
+\emph default
+ (gyerekkoromban zongorázni tanultam [és most tudok]; 
+\emph on
+kudaki
+\emph default
+: gyermekkor, 
+\emph on
+piâno
+\emph default
+: zongora, 
+\emph on
+yâd
+\emph default
+: emlékezet 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+yâd gereftan
+\emph default
+: tanul).
 \end_layout
 
 \begin_layout Subsubsection

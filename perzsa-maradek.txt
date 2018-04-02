@@ -105,15 +105,6 @@
 - pl. khaandán => khaanaa (olvasható), daanestán => daanaa (bölcs)
 - csak néhány igére használható
 ** Befejezett alakok (főleg írásban és formális beszédhelyzetben)
-- befejezett jelen és múlt a létige alakjaival, pl. neveshte ám, neveshte búdám
-- a befejezett jelennél a létige rövid formáját használják
-- tagadásnál a MMI-et tagadjuk, pl. nákárde ám, nákárde búdám
-- kötőmódot is hasonló módon képezhetünk, pl. ráfte baashám, náráfte baashám
-- van "folyamatos befejezett" is: mí + MMI + létige, pl. míráfte-ám / zendágí míkárde-ást,
-  ahol egy múltbeli folyamatos/szokásos cselekvés hatással van a jelenre
-*** Befejezett múlt használata
-- ül/áll stb.
-- múltbeli előidejűség kifejezése
 - tehető utána egy ke: mán taaze ráfte búdám ke shomaa aamádíd [épp elmentem, amikor jöttél]
 - a hánúz + tagadás (még nem) használatával "amint" értelem,
   pl. hánúz nánesháste búdám ke dár baaz shod [alig ültem le, és már nyílt az ajtó]
