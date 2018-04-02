@@ -4686,7 +4686,11 @@ Jövő
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+[
+\emph on
+na
+\emph default
+]
 \end_layout
 
 \end_inset
@@ -4695,7 +4699,7 @@ Jövő
 \begin_inset Text
 
 \begin_layout Plain Layout
-
++ 
 \emph on
 khâh
 \end_layout
@@ -5778,15 +5782,107 @@ mi-
 \end_layout
 
 \begin_layout Subsubsection
+Jövőidő
+\end_layout
+
+\begin_layout Standard
+A jövőidőt a 
+\emph on
+khâstan
+\emph default
+/
+\emph on
+khâh
+\emph default
+- (akar) segédigével képezzük, melynek a 
+\emph on
+mi-
+\emph default
+ prefixum nélküli jelen idejű alakja után tesszük az ige rövid főnévi igenevét,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bâ u sohbat khâham kard
+\emph default
+ (fogok vele beszélni; 
+\emph on
+sohbat
+\emph default
+: beszélgetés 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+sohbat kardan
+\emph default
+: beszélget).
+ A létige helyett a 
+\emph on
+shodan
+\emph default
+ (válik) igét használják, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+âteshneshân khâham shod
+\emph default
+ (tűzoltó leszek; 
+\emph on
+âteshneshân
+\emph default
+: tűzoltó).
+\end_layout
+
+\begin_layout Standard
+Állító esetben a főnévi igenév kapja az erősebb hangsúlyt, de tagadáskor
+ a segédigét tagadjuk, és a 
+\emph on
+na-
+\emph default
+ prefixum lesz a hangsúlyos, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bidâr nakhâhad shod
+\emph default
+ (nem fog felébredni; 
+\emph on
+bidâr
+\emph default
+: éber 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bidâr shodan
+\emph default
+: felébred).
+\end_layout
+
+\begin_layout Standard
+Mivel a jelenidő is kifejezhet jövőidőt, ezt az alakot inkább csak akkor
+ használják, amikor hangsúlyozni akarják a jövőbeliséget.
+\end_layout
+
+\begin_layout Subsubsection
 Befejezett igeidők
 \end_layout
 
 \begin_layout Standard
 A befejezett alakokat a BMI és a létige segítségével képezzük.
  A létigét ragozhatjuk jelenidőben (mindig a rövid alakot használva), múltidőben
-, vagy kötőmódban.
- Az első két esetben a befejezett alakok a létige idejéhez képest előidejűséget
- fejeznek ki.
+, jövőidőben, vagy kötőmódban.
+ Az utolsó kivételével a befejezett alakok a létige idejéhez képest előidejűsége
+t fejeznek ki.
  Állapotváltoztatást jelentő igéknél ezekkel tudjuk kifejezni az állapot
  jelen illetve múlt idejű fennálltát, pl.
 \begin_inset space ~
@@ -5953,14 +6049,6 @@ yâd
 yâd gereftan
 \emph default
 : tanul).
-\end_layout
-
-\begin_layout Subsubsection
-Jövőidő
-\end_layout
-
-\begin_layout Standard
-asdf
 \end_layout
 
 \begin_layout Subsubsection

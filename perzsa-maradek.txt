@@ -82,8 +82,6 @@
   pl. hárche bolándtár begúíd, behtár míshenávánd
 * Igék
 ** Rövid főnévi igenév
-- MT
-- használható a jövőidő kifejezésénél (ld. lent)
 - használható az alábbi személytelen kifejezésekben:
 - a baayestán igével, ha általános alanyt akarunk kifejezni (pl. "az embernek azt kell mondania"),
   tehát baayád (kell), nábaayád (nem szabad), baayest (kellett), nábaayest (nem volt szabad) után
@@ -132,12 +130,6 @@
 - a főnévi részt birtokos alakba helyezzük, itt jelenik meg az alany
 - az igei rész E/3 alakú, pl. yaad-ám níst ("nincs emlékezetem" - nem emlékszem),
   khaab-etaan mí-aayád ("az álmod jön" - álmos vagy)
-** Jövőidő (főleg írásban és formális beszédhelyzetben)
-- khaastán jelen ideje mí- előtag nélkül + az ige rövid főnévi igeneve, pl. khaahám kárd
-- ilyenkor a segédigénél lényegesen hangsúlyosabb a főnévi igenév (hátul hangsúlyos)
-- tagadásnál a segédigét tagadjuk, és az lesz hangsúlyos, pl. nákhaahám goft
-- a létige helyett jövőidőben a shodánt használjuk, tehát pl. khaahád shod
-- összetett igéknél a két tag közé ékelődik a segédige, pl. táshríf khaahád aavárd
 ** Kontrafaktuális
 - alakra megegyezik a folyamatos múlttal
 - olyan helyzetekben, amikor kötőmód kéne
