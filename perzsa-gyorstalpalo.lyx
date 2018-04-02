@@ -4061,7 +4061,15 @@ zadan/zan-
 \emph on
 khordan/khor-
 \emph default
- (eszik).
+ (eszik, elszenved), 
+\emph on
+yâftan
+\emph default
+/
+\emph on
+yâb-
+\emph default
+ (szerez).
  A 
 \emph on
 kardan
@@ -4070,8 +4078,37 @@ kardan
 \emph on
 shodan
 \emph default
- gyakran párt alkot, amelyből az egyik tárgyas, a másik tárgyatlan igét
- képez, pl.
+ igéket stiláris okokból időnként felváltja a 
+\emph on
+nemudan
+\emph default
+/
+\emph on
+nemâ
+\emph default
+- (mutat, csinál) ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gashtan
+\emph default
+/
+\emph on
+gard-
+\emph default
+ (fordul, válik) ige.
+ A 
+\emph on
+kardan
+\emph default
+-nal képzett tárgyas értelmű igéknek általában létezik egy tárgyatlan párja
+ a 
+\emph on
+shodan
+\emph default
+ igével, pl.
 \begin_inset space ~
 \end_inset
 
@@ -4088,6 +4125,27 @@ gom shodan
 gom
 \emph default
 : elveszett).
+ Kevésbé kiszámíthatóan, de időnként párban áll a 
+\emph on
+zadan
+\emph default
+ és 
+\emph on
+khordan
+\emph default
+, illetve a 
+\emph on
+dâdan
+\emph default
+ és 
+\emph on
+khordan
+\emph default
+/
+\emph on
+yâftan
+\emph default
+ is.
  Az összetett igéknek csak az igei része ragozódik.
  A leggyakoribb igék mintegy kétharmada ebbe a típusba tartozik
 \begin_inset space ~
@@ -4101,6 +4159,34 @@ key "frequency"
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+Az összetett igék első tagjához 
+\emph on
+ezâfe
+\emph default
+-vel kapcsolódhat egy jelző, ami kiválthatja az ige vonzatát, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+be otâq vâred shodan
+\emph default
+ / 
+\emph on
+vâred-e otâq shodan
+\emph default
+ (a szobába lépni; 
+\emph on
+otâq
+\emph default
+: szoba, 
+\emph on
+vâred shodan
+\emph default
+: belép).
 \end_layout
 
 \begin_layout Subsection
@@ -5579,11 +5665,15 @@ na-
 \emph on
 kardan
 \emph default
- vagy a 
+, 
 \emph on
 shodan
 \emph default
-, pl.
+ vagy 
+\emph on
+dâshtan
+\emph default
+, és az ige két tagja közé nem ékelődik másik szó, pl.
 \begin_inset space ~
 \end_inset
 
@@ -5603,7 +5693,31 @@ sabr
 \emph on
 sabr kardan
 \emph default
-: vár).
+: vár), de 
+\emph on
+javâb-e so'âl bedeh
+\emph default
+ (válaszolj a kérdésre; 
+\emph on
+so'âl
+\emph default
+: kérdés, 
+\emph on
+javâb
+\emph default
+: válasz 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+javâb
+\emph default
+ 
+\emph on
+dâdan
+\emph default
+: válaszol).
 \end_layout
 
 \begin_layout Standard
@@ -6056,7 +6170,132 @@ Passzív igealakok
 \end_layout
 
 \begin_layout Standard
-asdfa
+A passzív igealakok viszonylag ritkák.
+ Általában kerülik, és csak olyankor használják, amikor az ágens nincsen
+ kifejezve.
+ Képzésük egyszerű, a befejezett melléknévi igenév után kerül a 
+\emph on
+shodan
+\emph default
+ (válik) ige ragozott alakja, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gofte mishavad
+\emph default
+ (mondják [,,mondódik'']; 
+\emph on
+goftan
+\emph default
+: mond), 
+\emph on
+shekaste shode-ast
+\emph default
+ (eltörték [,,eltörődött'']; 
+\emph on
+shekastan
+\emph default
+/
+\emph on
+shekan-
+\emph default
+: eltör).
+ A befejezett alakokkal ellentétben a tagadást is a segédige vállalja át,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+porside nakhâhad shod
+\emph default
+ (nem fogják kérdezni [,,nem fog kérdeződni'']; 
+\emph on
+porsidan
+\emph default
+: kérdez).
+ Kötőmódnál a 
+\emph on
+be-
+\emph default
+ prefixum elhagyható, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+in dar nemitavânad baste 
+\emph default
+[
+\emph on
+be
+\emph default
+]
+\emph on
+shavad
+\emph default
+ (ezt az ajtót nem lehet becsukni [,,ez az ajtó nem csukódik be'']; 
+\emph on
+dar
+\emph default
+: ajtó, 
+\emph on
+bastan
+\emph default
+/
+\emph on
+band-
+\emph default
+: becsuk).
+\end_layout
+
+\begin_layout Standard
+Az összetett igéknél a tényleges passzívot az ige tárgyatlan párja váltja
+ fel (ha van), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+in zabân farâmush shode-ast
+\emph default
+ (ez a nyelv elfelejtődött; 
+\emph on
+zabân
+\emph default
+: nyelv, 
+\emph on
+farâmush kardan
+\emph default
+: elfelejt).
+ Ilyenkor az ágens kifejezhető az 
+\emph on
+az
+\emph default
+ elöljárószóval.
+ Más összetett igéknél a passzívot szabályosan képezzük, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dust dâshte nemishavam
+\emph default
+ (nem szeretnek [,,nem szeretődöm'']; 
+\emph on
+dust
+\emph default
+: barát 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dust dâshtan
+\emph default
+: szeret).
 \end_layout
 
 \begin_layout Subsection
