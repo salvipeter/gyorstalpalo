@@ -78,33 +78,12 @@
 - ha a mellékmondat jövőre vonatkozik vagy lehetetlen, akkor kötőmóddal,
   pl. hárche bolándtár begúíd, behtár míshenávánd
 * Igék
-** Igenevek
-*** Ágens
-- JT + ánde (az án hangsúlyos)
-- lehet használni főnévként is, többesszáma ilyenkor -gaan (pl. párídán => páránde => párándegaan)
-- összetett igéknél a főnévi tag + JT, pl. paak kárdán => paakkon; daanesh jostán => daaneshjú
-*** Módhatározó
-- JT + [y]aan
-- pl. khándaan (nevetve)
-*** Képesség
-- JT + [y]aa
-- pl. khaandán => khaanaa (olvasható), daanestán => daanaa (bölcs)
-- csak néhány igére használható
 ** Befejezett alakok (főleg írásban és formális beszédhelyzetben)
 - tehető utána egy ke: mán taaze ráfte búdám ke shomaa aamádíd [épp elmentem, amikor jöttél]
 - a hánúz + tagadás (még nem) használatával "amint" értelem,
   pl. hánúz nánesháste búdám ke dár baaz shod [alig ültem le, és már nyílt az ajtó]
 - ha a létige befejezett jelenbe kerül, akkor elbeszélő múlt [ritka],
   pl. dár aan váqt be sísaalegí náresíde búde ást [akkor még nem érte el a 30 évet]
-** Kontrafaktuális
-- beszélt nyelvben E/1 múltidő (kellett vmit csinálnom): baayád míkárdám (baayest bekonám helyett)
-  de ez az alak egyben a kontrafaktuális is! - furcsa/gyanús [Colloquial Persian, Unit 14]
-
-- alakra megegyezik a folyamatos múlttal
-- olyan helyzetekben, amikor kötőmód kéne
-- pl. baayád míráft (el kellett volna mennie) vs. baayád ráfte baashád (biztosan elment)
-- pl. kaash[kí] ínjaa búdíd (bárcsak itt lettél volna) vs. ... baashíd (... lennél)
-- pl. behtár búd namíaamádíd (jobb lett volna, ha nem jössz)
 * Partikulák
 ** Tárgyjelölő
 - a határozott tárgy után jön: raa
@@ -135,8 +114,6 @@
 - mindezek múltidőben hasonlóan (ást helyett búd)
 - az idő hosszának hangsúlyozására: éppen most (ld. lent),
   pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
-** Éppen most / éppen akkor
-- ld. a kollokviális folyamatos igeidőket (használják néhá írásban is)
 * Szórend
 - S + O + V  => idő + alany + tárgy + mód + hely + ige
 - a közvetlen tárgy általában megelőzi a közvetettet
@@ -309,7 +286,6 @@
 - a -[g]í képző (ld. lejjebb) absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
   de -í végű melléknévnél helyette búdán (pl. ábrí-búdán : "felhősség") [vagy rendhagyó arab]
 - [beszélt nyelvben] -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
-- főnév + JT, pl. aashpáz (szakács)
 - a -kár/kaar/-gár/-gaar szuffixumok vmilyen munkavégzést jelölnek
 - az -ák végződés kicsinyítőképző, pl. morghák, pesárák stb.
 - a -che végződés is kicsinyítőképző (csak élettelenre), pl. dáryaache
