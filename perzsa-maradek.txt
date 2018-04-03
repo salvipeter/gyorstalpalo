@@ -30,9 +30,6 @@
    illetve hánúz + tagadott befejezett múlt: "alighogy hazaért, csörgött a telefon")
 - nem állhat a tagmondat legelején, pl. báchche ke búdám, zendegí saadetár búd
 - ha nincs semmi elétehető, akkor egy személyes névmást szúrunk be elé
-** Általános
-- aadám: általános személyként, amikor nem a főige alanya (különben rövid főnévi igenévvel)
-- ha tárgy, akkor mindig kell -raa, pl. cheraa aadám-raa aanqádr áziyát míkonánd?
 * Kérdőszavak
 - gyakran közvetlenül az ige előtt
 - eldöntendő kérdésnél a mondat elejére jöhet aayaa (de elég az emelkedő hanglejtés is)
@@ -81,15 +78,6 @@
 - ha a mellékmondat jövőre vonatkozik vagy lehetetlen, akkor kötőmóddal,
   pl. hárche bolándtár begúíd, behtár míshenávánd
 * Igék
-** Rövid főnévi igenév
-- használható az alábbi személytelen kifejezésekben:
-- a baayestán igével, ha általános alanyt akarunk kifejezni (pl. "az embernek azt kell mondania"),
-  tehát baayád (kell), nábaayád (nem szabad), baayest (kellett), nábaayest (nem volt szabad) után
-- a shodán ige személytelen alakjaival: [ná]míshod, [ná]míshávád "[nem] lehetséges"
-- a távaanestán ige személytelen alakjaival: [ná]mítávaanest, [ná]mítávaan "[nem] lehet"
-** Folyamatos múlt
-- mí + múlt (pl. míráftám, míráftíd stb.)
-- múltban ismétlődő esemény vagy megszakított folyamat (pl. éppen olvastam, amikor csöngettek)
 ** Igenevek
 *** Ágens
 - JT + ánde (az án hangsúlyos)
@@ -108,21 +96,10 @@
   pl. hánúz nánesháste búdám ke dár baaz shod [alig ültem le, és már nyílt az ajtó]
 - ha a létige befejezett jelenbe kerül, akkor elbeszélő múlt [ritka],
   pl. dár aan váqt be sísaalegí náresíde búde ást [akkor még nem érte el a 30 évet]
-** Személytelen igék
-*** Baayestán és shaayestán
-- csak idő szerint ragozzuk, személy szerint mindig E/3 (pl. baayest)
-- jelen időhöz nem kap mí- előtagot (baayád, shaayád)
-- kötőmódot vonz
+** Kontrafaktuális
 - beszélt nyelvben E/1 múltidő (kellett vmit csinálnom): baayád míkárdám (baayest bekonám helyett)
   de ez az alak egyben a kontrafaktuális is! - furcsa/gyanús [Colloquial Persian, Unit 14]
-*** Távaanestán és shodán
-- ld. rövid főnévi igenév
-*** Összetett igék
-- általában aktívan nem befolyásolható dolgok (pl. emlékezés, érzések - fáradtság, álmosság stb.)
-- a főnévi részt birtokos alakba helyezzük, itt jelenik meg az alany
-- az igei rész E/3 alakú, pl. yaad-ám níst ("nincs emlékezetem" - nem emlékszem),
-  khaab-etaan mí-aayád ("az álmod jön" - álmos vagy)
-** Kontrafaktuális
+
 - alakra megegyezik a folyamatos múlttal
 - olyan helyzetekben, amikor kötőmód kéne
 - pl. baayád míráft (el kellett volna mennie) vs. baayád ráfte baashád (biztosan elment)
@@ -131,11 +108,10 @@
 * Partikulák
 ** Tárgyjelölő
 - a határozott tárgy után jön: raa
-- egybe és külön is lehet írni
-- személyes névmásokkal általában egybeírják (és mán + raa => máraa, to + raa => toraa (nincs w))
 - ha határozatlanság-jelölővel együtt szerepel, akkor "egy nem meghatározott, de nem bármilyen",
   pl. ketaab-e dígár-í khaastám [egy (bármilyen) másik könyvet kértem]
   pl. ketaab-e dígár-í-raa khaastám [egy (bizonyos) másik könyvet kértem]
+- aadám után mindig ki kell rakni
 ** Hám
 - hangsúlyozás (összehasonlításnál, rámutatásnál),
   pl. Kodaam? Ín hám. vagy pl. mán hám mírávám, válí ...
