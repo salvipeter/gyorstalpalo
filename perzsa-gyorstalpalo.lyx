@@ -260,7 +260,7 @@ A perzsa (és a dari) írása az arab ábécén alapul.
  szerkezeti különbsége miatt a helyesírás nem triviális.
  Az olvasó a fent említett nyelvkönyvek bármelyikében
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Az arab/perzsa írásnak számos stílusa létezik.
@@ -1413,7 +1413,7 @@ sandali
 \emph default
  (a szék, szék, egy szék).
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Thackston szerint ki kell írni, és Forvo-n van, hogy kiejtik és hallatszik.
@@ -1466,7 +1466,7 @@ gorbe-i
 \lang magyar
 í / gor'bejí].
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Thackston még hamzát használ, máshol y-t, a kiejtésről senki nem beszél,
@@ -2268,7 +2268,7 @@ pirâhan-am
 \emph default
 ) kezd átmenni az írott nyelvbe is
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Az ,,írott nyelv kiejtése'' alatt a leírt szövegek felolvasásakor alkalmazott
@@ -7073,7 +7073,7 @@ tamiz
 \emph default
 : tiszta).
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Thackston szerint az -o/va- verzió csak akkor használható, ha a főnév határozatl
@@ -7240,7 +7240,7 @@ A középfok kifejezhető a
 \emph on
 bishtar
 \emph default
- segítségével is, ezt ritkán használják, inkább csak összetett mellékneveknél,
+ segítségével is – ezt ritkán használják, inkább csak összetett mellékneveknél,
  pl.
 \begin_inset space ~
 \end_inset
@@ -7259,7 +7259,7 @@ tavajjoh
 \emph default
 : figyelem).
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Netes keresések alapján ritka.
@@ -7276,7 +7276,147 @@ Netes keresések alapján ritka.
 \end_layout
 
 \begin_layout Standard
-Bla
+Az összehasonlítás alapját az 
+\emph on
+az
+\emph default
+ elöljárószó vezeti be, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Zhâle az man bolandtar-ast
+\emph default
+ (Zhaleh magasabb nálam; 
+\emph on
+boland
+\emph default
+: hosszú, magas).
+ Ez a leggyakoribb szórend, de az összehasonlítás a melléknév után is kerülhet,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Zhâle bolandtar az man-ast
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Amikor az összehasonlítás a főige után kerül, akkor a 
+\emph on
+tâ
+\emph default
+ elöljárószót kell alkalmazni az 
+\emph on
+az
+\emph default
+ helyett, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+in angoshtar gerântar-ast tâ ân
+\emph default
+ (ez a gyűrű drágább annál; 
+\emph on
+angoshtar
+\emph default
+: gyűrű, 
+\emph on
+gerân
+\emph default
+: drága).
+ Ez a szokásos szórend akkor, amikor az összehasonlítás alapja prepozíciós
+ vagy tárgy, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dar in daryâche kamtar mâhi-st tâ dar Daryâ-ye morde 
+\emph default
+(ebben a tóban kevesebb hal van, mint a Holt-tengerben; 
+\emph on
+daryâche
+\emph default
+: tó, 
+\emph on
+kam
+\emph default
+: kevés, 
+\emph on
+mâhi
+\emph default
+: hal, 
+\emph on
+daryâ
+\emph default
+: tenger, 
+\emph on
+mordan
+\emph default
+/
+\emph on
+mir-
+\emph default
+: meghal).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Thackston szerint ez akkor is taa-t követel, ha nem kerül az ige után, de
+ erre nem találtam példát.
+ Thackston írja még azt az esetet is, hogy az összehasonlítás alapja nem
+ azonos, de ez egyrészt elég ritkának tűnik, másrészt szintén az ige után
+ van a példákban az összehasonlítás.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A felsőfok helyettesíthető összehasonlítással: 
+\emph on
+az hame 
+\begin_inset Formula $\dots$
+\end_inset
+
+tar
+\emph default
+ (mindennél 
+\begin_inset Formula $\dots$
+\end_inset
+
+bb), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+az miân-e kâkhhâ-ye Takht-e Jamshid, kâkh-e Âpâdânâ az hame qadimitar va-bâshoku
+htar bude-ast
+\emph default
+ (Perszepolisz palotái közül az Apadana palota a legrégibb és legfenségesebb;
+ 
+\emph on
+kâkh
+\emph default
+: palota, 
+\emph on
+qadimi
+\emph default
+: régi, 
+\emph on
+bâshokuh
+\emph default
+: fenséges).
 \end_layout
 
 \begin_layout Section

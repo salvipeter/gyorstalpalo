@@ -285,7 +285,7 @@
 - melléknév + aa: absztrakt tulajdonság, pl. gármaa (melegség)
 - a -[g]í képző (ld. lejjebb) absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
   de -í végű melléknévnél helyette búdán (pl. ábrí-búdán : "felhősség") [vagy rendhagyó arab]
-- [beszélt nyelvben] -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
+- (törökből) -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
 - a -kár/kaar/-gár/-gaar szuffixumok vmilyen munkavégzést jelölnek
 - az -ák végződés kicsinyítőképző, pl. morghák, pesárák stb.
 - a -che végződés is kicsinyítőképző (csak élettelenre), pl. dáryaache
