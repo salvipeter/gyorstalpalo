@@ -9270,6 +9270,168 @@ name "subsec:Feltételes-mondatok"
 Feltételes mondatok
 \end_layout
 
+\begin_layout Standard
+A feltételes mondatokat az 
+\emph on
+agar
+\emph default
+ (ha) szó vezeti be, de elhagyható.
+ Amikor a feltétel biztosan teljesül, jelenidőt használunk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+agar be dokân miravi
+\emph default
+, 
+\emph on
+nân-ham bekhar
+\emph default
+ (ha [úgyis] mész a boltba, vegyél kenyeret is; 
+\emph on
+dokân
+\emph default
+: bolt, 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+: megy, 
+\emph on
+nân
+\emph default
+: kenyér, 
+\emph on
+kharidan
+\emph default
+: vásárol).
+ Amikor kételyeink vannak, akkor pedig kötőmódot vagy múltidőt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+agar fardâ havâ khub bâshad/bud, be kuhestân beravim
+\emph default
+ (ha holnap jó [lesz] az idő, menjünk a hegyekbe; 
+\emph on
+fardâ
+\emph default
+: holnap, 
+\emph on
+havâ
+\emph default
+: levegő, időjárás, 
+\emph on
+khub
+\emph default
+: jó, 
+\emph on
+kuh
+\emph default
+: hegy 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+kuhestân
+\emph default
+: hegyes terület).
+ Ha a feltétel a múltra vonatkozik, múltidejű kötőmódot kell használni,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+agar dishab nakhâbide bâshand, bâyad kheyli khaste bâshand
+\emph default
+ (ha tegnap éjjel nem aludtak, akkor biztosan nagyon fáradtak; 
+\emph on
+dishab
+\emph default
+: tegnap éjjel, 
+\emph on
+khâbidan
+\emph default
+: alszik, 
+\emph on
+kheyli
+\emph default
+: nagyon, 
+\emph on
+khaste
+\emph default
+: fáradt).
+\end_layout
+
+\begin_layout Standard
+Lehetetlen feltételnél mind a feltétel, mind a következmény folyamatos múltidőbe
+ kerül (vagy kollokviálisabban befejezett múltidőbe), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+agar khâhesh mikardand, be ânhâ midâdam
+\emph default
+ (ha kérték volna, odaadtam volna nekik / ha kérnék [de nem fogják], odaadnám
+ nekik; 
+\emph on
+khâhesh
+\emph default
+: kérés 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khâhesh kardan
+\emph default
+: kér), 
+\emph on
+agar ziâd sigâr dud nakarde bud, hanuz ziste bud
+\emph default
+ (ha nem cigarettázott volna sokat, még élne; 
+\emph on
+ziâd
+\emph default
+: sok[at], 
+\emph on
+sigâr
+\emph default
+: cigaretta, 
+\emph on
+dud
+\emph default
+: füst 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dud kardan
+\emph default
+: dohányzik, 
+\emph on
+hanuz
+\emph default
+: még
+\emph on
+, zistan
+\emph default
+/
+\emph on
+zi-
+\emph default
+: él).
+\end_layout
+
 \begin_layout Section
 Számok
 \end_layout

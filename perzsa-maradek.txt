@@ -1,24 +1,6 @@
 			  -*- mode: org -*-
 âÂ
 
-* Konstrukciók
-** Feltételes mondatok
-- ha: ágár (elhagyható)
-- biztos: ha [jelen], [jelen], pl. ágár mídaaníd, cheraa namígúíd? "ha (úgyis) tudod, ..."
-  (ha a "ha" elmarad, akkor a feltétel kötőmódú)
-- feltételes: ha [kötő/múlt], [jelen/jövő/felszólító]; a kötőmód erősíti a valószínűtlenséget
-  (bár a Colloquial Persian szerint épp a múltidő erősíti a valószínűtlenséget)
-  múltra vonatkozó feltételnél múltbeli kötőmód, pl. ágár ú-raa díde baashíd ...
-- lehetetlen: ha [folyamatos múlt], [folyamatos múlt]; vonatkozhat múltra vagy jövőre is
-- beszélt nyelvben a lehetetlen mindkét oldalán lehet befejezett múlt is
-** Időtartamok kifejezése
-- vmennyi idő óta: (időtartam) ást [ke] (jelen)
-- sima: pl. se saal-ást ke ínjaa hástám (3 éve vagyok itt)
-- állapotok, tagadás: pl. do háfte-ást ke áz khaane bírún náráfte-ást (2 hete nem ment ki a házból)
-- folyamatban levő cselekvés: pl. do saa'át-ást ke kaar-míkonám (2 órája dolgozom)
-- mindezek múltidőben hasonlóan (ást helyett búd)
-- az idő hosszának hangsúlyozására: éppen most (ld. lent),
-  pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
 * Számok
 ** Alapszámok
 - a főnév mindig egyesszámban
@@ -80,6 +62,14 @@
 *** -ként -szer
 - határozatlan + szám + baar/dáf'e
 - pl. saal-í do dáf'e => évente kétszer
+*** Időtartamok kifejezése
+- vmennyi idő óta: (időtartam) ást [ke] (jelen)
+- sima: pl. se saal-ást ke ínjaa hástám (3 éve vagyok itt)
+- állapotok, tagadás: pl. do háfte-ást ke áz khaane bírún náráfte-ást (2 hete nem ment ki a házból)
+- folyamatban levő cselekvés: pl. do saa'át-ást ke kaar-míkonám (2 órája dolgozom)
+- mindezek múltidőben hasonlóan (ást helyett búd)
+- az idő hosszának hangsúlyozására: éppen most (ld. lent),
+  pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
 ** Határozatlan
 - [yek]chánd + egyesszám[-í], pl. yekchánd saalí (néhány év)
 - többesszám-í chánd, pl. saalaan-í chánd (néhány év, irodalmi stílus)
@@ -164,7 +154,6 @@
 ** Kötőszavak
 - cho / chon: mert, amikor, ha, mint, hogyan?
 * Beszélt nyelv
-- az írása nem standardizált
 ** Fonetikai változások
 - "aan" => "ún" majdnem mindenhol, pl. aan khaane => ún khúne (de pl.: íraan, daastaan)
 - "aam" => "úm" néha, pl. aamádán => úmádán, kodaam => kodúm
