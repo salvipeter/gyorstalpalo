@@ -30,24 +30,6 @@
    illetve hánúz + tagadott befejezett múlt: "alighogy hazaért, csörgött a telefon")
 - nem állhat a tagmondat legelején, pl. báchche ke búdám, zendegí saadetár búd
 - ha nincs semmi elétehető, akkor egy személyes névmást szúrunk be elé
-* Kérdőszavak
-- gyakran közvetlenül az ige előtt
-- eldöntendő kérdésnél a mondat elejére jöhet aayaa (de elég az emelkedő hanglejtés is)
-- che: mi? milyen? [beszélt nyelvben chí] ("milyen?" értelemben utána határozatlan kell)
-- kí: ki?
-   - che + ást => chíst, che + ánd => chístánd
-     kí  + ást => kíst,  kí  + ánd => kístánd
-   - a "kí hástíd?"-et általában "kístíd?"-re rövidítik
-- keí: mikor?
-- kojaa: hol?
-- cheraa: miért?
-- kodaam: melyik?
-- chetour: hogyan?
-- chánd / cheqádr: mennyi? [egyesszámmal]
-- chánd váqt: milyen hosszú idő?
-- chándom(ín): hányadik?
-- néhány kérdőszónak lehet többesszáma, 
-  pl. chehaa (mi minden), kíhaa (ki mindenki), kojaahaa (hol mindenhol)
 * Főnevek
 ** Főnévi állítmány
 - ha nincsen módosítva, akkor mindig határozott egyesszámú, pl. álí o ákbár daaneshjú ánd
@@ -106,6 +88,7 @@
 ** Sorszámnevek
 - a szabályos végződés -om (hangsúlyos)
 - 2/3-ra végződőeknél is ...dovvom / sevvom
+- chándom(ín): hányadik?
 - mindezek kaphatnak egy plusz -ín végződést (ávválín, dovvomín stb.) és a főnév elé kerülnek
 - a sima verzió fix rendezésre, az -ín végződéses ideiglenes rendezésre utal,
   pl. az 5. ház az utcában fix, az 5. fehér ház az utcában nem
