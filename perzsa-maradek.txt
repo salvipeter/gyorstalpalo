@@ -58,16 +58,9 @@
 - irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
   pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
 * Melléknevek, határozók
-- felsőfokra lehet még: ... áz háme
-- összehasonlításnál a "mint": áz, taa => taa akkor, ha:
-  - az összehasonlítás a főige után kerül
-  - az összehasonlítás alapja prepozíciós vagy tárgy
-  - nem azonos az összehasonlítás alapja ("inkább ez mint az" típusú)
-- negatív összehasonlítás: <A> be ...-gí-ye <B> níst (<A> nincs olyan ..., mint <B>)
 ** Melléknevekből képzett főnevek használata
 - be ín ... => ennyire, pl. be ín zúdí "ennyire korán"
 - be aan ... => annyira, pl. be aan bozorgí "annyira nagy"
-- be ...-e ... => olyan ..., mint, pl. ín be khúbí-e aan ást "ez olyan jó, mint az"
 ** hárche
 - hárche ...-tár => annyira ... amennyire csak lehet,
   pl. baayád hárche zúdtár beresím
@@ -275,15 +268,13 @@
 * Szóképzés
 ** Főnevek képzése
 - JT + [y]esh => absztrakt főnév, pl. aamúzesh (tanulás, tudás)
-- az -e végű melléknévekből -gí hozzátevésével absztrakt főnév lesz, pl. khástegí (fáradtság),
-  ez mindig működik, melléknévi igenevekre is
 - MT o JT, vagy MT o MT, pl. goftogú, aamádoraft
 - főnév + -baan (néha -vaan) az ott dolgozó foglalkozást jelenti, pl. baaghbaan (kertész)
 - főnév + -gaah/[e]staan vmi helyét jelöli, pl. Torkestaan (Turkesztán), daaneshgaah (egyetem)
 - főnév + -khaane a hely, ahol vmit tárolnak vagy csinálnak, pl. ketaabkhaane (könyvtár)
 - MT + -aar absztrakt főnevet képez, pl. goftaar (beszéd)
 - melléknév + aa: absztrakt tulajdonság, pl. gármaa (melegség)
-- a -[g]í képző (ld. lejjebb) absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
+- a -[g]í képző absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
   de -í végű melléknévnél helyette búdán (pl. ábrí-búdán : "felhősség") [vagy rendhagyó arab]
 - (törökből) -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
 - a -kár/kaar/-gár/-gaar szuffixumok vmilyen munkavégzést jelölnek
@@ -293,10 +284,8 @@
 - JT + aandán/aanídán, pl. súkhtán, súz- (ég) => súzaanídán (meggyújt)
 - a tő rövid á-jából aa-t csinálva, pl. gozáshtán => gozaashtán
 ** Melléknevek/határozók képzése
-- msh. után -í, -e után -gí, más magánhangzó után -'í
-  (főnévi igenévhez kapcsolva "-való"/"-ható", pl. dúst-daashtání "szeretnivaló", 
-   baavár-nákárdání "hihetetlen" stb.)
-- pl. íraan => íraaní, háfte => háftegí
+- főnévi igenév + -í: "-való"/"-ható", pl. dúst-daashtání "szeretnivaló", 
+  baavár-nákárdání "hihetetlen" stb.
 - [g]aane, pl. báraadáraane "testvéri";  mo'áddábaane "udvariasan"
 - főnév + JT, pl. khoshgú (hízelgő)
 ** Egyéb
