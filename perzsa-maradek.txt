@@ -57,19 +57,6 @@
   pl. álí {daaneshjú-ye zeráng}-í níst
 - irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
   pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
-* Melléknevek, határozók
-** Melléknevekből képzett főnevek használata
-- be ín ... => ennyire, pl. be ín zúdí "ennyire korán"
-- be aan ... => annyira, pl. be aan bozorgí "annyira nagy"
-** hárche
-- hárche ...-tár => annyira ... amennyire csak lehet,
-  pl. baayád hárche zúdtár beresím
-- ...-e támaamtár => ugyanez (a baa-val képzett több szavas határozóknál),
-  pl. baa ehteraam-e hárche támaamtár tá'zim-kárd
-- hárche ...-tár, ...-tár => minél ..., annál ...,
-  pl. hárche bíshtár, behtár
-- ha a mellékmondat jövőre vonatkozik vagy lehetetlen, akkor kötőmóddal,
-  pl. hárche bolándtár begúíd, behtár míshenávánd
 * Igék
 ** Befejezett alakok (főleg írásban és formális beszédhelyzetben)
 - tehető utána egy ke: mán taaze ráfte búdám ke shomaa aamádíd [épp elmentem, amikor jöttél]
@@ -130,18 +117,11 @@
 - a "daane" apró dolgokra, az "ádád" pedig árucikkekre
 ** Sorszámnevek
 - a szabályos végződés -om (hangsúlyos)
-- 1. ávvál (ritkán: nokhost / yekom)
-- 2. dovvom
-- 3. sevvom
-- utána szabályos (cháhaarom, pánjom, ...), de 2/3-ra végződőeknél mint fent
+- 2/3-ra végződőeknél is ...dovvom / sevvom
 - mindezek kaphatnak egy plusz -ín végződést (ávválín, dovvomín stb.) és a főnév elé kerülnek
 - a sima verzió fix rendezésre, az -ín végződéses ideiglenes rendezésre utal,
   pl. az 5. ház az utcában fix, az 5. fehér ház az utcában nem
-- az első négyre arab verziót is használnak, gyakran határozóként:
-- 1. ávvál  => ávválán
-- 2. sání   => sánián
-- 3. sáles  => sálesan
-- 4. raabe' => raabe'an
+- az első négyre arab verziót is használnak, gyakran határozóként
 ** Idő
 - forma egésztől félig: saa'át-e-... o ... dáqíqe, pl. saa'át-e-se o dáh dáqíqe (3 óra 10 perc),
   vagy saa'át-e-shesh o ním (fél 7)

@@ -7343,7 +7343,7 @@ behtar
 in
 \emph default
 ]).
- Egy másik kivétel a ,,sok'' jelentésű 
+ Egy másik kivétel a ,,sok, nagyon'' jelentésű 
 \emph on
 besyâr
 \emph default
@@ -7616,19 +7616,269 @@ bâshokuh
 \end_layout
 
 \begin_layout Section
-Határozók
-\end_layout
-
-\begin_layout Itemize
-kepzesek, arab hatarozok stb.
-\end_layout
-
-\begin_layout Section
 Partikulák
 \end_layout
 
 \begin_layout Itemize
 targyjelolo
+\end_layout
+
+\begin_layout Section
+Határozók
+\end_layout
+
+\begin_layout Standard
+Sok melléknév egyben határozóként is funkcionál, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khub
+\emph default
+ (jó, jól), 
+\emph on
+tanhâ
+\emph default
+ (egyedüli, egyedül), 
+\emph on
+âheste
+\emph default
+ (lassú/halk, lassan/halkan).
+ Az időt kifejező főnevek is sokszor határozói erejűek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sobh
+\emph default
+ (reggel [fn./hat.])
+\emph on
+, ba'd az zohrhâ
+\emph default
+ (délutánok, délutánonként; 
+\emph on
+zohr
+\emph default
+: dél 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+ba'd az zohr
+\emph default
+: délután).
+\end_layout
+
+\begin_layout Standard
+Az arabból átvett határozók gyakori végződése az 
+\emph on
+-an
+\emph default
+ vagy 
+\emph on
+-atan
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+aslan
+\emph default
+ (lényegében) és 
+\emph on
+taqriban
+\emph default
+ (körülbelül), illetve 
+\emph on
+nesbatan
+\emph default
+ (aránylag) és 
+\emph on
+haqiqatan
+\emph default
+ (valójában).
+ Ettől eltérő alakúra példa az 
+\emph on
+al'ân
+\emph default
+ (most) vagy a 
+\emph on
+belakhare
+\emph default
+ (végül).
+\end_layout
+
+\begin_layout Standard
+Vannak természetesen perzsa eredetű, nem képzett határozók is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hamishe
+\emph default
+ (mindig), 
+\emph on
+ânvaqt
+\emph default
+ (akkor).
+ Ezek közül néhány elöljárószót is tartalmaz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+be vizhe
+\emph default
+ (különösen; 
+\emph on
+vizhe
+\emph default
+: különleges), 
+\emph on
+bâ ham
+\emph default
+ (együtt).
+\end_layout
+
+\begin_layout Standard
+Az ,,ennyire'' / ,,annyira'' a 
+\emph on
+be in
+\emph default
+/
+\emph on
+ân
+\emph default
+ + (elvont főnév) formulával fejezhető ki, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+be in daqiqi
+\emph default
+ (ennyire pontos[an]; 
+\emph on
+daqiq
+\emph default
+: pontos 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+daqiqi
+\emph default
+: pontosság).
+ Az ,,annyira 
+\begin_inset Formula $\dots$
+\end_inset
+
+, amennyire csak lehet'' típusú kifejezésekben a 
+\emph on
+harche
+\emph default
+ (bármi) szó után középfokú határozót teszünk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+harche bolandtar
+\emph default
+ (minél hangosabban; 
+\emph on
+boland
+\emph default
+: magas, hangos).
+ Az összetett határozókat ilyenkor a 
+\emph on
+tamâm
+\emph default
+ (teljes[en]) szóval tesszük 
+\emph on
+ezâfe
+\emph default
+ kapcsolatba, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bâ ehterâm-e harche tamâmtar
+\emph default
+ (minél tiszteletteljesebben; 
+\emph on
+ehterâm
+\emph default
+: tisztelet 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bâ ehterâm
+\emph default
+: tiszteletteljes).
+ A ,,minél inkább 
+\begin_inset Formula $\dots$
+\end_inset
+
+, annál inkább 
+\begin_inset Formula $\dots$
+\end_inset
+
+'' mondatok megfelelője perzsául a 
+\emph on
+harche 
+\begin_inset Formula $\dots$
+\end_inset
+
+tar, 
+\begin_inset Formula $\dots$
+\end_inset
+
+tar
+\emph default
+, a mellékmondatban kötőmóddal, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+harche bishtar boguyad, shâyad kamtar asar konad
+\emph default
+ (minél többet mondja, talán annál kevesebb hatása van; 
+\emph on
+goftan
+\emph default
+/
+\emph on
+gu-
+\emph default
+: mond, 
+\emph on
+kam
+\emph default
+: kevés[sé], 
+\emph on
+asar
+\emph default
+: hatás 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+asar kardan
+\emph default
+: hatást gyakorol).
 \end_layout
 
 \begin_layout Section
@@ -8647,7 +8897,15 @@ sisad
 \begin_inset Text
 
 \begin_layout Plain Layout
-1000000
+1
+\begin_inset space \thinspace{}
+\end_inset
+
+000
+\begin_inset space \thinspace{}
+\end_inset
+
+000
 \end_layout
 
 \end_inset
@@ -8799,6 +9057,253 @@ name "tab:Számok."
 \end_inset
 
 Számok.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="6">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\dots$
+\end_inset
+
+-dik
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Melléknév
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+avval
+\emph default
+ / 
+\emph on
+nokhost
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+dovvom
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+sevvom
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+chahârom
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\dots$
+\end_inset
+
+
+\emph on
+om
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Határozó
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+avvalan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+sâniyan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+sâlesan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+râbe'an
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+–
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Sorszámnevek."
+
+\end_inset
+
+Sorszámnevek.
 \end_layout
 
 \end_inset
