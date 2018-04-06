@@ -7616,14 +7616,6 @@ bâshokuh
 \end_layout
 
 \begin_layout Section
-Partikulák
-\end_layout
-
-\begin_layout Itemize
-targyjelolo
-\end_layout
-
-\begin_layout Section
 Határozók
 \end_layout
 
@@ -7882,6 +7874,224 @@ asar kardan
 \end_layout
 
 \begin_layout Section
+Partikulák
+\end_layout
+
+\begin_layout Standard
+Két nagyon fontos, de nehezen besorolható, hangsúlytalan szuffixum tartozik
+ ide.
+ 
+\end_layout
+
+\begin_layout Standard
+Az egyik a 
+\emph on
+-râ
+\emph default
+, mely a határozott tárgyat jelöli, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+derakhthâ-râ qat' karde-and
+\emph default
+ (kivágták a fákat; 
+\emph on
+derakht
+\emph default
+: fa, 
+\emph on
+qat' kardan
+\emph default
+: kivág).
+ A 
+\emph on
+man
+\emph default
+ személyes névmással egybeolvadva 
+\emph on
+ma-râ
+\emph default
+ alakot ölt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hich kas ma-râ nemifahmad
+\emph default
+ (senki sem ért meg engem; 
+\emph on
+fahmidan
+\emph default
+: ért).
+ A határozottság lehet csupán nyelvtani is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+yek-i az medâdhâ-ye ma-râ gereft
+\emph default
+ (elvette egy ceruzámat; 
+\emph on
+medâd
+\emph default
+: ceruza).
+\end_layout
+
+\begin_layout Standard
+A határozatlanságot jelölő 
+\emph on
+-i
+\emph default
+ is szerepelhet a 
+\emph on
+-râ
+\emph default
+ szuffixummal együtt, ilyenkor a jelentése ,,egy bizonyos'', pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mikhâstam film-e digar-i-râ bebinam
+\emph default
+ (egy [konkrét] másik filmet akartam megnézni; 
+\emph on
+film
+\emph default
+: film, 
+\emph on
+digar
+\emph default
+: másik, 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: néz).
+ A 
+\emph on
+-râ
+\emph default
+ szuffixum nélkül a mondat jelentése az lenne, hogy ,,egy [bármilyen] másik
+ filmet akartam nézni''.
+ Az általános személyt kifejező 
+\emph on
+âdam
+\emph default
+ és az ,,egymás'' jelentésű 
+\emph on
+yekdigar
+\emph default
+/
+\emph on
+hamdigar
+\emph default
+ határozottnak számítanak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hamishe âdam-râ 'asbâni mikoni
+\emph default
+ (mindig feldühíted az embert; 
+\emph on
+hamishe
+\emph default
+: mindig, 
+\emph on
+'asbâni
+\emph default
+: dühös 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+'asbâni kardan
+\emph default
+: feldühít).
+\end_layout
+
+\begin_layout Standard
+A másik partikula a 
+\emph on
+-ham
+\emph default
+, melyet már többször láthattunk különböző összetett szavak egyik tagjaként.
+ Ennek az eredeti jelentése ,,egymás'' volt, ami az összetételekben még
+ érződik, de ma ,,szintén, is'' értelemben használják, és emellett kiemelésre
+ is szolgál, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+man-ham meyl dâram yek bâr-e digar bâ ham hamân zendegi-râ dâshte bâshim
+\emph default
+ (én is szeretném, ha még egyszer azt az életet élnénk; 
+\emph on
+meyl
+\emph default
+: elhajlás, hajlandóság 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+meyl dâshtan
+\emph default
+: akar, 
+\emph on
+yek
+\emph default
+: egy, 
+\emph on
+bâr
+\emph default
+: alkalom, 
+\emph on
+bâ ham
+\emph default
+: együtt, 
+\emph on
+zendegi
+\emph default
+: élet), 
+\emph on
+man-ham miravam, ammâ u dar khâne mimânad
+\emph default
+ (ami engem illet, én megyek, de ő otthon marad; 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+: megy, 
+\emph on
+ammâ
+\emph default
+: de, 
+\emph on
+khâne
+\emph default
+: ház, 
+\emph on
+mândan
+\emph default
+: marad).
+\end_layout
+
+\begin_layout Section
 Kérdőszavak
 \end_layout
 
@@ -7915,7 +8125,7 @@ Számok
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -9077,7 +9287,7 @@ Számok.
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -9328,7 +9538,7 @@ Dátumok
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -9549,7 +9759,7 @@ A hét napjai.
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -9855,7 +10065,7 @@ A perzsa naptárban az első hat 31 napos, a második hat 30 napos, kivéve
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -10154,7 +10364,7 @@ A nemzetközi naptár hónapjai.
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
