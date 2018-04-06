@@ -9161,11 +9161,103 @@ jalb kardan
 \end_layout
 
 \begin_layout Subsection
-Tematikus mondatszerkezet
+Kiemeléses mondatszerkezet
 \end_layout
 
 \begin_layout Standard
-asdf
+Kedvelt szerkesztési mód, hogy a mondat legfontosabb elemét (annak funkciójától
+ függetlenül) a mondat elejére rakják alanyként, és utána személyes névmással
+ visszahivatkoznak rá.
+ A kiemelt mondatrész jellemzően elég bonyolult, és a szokásos helyén megzavarná
+ a mondat folyását, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ân pirzan-i ke chand sâl-e pish be man fârsi yâd dâd, har hafte az u didan
+ mikonam
+\emph default
+ (minden héten meglátogatom azt a nénit, aki néhány évvel ezelőtt perzsát
+ tanított nekem; 
+\emph on
+pir
+\emph default
+: öreg, 
+\emph on
+zan
+\emph default
+: nő 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+pirzan
+\emph default
+: néni, 
+\emph on
+chand
+\emph default
+: néhány, 
+\emph on
+sâl
+\emph default
+: év, 
+\emph on
+-e pish
+\emph default
+: ezelőtt, 
+\emph on
+fârsi
+\emph default
+: perzsa nyelv, 
+\emph on
+yâd
+\emph default
+: emlékezet 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+yâd dâdan
+\emph default
+: tanít, 
+\emph on
+har
+\emph default
+: minden, 
+\emph on
+hafte
+\emph default
+: hét, 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: néz 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+didan kardan
+\emph default
+ [
+\emph on
+az
+\emph default
+]: meglátogat [valakit]).
+ A szokásos szórenddel a mondat így nézne ki: 
+\emph on
+har hafte az ân pirzan-i ke chand sâl-e pish be man fârsi yâd dâd didan
+ mikonam
+\emph default
+.
 \end_layout
 
 \begin_layout Subsection
