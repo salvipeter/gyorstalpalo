@@ -1,51 +1,6 @@
 			  -*- mode: org -*-
 âÂ
 
-* Névmások
-** Vonatkozó
-- ke
-- az előtte levőhöz -í kapcsolódik (szokásos módon szükség esetén hamzával)
-- í-re végződő szavak után gyakran lehagyják
-- ha tárgyra utalunk vissza, akkor -í-raa-ke lesz
-- elöljárószavaknál az aan-al lehet rá hivatkozni (ill. tsz. aanhaa, embernél ú / íshaan), pl.
-  sándúq-íke mán áz aan púl-raa gereftám (a doboz, amiből én a pénzt kivettem),
-  márd-íke pesár-esh be ín mádráse mírávád (a férfi, akinek a fia ebbe az iskolába jár)
-- hasonlóan a raa-val is, de ez néha beszédben átcsúszik a visszautalt dologra,
-  pl. naame-í-ke dírúz [aan-raa] neveshtám kojaast? [helyes verzió]
-      naame-í-raa-ke dírúz neveshtám kojaast?       [pongyola verzió]
-- a mellékmondat után a főmondat nem állhat csupán létigéből, ilyenkor más sorrend kell,
-  pl. *ín dárs dárs-í-ke dísháb khaandím ást. [rossz, nem állhat magában az ást]
-       dárs-í-ke dísháb khaandím ín dárs-ást. [így megfordítva már jó]
-       ín dárs dárs-í-st-ke dísháb khaandím.  [ez is egy megoldás lehet időnként]
-- az -í nem kell, ha nem kiválasztásról van szó, hanem csak plusz információt szolgáltat, vö.:
-  ketaabí ke mán bíshtár dúst daarám ... (a könyv, amit a legjobban szeretek ...)
-  ketaab-e "Másnáví" ke bozorgtarín ketaab-e Rúmí ast ... (Masnavi, ami Rumi legnagyobb könyve ...)
-- birtokolt dolgok mindig -í nélküliek
-- használható kiemelésre is, ilyenkor nélküle is lényegében ugyanazt jelenti a mondat,
-  pl. mán [ke] baa ín píshnáhaad mokhaalef-ám ([ami engem illet] ellenzem ezt az indítványt)
-*** Időhatározóként
-- ke = amikor
-- az első tagmondatban van, tehát "amikor ..., akkor ..."
-  (kivéve egy folyamatos cselekvés megszakításakor: "tévét nézett amikor csörgött a telefon",
-   illetve hánúz + tagadott befejezett múlt: "alighogy hazaért, csörgött a telefon")
-- nem állhat a tagmondat legelején, pl. báchche ke búdám, zendegí saadetár búd
-- ha nincs semmi elétehető, akkor egy személyes névmást szúrunk be elé
-* Főnevek
-** Főnévi állítmány
-- ha nincsen módosítva, akkor mindig határozott egyesszámú, pl. álí o ákbár daaneshjú ánd
-- ha módosított, akkor mindig határozatlan és számban egyeztetett,
-  pl. álí daaneshjú-í zeráng-ást / álí {daaneshjú-ye zeráng}-í-st
-- ha módosított és tagadott, akkor a határozatlanságjelző csak a melléknévk után jöhet,
-  pl. álí {daaneshjú-ye zeráng}-í níst
-- irodalmi stílusban a főnév és a jelző közé kerül a(z állító) létige,
-  pl. álí daaneshjú-í-st zeráng; pezeshk-í búd mehrbaan
-* Igék
-** Befejezett alakok (főleg írásban és formális beszédhelyzetben)
-- tehető utána egy ke: mán taaze ráfte búdám ke shomaa aamádíd [épp elmentem, amikor jöttél]
-- a hánúz + tagadás (még nem) használatával "amint" értelem,
-  pl. hánúz nánesháste búdám ke dár baaz shod [alig ültem le, és már nyílt az ajtó]
-- ha a létige befejezett jelenbe kerül, akkor elbeszélő múlt [ritka],
-  pl. dár aan váqt be sísaalegí náresíde búde ást [akkor még nem érte el a 30 évet]
 * Konstrukciók
 ** Feltételes mondatok
 - ha: ágár (elhagyható)
@@ -64,10 +19,6 @@
 - mindezek múltidőben hasonlóan (ást helyett búd)
 - az idő hosszának hangsúlyozására: éppen most (ld. lent),
   pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
-* Szórend
-- S + O + V  => idő + alany + tárgy + mód + hely + ige
-- a közvetlen tárgy általában megelőzi a közvetettet
-- a kérdőszó általában az igéhez közel kerül, kivétel a cheraa (miért?), ami előre
 * Számok
 ** Alapszámok
 - a főnév mindig egyesszámban

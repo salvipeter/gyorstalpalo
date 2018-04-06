@@ -1548,11 +1548,11 @@ cheshm
 \emph on
 dâneshjuyân
 \emph default
- (diákok; 
+ (egyetemisták; 
 \emph on
 dâneshju
 \emph default
-: diák), 
+: egyetemista), 
 \emph on
 hamsâyegân
 \emph default
@@ -6912,7 +6912,7 @@ ju-
 \emph on
 dâneshju
 \emph default
- (diák), 
+ (egyetemista), 
 \emph on
 âb garm kardan
 \emph default
@@ -8560,15 +8560,612 @@ kojâhâ
 \end_layout
 
 \begin_layout Section
-Kötőszavak
-\end_layout
-
-\begin_layout Section
 Mondattípusok
 \end_layout
 
-\begin_layout Itemize
-mondatszerkezet, fonevi/melleknevi allitmany, kerdo mondat, tagadas
+\begin_layout Standard
+A perzsa mondat (kiemelés nélküli) szórendje a következő:
+\begin_inset Formula 
+\[
+\text{időhatározó}+\text{alany}+\text{tárgy}+\text{mód}+\text{hely}+\text{ige},
+\]
+
+\end_inset
+
+de ha van modális ige, akkor az általában az alany után kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sâl-e âyande dokhtar-am shâyad be kudakestân beravad
+\emph default
+ (jövőre a lányom talán óvodába megy; 
+\emph on
+sâl
+\emph default
+: év, 
+\emph on
+âmadan
+\emph default
+/
+\emph on
+â
+\emph default
+-: jön, 
+\emph on
+dokhtar
+\emph default
+: lány, 
+\emph on
+kudak
+\emph default
+: kisgyerek 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+kudakestân
+\emph default
+: óvoda, 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+: megy).
+ A közvetlen tárgy rendszerint megelőzi a közvetettet, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+nâme-râ be u dâdam
+\emph default
+ (odaadtam neki a levelet; 
+\emph on
+nâme
+\emph default
+: levél).
+ A kérdőszavak az igéhez közel kerülnek, kivéve a 
+\emph on
+cherâ
+\emph default
+ (miért), ami a mondat elején szokott állni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+diruz bâ Amir kojâ namâz khândid?
+\emph default
+ (tegnap ön hol imádkozott Amirral?; 
+\emph on
+diruz
+\emph default
+: tegnap, 
+\emph on
+namâz
+\emph default
+: ima, 
+\emph on
+khândan
+\emph default
+: olvas, énekel, tanul 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+namâz khândan
+\emph default
+: imádkozik), 
+\emph on
+diruz dar masjed-e Jâme bâ ki namâz khândid?
+\emph default
+ (tegnap ön a Jameh mecsetben kivel imádkozott?; 
+\emph on
+masjed
+\emph default
+: mecset), 
+\emph on
+cherâ diruz dar masjed-e Jâme namâz khândid?
+\emph default
+ (tegnap ön miért a Jameh mecsetben imádkozott?).
+\end_layout
+
+\begin_layout Standard
+Főnévi állítmányú mondatokban az állítmány, ha nincsen módosítva, mindig
+ határozott egyesszámban áll, pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ânhâ sarbâz-and
+\emph default
+ (ők katonák; 
+\emph on
+sarbâz
+\emph default
+: katona).
+ Ha viszont módosított, akkor mindig határozatlan, és számban egyeztetett,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ânhâ sarbâzân-e shojâ'-i hastand
+\emph default
+ / 
+\emph on
+ânhâ sarbâzân-i shojâ'-and
+\emph default
+ (ők bátor katonák; 
+\emph on
+shojâ'
+\emph default
+: bátor).
+ Tagadásnál a határozatlanságot jelző 
+\emph on
+-i
+\emph default
+ csak a melléknév után jöhet, tehát 
+\emph on
+ânhâ sarbâzân-e shojâ'-i nistand
+\emph default
+ (ők nem bátor katonák), de az *
+\emph on
+ânhâ sarbâzân-i shojâ' nistand
+\emph default
+ nem helyes.
+ Irodalmi stílusban az állító ige gyakran a főnév és melléknév közé kerül,
+ pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ânhâ sarbâzân-i-and shojâ'
+\emph default
+ (ők bátor katonák).
+\end_layout
+
+\begin_layout Subsection
+Alárendelő mellékmondatok
+\end_layout
+
+\begin_layout Standard
+A mellékmondatot a 
+\emph on
+ke
+\emph default
+ (ami, aki) szócska vezeti be.
+ A szó, amit a mellékmondat magyaráz, mindig határozatlan, de ha a főmondatbeli
+ szerepe tárgy, akkor megkapja a 
+\emph on
+-râ
+\emph default
+ szuffixumot is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ân mard-i ke bâ shomâ sohbat kard kist?
+\emph default
+ (ki az a férfi, aki önnel beszélt?; 
+\emph on
+mard
+\emph default
+: férfi, 
+\emph on
+sohbat kardan
+\emph default
+: beszél), 
+\emph on
+palang-i-râ ke injâ bud nadidi?
+\emph default
+ (nem láttad a leopárdot, ami itt volt?; 
+\emph on
+palang
+\emph default
+: leopárd, 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: lát).
+\end_layout
+
+\begin_layout Standard
+Ha a mellékmondatban a hivatkozott szó nem alany, akkor az 
+\emph on
+ân 
+\emph default
+szóval (többesszámban 
+\emph on
+ânhâ
+\emph default
+, embernél 
+\emph on
+u
+\emph default
+ ill.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ishâ
+\emph default
+n) lehet rá utalni, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+parde-i ke az ân ta'rif kardam
+\emph default
+ (a függöny, amiről beszéltem; 
+\emph on
+parde
+\emph default
+: függöny, 
+\emph on
+ta'rif kardan
+\emph default
+ [
+\emph on
+az
+\emph default
+]: beszél [valamiről]).
+ Ha tárgy, akkor (informális szövegben) a 
+\emph on
+-râ
+\emph default
+ szuffixum visszacsúszhat a főmondatba, vagy akár el is hagyható a visszahivatko
+zás, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sâkhtemân-i ke nemitavân 
+\emph default
+[
+\emph on
+ân-râ
+\emph default
+]
+\emph on
+ sâkht
+\emph default
+ / 
+\emph on
+sâkhtemân-i-râ ke nemitavân sâkht
+\emph default
+ (az épület, amit nem lehet megépíteni; 
+\emph on
+sâkhtemân
+\emph default
+: épület, 
+\emph on
+sâkhtan
+\emph default
+/
+\emph on
+sâz-
+\emph default
+: épít).
+\end_layout
+
+\begin_layout Standard
+A főmondat mellékmondat utáni része nem állhat pusztán a létigéből.
+ Ilyen esetekben a főigét a 
+\emph on
+ke
+\emph default
+ elé teszik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Farhâd hajjâr-i bud ke Shirin-râ dust dâsht 
+\emph default
+(Farhad egy kőműves volt, aki szerette Shirint; 
+\emph on
+hajjâr
+\emph default
+: kőműves, 
+\emph on
+dust dâshtan
+\emph default
+: szeret).
+\end_layout
+
+\begin_layout Standard
+Amikor a főmondatban már egyértelmű az antecendens, és a mellékmondat csak
+ plusz információt ad, akkor nem kell az 
+\emph on
+-i
+\emph default
+ szuffixum, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Farhâd ke Shirin-râ dust dâsht hajjâr bud
+\emph default
+ (Farhad, aki szerette Shirint, kőműves volt).
+\end_layout
+
+\begin_layout Standard
+Ha viszont nem egyértelmű, és a mellékmondat csak egy feltételt fogalmaz
+ meg, akkor az alárendelt mondat igéje kötőmódba kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ja'be-i-râ ke betavânam in gardanband-râ dar ân bogzâram bedehid
+\emph default
+ (adjon egy dobozt, amibe bele tudom tenni ezt a nyakláncot; 
+\emph on
+ja'be
+\emph default
+: doboz, 
+\emph on
+gardan
+\emph default
+: nyak, 
+\emph on
+bastan
+\emph default
+/
+\emph on
+band
+\emph default
+: összeköt 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+gardanband
+\emph default
+: nyaklánc, 
+\emph on
+gozâshtan
+\emph default
+/
+\emph on
+gozâr-
+\emph default
+: rak, helyez), vö.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ja'be-i-râ ke mitavânam in gardanband-râ dar ân bogzâram bedehid
+\emph default
+ (adja ide a dobozt, amibe bele tudom tenni ezt a nyakláncot).
+\end_layout
+
+\begin_layout Subsubsection*
+A 
+\emph on
+ke
+\emph default
+ egyéb funkciói
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+ke
+\emph default
+ lehet ,,amikor'' értelmű időhatározó, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+kâr-am-râ ke tamâm kardam be khâne bar gashtam
+\emph default
+ (amikor befejeztem a munkámat, hazamentem; 
+\emph on
+kâr
+\emph default
+: munka, 
+\emph on
+tamâm kardan
+\emph default
+: befejez, 
+\emph on
+khâne
+\emph default
+: ház, 
+\emph on
+bar gashtan
+\emph default
+: visszatér).
+ Ezekben a mondatokban a
+\emph on
+ ke
+\emph default
+ mindig az első tagmondathoz tartozik, kivéve amikor egy hosszabb cselekvés
+ megszakításáról van szó, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dar hamâm budam ke nâgahân âb qat' shod
+\emph default
+ (a fürdőszobában voltam, amikor hirtelen elzárták a vizet; 
+\emph on
+hamâm
+\emph default
+: fürdő[szoba], 
+\emph on
+nâgahân
+\emph default
+: hirtelen, 
+\emph on
+âb
+\emph default
+: víz, 
+\emph on
+qat' shodan
+\emph default
+: megszakad, szétvágódik).
+ A 
+\emph on
+ke
+\emph default
+ nem állhat a tagmondat elején; ha a tagmondat csak egy igéből áll, akkor
+ egy személyes névmást szúrnak be elé, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dâneshju ke budi 
+\emph default
+(amikor egyetemista voltál), 
+\emph on
+u ke khâbid
+\emph default
+ (amikor elaludt).
+\end_layout
+
+\begin_layout Standard
+Az ,,amint 
+\begin_inset Formula $\dots$
+\end_inset
+
+, rögtön 
+\begin_inset Formula $\dots$
+\end_inset
+
+'' típusú mondatokat úgy fejezik ki, hogy ,,[szinte] még nem 
+\begin_inset Formula $\dots$
+\end_inset
+
+, amikor 
+\begin_inset Formula $\dots$
+\end_inset
+
+'', pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hanuz az otobus piâde nashode budam ke be davidan shoru' kardam
+\emph default
+ (alig szálltam le a buszról, elkezdtem futni; 
+\emph on
+hanuz
+\emph default
+: még [nem], 
+\emph on
+otobus
+\emph default
+: busz, 
+\emph on
+piâde
+\emph default
+: gyalog 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+piâde shodan
+\emph default
+: [járműről] leszáll, 
+\emph on
+davidan
+\emph default
+: fut, 
+\emph on
+shoru' kardan
+\emph default
+ [
+\emph on
+be
+\emph default
+]: elkezd [valamit csinálni]).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+ke
+\emph default
+ ezenkívül ,,hogy'' jelentéssel is bír, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+fekr mikonid ke tavajjoh-e hame dar jalse be su-ye shomâ jalb shode-ast
+\emph default
+ (azt gondolja, hogy az ülésen mindenkinek a figyelme önre irányul; 
+\emph on
+fekr
+\emph default
+: ötlet, gondolat 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+fekr kardan
+\emph default
+: gondol, 
+\emph on
+tavajjoh
+\emph default
+: figyelem, 
+\emph on
+hame
+\emph default
+: minden[ki], 
+\emph on
+jalse
+\emph default
+: ülés, 
+\emph on
+su
+\emph default
+: irány, 
+\emph on
+jalb kardan
+\emph default
+: vonz, csábít).
+\end_layout
+
+\begin_layout Subsection
+Tematikus mondatszerkezet
+\end_layout
+
+\begin_layout Standard
+asdf
 \end_layout
 
 \begin_layout Subsection
@@ -10521,7 +11118,7 @@ A perzsa naptár hónapjai.
 \end_layout
 
 \begin_layout Standard
-A perzsa naptárban az első hat 31 napos, a második hat 30 napos, kivéve
+A perzsa naptárban az első hat hónap 31 napos, a többi 30 napos, kivéve
  az utolsót, ami csak szökőévkor, különben 29 napos.
 \end_layout
 
