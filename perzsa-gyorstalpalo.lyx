@@ -8135,7 +8135,7 @@ mândan
 \end_layout
 
 \begin_layout Section
-Kérdőszavak
+Kérdések
 \end_layout
 
 \begin_layout Standard
@@ -8161,6 +8161,136 @@ in manzel-e âqâ-ye Panâhi-ast?
 manzel
 \emph default
 : ház).
+ A 
+\emph on
+magar
+\emph default
+ (de) szóval lehet jelezni (általában a mondat elején), ha a kérdésre ellentétes
+ választ várunk (állító igére tagadást, tagadóra állítást), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+magar film-e ``jodâi-ye Nâder az Simin''-râ nadide-id? cherâ, dide-am
+\emph default
+ (de hát nem láttad a ,,Nader és Simin – egy elválás történe'' c.
+\begin_inset space ~
+\end_inset
+
+filmet? de, láttam; 
+\emph on
+film
+\emph default
+: film, 
+\emph on
+jodâ
+\emph default
+: különálló 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+jodâi
+\emph default
+: elválás, 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: lát, 
+\emph on
+cherâ
+\emph default
+: de), 
+\emph on
+magar Rostam pesar-e khod-râ shenâkht? na\SpecialChar softhyphen
+kheyr, u-râ nashenâkht
+\emph default
+ (hát felismerte Rusztem a saját fiát? nem, nem ismerte fel őt; 
+\emph on
+pesar
+\emph default
+: fiú, 
+\emph on
+shenâkhtan
+\emph default
+/
+\emph on
+shenâs-
+\emph default
+: [fel]ismer, 
+\emph on
+nakheyr
+\emph default
+: nem).
+ Állító ige után a mondatvégi 
+\emph on
+magar na
+\emph default
+ helyeslést vár, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dokhtar'amu-ye shomâ aknun dar Englestân-ast, magar na? bale, dar dâneshgâh-e
+ Âksford dars mikhânad
+\emph default
+ (az unokahúgod most Angliában van, ugye? igen, az Oxford Egyetemen tanul;
+ 
+\emph on
+dokhtar
+\emph default
+: lány, 
+\emph on
+'amu
+\emph default
+: apai nagybácsi 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dokhtar[e]'amu
+\emph default
+: unokanővér, 
+\emph on
+aknun
+\emph default
+: most, 
+\emph on
+bale
+\emph default
+: igen, 
+\emph on
+dâneshgâh
+\emph default
+: egyetem, 
+\emph on
+dars
+\emph default
+: lecke, 
+\emph on
+khândan
+\emph default
+/
+\emph on
+khân-
+\emph default
+: olvas 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dars khândan
+\emph default
+: tanul).
 \end_layout
 
 \begin_layout Standard
@@ -10596,9 +10726,6 @@ Számok.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -10843,13 +10970,6 @@ Sorszámnevek.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection
-Dátumok
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -11061,16 +11181,9 @@ A hét napjai.
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -11369,14 +11482,6 @@ A perzsa naptár hónapjai.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-A perzsa naptárban az első hat hónap 31 napos, a többi 30 napos, kivéve
- az utolsót, ami csak szökőévkor, különben 29 napos.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -11673,9 +11778,6 @@ A nemzetközi naptár hónapjai.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -11871,7 +11973,12 @@ A muszlim naptár hónapjai.
 \end_layout
 
 \begin_layout Subsection
-Időtartamok kifejezése
+Időpontok és időtartamok kifejezése
+\end_layout
+
+\begin_layout Standard
+A perzsa naptárban az első hat hónap 31 napos, a többi 30 napos, kivéve
+ az utolsót, ami csak szökőévkor, különben 29 napos.
 \end_layout
 
 \begin_layout Section
