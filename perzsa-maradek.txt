@@ -2,50 +2,7 @@
 âÂ
 
 * Számok
-** Törtek és szorzók
-- 1/2: ním
-- arab verziók is néhányból:
-- 1/2: nesf
-- 1/3: sols
-- 1/4: rob'
-- %: ... dár sád, pl. 50% => pánjaah dár sád
-- n-szeres: n báraabár
 ** Idő
-- forma egésztől félig: saa'át-e-... o ... dáqíqe, pl. saa'át-e-se o dáh dáqíqe (3 óra 10 perc),
-  vagy saa'át-e-shesh o ním (fél 7)
-- forma féltől egészig: ... dáqíqe be ..., pl. hásht dáqíqe be cháhaar (8 perc múlva 4),
-  vagy yek rob' be do (háromnegyed 2)
-  vagy saa'át-e yaazdáh-o rob' kám (háromnegyed 11)
-- általános forma: ... dáqíqe áz ... gozáshte, pl. pánjaah dáqíqe áz cháhaar gozáshte (4:50),
-  vagy rob' saa'át áz hásht gozáshte (8:15)
-- negyedóra: rob' [saa'át]
-- félóra: ním [saa'át]
-- másodperc: saaníye
-*** A hét napjai
-- ezek elé lehet tenni a rúz (nap) szót ezaafeval, pl. rúz-e-doshámbe
-- hagyományosan naplementekor kezdődik a nap, tehát a "shab-e jom'e" csütörtök estét jelent
-  (manapság kiment a használatból, kivéve épp a csütörtök este)
-- fordított sorrenddel a "normális" értelmet kapjuk, pl. "jom'e shab" péntek este
-*** Dátumok
-- a dátum sorrendje [hét-napja]-nap-hónap-év, ahol a nap sorszámnév és ezaafe-ben van a hónappal,
-  pl. shámbe shaanzdáhom-e-khordaad (iráni 3. hó 16-a, szombat), ávvál-e-maars (március 1-je)
-- az évet mint egy számot olvassák fel, előtte saal (év) + ezaafe,
-  pl. saal-e hezaar o nohsád o cháhaardáh (1914)
-**** Muszlim naptár
-- egy fajta holdnaptár, tehát rövidebb az év
-- csak vallási ünnepekre használják
-- az éveket a holdnaptári hijrától számítják "hejrí-e qámárí" (i.sz. 622)
-**** Iráni naptár
-- a tavaszi napéjegyenlőségkor kezdődik (március 20-22 között valahol)
-- az éveket a nap-naptári hijrától számítják "hejrí-e shámsí" (i.sz. 621)
-- utána lehet tenni a maah (hónap) szót, pl. tírmaah (főleg a rövidebbekhez szokás)
-- a szökőév (saal-e-kábíse) 4 évente van, pl. 1379-ben (i.sz. 2000)
-- évszakok: báhaar (1-3), taabestaan (4-6), paaíz (7-9), zemestaan (10-12)
-**** Nemzetközi naptár
-- nem hivatalos, a francia neveket használják, francia kiejtéssel
-*** -ként -szer
-- határozatlan + szám + baar/dáf'e
-- pl. saal-í do dáf'e => évente kétszer
 *** Időtartamok kifejezése
 - vmennyi idő óta: (időtartam) ást [ke] (jelen)
 - sima: pl. se saal-ást ke ínjaa hástám (3 éve vagyok itt)
