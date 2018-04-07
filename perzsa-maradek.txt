@@ -1,24 +1,6 @@
 			  -*- mode: org -*-
 âÂ
 
-* Számok
-** Idő
-*** Időtartamok kifejezése
-- vmennyi idő óta: (időtartam) ást [ke] (jelen)
-- sima: pl. se saal-ást ke ínjaa hástám (3 éve vagyok itt)
-- állapotok, tagadás: pl. do háfte-ást ke áz khaane bírún náráfte-ást (2 hete nem ment ki a házból)
-- folyamatban levő cselekvés: pl. do saa'át-ást ke kaar-míkonám (2 órája dolgozom)
-- mindezek múltidőben hasonlóan (ást helyett búd)
-- az idő hosszának hangsúlyozására: éppen most (ld. lent),
-  pl. cháhaar saa'át-ást ke daarád míkhaanád (négy órája énekel folyamatosan [és már elegem van])
-** Határozatlan
-- [yek]chánd + egyesszám[-í], pl. yekchánd saalí (néhány év)
-- többesszám-í chánd, pl. saalaan-í chánd (néhány év, irodalmi stílus)
-- nem megszámlálhatóra => cheqádr + egyesszám
-- egy kevés => kám-í / qádr-í + egyesszám
-- 2-3: do se, 5-6: pánj shesh stb.
-- több/kevesebb X, mint ... => ... X bíshtár/kámtár,
-  pl. do taa qálám bíshtár (több, mint két toll)
 * Szóképzés
 ** Főnevek képzése
 - JT + [y]esh => absztrakt főnév, pl. aamúzesh (tanulás, tudás)
