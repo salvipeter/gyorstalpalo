@@ -11969,7 +11969,260 @@ A muszlim naptár hónapjai.
 
 \end_inset
 
+Az alapszámok a
+\begin_inset space ~
+\end_inset
 
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Számok."
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázatban találhatók.
+ Húsz felett az egyes tagokat az 
+\emph on
+-o
+\emph default
+ (és) köti össze, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+devist-o nuzdah milyun pânsad-o hashtâd-o haft hezâr sisad-o shesh
+\emph default
+ (219
+\begin_inset space \thinspace{}
+\end_inset
+
+587
+\begin_inset space \thinspace{}
+\end_inset
+
+306).
+ Amikor valaminek a számosságáról beszélünk, a szám után egy számlálószót
+ is beillesztenek.
+ Egy általános számlálószó a 
+\emph on
+tâ
+\emph default
+, kis dolgokra a 
+\emph on
+dâne
+\emph default
+ (mag), illetve emberekre a 
+\emph on
+nafar
+\emph default
+ (személy).
+ Ez utóbbit csak akkor alkalmazzák, amikor nincsen jelölt főnév, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+do nafar
+\emph default
+ (két személy), de 
+\emph on
+se tâ khâhar
+\emph default
+ (három nővér; 
+\emph on
+khâhar
+\emph default
+: nővér).
+ A mértékegységek és az időt, alkalmat kifejező szavak elé nem kell számlálószó,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dah kilu
+\emph default
+ (tíz kiló; 
+\emph on
+kilu
+\emph default
+: kiló), 
+\emph on
+sad daf'e
+\emph default
+ (százszor; 
+\emph on
+daf'e
+\emph default
+: alkalom).
+\end_layout
+
+\begin_layout Standard
+A sorszámnevek az első háromtól eltekintve a hangsúlyos 
+\emph on
+-om
+\emph default
+ szuffixummal szabályosan képződnek, ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Sorszámnevek."
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat.
+ A 2-re és 3-ra végződőek ugyanúgy viselkednek, mint a 2-es és 3-as, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bist-o dovvom
+\emph default
+ (22-dik), de 
+\emph on
+si-o yekom
+\emph default
+ (31-dik) és 
+\emph on
+sizdahom
+\emph default
+ (13-dik).
+ A sorszámok melléknevek, tehát a főnévhez 
+\emph on
+ezâfe
+\emph default
+-vel kapcsolódnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+'onsor-e panjom
+\emph default
+ (az ötödik elem; 
+\emph on
+'onsor
+\emph default
+: elem), de mindegyikhez hozzátehető a szintén hangsúlyos 
+\emph on
+-in
+\emph default
+ szuffixum, mellyel már a főnév elé kerülnek.
+ Itt jelentésbeli különbség is lehet: az 
+\emph on
+-in
+\emph default
+ végződés ideiglenes rendezést éreztet, amely nem az illető dolog szerves
+ része, pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+avvalin gushe
+\emph default
+ (az első sarok).
+ Sorszámnevekre a 
+\emph on
+chandom
+\emph default
+[
+\emph on
+in
+\emph default
+] kérdőszóval kérdezhetünk.
+ Határozóként (először/elsőként/elsősorban stb.) az arab számokat használják,
+ a táblázatban az első négy fel van tüntetve.
+\end_layout
+
+\begin_layout Standard
+A tört számokat is sorszámnevek segítségével fejezik ki, pl.
+ 
+\emph on
+do panjom
+\emph default
+ (
+\begin_inset Formula $\frac{2}{5}$
+\end_inset
+
+), de külön szó van a félre (
+\emph on
+nim
+\emph default
+), és néhány arab törtet is használnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+nesf
+\emph default
+ (fél), 
+\emph on
+sols
+\emph default
+ (harmad) és 
+\emph on
+rob'
+\emph default
+ (negyed).
+ A százalékokat 
+\begin_inset Formula $\dots$
+\end_inset
+
+ 
+\emph on
+dar sad
+\emph default
+ (százban a 
+\begin_inset Formula $\dots$
+\end_inset
+
+) alakban mondják, pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+shast dar sad
+\emph default
+ (60%).
+ Szorzókhoz a 
+\emph on
+barâbar
+\emph default
+ (azonos, egyenlő) szót használjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+panj barâbar
+\emph default
+ (ötszörös, ötször annyi), 
+\emph on
+do barâbar-e ân qeymat
+\emph default
+ (kétszer akkora ár; 
+\emph on
+qeymat
+\emph default
+: ár).
 \end_layout
 
 \begin_layout Subsection

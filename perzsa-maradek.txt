@@ -2,9 +2,6 @@
 âÂ
 
 * Számok
-** Alapszámok
-- a főnév mindig egyesszámban
-- a helyiértékeket "o" választja el, sorban felülről lefele
 ** Törtek és szorzók
 - 1/2: ním
 - arab verziók is néhányból:
@@ -13,19 +10,6 @@
 - 1/4: rob'
 - %: ... dár sád, pl. 50% => pánjaah dár sád
 - n-szeres: n báraabár
-** Számlálószavak
-- az időt (saa'át, saal stb.), alkalmat (baar, dáf'e) kifejező szavakhoz nem kell
-- a mértékegységek is számlálószavakként funkcionálnak
-- a "taa" egy általános számlálószó (>=2 dologra), emberekhez "náfár"
-- a "daane" apró dolgokra, az "ádád" pedig árucikkekre
-** Sorszámnevek
-- a szabályos végződés -om (hangsúlyos)
-- 2/3-ra végződőeknél is ...dovvom / sevvom
-- chándom(ín): hányadik?
-- mindezek kaphatnak egy plusz -ín végződést (ávválín, dovvomín stb.) és a főnév elé kerülnek
-- a sima verzió fix rendezésre, az -ín végződéses ideiglenes rendezésre utal,
-  pl. az 5. ház az utcában fix, az 5. fehér ház az utcában nem
-- az első négyre arab verziót is használnak, gyakran határozóként
 ** Idő
 - forma egésztől félig: saa'át-e-... o ... dáqíqe, pl. saa'át-e-se o dáh dáqíqe (3 óra 10 perc),
   vagy saa'át-e-shesh o ním (fél 7)
