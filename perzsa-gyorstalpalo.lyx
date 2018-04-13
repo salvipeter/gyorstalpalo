@@ -6812,6 +6812,12 @@ bâyad kâr karde bâshid
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Egyéb-igenevek"
+
+\end_inset
+
 Egyéb igenevek
 \end_layout
 
@@ -7202,6 +7208,12 @@ javân
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Kapcsolat-a-főnevekkel"
+
+\end_inset
+
 Kapcsolat a főnevekkel
 \end_layout
 
@@ -12704,6 +12716,571 @@ name "sec:Szóképzés"
 \end_inset
 
 Szóképzés
+\end_layout
+
+\begin_layout Standard
+A perzsa szókincs egy jelentős része más szavakból képzett.
+ A képzés módjának felismerése segíthet a tanulásban, ezért érdemes megismerkedn
+i néhány gyakori szerkezetekkel:
+\end_layout
+
+\begin_layout Itemize
+Igékből elvont főnevet képezhet a jelenidejű tő + [
+\emph on
+y
+\emph default
+]
+\emph on
+esh
+\emph default
+, a múltidejű tő + 
+\emph on
+âr
+\emph default
+, illetve múlt- és/vagy jelenidejű tövek összekapcsolása 
+\emph on
+-o-
+\emph default
+ (és) segítségével, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dânestan
+\emph default
+/
+\emph on
+dân-
+\emph default
+ (tud) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dânesh
+\emph default
+ (tudás), 
+\emph on
+goftan
+\emph default
+/
+\emph on
+gu-
+\emph default
+ (beszél) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+goftâr
+\emph default
+ (beszéd) / 
+\emph on
+goftogu
+\emph default
+ (társalgás), 
+\emph on
+âmadan
+\emph default
+/
+\emph on
+â-
+\emph default
+ (jön) + 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+ (megy) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+âmadoraft
+\emph default
+ (forgalom).
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+-gar
+\emph default
+/
+\emph on
+-kâr
+\emph default
+/
+\emph on
+-chi
+\emph default
+ szuffixumok valamivel kapcsolatos foglalkozást jelölnek, ill.
+\begin_inset space ~
+\end_inset
+
+a 
+\emph on
+-bân
+\emph default
+ az adott helyen dolgozót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+âhan
+\emph default
+ (vas) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+âhangar
+\emph default
+ (kovács), 
+\emph on
+khedmat
+\emph default
+ (szolgálat) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khedmatkâr
+\emph default
+ (szolga),
+\emph on
+ post 
+\emph default
+(posta) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ postchi
+\emph default
+ (postás), 
+\emph on
+kashti
+\emph default
+ (hajó) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ kashtibân
+\emph default
+ (kapitány).
+\end_layout
+
+\begin_layout Itemize
+A helyet kifejező szavak gyakran 
+\emph on
+-gâh
+\emph default
+/
+\emph on
+-
+\emph default
+[
+\emph on
+e
+\emph default
+]
+\emph on
+stân
+\emph default
+/
+\emph on
+-khâne
+\emph default
+ alakúak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+istâdan
+\emph default
+/
+\emph on
+ist-
+\emph default
+ (megáll) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+istgâh
+\emph default
+ (állomás), 
+\emph on
+majâr
+\emph default
+ (magyar) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+Majârestân
+\emph default
+ (Magyarország), 
+\emph on
+âsh
+\emph default
+ (hagyományos sűrű leves) + 
+\emph on
+pokhtan
+\emph default
+/
+\emph on
+paz-
+\emph default
+ (főz) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+âshpaz
+\emph default
+ (szakács, ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Egyéb-igenevek"
+
+\end_inset
+
+) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+âshpazkhâne
+\emph default
+ (konyha).
+\end_layout
+
+\begin_layout Itemize
+Az 
+\emph on
+-ak
+\emph default
+ kicsinyítőképző élőkre (lehet lenéző vagy kedveskedő), a 
+\emph on
+-che
+\emph default
+ élettelen dolgokra használatos, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mard
+\emph default
+ (ember) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+mardak
+\emph default
+ (alantas ember), 
+\emph on
+daryâ
+\emph default
+ (tenger) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+daryâche
+\emph default
+ (tó).
+\end_layout
+
+\begin_layout Itemize
+Sok ige főnévből származik az 
+\emph on
+-idan
+\emph default
+ hozzárakásával, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dozd
+\emph default
+ (tolvaj) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+dozdidan
+\emph default
+ (lop).
+\end_layout
+
+\begin_layout Itemize
+Némelyik tárgyatlan igéből tárgyast képezhetünk a jelenidejű tő utáni 
+\emph on
+-ândan
+\emph default
+ vagy 
+\emph on
+-ânidan
+\emph default
+ szuffixumokkal,, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+khâb
+\emph default
+ (álom, alvás) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ khâbidan
+\emph default
+ (alszik) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khâbân
+\emph default
+[
+\emph on
+i
+\emph default
+]
+\emph on
+dan
+\emph default
+ (elaltat, lefektet), 
+\emph on
+sukhtan
+\emph default
+/
+\emph on
+suz-
+\emph default
+ (ég) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+suzândan
+\emph default
+ (eléget, meggyújt).
+\end_layout
+
+\begin_layout Itemize
+Főnévből képzett mellékneveknél és határozóknál gyakori az 
+\emph on
+-âne
+\emph default
+ (
+\emph on
+-e
+\emph default
+ után 
+\emph on
+-gâne
+\emph default
+) képző, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+shâ'er
+\emph default
+ (költő) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+shâ'erâne
+\emph default
+ (költői), 
+\emph on
+bachche
+\emph default
+ (gyerek) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bachchegâne
+\emph default
+ (gyerekes).
+\end_layout
+
+\begin_layout Itemize
+Az 
+\emph on
+-i
+\emph default
+ szuffixum, melyet már láttunk főnevek és melléknevek után (ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Kapcsolat-a-főnevekkel"
+
+\end_inset
+
+), főnévi igenevekkel képességet, alkalmasságot fejez ki, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+ (lát) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+didani
+\emph default
+ (látványos, látható), 
+\emph on
+bâvar kardan
+\emph default
+ (elhisz) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bâvar-nakardani
+\emph default
+ (hihetetlen).
+\end_layout
+
+\begin_layout Itemize
+Az alapszóhoz átvitt értelemben kapcsolódó szavak sokszor 
+\emph on
+-e
+\emph default
+ végződést kapnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+haft
+\emph default
+ (7) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ hafte
+\emph default
+ (hét), 
+\emph on
+cheshm
+\emph default
+ (szem) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+cheshme
+\emph default
+ (forrás), 
+\emph on
+dast
+\emph default
+ (kéz) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+daste 
+\emph default
+(marok[nyi]).
+ A számmal kiegészített főnevekből származó szavak is jellemzően 
+\emph on
+-e
+\emph default
+ végűek, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sâl
+\emph default
+ (év) 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\emph on
+ dahsâle
+\emph default
+ (10 éves), 
+\emph on
+charkh
+\emph default
+ (kör, kerék)
+\emph on
+ 
+\emph default
+
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+docharkhe
+\emph default
+ (kerékpár).
 \end_layout
 
 \begin_layout Section

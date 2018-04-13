@@ -1,32 +1,6 @@
 			  -*- mode: org -*-
 âÂ
 
-* Szóképzés
-** Főnevek képzése
-- JT + [y]esh => absztrakt főnév, pl. aamúzesh (tanulás, tudás)
-- MT o JT, vagy MT o MT, pl. goftogú, aamádoraft
-- főnév + -baan (néha -vaan) az ott dolgozó foglalkozást jelenti, pl. baaghbaan (kertész)
-- főnév + -gaah/[e]staan vmi helyét jelöli, pl. Torkestaan (Turkesztán), daaneshgaah (egyetem)
-- főnév + -khaane a hely, ahol vmit tárolnak vagy csinálnak, pl. ketaabkhaane (könyvtár)
-- MT + -aar absztrakt főnevet képez, pl. goftaar (beszéd)
-- melléknév + aa: absztrakt tulajdonság, pl. gármaa (melegség)
-- a -[g]í képző absztrakt főneveket is képez, pl. daanaa'í (bölcsesség);
-  de -í végű melléknévnél helyette búdán (pl. ábrí-búdán : "felhősség") [vagy rendhagyó arab]
-- (törökből) -chí a valamivel foglalkozó embert jelöli, pl. telefonchí (operátor)
-- a -kár/kaar/-gár/-gaar szuffixumok vmilyen munkavégzést jelölnek
-- az -ák végződés kicsinyítőképző, pl. morghák, pesárák stb.
-- a -che végződés is kicsinyítőképző (csak élettelenre), pl. dáryaache
-** Műveltető igék képzése
-- JT + aandán/aanídán, pl. súkhtán, súz- (ég) => súzaanídán (meggyújt)
-- a tő rövid á-jából aa-t csinálva, pl. gozáshtán => gozaashtán
-** Melléknevek/határozók képzése
-- főnévi igenév + -í: "-való"/"-ható", pl. dúst-daashtání "szeretnivaló", 
-  baavár-nákárdání "hihetetlen" stb.
-- [g]aane, pl. báraadáraane "testvéri";  mo'áddábaane "udvariasan"
-- főnév + JT, pl. khoshgú (hízelgő)
-** Egyéb
-- a hám- prefixum kiemel, vagy (mint a latin cum-) közös cselekvésre utal
-- számok alapján: szám + főnév + e/í, pl. bístsaale (20 éves), dochárkhe (kerékpár)
 * Klasszikus nyelv
 ** Magánhangzók
 - áw és áy ejtése áw és áy volt
