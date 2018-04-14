@@ -1,12 +1,7 @@
 			  -*- mode: org -*-
-âÂ
+âÂîûêôȧ
 
 * Klasszikus nyelv
-** Magánhangzók
-- áw és áy ejtése áw és áy volt
-- volt külön ó (ejtsd: ów) és é (ejtsd: éy)
-- az ó-ból később ú, az é-ből í lett
-- klasszikus szövegek olvasásakor sem különböztetjük meg (de Iránon kívül még léteznek)
 ** Elöljárószók
 - a "be" névmások előtt "bed", pl. be ín => bedín, be ó => bedó
 - néhány kifejezésben a modern nyelv is tartalmazza, pl. bedín vasíle
