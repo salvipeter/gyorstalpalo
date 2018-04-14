@@ -1180,7 +1180,7 @@ a
 \emph on
 shenidan
 \emph default
- (hallgat) ige egyesszámú felszólító alakja 
+ (hall, hallgat) ige egyesszámú felszólító alakja 
 \emph on
 beshenow
 \emph default
@@ -14218,12 +14218,417 @@ d-
 .
 \end_layout
 
+\begin_layout Standard
+A folyamatosság érzékeltetésére az igét jelen- és múltidőben egyaránt a
+ 
+\emph on
+dâshtan
+\emph default
+/
+\emph on
+dâr-
+\emph default
+ (birtokol) segédige megfelelő alakja előzi meg, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+man dâram miguyam va-shomâ dârin mishnavin
+\emph default
+ (én [éppen] mondom és ön [éppen] hallgatja; 
+\emph on
+shenidan
+\emph default
+/
+\emph on
+shenav-
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+shnav-
+\emph default
+: hall, hallgat), 
+\emph on
+dâsht be telvisiyon negâh mikard ke nâgahân bâ sedâ-ye boland gerye kard
+\emph default
+ ([éppen] tévét nézett, amikor hirtelen hangosan elsírta magát; 
+\emph on
+telvisiyon
+\emph default
+: televízió, 
+\emph on
+negâh kardan
+\emph default
+ [
+\emph on
+be
+\emph default
+]: néz [vmit], 
+\emph on
+nâgahân
+\emph default
+: hirtelen, 
+\emph on
+sedâ
+\emph default
+: hang, 
+\emph on
+boland
+\emph default
+: magas/hangos, 
+\emph on
+gerye kardan
+\emph default
+: sír).
+ E folyamatos alakokat nem lehet tagadni.
+\end_layout
+
 \begin_layout Subsection
-Egyéb
+Partikulák
 \end_layout
 
 \begin_layout Standard
-asdf
+A határozott tárgyat jelző 
+\emph on
+-râ
+\emph default
+ partikula mássalhangzó után 
+\emph on
+-o
+\emph default
+, magánhangzó után 
+\emph on
+-ro
+\emph default
+ lesz (beszélőtől függően lehet 
+\emph on
+-e
+\emph default
+/
+\emph on
+-re
+\emph default
+ is), pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pari-ro
+\emph default
+ (a tündért; 
+\emph on
+pari
+\emph default
+: tündér), 
+\emph on
+man-o
+\emph default
+ (engem).
+ Amikor az 
+\emph on
+-am
+\emph default
+ partikula követi, akkor teljesen kiesik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+un-am
+\emph default
+ (az[t] is).
+ Jelenthet hely- vagy időhatározót, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+donyâ-ro gashtan
+\emph default
+ (bejárták a világot; 
+\emph on
+donyâ
+\emph default
+: világ, 
+\emph on
+gashtan
+\emph default
+/
+\emph on
+gard-
+\emph default
+: fordul, barangol), 
+\emph on
+tamum-e shab-o khâbidam
+\emph default
+ (átaludtam az egész éjszakát; 
+\emph on
+tamum
+\emph default
+ [
+\emph on
+tamâm
+\emph default
+]: teljes, 
+\emph on
+shab
+\emph default
+: este/éjjel, 
+\emph on
+khâbidan
+\emph default
+: alszik).
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+ke
+\emph default
+ szócska használható kiemelésre is, ilyenkor mindig a kiemelt szó után kerül,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bâ man ke khodâhâfezi kard 
+\emph default
+(tőlem búcsúzott el; 
+\emph on
+khodâ
+\emph default
+: isten, 
+\emph on
+hâfez
+\emph default
+: védelmező 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+khodâ hâfez
+\emph default
+ (Isten óvjon)
+\emph on
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ khodâhâfezi kardan
+\emph default
+: elbúcsúzik), vö.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bâ man khodâhâfezi kard
+\emph default
+ (elbúcsúzott tőlem).
+\end_layout
+
+\begin_layout Subsection
+Birtokragok
+\end_layout
+
+\begin_layout Standard
+A birtokos szuffixumok magánhangzó után elvesztik a kezdő magánhangzójukat,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+qâli-m
+\emph default
+ (a szőnyegem; 
+\emph on
+qâli
+\emph default
+: szőnyeg),
+\emph on
+ mâhi-mun
+\emph default
+ (a halunk; 
+\emph on
+mâhi
+\emph default
+: hal).
+ Igéhez kapcsolva tárgyat is jelölhetnek; összetett igénél a főnévi részhez
+ csatlakoznak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+didam-et
+\emph default
+ (láttalak téged; 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: lát), 
+\emph on
+gush-esh kardan
+\emph default
+ (meghallgatták [azt/őt]; 
+\emph on
+gush kardan
+\emph default
+: hallgat).
+\end_layout
+
+\begin_layout Standard
+Egy korábban említett főnévhez kapcsolt egyesszám harmadik személyű 
+\emph on
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+
+\backslash
+mbox{-[}
+\end_layout
+
+\end_inset
+
+e
+\emph default
+]
+\emph on
+sh
+\emph default
+ szuffixum lehet ,,a szóban forgó 
+\begin_inset Formula $\dots$
+\end_inset
+
+'' jelentésű is.
+\end_layout
+
+\begin_layout Subsection
+Elöljárószók
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+dar
+\emph default
+ elöljárószó szerepét a 
+\emph on
+tu
+\emph default
+ vagy 
+\emph on
+tu-ye
+\emph default
+ tölti be, és a helyhatározók jellemzően az ige után kerülnek.
+ A pozíciót illetve valami felé irányuló mozgást kifejező esetekben az elöljárós
+zó általában el is marad, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gozâshti 
+\emph default
+[
+\emph on
+tu
+\emph default
+[
+\emph on
+-ye
+\emph default
+]]
+\emph on
+ yakhchâl? 
+\emph default
+(beraktad a hűtőszekrénybe?; 
+\emph on
+gozâshtan
+\emph default
+/
+\emph on
+gozâr
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ [
+\emph on
+g
+\emph default
+]
+\emph on
+zâr-
+\emph default
+: rak, 
+\emph on
+yakh
+\emph default
+: jég, 
+\emph on
+châl
+\emph default
+: üreg 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+yakhchâl
+\emph default
+: hűtőszekrény).
+\end_layout
+
+\begin_layout Standard
+Az elöljárószókhoz is kapcsolódhatnak birtokos szuffixumok.
+ Ilyenkor a 
+\emph on
+be
+\emph default
+ és 
+\emph on
+bâ-
+\emph default
+ rendre 
+\emph on
+beh-
+\emph default
+ és 
+\emph on
+bâhâ-
+\emph default
+ alakra változnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+behet
+\emph default
+ (neked, hozzád),
+\emph on
+ bâhâtun
+\emph default
+ (veletek).
 \end_layout
 
 \begin_layout Section
