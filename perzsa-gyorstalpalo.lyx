@@ -5,6 +5,10 @@
 \save_transient_properties true
 \origin unavailable
 \textclass article
+\begin_preamble
+\usepackage{footnote}
+\makesavenoteenv{tabular}
+\end_preamble
 \options a4paper
 \use_default_options true
 \maintain_unincluded_children false
@@ -17538,6 +17542,22 @@ ze
 
 \emph on
 nâzoki
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+nâzok
+\emph default
+ (törékeny) szóból.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -17726,7 +17746,7 @@ height "0.1pt"
 
 
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="6">
+<lyxtabular version="3" rows="2" columns="6">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -17742,6 +17762,26 @@ height "0.1pt"
 
 \emph on
 mânande-ye
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+mânestan
+\emph default
+/
+\emph on
+mân-
+\emph default
+ (hasonlít) szóból.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -17807,69 +17847,7 @@ zolâl
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\emph on
-mânestan
-\emph default
-/
-\emph on
-mân-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-hasonlít.E
+hasonlóan.E
 \end_layout
 
 \end_inset
@@ -17968,7 +17946,7 @@ mint kristálytiszta vízen egy gránitkő.
 \end_layout
 
 \begin_layout Subsection
-Népmese
+Népmesék
 \end_layout
 
 \begin_layout Standard
@@ -19237,7 +19215,29 @@ height "0.1pt"
 \begin_layout Plain Layout
 
 \emph on
-jostoju kard;
+jostoju kard
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+jostan
+\emph default
+/
+\emph on
+ju-
+\emph default
+ (keres) szóból.
+\end_layout
+
+\end_inset
+
+
+\emph on
+;
 \end_layout
 
 \end_inset
@@ -19260,6 +19260,26 @@ peydâ nakard.
 
 \emph on
 nâchâr
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+nâ 
+\emph default
+(tagadás) és
+\emph on
+ châr 
+\emph default
+(mód, lehetőség) szavakból.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -19723,7 +19743,33 @@ muhâ
 \begin_layout Plain Layout
 
 \emph on
-âtash gereft-o
+âtash gereft
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Az 
+\emph on
+âtash
+\emph default
+ (tűz) és 
+\emph on
+gereftan
+\emph default
+/
+\emph on
+gir-
+\emph default
+ (fog) szavakból.
+\end_layout
+
+\end_inset
+
+
+\emph on
+-o
 \end_layout
 
 \end_inset
@@ -21469,7 +21515,33 @@ height "0.1pt"
 \begin_layout Plain Layout
 
 \emph on
-javâb dâd:
+javâb dâd
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+javâb 
+\emph default
+(válasz) és
+\emph on
+ dâdan
+\emph default
+/
+\emph on
+deh- 
+\emph default
+(ad) szavakból.
+\end_layout
+
+\end_inset
+
+
+\emph on
+:
 \end_layout
 
 \end_inset
@@ -21733,7 +21805,36 @@ ma-râ
 \begin_layout Plain Layout
 
 \emph on
-ma'zur bedârid,
+ma'zur bedârid
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ebben az igében a 
+\size normal
+\emph on
+d
+\size default
+âshtan
+\emph default
+ kaphat 
+\emph on
+mi-
+\emph default
+/
+\emph on
+be-
+\emph default
+ prefixumokat.
+\end_layout
+
+\end_inset
+
+
+\emph on
+,
 \end_layout
 
 \end_inset
@@ -21755,7 +21856,33 @@ va-agar
 \begin_layout Plain Layout
 
 \emph on
-doruq goftam,
+doruq goftam
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A 
+\emph on
+doruq 
+\emph default
+(hazugság) és
+\emph on
+ goftan
+\emph default
+/
+\emph on
+gu- 
+\emph default
+(mond) szavakból.
+\end_layout
+
+\end_inset
+
+
+\emph on
+,
 \end_layout
 
 \end_inset
@@ -21766,7 +21893,21 @@ doruq goftam,
 \begin_layout Plain Layout
 
 \emph on
-doruqgu-râ
+doruqgu
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Szintén.
+\end_layout
+
+\end_inset
+
+
+\emph on
+-râ
 \end_layout
 
 \end_inset
