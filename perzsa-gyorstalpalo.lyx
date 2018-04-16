@@ -14684,7 +14684,7 @@ a
 \begin_layout Plain Layout
 
 \emph on
-â
+ā
 \end_layout
 
 \end_inset
@@ -14706,7 +14706,7 @@ i
 \begin_layout Plain Layout
 
 \emph on
-î
+ī
 \end_layout
 
 \end_inset
@@ -14717,7 +14717,7 @@ i
 \begin_layout Plain Layout
 
 \emph on
-ê
+ē
 \end_layout
 
 \end_inset
@@ -14739,7 +14739,7 @@ u
 \begin_layout Plain Layout
 
 \emph on
-û
+ū
 \end_layout
 
 \end_inset
@@ -14750,7 +14750,7 @@ u
 \begin_layout Plain Layout
 
 \emph on
-ô
+ō
 \end_layout
 
 \end_inset
@@ -14864,7 +14864,7 @@ u
 \begin_inset Text
 
 \begin_layout Plain Layout
-áw
+ȧw
 \end_layout
 
 \end_inset
@@ -14873,7 +14873,7 @@ u
 \begin_inset Text
 
 \begin_layout Plain Layout
-áj
+ȧj
 \end_layout
 
 \end_inset
@@ -15022,6 +15022,7 @@ name "tab:A-klasszikus-nyelv"
 \end_inset
 
 A klasszikus nyelv magánhangzó-rendszere.
+ (Az ,,ȧ'' rövid ,,á'' hangot jelöl.)
 \end_layout
 
 \end_inset
@@ -15059,19 +15060,19 @@ a
 \emph default
  lett belőle, ugyanakkor az 
 \emph on
-î 
+ī 
 \emph default
 és
 \emph on
- ê
+ ē
 \emph default
 , valamint az 
 \emph on
-û 
+ū 
 \emph default
 és
 \emph on
- ô 
+ ō 
 \emph default
 egybeolvadtak a modern 
 \emph on
@@ -15087,11 +15088,11 @@ u
 
 a 
 \emph on
-shêr
+shēr
 \emph default
  (oroszlán) és 
 \emph on
-shîr
+shīr
 \emph default
  (tej) szavakból egyaránt 
 \emph on
@@ -15100,6 +15101,658 @@ shir
  lett (a dari és tádzsik jobban megtartotta az eredeti magánhangzó-rendszert).
  Iránban a klasszikus szövegek felolvasásánál a modern kiejtést használják,
  ezért a továbbiakban itt is csak ezzel foglalkozunk.
+\end_layout
+
+\begin_layout Subsection
+Partikulák
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+cho
+\emph default
+ vagy 
+\emph on
+chon
+\emph default
+ partikula sokféleképp értelmezhető, a legfontosabb jelentései: amikor,
+ ha, mint, mert, hogyan.
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+-râ
+\emph default
+ partikula jelölhet részesesetet is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dar khâb bodam ma-râ kheradmand-i goft
+\emph default
+ [Khayyâm] (álmomban mondta nekem egy bölcs; 
+\emph on
+khâb
+\emph default
+: álom, 
+\emph on
+bodam
+\emph default
+: [=
+\emph on
+ budam
+\emph default
+], 
+\emph on
+kheradmand
+\emph default
+: bölcs, 
+\emph on
+goftan
+\emph default
+/
+\emph on
+gu-
+\emph default
+: mond).
+ A létigével együtt ezzel birtoklás is kifejezhető, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+az âmadan-am nabud gardun-râ sud
+\emph default
+ [Khayyâm] (a jöttömmel nem volt az Égnek haszna; 
+\emph on
+âmadan
+\emph default
+/
+\emph on
+â-
+\emph default
+: jön, 
+\emph on
+gardun
+\emph default
+: égbolt, 
+\emph on
+sud
+\emph default
+: haszon).
+ Az utótagos személyes névmások szintén jelölhetnek részesesetet, és – különösen
+ versekben – nem feltétlenül ahhoz a szóhoz kapcsolódnak, amelyikre vonatkoznak,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+mey khor ke hezâr bâr bish-et goftam / bâz âmadan-et nist cho rafti rafti
+ 
+\emph default
+[Khayyâm] (igyál bort, mert több, mint ezerszer mondtam, hogy nem fogsz
+ visszajönni, amikor elmentél, elmentél; 
+\emph on
+mey
+\emph default
+: bor, 
+\emph on
+bâr
+\emph default
+: alkalom, 
+\emph on
+bâz âmadan
+\emph default
+: visszajön, 
+\emph on
+raftan
+\emph default
+/
+\emph on
+rav-
+\emph default
+: megy).
+ Itt az első 
+\emph on
+-et
+\emph default
+ valójában a 
+\emph on
+goftam
+\emph default
+-hoz tartozik.
+\end_layout
+
+\begin_layout Standard
+Időnként a 
+\emph on
+-râ
+\emph default
+ helyett a 
+\emph on
+mar
+\emph default
+ 
+\begin_inset Formula $\dots$
+\end_inset
+
+
+\emph on
+-râ
+\emph default
+ szerkezetet használják, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+ze morqân mar ân-râ ke bod nik-e tâz / cho bâz-o cho shâhin-e gardan-farâz
+\emph default
+ [Ferdowsi] (a madarak közül azt [választotta ki], amelyik jól repül, mint
+ a héja vagy a gőgös sólyom; 
+\emph on
+ze
+\emph default
+: [= 
+\emph on
+az
+\emph default
+], 
+\emph on
+morq
+\emph default
+: madár, 
+\emph on
+bod
+\emph default
+: [= 
+\emph on
+bud
+\emph default
+], 
+\emph on
+nik
+\emph default
+: jó, 
+\emph on
+tâz
+\emph default
+: vágta, 
+\emph on
+bâz
+\emph default
+: héja, 
+\emph on
+shâhin
+\emph default
+: sólyom, 
+\emph on
+gardan
+\emph default
+: nyak, 
+\emph on
+farâz
+\emph default
+: magas 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+gardan-farâz
+\emph default
+: gőgös).
+\end_layout
+
+\begin_layout Standard
+Megszólításkor a név után kerülhet a -[
+\emph on
+y
+\emph default
+]
+\emph on
+â
+\emph default
+ szuffixum, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+Hâfez-â
+\emph default
+ (ó Háfiz).
+ Párbeszédben
+\emph on
+ 
+\emph default
+a 
+\emph on
+goftan
+\emph default
+/
+\emph on
+gu-
+\emph default
+ (beszél) ige is kaphat ilyen toldalékot (
+\emph on
+goftâ
+\emph default
+), ilyenkor úgy fordítható, hogy ,,válaszolta''.
+\end_layout
+
+\begin_layout Subsection
+Elöljárószók
+\end_layout
+
+\begin_layout Standard
+A 
+\emph on
+be
+\emph default
+ elöljárószó névmások előtt 
+\emph on
+bed-
+\emph default
+ lesz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+be in
+\emph default
+ 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+bedin
+\emph default
+ – néhány kifejezésben ez a modern nyelvben is megmaradt, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bedin vasile
+\emph default
+ (ezáltal; 
+\emph on
+vasile
+\emph default
+: eszköz).
+ Néhány elöljárószó a 
+\emph on
+be 
+\emph default
+segítségével körbe is veheti a szót, amire vonatkozik, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+be masjed andar
+\emph default
+ (a mecsetben).
+\end_layout
+
+\begin_layout Subsection
+Igeragozás
+\end_layout
+
+\begin_layout Standard
+A tiltásoknál a tagadó prefixum 
+\emph on
+ma-
+\emph default
+, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+besyâr makhor va-rad makon fâsh masâz
+\emph default
+ [Khayyâm] (ne igyál sokat és ne ellenkezz és ne locsogj; 
+\emph on
+besyâr
+\emph default
+: sok, 
+\emph on
+khordan
+\emph default
+: iszik/eszik, 
+\emph on
+rad kardan
+\emph default
+: ellenkezik, 
+\emph on
+fâsh sâkhtan
+\emph default
+/
+\emph on
+sâz-
+\emph default
+: világossá tesz, titkot elmond).
+\end_layout
+
+\begin_layout Standard
+A klasszikus nyelvben nincsen sem kötőmód, sem befejezett igeidők.
+ A befejezett aspektust a 
+\emph on
+be-
+\emph default
+ prefixummal lehet jelölni, de nem kötelező.
+ Ez erősíti az egyszeri, pillanatnyi, végleges cselekvés érzetét, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+begoft: ânjâ pariruyân-e naqz-and / cho gel besyâr shod pilân belaqzand
+\emph default
+ [Sa'di] (mondta: ott gyönyörű tündérarcúak vannak, és amikor nagy a sár,
+ az elefántok [is] elcsúsznak; 
+\emph on
+pari
+\emph default
+: tündér, 
+\emph on
+ruy
+\emph default
+: arc 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ 
+\emph on
+pariruy
+\emph default
+: tündérarcú, 
+\emph on
+naqz
+\emph default
+: gyönyörű, 
+\emph on
+gel
+\emph default
+: sár, 
+\emph on
+pil
+\emph default
+: elefánt, 
+\emph on
+laqzidan
+\emph default
+: elcsúszik).
+\end_layout
+
+\begin_layout Standard
+A folytonosságot a 
+\emph on
+mi-
+\emph default
+ prefixum helyett a 
+\emph on
+hami 
+\emph default
+szócska jelzi, ami szintén opcionális, és nem feltétlenül kerül az ige elé,
+ pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+didim ke bar kongere-ash fâkhte-i / benshaste hami goft ke ku-ku-ku
+\emph default
+ [Khayyâm] (láttuk, hogy egy gerle a [bástyafal] csipkéjén ülve azt mondogatta,
+ hogy kú-kú-kú; 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: lát, 
+\emph on
+kongere
+\emph default
+: csipkézés, 
+\emph on
+fâkhte
+\emph default
+: gerle/kakukk, 
+\emph on
+neshastan
+\emph default
+/
+\emph on
+neshin-
+\emph default
+: leül).
+\end_layout
+
+\begin_layout Standard
+A múltidejű habituálist és a kontrafaktuálist a múltidőhöz kapcsolt 
+\emph on
+-i
+\emph default
+ szuffixummal fejezhetjük ki, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+gar be jâ-ye nân-esh andar sofre budi âftâb / tâ qiyâmat ruz-e rowshan kas
+ nadidi dar jahân
+\emph default
+ [Sa'di] (ha kenyér helyett a Nap lett volna az abroszán, a feltámadásig
+ nem látott volna senki a világon fényes napot; 
+\emph on
+be jâ-ye 
+\begin_inset Formula $\dots$
+\end_inset
+
+
+\emph default
+: [valami] helyett, 
+\emph on
+nân
+\emph default
+: kenyér, 
+\emph on
+andar
+\emph default
+: -ban/-on, 
+\emph on
+sofre
+\emph default
+: [földre terített] abrosz, 
+\emph on
+âftâb
+\emph default
+: Nap, 
+\emph on
+qiyâmat
+\emph default
+: feltámadás, 
+\emph on
+ruz
+\emph default
+: nap, 
+\emph on
+rowshan
+\emph default
+: fényes, 
+\emph on
+jahân
+\emph default
+: világ).
+\end_layout
+
+\begin_layout Standard
+Az archaikus elbeszélő múltidő képzéséhez a múltidejű tő és a személyrag
+ közé beékelődik a létigéből származó hangsúlyos 
+\emph on
+-ast-
+\emph default
+ infixum, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hamânâ zamân âmadastam farâz / v-az in bâr bordan nayâbam javâz
+\emph default
+ [Ferdowsi] (biztosan elértem már a [szülés] idejét, de nem kapok engedélyt
+ [megszabadulni] e teher hordásától; 
+\emph on
+hamânâ
+\emph default
+: biztosan, 
+\emph on
+zamân
+\emph default
+: idő, 
+\emph on
+farâz âmadan
+\emph default
+/
+\emph on
+â
+\emph default
+-: megközelít, 
+\emph on
+v-az
+\emph default
+: [= 
+\emph on
+va az
+\emph default
+], 
+\emph on
+bâr
+\emph default
+: teher, 
+\emph on
+bordan
+\emph default
+/
+\emph on
+bar-
+\emph default
+: cipel, 
+\emph on
+yâftan
+\emph default
+/
+\emph on
+yâb-
+\emph default
+: megszerez, 
+\emph on
+javâz
+\emph default
+: engedély).
+ Kombinálható a habituális/kontrafaktuális 
+\emph on
+-i
+\emph default
+ szuffixummal is.
+\end_layout
+
+\begin_layout Standard
+A létige régi jelen idejű alakjai szabályosan képződnek a 
+\emph on
+bov-
+\emph default
+ tő alapján (
+\emph on
+bovam
+\emph default
+, 
+\emph on
+bovi, 
+\begin_inset Formula $\dots$
+\end_inset
+
+
+\emph default
+).
+ Tagadásban a tő lehet 
+\emph on
+na-
+\emph default
+ is, de egyesszám harmadik személyben rendhagyóan 
+\emph on
+nist
+\emph default
+ (
+\emph on
+nabovam/nayam
+\emph default
+, 
+\emph on
+nabovi
+\emph default
+/
+\emph on
+nai
+\emph default
+, 
+\emph on
+nabovad
+\emph default
+/
+\emph on
+nist
+\emph default
+, 
+\begin_inset Formula $\dots$
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+Létezik egy óhajtó mód, de csak egyesszám harmadik személyben, amit a jelenidejű
+ tőhöz kapcsolt 
+\emph on
+-âd
+\emph default
+ jelez.
+ A létige rendhagyón 
+\emph on
+bâd
+\emph default
+ alakú lesz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+yâ-rab mabâd kas-râ makhdum-e bi-'enâyat
+\emph default
+ [Hâfez] (ó Istenem, ne legyen az embernek szívtelen ura; 
+\emph on
+yâ-rab
+\emph default
+: ó Istenem [arab], 
+\emph on
+makhdum
+\emph default
+: úr, 
+\emph on
+'enâyat
+\emph default
+: kegy).
 \end_layout
 
 \begin_layout Section

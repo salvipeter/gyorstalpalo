@@ -1,47 +1,5 @@
 			  -*- mode: org -*-
 âÂîûêôȧ
+āēīōū
 
-* Klasszikus nyelv
-** Elöljárószók
-- a "be" névmások előtt "bed", pl. be ín => bedín, be ó => bedó
-- néhány kifejezésben a modern nyelv is tartalmazza, pl. bedín vasíle
-- más elöljárószók régen hátul voltak, elöl pedig "be" volt,
-  pl. be sár-ásh bár (a fején); be zámín ándár (a földben)
-** Óhajtó mód
-- csak harmadik személyben
-- JT + aad (tagadva: má + JT + aad)
-- a búdán óhajtó módja rendhagyóan baad (tagadva: mábaad)
-** Tiltás
-- ná- helyett má-, pl. mákon
-** Megszólítás
-- név után -[y]aa, pl. khodaa-yaa, Haafez-aa
-- "óh"-ként időnként máshova is beékelődik, pl. mábaad-aa (ó ne legyen)
-- a "válaszolta" is gyakran goft-aa
-** A raa partikula
-- eredetileg részesesetet jelölt
-- a birtoklást is ezzel fejezték ki (neki van), pl. váy-raa bánde-é búd "volt egy szolgája"
-- névmásoknál jelenthet tárgyesetet is
-** Utótagos személyes névmások
-- jelenthetnek részesesetet is (nem csak tárgyesetet és birtoklást)
-- nem feltétlenül ahhoz vannak kapcsolva, amire vonatkoznak
-** Igék aspektusai
-- be- + múltidő: befejezettséget jelöl (de ha nincs, attól még lehet befejezett)
-- egyszeriséget, pillanatnyiságot, véglegességet fejez ki (görög aoristos, orosz befejezett igék)
-- mí- helyett hámí: folytonosságot, ismétlést jelöl
-- nem muszáj az ige előtt lennie, utána is kerülhet
-- múltidő + -í: régen ismétlődő cselekvés, pl. aamádándí: szoktak jönni
-- ezzel (ahogy a modern nyelvben) kifejezhető a lehetetlen feltétel is
-- kombinálható a be- és -í, pl. beneshástí: le szokott ülni
-** Elbeszélő múlt
-- a sima múltidőnél a személyragok elé -ást- ékelődik be (-ástám, -ástí, ...)
-- az "ást"-on van a hangsúly
-- ez kombinálható az ismétlődést ill. lehetetlen feltételt kifejező -í raggal (ld. aspektusok)
-** Közmondásos múlt
-- közmondásokban, versek általános érvényű állításaiban a sima múlt helyettesítheti a jelen időt
-** Létige
-- jelen időben bov- tő (bovám, boví, bovád, bovím, bovíd, bovánd)
-- az E/3 jelen- és múltidő írásban ugyanúgy néz ki (bovád / búd)
-- a "níst"-nek ná- volt a töve (náyám, náí, níst, náím, náíd, náyánd)
-- az E/3 rendhagyóan níst
-** Kötőszavak
-- cho / chon: mert, amikor, ha, mint, hogyan?
+
