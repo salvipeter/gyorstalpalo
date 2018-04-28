@@ -104,7 +104,7 @@ felének ez az anyanyelve.
 
 \begin_layout Standard
 A modern vagy újperzsa nyelv az indoeurópai nyelvcsaládba tartozik, közvetlen
- előde a Szászánida/Újperzsa Birodalomban (i.sz.
+ elődje a Szászánida/Újperzsa Birodalomban (i.sz.
 \begin_inset space ~
 \end_inset
 
@@ -1420,7 +1420,11 @@ a
 \emph on
  na-
 \emph default
- prefixumra (ha van)
+/
+\emph on
+ne-
+\emph default
+ tagadó prefixumra (ha van)
 \end_layout
 
 \begin_layout Enumerate
@@ -1444,8 +1448,90 @@ a tő utolsó szótagjára
 \end_layout
 
 \begin_layout Standard
-Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos, és megszólítá
-snál is előre kerül a hangsúly.
+A következő példákban a hangsúlyos szótag félkövérrel van szedve, a szó
+ tövét pedig aláhúzás jelzi: 
+\series bold
+\emph on
+ne
+\series default
+mi
+\bar under
+rav
+\bar default
+am
+\emph default
+ (nem megyek), 
+\emph on
+khâ
+\series bold
+hesh
+\series default
+ mi
+\bar under
+kon
+\bar default
+am
+\emph default
+ (kérem; lit.
+\begin_inset space ~
+\end_inset
+
+kérést [
+\emph on
+khâhesh
+\emph default
+] csinálok), 
+\series bold
+\emph on
+mi
+\series default
+\bar under
+gu
+\bar default
+yand
+\emph default
+ (mondják), 
+\emph on
+\bar under
+ne
+\series bold
+vesht
+\series default
+\bar default
+and
+\emph default
+ (írtak).
+ Ezen kívül néhány kötőszó, kérdőszó és indulatszó elöl hangsúlyos, és megszólít
+ásnál is előre kerül a hangsúly, pl.
+\series bold
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+che
+\series default
+râ
+\emph default
+ (miért?), 
+\series bold
+\emph on
+am
+\series default
+mâ
+\emph default
+ (de), 
+\series bold
+\emph on
+khâ
+\series default
+nom
+\emph default
+ (Hölgyem!; 
+\emph on
+khânom
+\emph default
+: hölgy).
 \end_layout
 
 \begin_layout Standard
@@ -2805,7 +2891,7 @@ kivéve
 \begin_inset Text
 
 \begin_layout Plain Layout
--talan
+nélkül
 \end_layout
 
 \end_inset
@@ -3405,7 +3491,7 @@ ezâfe
 \end_layout
 
 \begin_layout Section
-Mutató, határozatlan és visszaható névmások
+Egyéb névmások
 \end_layout
 
 \begin_layout Standard
@@ -3649,8 +3735,11 @@ khod
 khod-am
 \emph default
  (saját magam).
- Birtokos esetben a visszaható névmást csak a személyes névmás rövid alakja
- válthatja fel, tehát pl.
+ Kötelező a használata 
+\emph on
+ezâfe
+\emph default
+-vel kifejezett birtoklás esetén, így pl.
 \begin_inset space ~
 \end_inset
 
@@ -3659,11 +3748,11 @@ abban a mondatban, hogy ,,Megetettem a nővérem macskáját'', a ,,nővérem''
 \emph on
 khâhar-e khod
 \emph default
- vagy 
+ (vagy hangsúlytalanul 
 \emph on
 khâhar-am
 \emph default
- lehet, *
+) lehet, *
 \emph on
 khâhar-e man
 \emph default
@@ -3689,6 +3778,36 @@ digar
 hamdigar
 \emph default
  szavak használatosak.
+\end_layout
+
+\begin_layout Standard
+A kérdő névmásokról a
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Kérdések"
+
+\end_inset
+
+., a vonatkozó névmásról pedig a
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Alárendelő-mellékmondatok"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+pontban lesz szó.
 \end_layout
 
 \begin_layout Section
@@ -4142,6 +4261,16 @@ Az igét az alannyal egyeztetni kell, de ha az alany nem embert (vagy más
  ,,racionális lényt'') jelöl, akkor egyesszámba kerül.
  Kivételt képeznek a nagyon rövid mondatok, ahol közel van az alany és az
  állítmány, mert ilyenkor többesszámba is kerülhet, de tagadásban ritka.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Apu: ide jó lenne példákat rakni
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -4335,7 +4464,7 @@ gom kardan
 \emph on
 gom shodan
 \emph default
- (elveszít / elveszik; 
+ (elveszít / elvész; 
 \emph on
 gom
 \emph default
@@ -6400,8 +6529,9 @@ mbox{-:}
 \end_layout
 
 \begin_layout Standard
-A folyamatos befejezett igeidőket úgy fejezhetjük ki, hogy a melléknévi
- igenévhez hozzákapcsoljuk a 
+A folyamatos befejezett igeidővel azt fejezhetjük ki, hogy valamilyen múltbeli
+ folyamatos vagy ismétlődő cselekvés most is releváns.
+ Képzéséhez a melléknévi igenévhez hozzákapcsoljuk a 
 \emph on
 mi-
 \emph default
@@ -6487,6 +6617,15 @@ porside nakhâhad shod
 porsidan
 \emph default
 : kérdez).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Apu: lehetne egyszerűbb példát
+\end_layout
+
+\end_inset
+
  Kötőmódnál a 
 \emph on
 be-
@@ -8371,6 +8510,12 @@ mândan
 \end_layout
 
 \begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Kérdések"
+
+\end_inset
+
 Kérdések
 \end_layout
 
@@ -9112,6 +9257,12 @@ shojâ'
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Alárendelő-mellékmondatok"
+
+\end_inset
+
 Alárendelő mellékmondatok
 \end_layout
 
@@ -9418,8 +9569,8 @@ qat' shodan
 \emph on
 ke
 \emph default
- nem állhat a tagmondat elején; ha a tagmondat csak egy igéből áll, akkor
- egy személyes névmást szúrnak be elé, pl.
+ nem állhat mondat elején; ha a mondat csak egy igéből áll, akkor egy személyes
+ névmást szúrnak be elé, pl.
 \begin_inset space ~
 \end_inset
 
@@ -9427,11 +9578,19 @@ ke
 \emph on
 dâneshju ke budi 
 \emph default
-(amikor egyetemista voltál), 
+(amikor egyetemista voltál; 
+\emph on
+dâneshju
+\emph default
+: egyetemista), 
 \emph on
 u ke khâbid
 \emph default
- (amikor elaludt).
+ (amikor elaludt; 
+\emph on
+khâbidan
+\emph default
+: elalszik).
 \end_layout
 
 \begin_layout Standard
@@ -9549,8 +9708,8 @@ Kiemeléses mondatszerkezet
 
 \begin_layout Standard
 Kedvelt szerkesztési mód, hogy a mondat legfontosabb elemét (annak funkciójától
- függetlenül) a mondat elejére rakják alanyként, és utána személyes névmással
- visszahivatkoznak rá.
+ függetlenül) a mondat elejére rakják témajelölőként, és utána személyes
+ névmással visszahivatkoznak rá.
  A kiemelt mondatrész jellemzően elég bonyolult, és a szokásos helyén megzavarná
  a mondat folyását, pl.
 \begin_inset space ~
@@ -12958,6 +13117,37 @@ Szóképzés
 
 \begin_layout Standard
 A perzsa szókincs egy jelentős része más szavakból képzett.
+ Néhány ilyen alakot már láthattunk a
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Egyéb-igenevek"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+és
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Kapcsolat-a-főnevekkel"
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+pontokban.
  A képzés módjának felismerése segíthet a tanulásban, ezért érdemes megismerkedn
 i néhány gyakori szerkezettel:
 \end_layout
@@ -15454,8 +15644,8 @@ sud
 mey khor ke hezâr bâr bish-et goftam / bâz âmadan-et nist cho rafti rafti
  
 \emph default
-[Khayyâm] (igyál bort, mert több, mint ezerszer mondtam, hogy nem fogsz
- visszajönni: amikor elmentél, elmentél; 
+[Khayyâm] (igyál bort, mert több, mint ezerszer mondtam neked, hogy nem
+ fogsz visszajönni: amikor elmentél, elmentél; 
 \emph on
 mey
 \emph default
@@ -16044,7 +16234,7 @@ makhdum
 \end_layout
 
 \begin_layout Section
-Példák
+Szemelvények
 \end_layout
 
 \begin_layout Standard
