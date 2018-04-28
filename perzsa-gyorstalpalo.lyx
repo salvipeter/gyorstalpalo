@@ -11389,7 +11389,541 @@ Sorszámnevek.
 
 \end_inset
 
+Az alapszámok a
+\begin_inset space ~
+\end_inset
 
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Számok."
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázatban találhatók.
+ Húsz felett az egyes tagokat az 
+\emph on
+-o
+\emph default
+ (és) köti össze, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+devist-o nuzdah milyun-o pânsad-o hashtâd-o haft hezâr-o sisad-o shesh
+\emph default
+ (219
+\begin_inset space \thinspace{}
+\end_inset
+
+587
+\begin_inset space \thinspace{}
+\end_inset
+
+306).
+ Amikor valaminek a számosságáról beszélünk, a szám után – különösen közvetleneb
+b stílusban – egy számlálószót is be szokás illeszteni.
+ Ez kis dolgokra a 
+\emph on
+dâne
+\emph default
+ (mag), emberekre pedig a 
+\emph on
+nafar
+\emph default
+ (személy); a 
+\emph on
+tâ
+\emph default
+ számlálószó bármire használható, a kicsit formálisabb 
+\emph on
+'adad
+\emph default
+ csak tárgyakra, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+do nafar
+\emph default
+ (két személy), 
+\emph on
+chahâr tâ divâr
+\emph default
+ (négy fal; 
+\emph on
+divâr
+\emph default
+: fal).
+ Sok más is létezik, de a mindennapi használatban ezek a leggyakoribbak.
+ Személyeknél a 
+\emph on
+tâ
+\emph default
+ a gyakoribb, ha főnévvel együtt szerepel, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+se tâ khâhar
+\emph default
+ (három nővér; 
+\emph on
+khâhar
+\emph default
+: nővér).
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ezt csak Thackston irja
+\end_layout
+
+\end_inset
+
+ A mértékegységek és az időt ill.
+\begin_inset space ~
+\end_inset
+
+alkalmat kifejező szavak elé nem kerülhet számlálószó, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+dah kilu
+\emph default
+ (tíz kiló; 
+\emph on
+kilu
+\emph default
+: kiló), 
+\emph on
+sad daf'e
+\emph default
+ (százszor; 
+\emph on
+daf'e
+\emph default
+: alkalom).
+\end_layout
+
+\begin_layout Standard
+A sorszámnevek az első háromtól eltekintve a hangsúlyos 
+\emph on
+-om
+\emph default
+ szuffixummal szabályosan képződnek, ld.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Sorszámnevek."
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat.
+ A 2-re és 3-ra végződőek ugyanúgy viselkednek, mint a 2-es és 3-as, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bist-o dovvom
+\emph default
+ (22-dik), de 
+\emph on
+si-o yekom
+\emph default
+ (31-dik) és 
+\emph on
+sizdahom
+\emph default
+ (13-dik).
+ A sorszámok melléknevek, tehát a főnévhez 
+\emph on
+ezâfe
+\emph default
+-vel kapcsolódnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+'onsor-e panjom
+\emph default
+ (az ötödik elem; 
+\emph on
+'onsor
+\emph default
+: elem), de mindegyikhez hozzátehető a szintén hangsúlyos 
+\emph on
+-in
+\emph default
+ szuffixum, mellyel már a főnév elé kerülnek.
+ Itt jelentésbeli különbség is lehet: az 
+\emph on
+-in
+\emph default
+ végződés ideiglenes rendezést éreztet, amely nem az illető dolog szerves
+ része, pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+avvalin gushe
+\emph default
+ (az első sarok).
+ Sorszámnevekre a 
+\emph on
+chandom
+\emph default
+[
+\emph on
+in
+\emph default
+] kérdőszóval kérdezhetünk.
+ Határozóként (először/elsőként/elsősorban stb.) az arab számokat használják,
+ a táblázatban az első négy fel van tüntetve.
+\end_layout
+
+\begin_layout Standard
+A tört számokat is sorszámnevek segítségével fejezik ki, pl.
+ 
+\emph on
+do panjom
+\emph default
+ (
+\begin_inset Formula $\frac{2}{5}$
+\end_inset
+
+), de külön szó van a félre (
+\emph on
+nim
+\emph default
+), és néhány arab törtet is használnak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+nesf
+\emph default
+ (fél), 
+\emph on
+sols
+\emph default
+ (harmad) és 
+\emph on
+rob'
+\emph default
+ (negyed).
+ A százalékokat 
+\begin_inset Formula $\dots$
+\end_inset
+
+ 
+\emph on
+dar sad
+\emph default
+ (százban a 
+\begin_inset Formula $\dots$
+\end_inset
+
+) alakban mondják, pl\SpecialChar endofsentence
+
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+shast dar sad
+\emph default
+ (60%).
+ Szorzókhoz a 
+\emph on
+barâbar
+\emph default
+ (azonos, egyenlő) szót alkalmazzák, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+panj barâbar
+\emph default
+ (ötszörös, ötször annyi), 
+\emph on
+do barâbar-e ân qeymat
+\emph default
+ (kétszer akkora ár; 
+\emph on
+qeymat
+\emph default
+: ár).
+\end_layout
+
+\begin_layout Standard
+Határozatlan mennyiségekre alkalmazható a [
+\emph on
+yek
+\emph default
+]
+\emph on
+chand
+\emph default
+ (néhány), ami után egyesszám jön, esetleg határozatlan 
+\emph on
+-i
+\emph default
+ szuffixummal, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+chand sang-i
+\emph default
+ (néhány kő).
+ Kicsit választékosabb stílusban fordított szerkezet is található, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sang-i chand
+\emph default
+.
+ Nem megszámlálható dolgokra a 
+\emph on
+cheqadr
+\emph default
+ (valamennyi) szót használhatjuk, illetve ,,egy kevés'' értelemben a 
+\emph on
+kam-i
+\emph default
+ és 
+\emph on
+qadr-i
+\emph default
+ szavakat.
+ Nagyjábóli mennyiségek megadásánál két egymást követő számot egymás mellé
+ rakunk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+do se ruz
+\emph default
+ (2–3 nap; 
+\emph on
+ruz
+\emph default
+: nap).
+ A több (kevesebb) jelentésű 
+\emph on
+bishtar
+\emph default
+ (
+\emph on
+kamtar
+\emph default
+) a számot tartalmazó kifejezés után kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+hezâr nafar bishtar
+\emph default
+ (több, mint ezer ember / ezer emberrel több).
+\end_layout
+
+\begin_layout Subsection
+Időpontok és időtartamok
+\end_layout
+
+\begin_layout Standard
+Az órákat a 
+\emph on
+sâ'at
+\emph default
+ (óra) szóhoz 
+\emph on
+ezâfe
+\emph default
+-vel kapcsolt számok adják, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sâ'at-e yâzdah
+\emph default
+ (11 óra).
+ A perceket (
+\emph on
+daqiqe
+\emph default
+) az 
+\emph on
+-o
+\emph default
+ (és) kapcsolja hozzá, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+sâ'at-e yek-o dah daqiqe
+\emph default
+ (1:10).
+ Hasonlóan hozzátehető a 
+\emph on
+rob'
+\emph default
+ (negyed[óra]) és a 
+\emph on
+nim
+\emph default
+ (fél[óra]) is.
+ Az órák második felében azt szokás kifejezni, hogy mennyi kell még a következő
+ órához, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+bist daqiqe be chahâr
+\emph default
+ (3:40).
+ A háromnegyed kifejezhető a 
+\emph on
+rob' kam
+\emph default
+ (negyeddel kevesebb) hozzáadásával is, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+yek rob' be noh
+\emph default
+ / 
+\emph on
+sâ'at-e noh-o rob' kam
+\emph default
+ (8:45).
+ Egy alternatíva a 
+\emph on
+gozashtan
+\emph default
+/
+\emph on
+gozar-
+\emph default
+ (múlik) ige használata, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+pânzdah daqiqe az hasht gozashte
+\emph default
+ / 
+\emph on
+rob' sâ'at az hasht gozashte
+\emph default
+ (8:15).
+ Időtartamoknál a szám előre kerül, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+yek daqiqe-o bist-o haft sâniye
+\emph default
+ (1'27"; 
+\emph on
+sâniye
+\emph default
+: másodperc).
+ Gyakoriság kifejezésénél a tartalmazó időtartam határozatlan lesz, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+daqiqe-i se bâr
+\emph default
+ (percenként háromszor; 
+\emph on
+bâr
+\emph default
+: alkalom).
+\end_layout
+
+\begin_layout Standard
+Az egy adott esemény óta eltelt időt a 
+\emph on
+ke
+\emph default
+ (hogy) szócska segítségével fogalmazhatjuk meg, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+do sâ'at-ast ke injâ neshaste-am
+\emph default
+ (két órája itt ülök; 
+\emph on
+neshastan
+\emph default
+/
+\emph on
+neshin-
+\emph default
+: leül), 
+\emph on
+yek sâl-ast ke shomâ-râ nadide-and
+\emph default
+ (egy éve nem látták önt; 
+\emph on
+sâl
+\emph default
+: év, 
+\emph on
+didan
+\emph default
+/
+\emph on
+bin-
+\emph default
+: lát).
+\end_layout
+
+\begin_layout Subsection
+Dátumok
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -11603,7 +12137,88 @@ A hét napjai.
 
 \end_inset
 
+A hét napjait a szombattól kezdve számolják, ld.
+\begin_inset space ~
+\end_inset
 
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:A-hét-napjai."
+
+\end_inset
+
+.
+\begin_inset space ~
+\end_inset
+
+táblázat.
+ Ezek elé kerülhet még 
+\emph on
+ezâfe
+\emph default
+-vel a 
+\emph on
+ruz
+\emph default
+ (nap) szó, pl.
+ 
+\emph on
+ruz-e doshambe
+\emph default
+ (hétfő).
+ Hagyományosan a nap naplementekor kezdődik, ezért a 
+\emph on
+shab-e jom'e
+\emph default
+ a csütörtök estét jelenti (
+\emph on
+shab
+\emph default
+: este), de hátulra helyezve a ,,normális'' értelmet kapjuk, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+jom'e shab
+\emph default
+ (péntek este).
+\end_layout
+
+\begin_layout Standard
+A dátumok képlete a következő:
+\begin_inset Formula 
+\[
+\left[\text{hét napja}\right]+\left\langle \text{nap sorszáma}\right\rangle \text{-e}+\left\langle \text{hónap}\right\rangle +\left[\text{\emph{sâl}}\right]\text{-e}+\left\langle \text{évszám}\right\rangle \left[\text{-e \left\langle \text{naptártípus}\right\rangle }\right],
+\]
+
+\end_inset
+
+ahol a szögletes zárójelben levő kifejezések elhagyhatóak, pl.
+\begin_inset space ~
+\end_inset
+
+
+\emph on
+shambe bist-o hashtom-e novâmbr-e do hezâr-o pânzdah-e milâdi
+\emph default
+ (i.sz.
+\begin_inset space ~
+\end_inset
+
+2015.
+\begin_inset space ~
+\end_inset
+
+november 28-a szombat).
+\end_layout
+
+\begin_layout Subsubsection*
+Naptárak
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -12389,623 +13004,6 @@ A muszlim naptár hónapjai.
 
 \end_inset
 
-Az alapszámok a
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Számok."
-
-\end_inset
-
-.
-\begin_inset space ~
-\end_inset
-
-táblázatban találhatók.
- Húsz felett az egyes tagokat az 
-\emph on
--o
-\emph default
- (és) köti össze, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-devist-o nuzdah milyun-o pânsad-o hashtâd-o haft hezâr-o sisad-o shesh
-\emph default
- (219
-\begin_inset space \thinspace{}
-\end_inset
-
-587
-\begin_inset space \thinspace{}
-\end_inset
-
-306).
- Amikor valaminek a számosságáról beszélünk, a szám után – különösen közvetleneb
-b stílusban – egy számlálószót is be szokás illeszteni.
- Ez kis dolgokra a 
-\emph on
-dâne
-\emph default
- (mag), emberekre pedig a 
-\emph on
-nafar
-\emph default
- (személy); a 
-\emph on
-tâ
-\emph default
- számlálószó bármire használható, a kicsit formálisabb 
-\emph on
-'adad
-\emph default
- csak tárgyakra, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-do nafar
-\emph default
- (két személy), 
-\emph on
-chahâr tâ divâr
-\emph default
- (négy fal; 
-\emph on
-divâr
-\emph default
-: fal).
- Sok más is létezik, de a mindennapi használatban ezek a leggyakoribbak.
- Személyeknél a 
-\emph on
-tâ
-\emph default
- a gyakoribb, ha főnévvel együtt szerepel, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-se tâ khâhar
-\emph default
- (három nővér; 
-\emph on
-khâhar
-\emph default
-: nővér).
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-ezt csak Thackston irja
-\end_layout
-
-\end_inset
-
- A mértékegységek és az időt ill.
-\begin_inset space ~
-\end_inset
-
-alkalmat kifejező szavak elé nem kerülhet számlálószó, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-dah kilu
-\emph default
- (tíz kiló; 
-\emph on
-kilu
-\emph default
-: kiló), 
-\emph on
-sad daf'e
-\emph default
- (százszor; 
-\emph on
-daf'e
-\emph default
-: alkalom).
-\end_layout
-
-\begin_layout Standard
-A sorszámnevek az első háromtól eltekintve a hangsúlyos 
-\emph on
--om
-\emph default
- szuffixummal szabályosan képződnek, ld.
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:Sorszámnevek."
-
-\end_inset
-
-.
-\begin_inset space ~
-\end_inset
-
-táblázat.
- A 2-re és 3-ra végződőek ugyanúgy viselkednek, mint a 2-es és 3-as, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-bist-o dovvom
-\emph default
- (22-dik), de 
-\emph on
-si-o yekom
-\emph default
- (31-dik) és 
-\emph on
-sizdahom
-\emph default
- (13-dik).
- A sorszámok melléknevek, tehát a főnévhez 
-\emph on
-ezâfe
-\emph default
--vel kapcsolódnak, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-'onsor-e panjom
-\emph default
- (az ötödik elem; 
-\emph on
-'onsor
-\emph default
-: elem), de mindegyikhez hozzátehető a szintén hangsúlyos 
-\emph on
--in
-\emph default
- szuffixum, mellyel már a főnév elé kerülnek.
- Itt jelentésbeli különbség is lehet: az 
-\emph on
--in
-\emph default
- végződés ideiglenes rendezést éreztet, amely nem az illető dolog szerves
- része, pl\SpecialChar endofsentence
-
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-avvalin gushe
-\emph default
- (az első sarok).
- Sorszámnevekre a 
-\emph on
-chandom
-\emph default
-[
-\emph on
-in
-\emph default
-] kérdőszóval kérdezhetünk.
- Határozóként (először/elsőként/elsősorban stb.) az arab számokat használják,
- a táblázatban az első négy fel van tüntetve.
-\end_layout
-
-\begin_layout Standard
-A tört számokat is sorszámnevek segítségével fejezik ki, pl.
- 
-\emph on
-do panjom
-\emph default
- (
-\begin_inset Formula $\frac{2}{5}$
-\end_inset
-
-), de külön szó van a félre (
-\emph on
-nim
-\emph default
-), és néhány arab törtet is használnak, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-nesf
-\emph default
- (fél), 
-\emph on
-sols
-\emph default
- (harmad) és 
-\emph on
-rob'
-\emph default
- (negyed).
- A százalékokat 
-\begin_inset Formula $\dots$
-\end_inset
-
- 
-\emph on
-dar sad
-\emph default
- (százban a 
-\begin_inset Formula $\dots$
-\end_inset
-
-) alakban mondják, pl\SpecialChar endofsentence
-
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-shast dar sad
-\emph default
- (60%).
- Szorzókhoz a 
-\emph on
-barâbar
-\emph default
- (azonos, egyenlő) szót alkalmazzák, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-panj barâbar
-\emph default
- (ötszörös, ötször annyi), 
-\emph on
-do barâbar-e ân qeymat
-\emph default
- (kétszer akkora ár; 
-\emph on
-qeymat
-\emph default
-: ár).
-\end_layout
-
-\begin_layout Standard
-Határozatlan mennyiségekre alkalmazható a [
-\emph on
-yek
-\emph default
-]
-\emph on
-chand
-\emph default
- (néhány), ami után egyesszám jön, esetleg határozatlan 
-\emph on
--i
-\emph default
- szuffixummal, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-chand sang-i
-\emph default
- (néhány kő).
- Kicsit választékosabb stílusban fordított szerkezet is található, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-sang-i chand
-\emph default
-.
- Nem megszámlálható dolgokra a 
-\emph on
-cheqadr
-\emph default
- (valamennyi) szót használhatjuk, illetve ,,egy kevés'' értelemben a 
-\emph on
-kam-i
-\emph default
- és 
-\emph on
-qadr-i
-\emph default
- szavakat.
- Nagyjábóli mennyiségek megadásánál két egymást követő számot egymás mellé
- rakunk, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-do se ruz
-\emph default
- (2–3 nap; 
-\emph on
-ruz
-\emph default
-: nap).
- A több (kevesebb) jelentésű 
-\emph on
-bishtar
-\emph default
- (
-\emph on
-kamtar
-\emph default
-) a számot tartalmazó kifejezés után kerül, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-hezâr nafar bishtar
-\emph default
- (több, mint ezer ember / ezer emberrel több).
-\end_layout
-
-\begin_layout Subsection
-Időpontok és időtartamok
-\end_layout
-
-\begin_layout Standard
-Az órákat a 
-\emph on
-sâ'at
-\emph default
- (óra) szóhoz 
-\emph on
-ezâfe
-\emph default
--vel kapcsolt számok adják, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-sâ'at-e yâzdah
-\emph default
- (11 óra).
- A perceket (
-\emph on
-daqiqe
-\emph default
-) az 
-\emph on
--o
-\emph default
- (és) kapcsolja hozzá, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-sâ'at-e yek-o dah daqiqe
-\emph default
- (1:10).
- Hasonlóan hozzátehető a 
-\emph on
-rob'
-\emph default
- (negyed[óra]) és a 
-\emph on
-nim
-\emph default
- (fél[óra]) is.
- Az órák második felében azt szokás kifejezni, hogy mennyi kell még a következő
- órához, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-bist daqiqe be chahâr
-\emph default
- (3:40).
- A háromnegyed kifejezhető a 
-\emph on
-rob' kam
-\emph default
- (negyeddel kevesebb) hozzáadásával is, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-yek rob' be noh
-\emph default
- / 
-\emph on
-sâ'at-e noh-o rob' kam
-\emph default
- (8:45).
- Egy alternatíva a 
-\emph on
-gozashtan
-\emph default
-/
-\emph on
-gozar-
-\emph default
- (múlik) ige használata, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-pânzdah daqiqe az hasht gozashte
-\emph default
- / 
-\emph on
-rob' sâ'at az hasht gozashte
-\emph default
- (8:15).
- Időtartamoknál a szám előre kerül, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-yek daqiqe-o bist-o haft sâniye
-\emph default
- (1'27"; 
-\emph on
-sâniye
-\emph default
-: másodperc).
- Gyakoriság kifejezésénél a tartalmazó időtartam határozatlan lesz, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-daqiqe-i se bâr
-\emph default
- (percenként háromszor; 
-\emph on
-bâr
-\emph default
-: alkalom).
-\end_layout
-
-\begin_layout Standard
-Az egy adott esemény óta eltelt időt a 
-\emph on
-ke
-\emph default
- (hogy) szócska segítségével fogalmazhatjuk meg, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-do sâ'at-ast ke injâ neshaste-am
-\emph default
- (két órája itt ülök; 
-\emph on
-neshastan
-\emph default
-/
-\emph on
-neshin-
-\emph default
-: leül), 
-\emph on
-yek sâl-ast ke shomâ-râ nadide-and
-\emph default
- (egy éve nem látták önt; 
-\emph on
-sâl
-\emph default
-: év, 
-\emph on
-didan
-\emph default
-/
-\emph on
-bin-
-\emph default
-: lát).
-\end_layout
-
-\begin_layout Subsection
-Dátumok
-\end_layout
-
-\begin_layout Standard
-A hét napjait a szombattól kezdve számolják, ld.
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:A-hét-napjai."
-
-\end_inset
-
-.
-\begin_inset space ~
-\end_inset
-
-táblázat.
- Ezek elé kerülhet még 
-\emph on
-ezâfe
-\emph default
--vel a 
-\emph on
-ruz
-\emph default
- (nap) szó, pl.
- 
-\emph on
-ruz-e doshambe
-\emph default
- (hétfő).
- Hagyományosan a nap naplementekor kezdődik, ezért a 
-\emph on
-shab-e jom'e
-\emph default
- a csütörtök estét jelenti (
-\emph on
-shab
-\emph default
-: este), de hátulra helyezve a ,,normális'' értelmet kapjuk, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-jom'e shab
-\emph default
- (péntek este).
-\end_layout
-
-\begin_layout Standard
-A dátumok képlete a következő:
-\begin_inset Formula 
-\[
-\left[\text{hét napja}\right]+\left\langle \text{nap sorszáma}\right\rangle \text{-e}+\left\langle \text{hónap}\right\rangle +\left[\text{\emph{sâl}}\right]\text{-e}+\left\langle \text{évszám}\right\rangle \left[\text{-e \left\langle \text{naptártípus}\right\rangle }\right],
-\]
-
-\end_inset
-
-ahol a szögletes zárójelben levő kifejezések elhagyhatóak, pl.
-\begin_inset space ~
-\end_inset
-
-
-\emph on
-shambe bist-o hashtom-e novâmbr-e do hezâr-o pânzdah-e milâdi
-\emph default
- (i.sz.
-\begin_inset space ~
-\end_inset
-
-2015.
-\begin_inset space ~
-\end_inset
-
-november 28-a szombat).
-\end_layout
-
-\begin_layout Subsubsection*
-Naptárak
-\end_layout
-
-\begin_layout Standard
 A perzsa világban három naptár is használatos: a perzsa, a nemzetközi, és
  a muszlim.
  Ez utóbbi holdnaptár, míg a másik kettő szoláris.
