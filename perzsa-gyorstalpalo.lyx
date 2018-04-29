@@ -18447,8 +18447,9 @@ Az ostoba kádi
 
 
 \begin_inset Tabular
-<lyxtabular version="3" rows="3" columns="8">
+<lyxtabular version="3" rows="3" columns="9">
 <features tabularvalignment="middle">
+<column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -18541,7 +18542,18 @@ har
 \begin_layout Plain Layout
 
 \emph on
-kas
+kas-i
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+ke
 \end_layout
 
 \end_inset
@@ -18595,6 +18607,15 @@ didan
 /
 \emph on
 bin-
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -18695,7 +18716,16 @@ minden
 \begin_inset Text
 
 \begin_layout Plain Layout
-személy
+személy.I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+aki
 \end_layout
 
 \end_inset
