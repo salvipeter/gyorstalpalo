@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -7,7 +7,7 @@
 \textclass article
 \begin_preamble
 \usepackage{footnote}
-\makesavenoteenv{tabular}
+%\makesavenoteenv{tabular}
 \end_preamble
 \options a4paper
 \use_default_options true
@@ -26,6 +26,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -55,6 +57,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -63,7 +66,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language polish
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style polish
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -82,6 +88,11 @@ Perzsa gyorstalpaló
 
 \begin_layout Author
 Salvi Péter
+\end_layout
+
+\begin_layout Date
+2018.
+ április 29.
 \end_layout
 
 \begin_layout Section
@@ -160,6 +171,7 @@ tött információk és egy szótár segítségével
 \begin_inset CommandInset citation
 LatexCommand cite
 key "sutton,mace"
+literal "true"
 
 \end_inset
 
@@ -172,6 +184,7 @@ key "sutton,mace"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "colloquial"
+literal "true"
 
 \end_inset
 
@@ -184,6 +197,7 @@ key "colloquial"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "thackston,lambton"
+literal "true"
 
 \end_inset
 
@@ -195,6 +209,7 @@ key "thackston,lambton"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "mace-grammar"
+literal "true"
 
 \end_inset
 
@@ -207,6 +222,7 @@ key "mace-grammar"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "steingass"
+literal "true"
 
 \end_inset
 
@@ -218,6 +234,7 @@ key "steingass"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "hayyim,aryanpur"
+literal "true"
 
 \end_inset
 
@@ -231,6 +248,7 @@ key "hayyim,aryanpur"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "hillmann-news,hillmann-fiction,newid"
+literal "true"
 
 \end_inset
 
@@ -242,6 +260,7 @@ key "hillmann-news,hillmann-fiction,newid"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "thiesen,thackston-poems,thackston-gulistan,davis,nicholson,sprachman"
+literal "true"
 
 \end_inset
 
@@ -287,6 +306,7 @@ shekaste
 \begin_inset CommandInset citation
 LatexCommand cite
 key "sutton,thackston,mace-grammar"
+literal "true"
 
 \end_inset
 
@@ -1058,6 +1078,7 @@ Ez az összefoglaló Thackston
 \begin_inset CommandInset citation
 LatexCommand cite
 key "thackston"
+literal "true"
 
 \end_inset
 
@@ -1100,7 +1121,7 @@ Rövid [á] és [e] közti hang.
 \end_layout
 
 \begin_layout Enumerate
-Hehezetesek hangok [
+Hehezetes hangok [
 \begin_inset Formula $\mathrm{cs^{h}}$
 \end_inset
 
@@ -1543,6 +1564,7 @@ A mondat intonációjára jellemző, hogy állító mondatokban az ige előtt vi
 \begin_inset CommandInset citation
 LatexCommand cite
 key "sutton"
+literal "true"
 
 \end_inset
 
@@ -1554,6 +1576,7 @@ key "sutton"
 \begin_inset CommandInset citation
 LatexCommand cite
 key "lambton"
+literal "true"
 
 \end_inset
 
@@ -4499,6 +4522,7 @@ yâftan
 \begin_inset CommandInset citation
 LatexCommand cite
 key "frequency"
+literal "true"
 
 \end_inset
 
@@ -18427,6 +18451,7 @@ Az alábbi két mese egy külföldieknek szánt perzsa olvasókönyvből szárma
 \begin_inset CommandInset citation
 LatexCommand cite
 key "newid"
+literal "true"
 
 \end_inset
 
@@ -26644,6 +26669,7 @@ ház
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "sutton"
+literal "true"
 
 \end_inset
 
@@ -26668,6 +26694,7 @@ Elementary Persian Grammar
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "mace"
+literal "true"
 
 \end_inset
 
@@ -26688,6 +26715,7 @@ Teach Yourself Modern Persian
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "colloquial"
+literal "true"
 
 \end_inset
 
@@ -26708,6 +26736,7 @@ Colloquial Persian, 3rd Ed.
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "thackston"
+literal "true"
 
 \end_inset
 
@@ -26732,6 +26761,7 @@ An Introduction to Persian, 4th Ed.
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "lambton"
+literal "true"
 
 \end_inset
 
@@ -26757,6 +26787,7 @@ Persian Grammar
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "mace-grammar"
+literal "true"
 
 \end_inset
 
@@ -26777,6 +26808,7 @@ Persian Grammar
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "steingass"
+literal "true"
 
 \end_inset
 
@@ -26797,6 +26829,7 @@ A Comprehensive Persian–English Dictionary
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "hayyim"
+literal "true"
 
 \end_inset
 
@@ -26817,6 +26850,7 @@ New Persian–English Dictionary
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "aryanpur"
+literal "true"
 
 \end_inset
 
@@ -26837,6 +26871,7 @@ The Combined New Persian–English and English–Persian Dictionary
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "hillmann-news"
+literal "true"
 
 \end_inset
 
@@ -26861,6 +26896,7 @@ Persian Newspaper Reader, 2nd Ed.
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "hillmann-fiction"
+literal "true"
 
 \end_inset
 
@@ -26885,6 +26921,7 @@ Persian Fiction Reader, 2nd Ed.
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "newid"
+literal "true"
 
 \end_inset
 
@@ -26909,6 +26946,7 @@ Persisches Lesebuch
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "thiesen"
+literal "true"
 
 \end_inset
 
@@ -26929,6 +26967,7 @@ A Manual of Classical Persian Prosody
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "thackston-poems"
+literal "true"
 
 \end_inset
 
@@ -26953,6 +26992,7 @@ A Millenium of Classical Persian Poetry
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "thackston-gulistan"
+literal "true"
 
 \end_inset
 
@@ -26977,6 +27017,7 @@ The Gulistan (Rose Garden) of Sa'di
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "davis"
+literal "true"
 
 \end_inset
 
@@ -26997,6 +27038,7 @@ Faces of Love: Hafez and the Poets of Shiraz (with Persian text)
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "nicholson"
+literal "true"
 
 \end_inset
 
@@ -27021,6 +27063,7 @@ Selected Poems from the Divani Shamsi Tabriz
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "sprachman"
+literal "true"
 
 \end_inset
 
@@ -27041,6 +27084,7 @@ Suppressed Persian
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
 key "frequency"
+literal "true"
 
 \end_inset
 
